@@ -1,0 +1,930 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AČR / AZ – události
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-e73324ece970@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;TZID=Europe/Prague:20260829T100000
+DTEND;TZID=Europe/Prague:20260829T170000
+SUMMARY:Den KVV hl. m. Prahy a 111. praporu územní obrany
+DESCRIPTION:Den aktivní zálohy hlavního města: dynamické ukázky vojá
+ ků AZ\, služební psi\, diskuse s vojáky AZ\, nábor.\nPořadatel: KVV 
+ hl. m. Prahy\, 111. prapor územní obrany (AZ)\nZdroj: https://kvv-hlavni
+ mestopraha.mo.gov.cz/aktivni-zaloha/den-krajskeho-vojenskeho-velitelstvi-h
+ lm-praha-111-praporu-uzemni-obrany-2026\nPřehled: https://mapa-acr-az.ver
+ cel.app/#cat-events
+URL:https://kvv-hlavnimestopraha.mo.gov.cz/aktivni-zaloha/den-krajskeho-voj
+ enskeho-velitelstvi-hlm-praha-111-praporu-uzemni-obrany-2026
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 11\, Park u Chodovské tvrze
+X-ACR-ORGANIZER:KVV hl. m. Prahy\, 111. prapor územní obrany (AZ)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-136de9b15443@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cvičení ALPINE STAR (Itálie)
+DESCRIPTION:Výcvik pěších jednotek pro operace v horách. Termín jen n
+ a úrovni měsíců (září–říjen 2026).\nPořadatel: Armáda ČR\nTe
+ rmín je orientační – ověřte ve zdroji.\nZdroj: https://acr.mo.gov.c
+ z/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-sil-cr-na-vojenskych-cv
+ icenich-v-roce-2025-259501/\nPřehled: https://mapa-acr-az.vercel.app/#cat
+ -events
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Itálie
+X-ACR-ORGANIZER:Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4493fe4015d3@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261201
+SUMMARY:Cvičení AMBER DESIRE (Polsko)
+DESCRIPTION:Prověrka schopnosti NATO rychle nasadit síly při aktivaci č
+ lánku 5. Termín jen na úrovni měsíců (září–listopad 2026).\nPo
+ řadatel: Armáda ČR / NATO\nTermín je orientační – ověřte ve zdro
+ ji.\nZdroj: https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozb
+ rojenych-sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/\nPřehled: htt
+ ps://mapa-acr-az.vercel.app/#cat-events
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Polsko
+X-ACR-ORGANIZER:Armáda ČR / NATO
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-d257d1b8d584@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cvičení GALLANT CHEETAH (Polsko)
+DESCRIPTION:Mnohonárodní cvičení tankových jednotek zemí V4. Termín 
+ jen na úrovni měsíců (září–říjen 2026).\nPořadatel: Armáda Č
+ R\nTermín je orientační – ověřte ve zdroji.\nZdroj: https://acr.mo.
+ gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-sil-cr-na-vojensky
+ ch-cvicenich-v-roce-2025-259501/\nPřehled: https://mapa-acr-az.vercel.app
+ /#cat-events
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Polsko
+X-ACR-ORGANIZER:Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-9b1265311724@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260919
+SUMMARY:Mezinárodní cvičení AMPLE STRIKE 2026
+DESCRIPTION:Cvičení předsunutých leteckých návodčích (26 týmů JTA
+ C z 16 zemí)\, rekordní účast aktivní zálohy. Létání v pracovní 
+ dny 9–24 h.\nPořadatel: Armáda ČR\nZdroj: https://www.mo.gov.cz/scrip
+ ts/modules/diary/action.php?id=8353\nPřehled: https://mapa-acr-az.vercel.
+ app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8353
+CATEGORIES:cvičení
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Náměšť nad Oslavou\, České Budějovice\, Boletice\, Bechyně
+X-ACR-ORGANIZER:Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-ea2c0a067891@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20261022
+SUMMARY:Výstava „Historie a modernizace tankového vojska“
+DESCRIPTION:Venkovní výstava o historii a současnosti tankového vojska 
+ včetně nových Leopardů\; pro veřejnost do 21. 10. 2026.\nPořadatel: 
+ Vojenský historický ústav Praha / GŠ AČR\nZdroj: https://www.mo.gov.c
+ z/scripts/modules/diary/action.php?id=8357\nPřehled: https://mapa-acr-az.
+ vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8357
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 6\, Vítězné náměstí (před budovou GŠ AČR)
+X-ACR-ORGANIZER:Vojenský historický ústav Praha / GŠ AČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-5b9f7949c30a@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20261012
+SUMMARY:KZP pro AZ a DVC – 1. blok (Vyškov)
+DESCRIPTION:1. blok kurzu základní přípravy: výcvik 14. 9. – 2. 10. 
+ 2026\, volno 3. – 11. 10. 2026.\nPořadatel: Velitelství výcviku – V
+ ojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastu
+ pni-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-1e49f77a56cf@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20261016
+SUMMARY:KZP specialistů AZ (Vyškov)
+DESCRIPTION:Zkrácený kurz základní přípravy pro specialisty AZ (např
+ . zdravotníky): výcvik 14. 9. – 2. 10. 2026\, volno 3. – 15. 10. 202
+ 6. Jen v celku.\nPořadatel: Velitelství výcviku – Vojenská akademie 
+ Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-d
+ vc\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-c6805218f0ad@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20261124
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 14. 9. – 23. 10. 2026\, slav
+ nostní přísaha 23. 10. 2026\, poté volno do 23. 11. 2026. Kurz lze po 
+ 1. bloku přerušit.\nPořadatel: Velitelství výcviku – Vojenská akad
+ emie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-a
+ z-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4024be9a5ffe@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Dny NATO a Dny Vzdušných sil AČR 2026
+DESCRIPTION:26. ročník Dnů NATO a 17. ročník Dnů Vzdušných sil AČR
+  – letecké i pozemní ukázky\, premiéra C-390\, partnerská země Ně
+ mecko.\nPořadatel: AČR a partneři\nZdroj: https://www.mo.gov.cz/scripts
+ /modules/diary/action.php?id=8364\nPřehled: https://mapa-acr-az.vercel.ap
+ p/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8364
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Ostrava\, Letiště Leoše Janáčka
+X-ACR-ORGANIZER:AČR a partneři
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-43d63685fae4@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;TZID=Europe/Prague:20260925T180000
+DTEND;TZID=Europe/Prague:20260926T000000
+SUMMARY:Noc vědy na Univerzitě obrany
+DESCRIPTION:Univerzita obrany otevře veřejnosti prostory v rámci Noci v
+ ědy (téma Komunikace): testy schopností\, laboratoře\, ruční zbraně
+ \, letecká technika\, aerodynamický tunel.\nPořadatel: Univerzita obran
+ y\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8369\n
+ Přehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8369
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Kasárna Šumavská 4 a Kasárna Černá pole
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-070b282ff9fa@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Nábor: Zlín – Den Zlínského kraje
+DESCRIPTION:Prezentační/náborová akce armády – rekrutéři a technik
+ a.\nPořadatel: Agentura personalistiky AČR (Do armády)\nZdroj: https://
+ doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.ve
+ rcel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Zlín
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-8dfdc6c2e45f@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;TZID=Europe/Prague:20260926T110000
+DTEND;TZID=Europe/Prague:20260926T170000
+SUMMARY:Den hrdinů na Výstavišti (ukázky AČR\, nábor)
+DESCRIPTION:Ukázky vojenské techniky a výstroje (ženisté\, pluk RCHBO\
+ , Posádkové velitelství Praha)\, průlet Mi-17\, laserová střelnice K
+ VV Praha\; zastoupeno i náborem Do armády. Podtitul „Připravenost nen
+ í panika“.\nPořadatel: MO / AČR\, složky IZS\nZdroj: https://www.mo.
+ gov.cz/scripts/modules/diary/action.php?id=8371\nPřehled: https://mapa-ac
+ r-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8371
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 7 – Holešovice\, Výstaviště
+X-ACR-ORGANIZER:MO / AČR\, složky IZS
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-24dd66915e50@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;TZID=Europe/Prague:20260926T200000
+SUMMARY:VUS Ondráš: Ondrášovské putování (Český Krumlov)
+DESCRIPTION:Vystoupení armádního souboru v rámci Svatováclavských sla
+ vností a MFF Český Krumlov. Konec neuveden.\nPořadatel: Vojenský umě
+ lecký soubor Ondráš\nZdroj: https://www.mo.gov.cz/scripts/modules/diary
+ /action.php?id=8370\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8370
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Český Krumlov\, náměstí Svornosti
+X-ACR-ORGANIZER:Vojenský umělecký soubor Ondráš
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-7e39afee7a55@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Nábor: Příbram – Veteráni na metách
+DESCRIPTION:Prezentační/náborová akce armády na akci Veteráni na met
+ ách.\nPořadatel: Agentura personalistiky AČR (Do armády)\nZdroj: https
+ ://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az
+ .vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Příbram
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-a3658109b90f@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Nábor: Brno – Den s Městskou policií
+DESCRIPTION:Prezentační/náborová akce armády na zážitkovém dni s M
+ ěstskou policií Brno.\nPořadatel: Agentura personalistiky AČR (Do arm
+ ády)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: 
+ https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-93aeeb83df66@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Experimentální cvičení Drone Shield 2026 – Media Day
+DESCRIPTION:Den pro média na experimentálním cvičení bezpilotních sys
+ témů a protidronové obrany (dynamické ukázky). Určeno akreditovaným
+  médiím.\nPořadatel: MO (Sekce rozvoje sil\, Sekce KIS) ve spolupráci 
+ s NATO DIANA\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.ph
+ p?id=8372\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8372
+CATEGORIES:cvičení
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vojenský újezd Březina (u Vyškova)
+X-ACR-ORGANIZER:MO (Sekce rozvoje sil\, Sekce KIS) ve spolupráci s NATO DI
+ ANA
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-2134d3d80c24@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Nábor: Český Těšín – Mezinárodní konference městských p
+ olicií
+DESCRIPTION:Prezentace armády na mezinárodní konferenci městských poli
+ cií.\nPořadatel: Agentura personalistiky AČR (Do armády)\nZdroj: https
+ ://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az
+ .vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Český Těšín
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-d76bbf24e0c8@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cvičení CLEAN CARE (Slovensko)
+DESCRIPTION:Cvičení zdravotnických specialistů v prostředí CBRN. Term
+ ín jen na úrovni měsíce (říjen 2026).\nPořadatel: Armáda ČR\nTerm
+ ín je orientační – ověřte ve zdroji.\nZdroj: https://acr.mo.gov.cz/
+ vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-sil-cr-na-vojenskych-cvic
+ enich-v-roce-2025-259501/\nPřehled: https://mapa-acr-az.vercel.app/#cat-e
+ vents
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Slovensko
+X-ACR-ORGANIZER:Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-adba32eeb1f1@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261201
+SUMMARY:Cvičení CLEAN SIGN (Slovensko)
+DESCRIPTION:Průzkum\, drony a elektronický boj. Termín jen na úrovni m
+ ěsíců (říjen–listopad 2026).\nPořadatel: Armáda ČR\nTermín je o
+ rientační – ověřte ve zdroji.\nZdroj: https://acr.mo.gov.cz/vycvik-a
+ -nasazeni/vycvik-vojsk/ucast-ozbrojenych-sil-cr-na-vojenskych-cvicenich-v-
+ roce-2025-259501/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Slovensko
+X-ACR-ORGANIZER:Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-68fd0056a88a@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Nábor: Kroměříž – Veletrh práce a vzdělávání
+DESCRIPTION:Stánek armády na veletrhu práce a vzdělávání.\nPořadate
+ l: Agentura personalistiky AČR (Do armády)\nZdroj: https://doarmady.mo.g
+ ov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app/#cat
+ -events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Kroměříž
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-eb9b0820eda3@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261103
+SUMMARY:KZP pro AZ a DVC – 2. blok (Vyškov)
+DESCRIPTION:2. blok kurzu základní přípravy: výcvik 2. – 23. 10. 202
+ 6\, slavnostní přísaha 23. 10. 2026\, volno 24. 10. – 2. 11. 2026.\nP
+ ořadatel: Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: ht
+ tps://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: http
+ s://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-5bb72595d964@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Nábor: Kroměříž – Den uniformovaných sborů
+DESCRIPTION:Prezentace armády na Dni uniformovaných sborů.\nPořadatel: 
+ Agentura personalistiky AČR (Do armády)\nZdroj: https://doarmady.mo.gov.
+ cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app/#cat-ev
+ ents
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Kroměříž
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-58266a41a418@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Sokolov: Kam po ZŠ + Den otevřených dveří VSŠ a VOŠ MO
+DESCRIPTION:Den otevřených dveří Vojenské střední školy na pobočce
+  v Sokolově spolu s výstavou středních škol Kam po ZŠ. Registrace ne
+ ní nutná.\nPořadatel: VSŠ a VOŠ MO Moravská Třebová / Do armády\n
+ Zdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https:/
+ /mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Sokolov (pobočka VSŠ a VOŠ MO)
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová / Do armády
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-d68e14c6fd51@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261015
+SUMMARY:Cvičení Safeguard HMP 2026 (111. prapor územní obrany)
+DESCRIPTION:Ochrana a obrana vybraných objektů kritické infrastruktury\,
+  součinnost s IZS a přesuny v městské zástavbě. Počítejte se zvý
+ šeným pohybem vojenské techniky.\nPořadatel: KVV hl. m. Prahy\, 111. p
+ rapor územní obrany (AZ)\nZdroj: https://www.praha5.cz/v-rijnu-se-uskute
+ cni-vojenske-cviceni-ve-vodojemu/\nPřehled: https://mapa-acr-az.vercel.ap
+ p/#cat-events
+URL:https://www.praha5.cz/v-rijnu-se-uskutecni-vojenske-cviceni-ve-vodojemu
+ /
+CATEGORIES:cvičení
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 5\, areál Vodojemu Vidoule a okolí
+X-ACR-ORGANIZER:KVV hl. m. Prahy\, 111. prapor územní obrany (AZ)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-10c2e21be63e@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)
+DESCRIPTION:Úvodní prezentace v 8:30\, 9:15 a 10:00\, pak prohlídka ško
+ ly (2–3 h). Registrace vyžadována.\nPořadatel: VSŠ a VOŠ MO Moravsk
+ á Třebová\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPř
+ ehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Moravská Třebová\, sál Na Písku
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-abb041c1d385@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;TZID=Europe/Prague:20261009T083000
+DTEND;TZID=Europe/Prague:20261009T200000
+SUMMARY:Vojákem na zkoušku (25. plrp\, Strakonice)
+DESCRIPTION:Den „na zkoušku“ pro zájemce o službu vojáka z povolán
+ í\, v aktivní záloze nebo o vojenskou VŠ. Registrace již ukončena.\n
+ Pořadatel: 25. protiletadlový raketový pluk\nZdroj: https://25plrb.mo.g
+ ov.cz/nabor-do-armady-cr/vojakem-na-zkousku\nPřehled: https://mapa-acr-az
+ .vercel.app/#cat-events
+URL:https://25plrb.mo.gov.cz/nabor-do-armady-cr/vojakem-na-zkousku
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Strakonice\, vojenský útvar V Lipkách 100
+X-ACR-ORGANIZER:25. protiletadlový raketový pluk
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-af0ce6ab706d@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Nábor: Army den na Floře (Praha)
+DESCRIPTION:Prezentační akce armády v obchodním centru Flora – rekrut
+ éři a technika.\nPořadatel: Agentura personalistiky AČR (Do armády)\n
+ Zdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https:/
+ /mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, OC Flora
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-f7384013d3ee@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+SUMMARY:Nábor: Liberec – EDUCA EXPO
+DESCRIPTION:Stánek armády na veletrhu vzdělávání a pracovních příl
+ ežitostí EDUCA EXPO.\nPořadatel: Agentura personalistiky AČR (Do armá
+ dy)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Liberec
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-2b4f6bf43d7f@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+SUMMARY:Nábor: Brno – Veletrh vzdělávání Gaudeamus
+DESCRIPTION:Stánek armády na veletrhu vysokoškolského vzdělávání Ga
+ udeamus.\nPořadatel: Agentura personalistiky AČR (Do armády)\nZdroj: ht
+ tps://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr
+ -az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, výstaviště
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-480a5bd6e657@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-59180f304b60@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Den bezpečnosti a obrany pro veřejnost (PVA EXPO Letňany)
+DESCRIPTION:Osvětový den navazující na veletrh Future Forces Forum: ven
+ kovní a vnitřní ukázky\, stánky složek (mj. Armáda ČR)\, předná
+ šky od 9:30. Vstup zdarma.\nPořadatel: Future Advanced Technologies\, z.
+ ú.\; za účasti AČR a složek IZS\nZdroj: https://www.future-forces-for
+ um.com/events/193_den-bezpecnosti-a-obrany?lang=cs\nPřehled: https://mapa
+ -acr-az.vercel.app/#cat-events
+URL:https://www.future-forces-forum.com/events/193_den-bezpecnosti-a-obrany
+ ?lang=cs
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha – Letňany\, PVA EXPO PRAHA (hala 8\, vstupní hala 2)
+X-ACR-ORGANIZER:Future Advanced Technologies\, z.ú.\; za účasti AČR a s
+ ložek IZS
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-85505dd7858f@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Nábor: Brno – Aerospace & Defence Career Fest
+DESCRIPTION:Prezentace armády na kariérním veletrhu leteckého a obrann
+ ého průmyslu.\nPořadatel: Agentura personalistiky AČR (Do armády)\nZd
+ roj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://m
+ apa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-c3766926e6cd@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;TZID=Europe/Prague:20261030T081500
+DTEND;TZID=Europe/Prague:20261030T093000
+SUMMARY:Slavnostní přísaha nových studentů Univerzity obrany
+DESCRIPTION:Slavnostní přísaha studentů 1. ročníku (AR 2026/2027): na
+ pochodování jednotek 8:15\, konec 9:30. Veřejnost i rodiny vítány.\nP
+ ořadatel: Univerzita obrany\nZdroj: https://unob.cz/univerzita/co-muzu-st
+ udovat/novinky-k-prijimacimu-rizeni/\nPřehled: https://mapa-acr-az.vercel
+ .app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/novinky-k-prijimacimu-rizen
+ i/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, náměstí Svobody
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-ed08105ef388@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270101
+SUMMARY:Cvičení CQB WARRIOR (Slovensko)
+DESCRIPTION:Výcvik boje v zastavěném prostoru. Termín jen na úrovni m
+ ěsíců (listopad–prosinec 2026).\nPořadatel: Armáda ČR\nTermín je 
+ orientační – ověřte ve zdroji.\nZdroj: https://acr.mo.gov.cz/vycvik-
+ a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-sil-cr-na-vojenskych-cvicenich-v
+ -roce-2025-259501/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Slovensko
+X-ACR-ORGANIZER:Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4529ba577040@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270101
+SUMMARY:Cvičení WINTER SNIPING (Slovensko)
+DESCRIPTION:Mezinárodní odstřelovačské cvičení vojenských policií.
+  Termín jen na úrovni měsíců (listopad–prosinec 2026).\nPořadatel:
+  Vojenská policie / Armáda ČR\nTermín je orientační – ověřte ve 
+ zdroji.\nZdroj: https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast
+ -ozbrojenych-sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/\nPřehled:
+  https://mapa-acr-az.vercel.app/#cat-events
+URL:https://acr.mo.gov.cz/vycvik-a-nasazeni/vycvik-vojsk/ucast-ozbrojenych-
+ sil-cr-na-vojenskych-cvicenich-v-roce-2025-259501/
+CATEGORIES:cvičení
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Slovensko
+X-ACR-ORGANIZER:Vojenská policie / Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-fc691ea51088@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261130
+SUMMARY:KZP pro AZ a DVC – 1. blok (Vyškov)
+DESCRIPTION:1. blok kurzu základní přípravy: výcvik 2. – 20. 11. 202
+ 6\, volno 21. – 29. 11. 2026.\nPořadatel: Velitelství výcviku – Voj
+ enská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastupn
+ i-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-0a04f03b742a@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261204
+SUMMARY:KZP specialistů AZ (Vyškov)
+DESCRIPTION:Zkrácený kurz základní přípravy pro specialisty AZ: výcv
+ ik 2. – 20. 11. 2026\, volno 21. 11. – 3. 12. 2026. Jen v celku.\nPoř
+ adatel: Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https
+ ://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https:/
+ /mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-ecdebafc57d6@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20270113
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 2. 11. – 11. 12. 2026\, slav
+ nostní přísaha 11. 12. 2026\, poté volno do 12. 1. 2027. Kurz lze po 1
+ . bloku přerušit.\nPořadatel: Velitelství výcviku – Vojenská akade
+ mie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az
+ -a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-19f18db03234@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261212
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 11. 2026): KZP 2. 11. – 11. 12. 2026\, přísaha 11. 12. 2026\
+ , nástup k jednotce 4. 1. 2027.\nPořadatel: Velitelství výcviku – Vo
+ jenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastup
+ ni-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-b9a685744c03@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)
+DESCRIPTION:Úvodní prezentace v 8:30\, 9:15 a 10:00\, pak prohlídka ško
+ ly (2–3 h). Registrace vyžadována.\nPořadatel: VSŠ a VOŠ MO Moravsk
+ á Třebová\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPř
+ ehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Moravská Třebová\, sál Na Písku
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-538b15f04b1f@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261112
+SUMMARY:Cvičení Big Foot – pěší přesun vojáků
+DESCRIPTION:Pěší přesun příslušníků AČR přes území vybraných 
+ obcí a krajů v rámci cvičení Big Foot (podle vyrozumění Krajského 
+ úřadu Kraje Vysočina).\nPořadatel: Velitelství výcviku – Vojenská
+  akademie Vyškov\nZdroj: https://www.rovecne.cz/wp-content/uploads/2026/0
+ 2/vyrozumeni_presun-acr_2026.pdf\nPřehled: https://mapa-acr-az.vercel.app
+ /#cat-events
+URL:https://www.rovecne.cz/wp-content/uploads/2026/02/vyrozumeni_presun-acr
+ _2026.pdf
+CATEGORIES:cvičení
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vybrané obce (mj. Kraj Vysočina)
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-b26bebd7a1f5@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261222
+SUMMARY:KZP pro AZ a DVC – 2. blok (Vyškov)
+DESCRIPTION:2. blok kurzu základní přípravy: výcvik 20. 11. – 11. 12
+ . 2026\, slavnostní přísaha 11. 12. 2026\, volno 12. – 21. 12. 2026.\
+ nPořadatel: Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: 
+ https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-cdc5c3886ab3@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)
+DESCRIPTION:Úvodní prezentace v 8:30\, 9:15 a 10:00\, pak prohlídka ško
+ ly (2–3 h). Registrace vyžadována.\nPořadatel: VSŠ a VOŠ MO Moravsk
+ á Třebová\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPř
+ ehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Moravská Třebová\, sál Na Písku
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-e44ef9629c49@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-932729b7054d@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Sokolov: Den otevřených dveří VSŠ a VOŠ MO
+DESCRIPTION:Den otevřených dveří Vojenské střední školy na pobočce
+  v Sokolově. Registrace není nutná.\nPořadatel: VSŠ a VOŠ MO Moravsk
+ á Třebová\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPř
+ ehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Sokolov (pobočka VSŠ a VOŠ MO)
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-623f270e0d89@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)
+DESCRIPTION:Úvodní prezentace v 8:30\, 9:15 a 10:00\, pak prohlídka ško
+ ly (2–3 h). Registrace vyžadována.\nPořadatel: VSŠ a VOŠ MO Moravsk
+ á Třebová\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPř
+ ehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Moravská Třebová\, sál Na Písku
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+END:VCALENDAR

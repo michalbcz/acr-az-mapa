@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-b9a685744c03@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)
+DESCRIPTION:Úvodní prezentace v 8:30\, 9:15 a 10:00\, pak prohlídka ško
+ ly (2–3 h). Registrace vyžadována.\nPořadatel: VSŠ a VOŠ MO Moravsk
+ á Třebová\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPř
+ ehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Moravská Třebová\, sál Na Písku
+X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+END:VCALENDAR
