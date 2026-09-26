@@ -226,6 +226,87 @@ LOCATION:Ostrava\, Letiště Leoše Janáčka
 X-ACR-ORGANIZER:AČR a partneři
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-96700e4d9643@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:Konference Optické a obranné technologie v nové bezpečnostní r
+ ealitě
+DESCRIPTION:Odborná konference o optických a obranných technologiích po
+ řádaná Českým optickým klastrem ve spolupráci s Univerzitou obrany.
+ \nPořadatel: Český optický klastr / Univerzita obrany\nZdroj: https://
+ www.mo.gov.cz/scripts/modules/diary/action.php?id=8367\nPřehled: https://
+ mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8367
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Klub Univerzity obrany
+X-ACR-ORGANIZER:Český optický klastr / Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4e343f19e514@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;TZID=Europe/Prague:20260923T140000
+DTEND;TZID=Europe/Prague:20260923T160000
+SUMMARY:Slavnostní nástup příslušníků AČR po návratu ze zahraničn
+ ích pracovišť NATO a EU
+DESCRIPTION:Slavnostní nástup příslušníků AČR po působení na zahr
+ aničních pracovištích ve strukturách NATO a EU\; předání medailí 
+ ministra obrany.\nPořadatel: Ministerstvo obrany / Armáda ČR\nZdroj: ht
+ tps://www.mo.gov.cz/scripts/modules/diary/action.php?id=8366\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8366
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, Hotel DAP
+X-ACR-ORGANIZER:Ministerstvo obrany / Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-a919fd8f3705@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260926
+SUMMARY:Hackathon Defence Technology pro středoškoláky (Univerzita obran
+ y)
+DESCRIPTION:Středoškolský hackathon zaměřený na moderní obranné a b
+ ezpečnostní technologie (IT\, elektronika)\; pořádá UO se SIT Portem.
+ \nPořadatel: Univerzita obrany / SIT Port\nZdroj: https://www.mo.gov.cz/s
+ cripts/modules/diary/action.php?id=8368\nPřehled: https://mapa-acr-az.ver
+ cel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8368
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Univerzita obrany
+X-ACR-ORGANIZER:Univerzita obrany / SIT Port
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-1265a912cc60@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;TZID=Europe/Prague:20260925T130000
+DTEND;TZID=Europe/Prague:20260925T150000
+SUMMARY:Slavnostní nástup účastníků 1. kontingentu IFOR k 30. výroč
+ í mise
+DESCRIPTION:Slavnostní nástup na Čestném dvoře Národního památníku
+  k 30. výročí mise IFOR\; předpokládaná účast ministra obrany Jaro
+ míra Zůny a NGS genpor. Miroslava Hlaváče. Pro média akreditace.\nPo
+ řadatel: Ministerstvo obrany / Armáda ČR\nZdroj: https://www.mo.gov.cz/
+ scripts/modules/diary/action.php?id=8373\nPřehled: https://mapa-acr-az.ve
+ rcel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8373
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, Národní památník na Vítkově
+X-ACR-ORGANIZER:Ministerstvo obrany / Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-43d63685fae4@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -471,6 +552,29 @@ LOCATION:Kroměříž
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-a6a8fb0aac14@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+SUMMARY:Dronedge 2026
+DESCRIPTION:11. ročník největší české odborné akce o bezpilotním l
+ etectví: přes 50 řečníků\, přes 25 vystavovatelů\; civilní i obra
+ nné využití dronů.\nPořadatel: Dronedge / odborná komunita UAV\nTerm
+ ín je orientační – ověřte ve zdroji.\nZdroj: https://www.czdefence.
+ cz/clanek/dronedge-2026-nejvetsi-ceska-odborna-akce-o-dronech-nabidne-pres
+ -50-recniku-spickove-technologie-i-debatu-o-civilnim-a-obrannem-vyuziti\nP
+ řehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.czdefence.cz/clanek/dronedge-2026-nejvetsi-ceska-odborna-ak
+ ce-o-dronech-nabidne-pres-50-recniku-spickove-technologie-i-debatu-o-civil
+ nim-a-obrannem-vyuziti
+CATEGORIES:veřejná akce
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Praha\, Fantova budova
+X-ACR-ORGANIZER:Dronedge / odborná komunita UAV
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-58266a41a418@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -600,6 +704,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Brno\, výstaviště
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-cb4601ef73d2@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:Future Forces Exhibition & Forum 2026 (FF26)
+DESCRIPTION:16. ročník mezinárodního veletrhu a odborného fóra Future
+  Forces: obranné a bezpečnostní technologie\, operační zkušenosti. N
+ avazuje veřejný Den bezpečnosti a obrany 24. 10. (již v kalendáři).\
+ nPořadatel: Future Forces Forum\nTermín je orientační – ověřte ve 
+ zdroji.\nZdroj: https://www.czdefence.cz/clanek/future-forces-2026-od-zkus
+ enosti-z-bojiste-k-technologiim-nove-generace\nPřehled: https://mapa-acr-
+ az.vercel.app/#cat-events
+URL:https://www.czdefence.cz/clanek/future-forces-2026-od-zkusenosti-z-boji
+ ste-k-technologiim-nove-generace
+CATEGORIES:veřejná akce
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Praha\, PVA EXPO PRAHA
+X-ACR-ORGANIZER:Future Forces Forum
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-480a5bd6e657@mapa-acr-az.vercel.app
