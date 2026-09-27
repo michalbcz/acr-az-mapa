@@ -357,6 +357,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-623556d61bb5",
+  "title": "Komentovaná prohlídka expozice Symboly státnosti (VHÚ Vítkov)",
+  "type": "veřejná akce",
+  "start": "2026-09-29T09:15",
+  "end": "2026-09-29T11:00",
+  "all_day": false,
+  "location": "Praha, Národní památník na Vítkově",
+  "organizer": "Vojenský historický ústav Praha",
+  "description": "Komentovaná prohlídka nové stálé expozice Symboly státnosti před otevřením pro veřejnost. Pro média nutná akreditace (do 27. 9. 2026 13:00).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8374",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-09-27",
+  "updated": "2026-09-27"
+ },
+ {
   "id": "ev-2134d3d80c24",
   "title": "Nábor: Český Těšín – Mezinárodní konference městských policií",
   "type": "výběrové řízení/nábor",
@@ -442,6 +459,40 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-aae1afb546ba",
+  "title": "Výcvik pro krizové situace pro média a humanitární pracovníky",
+  "type": "jiné",
+  "start": "2026-10-02",
+  "end": "2026-10-09",
+  "all_day": true,
+  "location": "Vyškov / Vojenský újezd Březina",
+  "organizer": "Kabinet ministra obrany / VeV-VA Vyškov",
+  "description": "Intenzivní výcvik pro novináře a humanitární pracovníky (vyjednávání, přežití, první pomoc). Media Day 5. 10. 2026; akreditace do 1. 10. 2026 12:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8376",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-09-27",
+  "updated": "2026-09-27"
+ },
+ {
+  "id": "ev-47f06fdf30c4",
+  "title": "Finále soutěže „Bráníme srdcem“",
+  "type": "veřejná akce",
+  "start": "2026-10-02T09:00",
+  "end": "2026-10-02T16:00",
+  "all_day": false,
+  "location": "Tábor, areál Komora",
+  "organizer": "Velitelství teritoriálních sil / KVV",
+  "description": "Finálové kolo branně-vědomostní soutěže družstev ZŠ z krajských kol KVV. Pro média akreditace do 1. 10. 2026 16:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8375",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-09-27",
+  "updated": "2026-09-27"
+ },
+ {
   "id": "ev-5bb72595d964",
   "title": "Nábor: Kroměříž – Den uniformovaných sborů",
   "type": "výběrové řízení/nábor",
@@ -457,6 +508,23 @@
   "date_precision": "day",
   "first_seen": "2026-09-25",
   "updated": "2026-09-25"
+ },
+ {
+  "id": "ev-953e05227ef1",
+  "title": "Vystoupení VUS ONDRÁŠ – Ondrášovské putování (Zlín)",
+  "type": "veřejná akce",
+  "start": "2026-10-03T17:00",
+  "end": "2026-10-03T19:00",
+  "all_day": false,
+  "location": "Zlín, Městské divadlo Zlín – Velký sál",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Folklorní tanečně-hudební pořad velkých forem Ondrášovské putování.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8377",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-09-27",
+  "updated": "2026-09-27"
  },
  {
   "id": "ev-a6a8fb0aac14",

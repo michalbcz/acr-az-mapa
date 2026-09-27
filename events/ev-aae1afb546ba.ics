@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Výcvik pro krizové situace pro média a humanitární pracov
+ níky
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-aae1afb546ba@mapa-acr-az.vercel.app
+DTSTAMP:20260927T000000Z
+LAST-MODIFIED:20260927T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261010
+SUMMARY:Výcvik pro krizové situace pro média a humanitární pracovníky
+DESCRIPTION:Intenzivní výcvik pro novináře a humanitární pracovníky 
+ (vyjednávání\, přežití\, první pomoc). Media Day 5. 10. 2026\; akre
+ ditace do 1. 10. 2026 12:00.\nPořadatel: Kabinet ministra obrany / VeV-VA
+  Vyškov\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id
+ =8376\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8376
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vyškov / Vojenský újezd Březina
+X-ACR-ORGANIZER:Kabinet ministra obrany / VeV-VA Vyškov
+END:VEVENT
+END:VCALENDAR

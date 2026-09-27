@@ -437,6 +437,25 @@ X-ACR-ORGANIZER:MO (Sekce rozvoje sil\, Sekce KIS) ve spolupráci s NATO DI
  ANA
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-623556d61bb5@mapa-acr-az.vercel.app
+DTSTAMP:20260927T000000Z
+LAST-MODIFIED:20260927T000000Z
+DTSTART;TZID=Europe/Prague:20260929T091500
+DTEND;TZID=Europe/Prague:20260929T110000
+SUMMARY:Komentovaná prohlídka expozice Symboly státnosti (VHÚ Vítkov)
+DESCRIPTION:Komentovaná prohlídka nové stálé expozice Symboly státnos
+ ti před otevřením pro veřejnost. Pro média nutná akreditace (do 27. 
+ 9. 2026 13:00).\nPořadatel: Vojenský historický ústav Praha\nZdroj: ht
+ tps://www.mo.gov.cz/scripts/modules/diary/action.php?id=8374\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8374
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, Národní památník na Vítkově
+X-ACR-ORGANIZER:Vojenský historický ústav Praha
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-2134d3d80c24@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -534,6 +553,44 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-aae1afb546ba@mapa-acr-az.vercel.app
+DTSTAMP:20260927T000000Z
+LAST-MODIFIED:20260927T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261010
+SUMMARY:Výcvik pro krizové situace pro média a humanitární pracovníky
+DESCRIPTION:Intenzivní výcvik pro novináře a humanitární pracovníky 
+ (vyjednávání\, přežití\, první pomoc). Media Day 5. 10. 2026\; akre
+ ditace do 1. 10. 2026 12:00.\nPořadatel: Kabinet ministra obrany / VeV-VA
+  Vyškov\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id
+ =8376\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8376
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vyškov / Vojenský újezd Březina
+X-ACR-ORGANIZER:Kabinet ministra obrany / VeV-VA Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-47f06fdf30c4@mapa-acr-az.vercel.app
+DTSTAMP:20260927T000000Z
+LAST-MODIFIED:20260927T000000Z
+DTSTART;TZID=Europe/Prague:20261002T090000
+DTEND;TZID=Europe/Prague:20261002T160000
+SUMMARY:Finále soutěže „Bráníme srdcem“
+DESCRIPTION:Finálové kolo branně-vědomostní soutěže družstev ZŠ z 
+ krajských kol KVV. Pro média akreditace do 1. 10. 2026 16:00.\nPořadate
+ l: Velitelství teritoriálních sil / KVV\nZdroj: https://www.mo.gov.cz/s
+ cripts/modules/diary/action.php?id=8375\nPřehled: https://mapa-acr-az.ver
+ cel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8375
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Tábor\, areál Komora
+X-ACR-ORGANIZER:Velitelství teritoriálních sil / KVV
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-5bb72595d964@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -550,6 +607,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Kroměříž
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-953e05227ef1@mapa-acr-az.vercel.app
+DTSTAMP:20260927T000000Z
+LAST-MODIFIED:20260927T000000Z
+DTSTART;TZID=Europe/Prague:20261003T170000
+DTEND;TZID=Europe/Prague:20261003T190000
+SUMMARY:Vystoupení VUS ONDRÁŠ – Ondrášovské putování (Zlín)
+DESCRIPTION:Folklorní tanečně-hudební pořad velkých forem Ondrášovs
+ ké putování.\nPořadatel: Vojenský umělecký soubor ONDRÁŠ\nZdroj: 
+ https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8377\nPřehled: 
+ https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8377
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Zlín\, Městské divadlo Zlín – Velký sál
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-a6a8fb0aac14@mapa-acr-az.vercel.app
