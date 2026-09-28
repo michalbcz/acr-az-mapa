@@ -998,6 +998,24 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-59d8cc7b48f2@mapa-acr-az.vercel.app
+DTSTAMP:20260928T000000Z
+LAST-MODIFIED:20260928T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+SUMMARY:Vzdělání a řemeslo 2026 (České Budějovice) – prezentace UO
+DESCRIPTION:Prezentace Univerzity obrany na veletrhu Vzdělání a řemeslo
+  2026.\nPořadatel: Univerzita obrany\nZdroj: https://unob.cz/univerzita/m
+ edia-a-verejnost/akce-univerzity-obrany/\nPřehled: https://mapa-acr-az.ve
+ rcel.app/#cat-events
+URL:https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:České Budějovice
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-b9a685744c03@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1072,6 +1090,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Moravská Třebová\, sál Na Písku
 X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4beaf18c9092@mapa-acr-az.vercel.app
+DTSTAMP:20260928T000000Z
+LAST-MODIFIED:20260928T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Den otevřených dveří Univerzity obrany (Brno\, Vyškov\, Hradec
+  Králové)
+DESCRIPTION:Den otevřených dveří na fakultách UO: Brno FVT/FVL\, Vyšk
+ ov (vojenská chemie) a Hradec Králové VLF.\nPořadatel: Univerzita obra
+ ny\nZdroj: https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-ob
+ rany/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno (FVT\, FVL)\, Vyškov (Vojenská chemie)\, Hradec Králové (
+ VLF)
+X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-e44ef9629c49@mapa-acr-az.vercel.app

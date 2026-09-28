@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vzdělání a řemeslo 2026 (České Budějovice) – prezenta
+ ce UO
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-59d8cc7b48f2@mapa-acr-az.vercel.app
+DTSTAMP:20260928T000000Z
+LAST-MODIFIED:20260928T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261108
+SUMMARY:Vzdělání a řemeslo 2026 (České Budějovice) – prezentace UO
+DESCRIPTION:Prezentace Univerzity obrany na veletrhu Vzdělání a řemeslo
+  2026.\nPořadatel: Univerzita obrany\nZdroj: https://unob.cz/univerzita/m
+ edia-a-verejnost/akce-univerzity-obrany/\nPřehled: https://mapa-acr-az.ve
+ rcel.app/#cat-events
+URL:https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:České Budějovice
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+END:VCALENDAR
