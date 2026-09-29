@@ -30,16 +30,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ev-af0ce6ab706d@mapa-acr-az.vercel.app
-DTSTAMP:20260925T000000Z
-LAST-MODIFIED:20260925T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+DTSTAMP:20260929T000000Z
+LAST-MODIFIED:20260929T000000Z
+DTSTART;TZID=Europe/Prague:20261010T100000
+DTEND;TZID=Europe/Prague:20261010T180000
 SUMMARY:Nábor: Army den na Floře (Praha)
-DESCRIPTION:Prezentační akce armády v obchodním centru Flora – rekrut
- éři a technika.\nPořadatel: Agentura personalistiky AČR (Do armády)\n
- Zdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https:/
- /mapa-acr-az.vercel.app/#cat-events
-URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+DESCRIPTION:8. ročník náborové a prezentační akce ARMY DEN (10:00–1
+ 8:00). Technika (přelet Mi-17\, DANA\, Dingo 2\, UGV)\, ukázky\, kariér
+ ní centrum\; důraz na aktivní zálohu.\nPořadatel: Agentura personalis
+ tiky AČR (Do armády)\nZdroj: https://acr.mo.gov.cz/informacni-servis/zpr
+ avodajstvi/prazskou-floru-opet-zaplni-armada--uz-poosme-se-uskutecni-army-
+ den-266127/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/prazskou-floru-op
+ et-zaplni-armada--uz-poosme-se-uskutecni-army-den-266127/
 CATEGORIES:výběrové řízení/nábor
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
