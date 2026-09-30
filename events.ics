@@ -609,6 +609,24 @@ LOCATION:Kroměříž
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-985b40585012@mapa-acr-az.vercel.app
+DTSTAMP:20260930T000000Z
+LAST-MODIFIED:20260930T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Nábor: Prostějov – OCR Lev
+DESCRIPTION:Prezentační / náborová účast AČR na závodě OCR Lev v P
+ rostějově (dle přehledu náborových akcí Do armády).\nPořadatel: Ar
+ máda ČR / Do armády\nZdroj: https://ocrlev.cz/prostejov/\nPřehled: htt
+ ps://mapa-acr-az.vercel.app/#cat-events
+URL:https://ocrlev.cz/prostejov/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Prostějov
+X-ACR-ORGANIZER:Armáda ČR / Do armády
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-953e05227ef1@mapa-acr-az.vercel.app
 DTSTAMP:20260927T000000Z
 LAST-MODIFIED:20260927T000000Z
@@ -746,6 +764,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Praha\, OC Flora
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-08944dd523e9@mapa-acr-az.vercel.app
+DTSTAMP:20260930T000000Z
+LAST-MODIFIED:20260930T000000Z
+DTSTART;TZID=Europe/Prague:20261014T090000
+DTEND;TZID=Europe/Prague:20261014T140000
+SUMMARY:Nábor: Praha – Veletrh kariéra ve zdravotnictví (1. LF UK)
+DESCRIPTION:Kariérní veletrh 1. LF UK\; v seznamu náborových akcí Do a
+ rmády. Vstup zdarma 9:00–14:00. Určeno studentům a absolventům léka
+ řských a nelékařských zdravotnických oborů.\nPořadatel: 1. lékař
+ ská fakulta UK (prezentace AČR dle doarmady.mo.gov.cz)\nZdroj: https://k
+ arierniveletrh.lf1.cuni.cz/\nPřehled: https://mapa-acr-az.vercel.app/#cat
+ -events
+URL:https://karierniveletrh.lf1.cuni.cz/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Purkyňův ústav\, Albertov 4\, Praha 2
+X-ACR-ORGANIZER:1. lékařská fakulta UK (prezentace AČR dle doarmady.mo.
+ gov.cz)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-f7384013d3ee@mapa-acr-az.vercel.app

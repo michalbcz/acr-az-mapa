@@ -510,6 +510,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-985b40585012",
+  "title": "Nábor: Prostějov – OCR Lev",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-10-03",
+  "end": "2026-10-03",
+  "all_day": true,
+  "location": "Prostějov",
+  "organizer": "Armáda ČR / Do armády",
+  "description": "Prezentační / náborová účast AČR na závodě OCR Lev v Prostějově (dle přehledu náborových akcí Do armády).",
+  "source_url": "https://ocrlev.cz/prostejov/",
+  "channel": "https://doarmady.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-09-30",
+  "updated": "2026-09-30"
+ },
+ {
   "id": "ev-953e05227ef1",
   "title": "Vystoupení VUS ONDRÁŠ – Ondrášovské putování (Zlín)",
   "type": "veřejná akce",
@@ -627,6 +644,26 @@
   "date_precision": "day",
   "first_seen": "2026-09-25",
   "updated": "2026-09-29"
+ },
+ {
+  "id": "ev-08944dd523e9",
+  "title": "Nábor: Praha – Veletrh kariéra ve zdravotnictví (1. LF UK)",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-10-14T09:00",
+  "end": "2026-10-14T14:00",
+  "all_day": false,
+  "location": "Purkyňův ústav, Albertov 4, Praha 2",
+  "organizer": "1. lékařská fakulta UK (prezentace AČR dle doarmady.mo.gov.cz)",
+  "description": "Kariérní veletrh 1. LF UK; v seznamu náborových akcí Do armády. Vstup zdarma 9:00–14:00. Určeno studentům a absolventům lékařských a nelékařských zdravotnických oborů.",
+  "source_url": "https://karierniveletrh.lf1.cuni.cz/",
+  "channel": "https://doarmady.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-09-30",
+  "updated": "2026-09-30",
+  "replaced_ids": [
+   "ev-3e458705c3d0"
+  ]
  },
  {
   "id": "ev-f7384013d3ee",
