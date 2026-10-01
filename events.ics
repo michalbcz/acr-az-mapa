@@ -805,6 +805,24 @@ LOCATION:Liberec
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-6c8bbea0570f@mapa-acr-az.vercel.app
+DTSTAMP:20261001T000000Z
+LAST-MODIFIED:20261001T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Nábor: Ostrov – Kam po ZŠ (SPŠ)
+DESCRIPTION:Prezentační výstava středních škol Kam po ZŠ – SPŠ Os
+ trov\; uvedeno v seznamu náborových akcí Do armády.\nPořadatel: Armá
+ da ČR / Do armády\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-ak
+ ce\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Ostrov
+X-ACR-ORGANIZER:Armáda ČR / Do armády
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-2b4f6bf43d7f@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z

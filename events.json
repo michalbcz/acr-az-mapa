@@ -683,6 +683,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-6c8bbea0570f",
+  "title": "Nábor: Ostrov – Kam po ZŠ (SPŠ)",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-10-15",
+  "end": "2026-10-15",
+  "all_day": true,
+  "location": "Ostrov",
+  "organizer": "Armáda ČR / Do armády",
+  "description": "Prezentační výstava středních škol Kam po ZŠ – SPŠ Ostrov; uvedeno v seznamu náborových akcí Do armády.",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/koho-hledame/vojak-v-zaloze/aktivni-zaloha",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-01",
+  "updated": "2026-10-01"
+ },
+ {
   "id": "ev-2b4f6bf43d7f",
   "title": "Nábor: Brno – Veletrh vzdělávání Gaudeamus",
   "type": "výběrové řízení/nábor",
