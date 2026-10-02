@@ -612,21 +612,24 @@
   "updated": "2026-09-25"
  },
  {
-  "id": "ev-abb041c1d385",
+  "id": "ev-8515019ae841",
   "title": "Vojákem na zkoušku (25. plrp, Strakonice)",
   "type": "výběrové řízení/nábor",
-  "start": "2026-10-09T08:30",
-  "end": "2026-10-09T20:00",
-  "all_day": false,
-  "location": "Strakonice, vojenský útvar V Lipkách 100",
+  "start": "2026-10-09",
+  "end": "2026-10-09",
+  "all_day": true,
+  "location": "Strakonice, 25. protiletadlový raketový pluk, V Lipkách 100",
   "organizer": "25. protiletadlový raketový pluk",
-  "description": "Den „na zkoušku“ pro zájemce o službu vojáka z povolání, v aktivní záloze nebo o vojenskou VŠ. Registrace již ukončena.",
-  "source_url": "https://25plrb.mo.gov.cz/nabor-do-armady-cr/vojakem-na-zkousku",
-  "channel": null,
+  "description": "Akce pro zájemce starší 18 let o službu v AČR nebo AZ: výcvikové drily, boj zblízka, první pomoc, zbraňové systémy a jízda ve vojenských vozidlech. Pro média fototermín 9. 10. 2026 od 12.30 u hlavní brány; nutná akreditace do 7. 10. 2026 12:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8378",
+  "channel": "https://mocr.mo.gov.cz/",
   "confidence": "potvrzeno",
   "date_precision": "day",
   "first_seen": "2026-09-25",
-  "updated": "2026-09-25"
+  "updated": "2026-10-02",
+  "replaced_ids": [
+   "ev-abb041c1d385"
+  ]
  },
  {
   "id": "ev-af0ce6ab706d",
@@ -732,6 +735,23 @@
   "date_precision": "day",
   "first_seen": "2026-09-26",
   "updated": "2026-09-26"
+ },
+ {
+  "id": "ev-5ba2e35eec75",
+  "title": "Nábor: Cheb – Kam po ZŠ (ISŠ)",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-10-22",
+  "end": "2026-10-22",
+  "all_day": true,
+  "location": "Cheb, ISŠ",
+  "organizer": "Armáda ČR / Do armády (náborová akce)",
+  "description": "Prezentace na akci Kam po ZŠ na Integrované střední škole v Chebu; uvedeno v seznamu budoucích náborových akcí Do armády.",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/koho-hledame/vojak-v-zaloze/aktivni-zaloha",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-02",
+  "updated": "2026-10-02"
  },
  {
   "id": "ev-480a5bd6e657",

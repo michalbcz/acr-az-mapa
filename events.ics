@@ -726,22 +726,24 @@ LOCATION:Moravská Třebová\, sál Na Písku
 X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
 END:VEVENT
 BEGIN:VEVENT
-UID:ev-abb041c1d385@mapa-acr-az.vercel.app
-DTSTAMP:20260925T000000Z
-LAST-MODIFIED:20260925T000000Z
-DTSTART;TZID=Europe/Prague:20261009T083000
-DTEND;TZID=Europe/Prague:20261009T200000
+UID:ev-8515019ae841@mapa-acr-az.vercel.app
+DTSTAMP:20261002T000000Z
+LAST-MODIFIED:20261002T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
 SUMMARY:Vojákem na zkoušku (25. plrp\, Strakonice)
-DESCRIPTION:Den „na zkoušku“ pro zájemce o službu vojáka z povolán
- í\, v aktivní záloze nebo o vojenskou VŠ. Registrace již ukončena.\n
- Pořadatel: 25. protiletadlový raketový pluk\nZdroj: https://25plrb.mo.g
- ov.cz/nabor-do-armady-cr/vojakem-na-zkousku\nPřehled: https://mapa-acr-az
- .vercel.app/#cat-events
-URL:https://25plrb.mo.gov.cz/nabor-do-armady-cr/vojakem-na-zkousku
+DESCRIPTION:Akce pro zájemce starší 18 let o službu v AČR nebo AZ: vý
+ cvikové drily\, boj zblízka\, první pomoc\, zbraňové systémy a jízd
+ a ve vojenských vozidlech. Pro média fototermín 9. 10. 2026 od 12.30 u 
+ hlavní brány\; nutná akreditace do 7. 10. 2026 12:00.\nPořadatel: 25. 
+ protiletadlový raketový pluk\nZdroj: https://www.mo.gov.cz/scripts/modul
+ es/diary/action.php?id=8378\nPřehled: https://mapa-acr-az.vercel.app/#cat
+ -events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8378
 CATEGORIES:výběrové řízení/nábor
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-LOCATION:Strakonice\, vojenský útvar V Lipkách 100
+LOCATION:Strakonice\, 25. protiletadlový raketový pluk\, V Lipkách 100
 X-ACR-ORGANIZER:25. protiletadlový raketový pluk
 END:VEVENT
 BEGIN:VEVENT
@@ -861,6 +863,25 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 LOCATION:Praha\, PVA EXPO PRAHA
 X-ACR-ORGANIZER:Future Forces Forum
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-5ba2e35eec75@mapa-acr-az.vercel.app
+DTSTAMP:20261002T000000Z
+LAST-MODIFIED:20261002T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Nábor: Cheb – Kam po ZŠ (ISŠ)
+DESCRIPTION:Prezentace na akci Kam po ZŠ na Integrované střední škole 
+ v Chebu\; uvedeno v seznamu budoucích náborových akcí Do armády.\nPo
+ řadatel: Armáda ČR / Do armády (náborová akce)\nZdroj: https://doarm
+ ady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.
+ app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Cheb\, ISŠ
+X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-480a5bd6e657@mapa-acr-az.vercel.app
