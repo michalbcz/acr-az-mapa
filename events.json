@@ -544,6 +544,40 @@
   "updated": "2026-09-27"
  },
  {
+  "id": "ev-8209878ee02b",
+  "title": "Cvičení MORAVIAN LANCE 2026 (Libavá)",
+  "type": "cvičení",
+  "start": "2026-10-05",
+  "end": "2026-10-16",
+  "all_day": true,
+  "location": "Vojenský újezd Libavá",
+  "organizer": "71. mechanizovaný prapor / 7. mechanizovaná brigáda AČR",
+  "description": "Hlavní výcviková aktivita 71. mpr s podporou 7. mb, dalších součástí AČR a jednotky Národní gardy z Nebrasky (USA). Více než 1000 vojáků a ~100 kusů techniky; ověřování nových technologií a taktických postupů. Media Day 7. 10. 2026 9:00–12:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8380",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-04",
+  "updated": "2026-10-04"
+ },
+ {
+  "id": "ev-6332cfb20b92",
+  "title": "Vystoupení VUS ONDRÁŠ – Karpatami (České Budějovice)",
+  "type": "veřejná akce",
+  "start": "2026-10-05T19:00",
+  "end": "2026-10-05T19:00",
+  "all_day": false,
+  "location": "České Budějovice, Jihočeské divadlo (historická budova)",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Folklorní tanečně-hudební pořad malých forem Karpatami; 5. 10. 2026 v 19:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8379",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-04",
+  "updated": "2026-10-04"
+ },
+ {
   "id": "ev-a6a8fb0aac14",
   "title": "Dronedge 2026",
   "type": "veřejná akce",
@@ -559,6 +593,23 @@
   "date_precision": "day",
   "first_seen": "2026-09-26",
   "updated": "2026-09-26"
+ },
+ {
+  "id": "ev-e6a0cbefbeb5",
+  "title": "Konference DEFENCEO 2026 (Brno, MSV)",
+  "type": "veřejná akce",
+  "start": "2026-10-07",
+  "end": "2026-10-07",
+  "all_day": true,
+  "location": "Brno, výstaviště, pavilon A – sál Rotunda",
+  "organizer": "Defence Consulting / CZ DEFENCE (záštita MO, NGŠ AČR aj.)",
+  "description": "Manažerský summit DEFENCEO v rámci Mezinárodního strojírenského veletrhu: vstup civilních firem do obranného průmyslu, dotační příležitosti, rizika. Vystoupí mj. NGŠ genpor. Hlaváč.",
+  "source_url": "https://www.czdefence.cz/clanek/konference-defenceo-ukaze-civilnim-vyrobcum-cestu-do-obranneho-prumyslu",
+  "channel": "https://www.czdefence.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-04",
+  "updated": "2026-10-04"
  },
  {
   "id": "ev-58266a41a418",
@@ -632,6 +683,23 @@
   ]
  },
  {
+  "id": "ev-5a5e1b7bdb04",
+  "title": "Vystoupení VUS ONDRÁŠ – Karpatami (Jablonec nad Nisou)",
+  "type": "veřejná akce",
+  "start": "2026-10-09T19:00",
+  "end": "2026-10-09T19:00",
+  "all_day": false,
+  "location": "Jablonec nad Nisou, Městské divadlo",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Pořad Karpatami v rámci festivalu Lípa Musica; 9. 10. 2026 v 19:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8381",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-04",
+  "updated": "2026-10-04"
+ },
+ {
   "id": "ev-af0ce6ab706d",
   "title": "Nábor: Army den na Floře (Praha)",
   "type": "výběrové řízení/nábor",
@@ -647,6 +715,23 @@
   "date_precision": "day",
   "first_seen": "2026-09-25",
   "updated": "2026-09-29"
+ },
+ {
+  "id": "ev-14d2c43f76ab",
+  "title": "Vystoupení VUS ONDRÁŠ – Hraje cimbálová muzika (Praha, OC Flora)",
+  "type": "veřejná akce",
+  "start": "2026-10-10T11:15",
+  "end": "2026-10-10T11:15",
+  "all_day": false,
+  "location": "Praha, OC Flora",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Pořad k poslechu a tanci Hraje cimbálová muzika v několika blocích od 11:15 v rámci Army dne na Floře.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8382",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-04",
+  "updated": "2026-10-04"
  },
  {
   "id": "ev-08944dd523e9",

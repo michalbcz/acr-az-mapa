@@ -645,6 +645,45 @@ LOCATION:Zlín\, Městské divadlo Zlín – Velký sál
 X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-8209878ee02b@mapa-acr-az.vercel.app
+DTSTAMP:20261004T000000Z
+LAST-MODIFIED:20261004T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261017
+SUMMARY:Cvičení MORAVIAN LANCE 2026 (Libavá)
+DESCRIPTION:Hlavní výcviková aktivita 71. mpr s podporou 7. mb\, další
+ ch součástí AČR a jednotky Národní gardy z Nebrasky (USA). Více ne
+ ž 1000 vojáků a ~100 kusů techniky\; ověřování nových technologi
+ í a taktických postupů. Media Day 7. 10. 2026 9:00–12:00.\nPořadatel
+ : 71. mechanizovaný prapor / 7. mechanizovaná brigáda AČR\nZdroj: http
+ s://www.mo.gov.cz/scripts/modules/diary/action.php?id=8380\nPřehled: http
+ s://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8380
+CATEGORIES:cvičení
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vojenský újezd Libavá
+X-ACR-ORGANIZER:71. mechanizovaný prapor / 7. mechanizovaná brigáda AČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-6332cfb20b92@mapa-acr-az.vercel.app
+DTSTAMP:20261004T000000Z
+LAST-MODIFIED:20261004T000000Z
+DTSTART;TZID=Europe/Prague:20261005T190000
+DTEND;TZID=Europe/Prague:20261005T190000
+SUMMARY:Vystoupení VUS ONDRÁŠ – Karpatami (České Budějovice)
+DESCRIPTION:Folklorní tanečně-hudební pořad malých forem Karpatami\; 
+ 5. 10. 2026 v 19:00.\nPořadatel: Vojenský umělecký soubor ONDRÁŠ\nZd
+ roj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8379\nPřeh
+ led: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8379
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:České Budějovice\, Jihočeské divadlo (historická budova)
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-a6a8fb0aac14@mapa-acr-az.vercel.app
 DTSTAMP:20260926T000000Z
 LAST-MODIFIED:20260926T000000Z
@@ -666,6 +705,29 @@ STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 LOCATION:Praha\, Fantova budova
 X-ACR-ORGANIZER:Dronedge / odborná komunita UAV
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-e6a0cbefbeb5@mapa-acr-az.vercel.app
+DTSTAMP:20261004T000000Z
+LAST-MODIFIED:20261004T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Konference DEFENCEO 2026 (Brno\, MSV)
+DESCRIPTION:Manažerský summit DEFENCEO v rámci Mezinárodního strojíre
+ nského veletrhu: vstup civilních firem do obranného průmyslu\, dotačn
+ í příležitosti\, rizika. Vystoupí mj. NGŠ genpor. Hlaváč.\nPořada
+ tel: Defence Consulting / CZ DEFENCE (záštita MO\, NGŠ AČR aj.)\nZdroj
+ : https://www.czdefence.cz/clanek/konference-defenceo-ukaze-civilnim-vyrob
+ cum-cestu-do-obranneho-prumyslu\nPřehled: https://mapa-acr-az.vercel.app/
+ #cat-events
+URL:https://www.czdefence.cz/clanek/konference-defenceo-ukaze-civilnim-vyro
+ bcum-cestu-do-obranneho-prumyslu
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, výstaviště\, pavilon A – sál Rotunda
+X-ACR-ORGANIZER:Defence Consulting / CZ DEFENCE (záštita MO\, NGŠ AČR a
+ j.)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-58266a41a418@mapa-acr-az.vercel.app
@@ -747,6 +809,24 @@ LOCATION:Strakonice\, 25. protiletadlový raketový pluk\, V Lipkách 100
 X-ACR-ORGANIZER:25. protiletadlový raketový pluk
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-5a5e1b7bdb04@mapa-acr-az.vercel.app
+DTSTAMP:20261004T000000Z
+LAST-MODIFIED:20261004T000000Z
+DTSTART;TZID=Europe/Prague:20261009T190000
+DTEND;TZID=Europe/Prague:20261009T190000
+SUMMARY:Vystoupení VUS ONDRÁŠ – Karpatami (Jablonec nad Nisou)
+DESCRIPTION:Pořad Karpatami v rámci festivalu Lípa Musica\; 9. 10. 2026 
+ v 19:00.\nPořadatel: Vojenský umělecký soubor ONDRÁŠ\nZdroj: https:/
+ /www.mo.gov.cz/scripts/modules/diary/action.php?id=8381\nPřehled: https:/
+ /mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8381
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Jablonec nad Nisou\, Městské divadlo
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-af0ce6ab706d@mapa-acr-az.vercel.app
 DTSTAMP:20260929T000000Z
 LAST-MODIFIED:20260929T000000Z
@@ -766,6 +846,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Praha\, OC Flora
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-14d2c43f76ab@mapa-acr-az.vercel.app
+DTSTAMP:20261004T000000Z
+LAST-MODIFIED:20261004T000000Z
+DTSTART;TZID=Europe/Prague:20261010T111500
+DTEND;TZID=Europe/Prague:20261010T111500
+SUMMARY:Vystoupení VUS ONDRÁŠ – Hraje cimbálová muzika (Praha\, OC F
+ lora)
+DESCRIPTION:Pořad k poslechu a tanci Hraje cimbálová muzika v několika 
+ blocích od 11:15 v rámci Army dne na Floře.\nPořadatel: Vojenský umě
+ lecký soubor ONDRÁŠ\nZdroj: https://www.mo.gov.cz/scripts/modules/diary
+ /action.php?id=8382\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8382
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, OC Flora
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-08944dd523e9@mapa-acr-az.vercel.app
