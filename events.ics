@@ -1311,6 +1311,45 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-512090ff03b6@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270312
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 4. 1. 2027 – 12. 2. 2027\, s
+ lavnostní přísaha 12. 2. 2027\, poté volno 13. 2. 2027 – 11. 3. 2027
+ . Kurz lze po 1. bloku přerušit.\nPořadatel: Velitelství výcviku – 
+ Vojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nast
+ upni-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-event
+ s
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-e040aaad84b6@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270213
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 1. 2027): KZP 4. 1. 2027 – 12. 2. 2027\, přísaha 12. 2. 2027
+ \, nástup k jednotce 1. 3. 2027.\nPořadatel: Velitelství výcviku – V
+ ojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastu
+ pni-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-932729b7054d@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1345,5 +1384,334 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Moravská Třebová\, sál Na Písku
 X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-e3d5e0afafeb@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4334520e4684@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270507
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 1. 3. 2027 – 9. 4. 2027\, sl
+ avnostní přísaha 9. 4. 2027\, poté volno 10. 4. 2027 – 6. 5. 2027. K
+ urz lze po 1. bloku přerušit.\nPořadatel: Velitelství výcviku – Voj
+ enská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastupn
+ i-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4a8b9e259c0e@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270410
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 3. 2027): KZP 1. 3. 2027 – 9. 4. 2027\, přísaha 9. 4. 2027\,
+  nástup k jednotce 1. 5. 2027.\nPořadatel: Velitelství výcviku – Voj
+ enská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastupn
+ i-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-97fc04852038@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4bd96c20afa8@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270711
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 3. 5. 2027 – 11. 6. 2027\, s
+ lavnostní přísaha 11. 6. 2027\, poté volno 13. 6. 2027 – 10. 7. 2027
+ . Kurz lze po 1. bloku přerušit.\nPořadatel: Velitelství výcviku – 
+ Vojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nast
+ upni-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-event
+ s
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-f005d71730a2@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270612
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 5. 2027): KZP 3. 5. 2027 – 11. 6. 2027\, přísaha 11. 6. 2027
+ \, nástup k jednotce 1. 7. 2027.\nPořadatel: Velitelství výcviku – V
+ ojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastu
+ pni-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-4a1cb5e1224d@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-1058fe8da579@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270911
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 1. 7. 2027 – 13. 8. 2027\, s
+ lavnostní přísaha 13. 8. 2027\, poté volno 14. 8. 2027 – 10. 9. 2027
+ . Termín pro studenty VŠ (DVC) a učitele (AZ)\; jen v celku.\nPořadate
+ l: Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://do
+ armady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa
+ -acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-3a337340a247@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270814
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 7. 2027): KZP 1. 7. 2027 – 13. 8. 2027\, přísaha 13. 8. 2027
+ \, nástup k jednotce 1. 9. 2027.\nPořadatel: Velitelství výcviku – V
+ ojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/nastu
+ pni-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-a138caaefc0b@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270825
+SUMMARY:Kurz základní přípravy pro studenty UO a vojenského oboru FTVS
+  UK (Vyškov)
+DESCRIPTION:Nástupní termín jen pro studenty Univerzity obrany a Vojensk
+ ého oboru při FTVS UK: KZP 2. – 24. 8. 2027\, volno 25. 8. – 7. 9. 2
+ 027\; datum přísahy a nástupu k jednotce „bude upřesněno“.\nPořa
+ datel: Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https:
+ //doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp\nPřehled: https://mapa-
+ acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-dfcebd122ee7@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-55c22e43bcf2@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271119
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 1. 9. 2027 – 15. 10. 2027\, 
+ slavnostní přísaha 15. 10. 2027\, poté volno 16. 10. 2027 – 18. 11. 
+ 2027. Kurz lze po 1. bloku přerušit.\nPořadatel: Velitelství výcviku 
+ – Vojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/
+ nastupni-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-e
+ vents
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-450910f7274c@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271016
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 9. 2027): KZP 1. 9. 2027 – 15. 10. 2027\, přísaha 15. 10. 20
+ 27\, nástup k jednotce 1. 11. 2027.\nPořadatel: Velitelství výcviku 
+ – Vojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/
+ nastupni-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-90424f1ad0e2@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-551abe7aeec9@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20280113
+SUMMARY:Kurz základní přípravy pro AZ a DVC (celý kurz\, Vyškov)
+DESCRIPTION:Nepřetržitý vojenský výcvik 1. 11. 2027 – 10. 12. 2027\,
+  slavnostní přísaha 10. 12. 2027\, poté volno 11. 12. 2027 – 12. 1. 
+ 2028. Kurz lze po 1. bloku přerušit.\nPořadatel: Velitelství výcviku 
+ – Vojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/
+ nastupni-terminy-az-a-dvc\nPřehled: https://mapa-acr-az.vercel.app/#cat-e
+ vents
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-0f41be89044c@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271211
+SUMMARY:Kurz základní přípravy pro vojáky z povolání (Vyškov)
+DESCRIPTION:Nástupní termín pro nováčky – vojáky z povolání (smlo
+ uva od 1. 11. 2027): KZP 1. 11. 2027 – 10. 12. 2027\, přísaha 10. 12. 
+ 2027\, nástup k jednotce 1. 1. 2028.\nPořadatel: Velitelství výcviku 
+ – Vojenská akademie Vyškov\nZdroj: https://doarmady.mo.gov.cz/deje-se/
+ nastupni-terminy-vzp\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-vzp
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-c6f2519cb71f@mapa-acr-az.vercel.app
+DTSTAMP:20261006T000000Z
+LAST-MODIFIED:20261006T000000Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:Slavnostní vojenská přísaha absolventů KZP (Vyškov)
+DESCRIPTION:Slavnostní vojenská přísaha na konci kurzu základní pří
+ pravy (AZ\, DVC i vojáci z povolání)\, poté odjezd domů.\nPořadatel:
+  Velitelství výcviku – Vojenská akademie Vyškov\nZdroj: https://doar
+ mady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc
+CATEGORIES:přijímač/základní příprava
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VeV-VA Vyškov
+X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 END:VCALENDAR
