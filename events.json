@@ -1009,6 +1009,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-d7879c72af09",
+  "title": "Nábor: Zlín – Veletrh vzdělávání",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-04",
+  "end": "2026-11-04",
+  "all_day": true,
+  "location": "Zlín",
+  "organizer": "Agentura personalistiky AČR (Do armády)",
+  "description": "Prezentace armády na Veletrhu vzdělávání ve Zlíně (seznam náborových akcí Do armády, odkaz na stránku veletrhu KHK ZK).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-07",
+  "updated": "2026-10-07"
+ },
+ {
   "id": "ev-59d8cc7b48f2",
   "title": "Vzdělání a řemeslo 2026 (České Budějovice) – prezentace UO",
   "type": "výběrové řízení/nábor",

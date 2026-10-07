@@ -1178,6 +1178,25 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-d7879c72af09@mapa-acr-az.vercel.app
+DTSTAMP:20261007T000000Z
+LAST-MODIFIED:20261007T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Nábor: Zlín – Veletrh vzdělávání
+DESCRIPTION:Prezentace armády na Veletrhu vzdělávání ve Zlíně (sezna
+ m náborových akcí Do armády\, odkaz na stránku veletrhu KHK ZK).\nPo
+ řadatel: Agentura personalistiky AČR (Do armády)\nZdroj: https://doarma
+ dy.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.a
+ pp/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Zlín
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-59d8cc7b48f2@mapa-acr-az.vercel.app
 DTSTAMP:20260928T000000Z
 LAST-MODIFIED:20260928T000000Z

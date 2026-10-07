@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nábor: Zlín – Veletrh vzdělávání
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-d7879c72af09@mapa-acr-az.vercel.app
+DTSTAMP:20261007T000000Z
+LAST-MODIFIED:20261007T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Nábor: Zlín – Veletrh vzdělávání
+DESCRIPTION:Prezentace armády na Veletrhu vzdělávání ve Zlíně (sezna
+ m náborových akcí Do armády\, odkaz na stránku veletrhu KHK ZK).\nPo
+ řadatel: Agentura personalistiky AČR (Do armády)\nZdroj: https://doarma
+ dy.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.a
+ pp/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Zlín
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+END:VCALENDAR
