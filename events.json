@@ -734,6 +734,23 @@
   "updated": "2026-10-04"
  },
  {
+  "id": "ev-5022cc0d8cd3",
+  "title": "Nábor: Přerov – Burza práce a vzdělávání",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-10-13",
+  "end": "2026-10-13",
+  "all_day": true,
+  "location": "Přerov",
+  "organizer": "Agentura personalistiky AČR (Do armády)",
+  "description": "Náborová účast AČR na Burze práce a vzdělávání v Přerově (dle přehledu náborových akcí Do armády; čas neuveden).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-10",
+  "updated": "2026-10-10"
+ },
+ {
   "id": "ev-08944dd523e9",
   "title": "Nábor: Praha – Veletrh kariéra ve zdravotnictví (1. LF UK)",
   "type": "výběrové řízení/nábor",

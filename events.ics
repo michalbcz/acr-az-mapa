@@ -867,6 +867,25 @@ LOCATION:Praha\, OC Flora
 X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-5022cc0d8cd3@mapa-acr-az.vercel.app
+DTSTAMP:20261010T000000Z
+LAST-MODIFIED:20261010T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Nábor: Přerov – Burza práce a vzdělávání
+DESCRIPTION:Náborová účast AČR na Burze práce a vzdělávání v Pře
+ rově (dle přehledu náborových akcí Do armády\; čas neuveden).\nPoř
+ adatel: Agentura personalistiky AČR (Do armády)\nZdroj: https://doarmady
+ .mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app
+ /#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Přerov
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-08944dd523e9@mapa-acr-az.vercel.app
 DTSTAMP:20260930T000000Z
 LAST-MODIFIED:20260930T000000Z
