@@ -867,6 +867,25 @@ LOCATION:Praha\, OC Flora
 X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-2933d1273c07@mapa-acr-az.vercel.app
+DTSTAMP:20261011T000000Z
+LAST-MODIFIED:20261011T000000Z
+DTSTART;TZID=Europe/Prague:20261011T180000
+SUMMARY:Zápas cti – AC Sparta Praha vs FK Pardubice (spolupráce s AČR)
+DESCRIPTION:Čtvrtý Zápas cti: Chance Liga\, 10. kolo. Doprovodný progra
+ m s AČR od 16:00 (armádní guláš\, vojenská hudba\, vyznamenání\, p
+ řelet L-410). Otevření stadionu 16:30\, výkop 18:00.\nPořadatel: AC S
+ parta Praha / Armáda ČR\nZdroj: https://sparta.cz/cs/novinky/45245-organ
+ izacni-info-zapas-cti\nPřehled: https://mapa-acr-az.vercel.app/#cat-event
+ s
+URL:https://sparta.cz/cs/novinky/45245-organizacni-info-zapas-cti
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:epet ARENA\, Praha (Letná)
+X-ACR-ORGANIZER:AC Sparta Praha / Armáda ČR
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-5022cc0d8cd3@mapa-acr-az.vercel.app
 DTSTAMP:20261010T000000Z
 LAST-MODIFIED:20261010T000000Z
@@ -943,6 +962,25 @@ LOCATION:Ostrov
 X-ACR-ORGANIZER:Armáda ČR / Do armády
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-b69eb99cb5e2@mapa-acr-az.vercel.app
+DTSTAMP:20261011T000000Z
+LAST-MODIFIED:20261011T000000Z
+DTSTART;TZID=Europe/Prague:20261015T090000
+DTEND;TZID=Europe/Prague:20261015T160000
+SUMMARY:Nábor: Prostějov – Burza práce a vzdělávání
+DESCRIPTION:Náborová účast AČR na Burze práce a vzdělávání v Pros
+ tějově (uvedeno v přehledu Do armády\; termín a místo dle burzapav.c
+ z).\nPořadatel: Agentura personalistiky AČR (Do armády) / burzapav.cz\n
+ Zdroj: https://burzapav.cz\nPřehled: https://mapa-acr-az.vercel.app/#cat-
+ events
+URL:https://burzapav.cz
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Společenský dům\, Komenského 6\, Prostějov
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády) / burzapav.cz
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-2b4f6bf43d7f@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1000,6 +1038,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Cheb\, ISŠ
 X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-3688fc018dd8@mapa-acr-az.vercel.app
+DTSTAMP:20261011T000000Z
+LAST-MODIFIED:20261011T000000Z
+DTSTART;TZID=Europe/Prague:20261022T090000
+DTEND;TZID=Europe/Prague:20261022T170000
+SUMMARY:Nábor: Olomouc – Burza práce a vzdělávání
+DESCRIPTION:Náborová účast AČR na Burze práce a vzdělávání v Olom
+ ouci (uvedeno v přehledu Do armády\; termín a místo dle burzapav.cz).\
+ nPořadatel: Agentura personalistiky AČR (Do armády) / burzapav.cz\nZdro
+ j: https://burzapav.cz\nPřehled: https://mapa-acr-az.vercel.app/#cat-even
+ ts
+URL:https://burzapav.cz
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Výstaviště Flora Olomouc – pavilon A\, Wolkerova 17
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády) / burzapav.cz
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-480a5bd6e657@mapa-acr-az.vercel.app
