@@ -1,0 +1,2 @@
+# Not part of the static site: capture tooling lives in tools/ (see tools/playwright-capture/README.md)
+tools/
