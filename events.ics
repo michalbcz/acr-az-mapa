@@ -981,6 +981,25 @@ LOCATION:Společenský dům\, Komenského 6\, Prostějov
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády) / burzapav.cz
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-35f060715ea2@mapa-acr-az.vercel.app
+DTSTAMP:20261013T000000Z
+LAST-MODIFIED:20261013T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Nábor: Pardubice – RunTour (prezentace AČR)
+DESCRIPTION:Náborová prezentace AČR na běžeckém závodě ČEZ RunTour
+  Pardubice (ověřeno v přehledu náborových akcí doarmady.mo.gov.cz\; 
+ termín 17. 10. 2026 dle run-tour.cz).\nPořadatel: Armáda ČR / Do armá
+ dy (nábor na RunTour)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove
+ -akce\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Pardubice\, Dostihové závodiště Velké pardubické
+X-ACR-ORGANIZER:Armáda ČR / Do armády (nábor na RunTour)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-2b4f6bf43d7f@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
