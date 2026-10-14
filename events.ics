@@ -1273,6 +1273,28 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-c4997d2c6abb@mapa-acr-az.vercel.app
+DTSTAMP:20261014T000000Z
+LAST-MODIFIED:20261014T000000Z
+DTSTART;TZID=Europe/Prague:20261103T090000
+DTEND;TZID=Europe/Prague:20261103T160000
+SUMMARY:Nábor: Tachov – Kam na školu
+DESCRIPTION:Náborová prezentace AČR na přehlídce středních škol „
+ Kam na školu?“ v Tachově (uvedeno v přehledu náborových akcí doarm
+ ady.mo.gov.cz\; čas a místo dle revis-tachov.cz).\nPořadatel: Armáda 
+ ČR / Do armády (prezentace na přehlídce škol Kam na školu?\, pořád
+ á REVIS Tachov)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\
+ nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Tachov\, Společenský areál Mže\, Hornická 1695 (vchod od OC K
+ askády)
+X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace na přehlídce škol K
+ am na školu?\, pořádá REVIS Tachov)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-d7879c72af09@mapa-acr-az.vercel.app
 DTSTAMP:20261007T000000Z
 LAST-MODIFIED:20261007T000000Z
