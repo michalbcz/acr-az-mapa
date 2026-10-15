@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nábor: Jeseník – Scholaris
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-d065c387e021@mapa-acr-az.vercel.app
+DTSTAMP:20261015T000000Z
+LAST-MODIFIED:20261015T000000Z
+DTSTART;TZID=Europe/Prague:20261022T080000
+DTEND;TZID=Europe/Prague:20261022T153000
+SUMMARY:Nábor: Jeseník – Scholaris
+DESCRIPTION:Náborová prezentace AČR na přehlídce středních škol Sch
+ olaris v Jeseníku (uvedeno v přehledu náborových akcí doarmady.mo.gov
+ .cz\; čas dle scholaservis.cz 8:00–15:30).\nPořadatel: Armáda ČR / D
+ o armády (prezentace na přehlídce středních škol Scholaris 2026)\nZd
+ roj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://m
+ apa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Jeseník
+X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace na přehlídce středn
+ ích škol Scholaris 2026)
+END:VEVENT
+END:VCALENDAR

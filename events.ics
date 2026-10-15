@@ -1059,6 +1059,27 @@ LOCATION:Cheb\, ISŠ
 X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-d065c387e021@mapa-acr-az.vercel.app
+DTSTAMP:20261015T000000Z
+LAST-MODIFIED:20261015T000000Z
+DTSTART;TZID=Europe/Prague:20261022T080000
+DTEND;TZID=Europe/Prague:20261022T153000
+SUMMARY:Nábor: Jeseník – Scholaris
+DESCRIPTION:Náborová prezentace AČR na přehlídce středních škol Sch
+ olaris v Jeseníku (uvedeno v přehledu náborových akcí doarmady.mo.gov
+ .cz\; čas dle scholaservis.cz 8:00–15:30).\nPořadatel: Armáda ČR / D
+ o armády (prezentace na přehlídce středních škol Scholaris 2026)\nZd
+ roj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://m
+ apa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Jeseník
+X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace na přehlídce středn
+ ích škol Scholaris 2026)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-3688fc018dd8@mapa-acr-az.vercel.app
 DTSTAMP:20261011T000000Z
 LAST-MODIFIED:20261011T000000Z
