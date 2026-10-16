@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dny NATO a Dny Vzdušných sil AČR 2026
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-4024be9a5ffe@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Dny NATO a Dny Vzdušných sil AČR 2026
+DESCRIPTION:26. ročník Dnů NATO a 17. ročník Dnů Vzdušných sil AČR
+  – letecké i pozemní ukázky\, premiéra C-390\, partnerská země Ně
+ mecko.\nPořadatel: AČR a partneři\nZdroj: https://www.mo.gov.cz/scripts
+ /modules/diary/action.php?id=8364\nPřehled: https://mapa-acr-az.vercel.ap
+ p/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8364
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Ostrava\, Letiště Leoše Janáčka
+X-ACR-ORGANIZER:AČR a partneři
+END:VEVENT
+END:VCALENDAR

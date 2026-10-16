@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cvičení Safeguard HMP 2026 (111. prapor územní obrany)
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-d68e14c6fd51@mapa-acr-az.vercel.app
+DTSTAMP:20260925T000000Z
+LAST-MODIFIED:20260925T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261015
+SUMMARY:Cvičení Safeguard HMP 2026 (111. prapor územní obrany)
+DESCRIPTION:Ochrana a obrana vybraných objektů kritické infrastruktury\,
+  součinnost s IZS a přesuny v městské zástavbě. Počítejte se zvý
+ šeným pohybem vojenské techniky.\nPořadatel: KVV hl. m. Prahy\, 111. p
+ rapor územní obrany (AZ)\nZdroj: https://www.praha5.cz/v-rijnu-se-uskute
+ cni-vojenske-cviceni-ve-vodojemu/\nPřehled: https://mapa-acr-az.vercel.ap
+ p/#cat-events
+URL:https://www.praha5.cz/v-rijnu-se-uskutecni-vojenske-cviceni-ve-vodojemu
+ /
+CATEGORIES:cvičení
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 5\, areál Vodojemu Vidoule a okolí
+X-ACR-ORGANIZER:KVV hl. m. Prahy\, 111. prapor územní obrany (AZ)
+END:VEVENT
+END:VCALENDAR

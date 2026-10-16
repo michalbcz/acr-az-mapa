@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Future Forces Exhibition & Forum 2026 (FF26)
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-cb4601ef73d2@mapa-acr-az.vercel.app
+DTSTAMP:20260926T000000Z
+LAST-MODIFIED:20260926T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:Future Forces Exhibition & Forum 2026 (FF26)
+DESCRIPTION:16. ročník mezinárodního veletrhu a odborného fóra Future
+  Forces: obranné a bezpečnostní technologie\, operační zkušenosti. N
+ avazuje veřejný Den bezpečnosti a obrany 24. 10. (již v kalendáři).\
+ nPořadatel: Future Forces Forum\nTermín je orientační – ověřte ve 
+ zdroji.\nZdroj: https://www.czdefence.cz/clanek/future-forces-2026-od-zkus
+ enosti-z-bojiste-k-technologiim-nove-generace\nPřehled: https://mapa-acr-
+ az.vercel.app/#cat-events
+URL:https://www.czdefence.cz/clanek/future-forces-2026-od-zkusenosti-z-boji
+ ste-k-technologiim-nove-generace
+CATEGORIES:veřejná akce
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+LOCATION:Praha\, PVA EXPO PRAHA
+X-ACR-ORGANIZER:Future Forces Forum
+END:VEVENT
+END:VCALENDAR
