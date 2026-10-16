@@ -1158,6 +1158,28 @@ LOCATION:Brno
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-49ab90e307cc@mapa-acr-az.vercel.app
+DTSTAMP:20261016T000000Z
+LAST-MODIFIED:20261016T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Nábor: Pardubice – Dynamo děkuje 2026: Pohybem k pohodě
+DESCRIPTION:Náborová prezentace AČR uvedená v přehledu náborových ak
+ cí doarmady.mo.gov.cz (27. 10. 2026\, Pardubice\, „Dynamo děkuje 2026:
+  Pohybem k pohodě“)\; stránka klubu (hcdynamo.cz/hybej-se-s-dynamem) p
+ opisuje celou pohybovou výzvu\, čas ani místo prezentace neuvádí.\nPo
+ řadatel: Armáda ČR / Do armády (prezentace v rámci projektu HC Dynamo
+  Pardubice „Dynamo děkuje 2026“)\nZdroj: https://doarmady.mo.gov.cz/d
+ eje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Pardubice
+X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace v rámci projektu HC D
+ ynamo Pardubice „Dynamo děkuje 2026“)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-c3766926e6cd@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
