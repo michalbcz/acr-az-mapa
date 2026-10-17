@@ -1000,6 +1000,24 @@ LOCATION:Pardubice\, Dostihové závodiště Velké pardubické
 X-ACR-ORGANIZER:Armáda ČR / Do armády (nábor na RunTour)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-96837a865ded@mapa-acr-az.vercel.app
+DTSTAMP:20261017T000000Z
+LAST-MODIFIED:20261017T000000Z
+DTSTART;TZID=Europe/Prague:20261019T170000
+SUMMARY:Vystoupení VUS ONDRÁŠ – Z kraje do kraje (Žďár nad Sázavou
+ )
+DESCRIPTION:Folklorní tanečně-hudební pořad malých forem Z kraje do k
+ raje\; 19. 10. 2026 v 17:00.\nPořadatel: Vojenský umělecký soubor ONDR
+ ÁŠ\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id=838
+ 4\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8384
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Žďár nad Sázavou\, Městské divadlo
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-2b4f6bf43d7f@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1057,6 +1075,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Cheb\, ISŠ
 X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-33ca1edd1202@mapa-acr-az.vercel.app
+DTSTAMP:20261017T000000Z
+LAST-MODIFIED:20261017T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261127
+SUMMARY:Výstava „Historie a současnost radioelektronického boje“ (Pr
+ aha\, GŠ AČR)
+DESCRIPTION:Výstava VHÚ o radioelektronickém boji\; zahájení 22. 10. v
+ e 14:00\, od 9:00 ukázky bezpilotních prostředků 53. pluku průzkumu a
+  EB\, stánky náboru AČR a POKOS\; k vidění do 26. 11. 2026.\nPořadat
+ el: Vojenský historický ústav Praha / Generální štáb AČR\nZdroj: h
+ ttps://www.mo.gov.cz/scripts/modules/diary/action.php?id=8385\nPřehled: h
+ ttps://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8385
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 6\, Vítězné náměstí (před budovou GŠ AČR)
+X-ACR-ORGANIZER:Vojenský historický ústav Praha / Generální štáb AČ
+ R
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-d065c387e021@mapa-acr-az.vercel.app
@@ -1178,6 +1218,44 @@ TRANSP:TRANSPARENT
 LOCATION:Pardubice
 X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace v rámci projektu HC D
  ynamo Pardubice „Dynamo děkuje 2026“)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-0e88156ac33f@mapa-acr-az.vercel.app
+DTSTAMP:20261017T000000Z
+LAST-MODIFIED:20261017T000000Z
+DTSTART;TZID=Europe/Prague:20261027T110000
+SUMMARY:Slavnostní jmenování do hodnosti plukovníka a udělení čestn
+ ých odznaků AČR (Vítkov)
+DESCRIPTION:Jmenování příslušníků AČR do hodnosti plukovníka k vý
+ ročí vzniku ČSR\, NGŠ udělí čestné odznaky AČR Za zásluhy\; pro 
+ média jen s akreditací (do 23. 10. 12:00).\nPořadatel: Generální št
+ áb AČR\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id
+ =8386\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8386
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 3\, Národní památník na Vítkově – Slavnostní síň
+X-ACR-ORGANIZER:Generální štáb AČR
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-d46ade8aeec8@mapa-acr-az.vercel.app
+DTSTAMP:20261017T000000Z
+LAST-MODIFIED:20261017T000000Z
+DTSTART;TZID=Europe/Prague:20261028T090000
+SUMMARY:Pietní akt k 108. výročí vzniku samostatného československéh
+ o státu (Vítkov)
+DESCRIPTION:Pietní akt za účasti prezidenta republiky\, ministra obrany 
+ a NGŠ AČR\; pro média jen s akreditací (do 23. 10. 12:00).\nPořadatel
+ : Ministerstvo obrany ČR / Generální štáb AČR\nZdroj: https://www.mo
+ .gov.cz/scripts/modules/diary/action.php?id=8387\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8387
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 3\, Národní památník na Vítkově – Čestný dvůr
+X-ACR-ORGANIZER:Ministerstvo obrany ČR / Generální štáb AČR
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-c3766926e6cd@mapa-acr-az.vercel.app
@@ -1314,6 +1392,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-db9ca7f528e9@mapa-acr-az.vercel.app
+DTSTAMP:20261017T000000Z
+LAST-MODIFIED:20261017T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Nábor: Šumperk – Scholaris
+DESCRIPTION:Náborová prezentace AČR na přehlídce středních škol Sch
+ olaris v Šumperku (čas neuveden).\nPořadatel: Armáda ČR / Do armády\
+ nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https:
+ //mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Šumperk
+X-ACR-ORGANIZER:Armáda ČR / Do armády
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-c4997d2c6abb@mapa-acr-az.vercel.app
