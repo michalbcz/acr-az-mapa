@@ -995,18 +995,18 @@
   "id": "ev-59180f304b60",
   "title": "Den bezpečnosti a obrany pro veřejnost (PVA EXPO Letňany)",
   "type": "veřejná akce",
-  "start": "2026-10-24",
-  "end": "2026-10-24",
-  "all_day": true,
+  "start": "2026-10-24T09:00",
+  "end": "2026-10-24T15:30",
+  "all_day": false,
   "location": "Praha – Letňany, PVA EXPO PRAHA (hala 8, vstupní hala 2)",
   "organizer": "Future Advanced Technologies, z.ú.; za účasti AČR a složek IZS",
-  "description": "Osvětový den navazující na veletrh Future Forces Forum: venkovní a vnitřní ukázky, stánky složek (mj. Armáda ČR), přednášky od 9:30. Vstup zdarma.",
-  "source_url": "https://www.future-forces-forum.com/events/193_den-bezpecnosti-a-obrany?lang=cs",
+  "description": "Osvětový den navazující na Future Forces Forum; AČR představí mj. BVP CV90, tank Leopard 2A4, RBS-70NG, techniku speciálních a výsadkových sil, vojenské zdravotnictví a vzor MAD21. 9:00–15:30, vstup zdarma bez registrace (dle kalendáře MO).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8388",
   "channel": null,
   "confidence": "potvrzeno",
   "date_precision": "day",
   "first_seen": "2026-09-25",
-  "updated": "2026-09-25"
+  "updated": "2026-10-20"
  },
  {
   "id": "ev-85505dd7858f",
@@ -1245,6 +1245,23 @@
   "date_precision": "day",
   "first_seen": "2026-10-07",
   "updated": "2026-10-07"
+ },
+ {
+  "id": "ev-94524a52e017",
+  "title": "Nábor: Prostějov – Scholaris",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-05",
+  "end": "2026-11-05",
+  "all_day": true,
+  "location": "Prostějov",
+  "organizer": "Armáda ČR / Do armády",
+  "description": "Náborová prezentace AČR na přehlídce středních škol Scholaris v Prostějově (čas neuveden).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-20",
+  "updated": "2026-10-20"
  },
  {
   "id": "ev-59d8cc7b48f2",

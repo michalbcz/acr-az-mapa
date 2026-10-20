@@ -1159,19 +1159,19 @@ X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-59180f304b60@mapa-acr-az.vercel.app
-DTSTAMP:20260925T000000Z
-LAST-MODIFIED:20260925T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTAMP:20261020T000000Z
+LAST-MODIFIED:20261020T000000Z
+DTSTART;TZID=Europe/Prague:20261024T090000
+DTEND;TZID=Europe/Prague:20261024T153000
 SUMMARY:Den bezpečnosti a obrany pro veřejnost (PVA EXPO Letňany)
-DESCRIPTION:Osvětový den navazující na veletrh Future Forces Forum: ven
- kovní a vnitřní ukázky\, stánky složek (mj. Armáda ČR)\, předná
- šky od 9:30. Vstup zdarma.\nPořadatel: Future Advanced Technologies\, z.
- ú.\; za účasti AČR a složek IZS\nZdroj: https://www.future-forces-for
- um.com/events/193_den-bezpecnosti-a-obrany?lang=cs\nPřehled: https://mapa
- -acr-az.vercel.app/#cat-events
-URL:https://www.future-forces-forum.com/events/193_den-bezpecnosti-a-obrany
- ?lang=cs
+DESCRIPTION:Osvětový den navazující na Future Forces Forum\; AČR před
+ staví mj. BVP CV90\, tank Leopard 2A4\, RBS-70NG\, techniku speciálních
+  a výsadkových sil\, vojenské zdravotnictví a vzor MAD21. 9:00–15:30
+ \, vstup zdarma bez registrace (dle kalendáře MO).\nPořadatel: Future A
+ dvanced Technologies\, z.ú.\; za účasti AČR a složek IZS\nZdroj: http
+ s://www.mo.gov.cz/scripts/modules/diary/action.php?id=8388\nPřehled: http
+ s://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8388
 CATEGORIES:veřejná akce
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1451,6 +1451,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Zlín
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-94524a52e017@mapa-acr-az.vercel.app
+DTSTAMP:20261020T000000Z
+LAST-MODIFIED:20261020T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Nábor: Prostějov – Scholaris
+DESCRIPTION:Náborová prezentace AČR na přehlídce středních škol Sch
+ olaris v Prostějově (čas neuveden).\nPořadatel: Armáda ČR / Do armá
+ dy\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: htt
+ ps://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Prostějov
+X-ACR-ORGANIZER:Armáda ČR / Do armády
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-59d8cc7b48f2@mapa-acr-az.vercel.app
