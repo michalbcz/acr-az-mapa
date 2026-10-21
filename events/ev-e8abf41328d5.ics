@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Přijetí ministra obrany Arménské republiky Surena Papikyan
+ a
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-e8abf41328d5@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20261022T143000
+SUMMARY:Přijetí ministra obrany Arménské republiky Surena Papikyana
+DESCRIPTION:Ministr obrany Jaromír Zůna přijme arménského ministra obr
+ any\; oficiální uvítání a fototermín\, poté bilaterální jednání
+  bez médií. Jen pro akreditovaná média (potvrzení účasti do 21. 10.
+  12:00 na press@mo.gov.cz).\nPořadatel: Ministerstvo obrany ČR\nZdroj: h
+ ttps://www.mo.gov.cz/scripts/modules/diary/action.php?id=8389\nPřehled: h
+ ttps://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8389
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Ministerstvo obrany ČR\, Na Valech\, Praha
+X-ACR-ORGANIZER:Ministerstvo obrany ČR
+END:VEVENT
+END:VCALENDAR

@@ -1139,6 +1139,25 @@ LOCATION:Výstaviště Flora Olomouc – pavilon A\, Wolkerova 17
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády) / burzapav.cz
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-e8abf41328d5@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20261022T143000
+SUMMARY:Přijetí ministra obrany Arménské republiky Surena Papikyana
+DESCRIPTION:Ministr obrany Jaromír Zůna přijme arménského ministra obr
+ any\; oficiální uvítání a fototermín\, poté bilaterální jednání
+  bez médií. Jen pro akreditovaná média (potvrzení účasti do 21. 10.
+  12:00 na press@mo.gov.cz).\nPořadatel: Ministerstvo obrany ČR\nZdroj: h
+ ttps://www.mo.gov.cz/scripts/modules/diary/action.php?id=8389\nPřehled: h
+ ttps://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8389
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Ministerstvo obrany ČR\, Na Valech\, Praha
+X-ACR-ORGANIZER:Ministerstvo obrany ČR
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-480a5bd6e657@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1218,6 +1237,29 @@ TRANSP:TRANSPARENT
 LOCATION:Pardubice
 X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace v rámci projektu HC D
  ynamo Pardubice „Dynamo děkuje 2026“)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-85051fff9b96@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20261027T100000
+DTEND;TZID=Europe/Prague:20261027T120000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Praha)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti. Sraz u brány
+  vojenského objektu v 9:45 a 10:45\; při nepříznivém počasí může 
+ být zrušeno.\nPořadatel: Univerzita obrany\nZdroj: https://unob.cz/univ
+ erzita/co-muzu-studovat/prezkouseni-z-telesne-zdatnosti-garantovane-minist
+ erstvem-obrany\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Pilotů 217/12\, Praha 6 – Ruzyně
+X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-0e88156ac33f@mapa-acr-az.vercel.app
@@ -1698,6 +1740,29 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-58eb81cec473@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20270216T100000
+DTEND;TZID=Europe/Prague:20270216T120000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Praha)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti. Sraz u brány
+  vojenského objektu v 9:45 a 10:45\; při nepříznivém počasí může 
+ být zrušeno.\nPořadatel: Univerzita obrany\nZdroj: https://unob.cz/univ
+ erzita/co-muzu-studovat/prezkouseni-z-telesne-zdatnosti-garantovane-minist
+ erstvem-obrany\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Pilotů 217/12\, Praha 6 – Ruzyně
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-4334520e4684@mapa-acr-az.vercel.app
 DTSTAMP:20261006T000000Z
 LAST-MODIFIED:20261006T000000Z
@@ -1734,6 +1799,124 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-7cafac40cfd4@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20270306T100000
+DTEND;TZID=Europe/Prague:20270306T120000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Olomouc)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti. Při nepříz
+ nivém počasí může být zrušeno.\nPořadatel: Univerzita obrany\nZdro
+ j: https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany\nPřehled: https://mapa-acr-az.verce
+ l.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Sportovní areál TJ Lokomotiva Olomouc\, 17. listopadu 1139/3\, O
+ lomouc
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-d72e7b6c7d69@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20270316T090000
+DTEND;TZID=Europe/Prague:20270316T120000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Moravská Tř
+ ebová)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti.\nPořadatel: 
+ Univerzita obrany\nZdroj: https://unob.cz/univerzita/co-muzu-studovat/prez
+ kouseni-z-telesne-zdatnosti-garantovane-ministerstvem-obrany\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VSŠ a VOŠ MO\, Jevíčská 937/7\, Moravská Třebová
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-d133cf074a66@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20270317T090000
+DTEND;TZID=Europe/Prague:20270317T110000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Hradec Králo
+ vé)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti. Při nepříz
+ nivém počasí může být zrušeno.\nPořadatel: Univerzita obrany\nZdro
+ j: https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany\nPřehled: https://mapa-acr-az.verce
+ l.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Akademika Heyrovského 1213/10\, Hradec Králové
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-8292667f6870@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20270318T120000
+DTEND;TZID=Europe/Prague:20270318T140000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Brno\, Nadsta
+ ndardní příprava)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti. Jen pro vybra
+ né uchazeče v rámci „Nadstandardní přípravy“ k přijímacím zko
+ uškám.\nPořadatel: Univerzita obrany\nZdroj: https://unob.cz/univerzita
+ /co-muzu-studovat/prezkouseni-z-telesne-zdatnosti-garantovane-ministerstve
+ m-obrany\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Kasárna Jana Babáka\, Brno
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-00340cc304c4@mapa-acr-az.vercel.app
+DTSTAMP:20261021T000000Z
+LAST-MODIFIED:20261021T000000Z
+DTSTART;TZID=Europe/Prague:20270323T090000
+DTEND;TZID=Europe/Prague:20270323T120000
+SUMMARY:UKAŽ FORMU – přezkoušení z tělesné zdatnosti (Moravská Tř
+ ebová)
+DESCRIPTION:Přezkoušení z tělesné zdatnosti nanečisto pro uchazeče o
+  vojenské studium na UO (běh 1000 m\, sed-lehy\, shyby\, medicinbal\, d
+ řep se zátěží)\; výsledek lze nechat uznat v přijímacím řízení
+ . Zdarma\, registrace předem\, platný průkaz totožnosti.\nPořadatel: 
+ Univerzita obrany\nZdroj: https://unob.cz/univerzita/co-muzu-studovat/prez
+ kouseni-z-telesne-zdatnosti-garantovane-ministerstvem-obrany\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatn
+ osti-garantovane-ministerstvem-obrany
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:VSŠ a VOŠ MO\, Jevíčská 937/7\, Moravská Třebová
+X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-97fc04852038@mapa-acr-az.vercel.app
