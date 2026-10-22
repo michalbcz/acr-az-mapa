@@ -1476,6 +1476,27 @@ X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace na přehlídce škol K
  am na školu?\, pořádá REVIS Tachov)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-5ca1459ac84a@mapa-acr-az.vercel.app
+DTSTAMP:20261022T000000Z
+LAST-MODIFIED:20261022T000000Z
+DTSTART;TZID=Europe/Prague:20261103T090000
+DTEND;TZID=Europe/Prague:20261103T150000
+SUMMARY:Nábor: Zlín – Business Day UTB
+DESCRIPTION:Prezentace armády na kariérním veletrhu Business Day Univerz
+ ity Tomáše Bati (uvedeno v přehledu náborových akcí doarmady.mo.gov.
+ cz\; čas a místo dle businessday.utb.cz).\nPořadatel: Armáda ČR / Do 
+ armády (prezentace na veletrhu Business Day\, pořádá Job centrum UTB)\
+ nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https:
+ //mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Zlín\, Univerzitní a kongresové centrum UTB
+X-ACR-ORGANIZER:Armáda ČR / Do armády (prezentace na veletrhu Business D
+ ay\, pořádá Job centrum UTB)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-d7879c72af09@mapa-acr-az.vercel.app
 DTSTAMP:20261007T000000Z
 LAST-MODIFIED:20261007T000000Z

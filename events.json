@@ -1264,6 +1264,23 @@
   "updated": "2026-10-14"
  },
  {
+  "id": "ev-5ca1459ac84a",
+  "title": "Nábor: Zlín – Business Day UTB",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-03T09:00",
+  "end": "2026-11-03T15:00",
+  "all_day": false,
+  "location": "Zlín, Univerzitní a kongresové centrum UTB",
+  "organizer": "Armáda ČR / Do armády (prezentace na veletrhu Business Day, pořádá Job centrum UTB)",
+  "description": "Prezentace armády na kariérním veletrhu Business Day Univerzity Tomáše Bati (uvedeno v přehledu náborových akcí doarmady.mo.gov.cz; čas a místo dle businessday.utb.cz).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-22",
+  "updated": "2026-10-22"
+ },
+ {
   "id": "ev-d7879c72af09",
   "title": "Nábor: Zlín – Veletrh vzdělávání",
   "type": "výběrové řízení/nábor",
