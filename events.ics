@@ -1516,6 +1516,27 @@ LOCATION:Zlín
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-15ac5205a8e1@mapa-acr-az.vercel.app
+DTSTAMP:20261023T000000Z
+LAST-MODIFIED:20261023T000000Z
+DTSTART;TZID=Europe/Prague:20261104T090000
+DTEND;TZID=Europe/Prague:20261104T170000
+SUMMARY:Nábor: Havířov – Volba povolání
+DESCRIPTION:Prezentace armády na veletrhu Volba povolání Havířov (uved
+ eno v přehledu náborových akcí Do armády\; čas a místo dle plakátu
+  akce).\nPořadatel: Agentura personalistiky AČR (Do armády)\; veletrh p
+ ořádají Úřad práce ČR\, město Havířov a OHK Karviná\nZdroj: htt
+ ps://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-
+ az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Havířov\, Sportovní hala Slávie
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)\; veletrh pořád
+ ají Úřad práce ČR\, město Havířov a OHK Karviná
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-94524a52e017@mapa-acr-az.vercel.app
 DTSTAMP:20261020T000000Z
 LAST-MODIFIED:20261020T000000Z
@@ -1740,6 +1761,48 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Moravská Třebová\, sál Na Písku
 X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-8c36af156873@mapa-acr-az.vercel.app
+DTSTAMP:20261023T000000Z
+LAST-MODIFIED:20261023T000000Z
+DTSTART;TZID=Europe/Prague:20270116T080000
+DTEND;TZID=Europe/Prague:20270116T140000
+SUMMARY:Den otevřených dveří FVT a FVL Univerzity obrany (Brno)
+DESCRIPTION:Den otevřených dveří Fakulty vojenských technologií a Fak
+ ulty vojenského leadershipu\; areál přístupný 8.00–14.00 (uvedeno i
+  v přehledu náborových akcí Do armády).\nPořadatel: Univerzita obran
+ y\nZdroj: https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri
+ /dny-otevrenych-dveri-fvl-a-fvt/\nPřehled: https://mapa-acr-az.vercel.app
+ /#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-ot
+ evrenych-dveri-fvl-a-fvt/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Kasárna Šumavská
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-1ef15c5714dc@mapa-acr-az.vercel.app
+DTSTAMP:20261023T000000Z
+LAST-MODIFIED:20261023T000000Z
+DTSTART;TZID=Europe/Prague:20270204T080000
+DTEND;TZID=Europe/Prague:20270204T140000
+SUMMARY:Den otevřených dveří FVT a FVL Univerzity obrany (Brno)
+DESCRIPTION:Den otevřených dveří Fakulty vojenských technologií a Fak
+ ulty vojenského leadershipu\; areál přístupný 8.00–14.00 (uvedeno i
+  v přehledu náborových akcí Do armády).\nPořadatel: Univerzita obran
+ y\nZdroj: https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri
+ /dny-otevrenych-dveri-fvl-a-fvt/\nPřehled: https://mapa-acr-az.vercel.app
+ /#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-ot
+ evrenych-dveri-fvl-a-fvt/
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Kasárna Šumavská
+X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-e3d5e0afafeb@mapa-acr-az.vercel.app
