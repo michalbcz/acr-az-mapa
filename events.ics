@@ -1591,6 +1591,29 @@ LOCATION:Moravská Třebová\, sál Na Písku
 X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-7395115143ef@mapa-acr-az.vercel.app
+DTSTAMP:20261024T000000Z
+LAST-MODIFIED:20261024T000000Z
+DTSTART;TZID=Europe/Prague:20261106T080000
+DTEND;TZID=Europe/Prague:20261107T170000
+SUMMARY:Nábor: Litoměřice – Techdays a Výstava škol
+DESCRIPTION:Prezentace armády na veletrhu Techdays a Výstava škol (uvede
+ no v přehledu náborových akcí Do armády\; čas a místo dle stránky 
+ akce města Litoměřice). Vstup zdarma.\nPořadatel: Agentura personalist
+ iky AČR (Do armády)\; veletrh pořádají Městská kulturní zařízen
+ í v Litoměřicích a OHK Litoměřice ve spolupráci s ICUK a ÚP Litom
+ ěřice\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled
+ : https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Litoměřice\, Zahrada Čech\, Na Valech 2028
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)\; veletrh pořád
+ ají Městská kulturní zařízení v Litoměřicích a OHK Litoměřice 
+ ve spolupráci s ICUK a ÚP Litoměřice
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-538b15f04b1f@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
