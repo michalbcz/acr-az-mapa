@@ -1281,6 +1281,27 @@ LOCATION:Praha 3\, Národní památník na Vítkově – Slavnostní síň
 X-ACR-ORGANIZER:Generální štáb AČR
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-c92e34ba1647@mapa-acr-az.vercel.app
+DTSTAMP:20261027T000000Z
+LAST-MODIFIED:20261027T000000Z
+DTSTART;TZID=Europe/Prague:20261027T193000
+SUMMARY:Vystoupení VUS ONDRÁŠ – Karpatské notování (Ostrava\, Česk
+ ý rozhlas)
+DESCRIPTION:Výběr z koncertu Orchestru lidových nástrojů a dívčího 
+ sboru VUS ONDRÁŠ v pořadu Českého rozhlasu Ostrava Zpěvem k srdci: K
+ arpatské notování s VUS Ondráš (kalendář akcí MO).\nPořadatel: Vo
+ jenský umělecký soubor ONDRÁŠ\; Český rozhlas Ostrava\nZdroj: https
+ ://www.mo.gov.cz/scripts/modules/diary/action.php?id=8390\nPřehled: https
+ ://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8390
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Ostrava\, koncertní studio S1 Českého rozhlasu Ostrava
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ\; Český rozhlas Ostr
+ ava
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-d46ade8aeec8@mapa-acr-az.vercel.app
 DTSTAMP:20261017T000000Z
 LAST-MODIFIED:20261017T000000Z
@@ -1633,6 +1654,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Vybrané obce (mj. Kraj Vysočina)
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-f8817ed6ad8c@mapa-acr-az.vercel.app
+DTSTAMP:20261027T000000Z
+LAST-MODIFIED:20261027T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Nábor: Přerov – Scholaris
+DESCRIPTION:Prezentace armády na veletrhu vzdělávání Scholaris v Přer
+ ově (uvedeno v přehledu náborových akcí Do armády\; čas a místo ko
+ nání stránka neuvádí).\nPořadatel: Agentura personalistiky AČR (Do 
+ armády)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehle
+ d: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Přerov
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-b26bebd7a1f5@mapa-acr-az.vercel.app
