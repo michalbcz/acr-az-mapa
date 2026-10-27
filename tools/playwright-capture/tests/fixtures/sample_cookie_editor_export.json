@@ -1,0 +1,6 @@
+[
+  {"domain": ".facebook.com", "expirationDate": 1893456000.5, "hostOnly": false, "httpOnly": false, "name": "c_user", "path": "/", "sameSite": "no_restriction", "secure": true, "session": false, "value": "100000000000000"},
+  {"domain": ".facebook.com", "expirationDate": 1893456000, "hostOnly": false, "httpOnly": true, "name": "xs", "path": "/", "sameSite": "no_restriction", "secure": true, "session": false, "value": "FAKE-NOT-A-REAL-SESSION"},
+  {"domain": ".facebook.com", "hostOnly": false, "httpOnly": true, "name": "fr", "path": "/", "sameSite": "unspecified", "secure": true, "session": true, "value": "FAKE"},
+  {"domain": ".google.com", "expirationDate": 1893456000, "hostOnly": false, "httpOnly": true, "name": "NID", "path": "/", "sameSite": "lax", "secure": true, "session": false, "value": "FAKE"}
+]
