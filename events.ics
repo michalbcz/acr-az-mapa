@@ -1321,6 +1321,29 @@ LOCATION:Praha 3\, Národní památník na Vítkově – Čestný dvůr
 X-ACR-ORGANIZER:Ministerstvo obrany ČR / Generální štáb AČR
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-179537f004c7@mapa-acr-az.vercel.app
+DTSTAMP:20261028T000000Z
+LAST-MODIFIED:20261028T000000Z
+DTSTART;TZID=Europe/Prague:20261028T100000
+DTEND;TZID=Europe/Prague:20261028T180000
+SUMMARY:Státní svátek 28. října: otevřená muzea VHÚ Praha
+DESCRIPTION:Ve státní svátek jsou muzea VHÚ Praha otevřena od 10 do 18
+  hodin\; Národní památník na Vítkově s hrobem Neznámého vojína od
+  11 hodin (zpráva MO).\nPořadatel: Vojenský historický ústav Praha\nZ
+ droj: https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/prijdte-ve-st
+ atni-svatek-28--rijna-do-muzei-vhu-praha-266593/\nPřehled: https://mapa-a
+ cr-az.vercel.app/#cat-events
+URL:https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/prijdte-ve-statn
+ i-svatek-28--rijna-do-muzei-vhu-praha-266593/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha – Armádní muzeum Žižkov\, Národní památník hrdinů
+  heydrichiády\, Letecké muzeum Kbely (oba areály)\; Národní památní
+ k na Vítkově od 11:00
+X-ACR-ORGANIZER:Vojenský historický ústav Praha
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-c3766926e6cd@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1672,6 +1695,25 @@ CATEGORIES:výběrové řízení/nábor
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Přerov
+X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-a0520ee9f192@mapa-acr-az.vercel.app
+DTSTAMP:20261028T000000Z
+LAST-MODIFIED:20261028T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Nábor: Bruntál – ARTIFEX 2026
+DESCRIPTION:Prezentace armády na ARTIFEX 2026 – veletrhu středních šk
+ ol a zaměstnanosti v Bruntále (uvedeno v přehledu náborových akcí Do
+  armády\; čas a místo konání stránka neuvádí).\nPořadatel: Agentu
+ ra personalistiky AČR (Do armády)\nZdroj: https://doarmady.mo.gov.cz/dej
+ e-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Bruntál
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
