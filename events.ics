@@ -1344,6 +1344,27 @@ LOCATION:Praha – Armádní muzeum Žižkov\, Národní památník hrdinů
 X-ACR-ORGANIZER:Vojenský historický ústav Praha
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-7240ce24f403@mapa-acr-az.vercel.app
+DTSTAMP:20261029T000000Z
+LAST-MODIFIED:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sbírka Vlčí mák ČR pro válečné veterány
+DESCRIPTION:Kampaň na podporu válečných veteránů: připnutím vlčíh
+ o máku nebo digitální verzí DiGiMÁK lze od 29. 10. do 11. 11. vyjád
+ řit úctu veteránům\; podle OVV MO s vojáky v ulicích každý den.\nP
+ ořadatel: Vlčí mák České republiky (zahájení: ministr obrany Jarom
+ ír Zůna)\nZdroj: https://x.com/ObranaTweetuje/status/2115690137858310497
+ \nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://x.com/ObranaTweetuje/status/2115690137858310497
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Česká republika
+X-ACR-ORGANIZER:Vlčí mák České republiky (zahájení: ministr obrany J
+ aromír Zůna)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-c3766926e6cd@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z

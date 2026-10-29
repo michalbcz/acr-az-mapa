@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sbírka Vlčí mák ČR pro válečné veterány
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-7240ce24f403@mapa-acr-az.vercel.app
+DTSTAMP:20261029T000000Z
+LAST-MODIFIED:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261112
+SUMMARY:Sbírka Vlčí mák ČR pro válečné veterány
+DESCRIPTION:Kampaň na podporu válečných veteránů: připnutím vlčíh
+ o máku nebo digitální verzí DiGiMÁK lze od 29. 10. do 11. 11. vyjád
+ řit úctu veteránům\; podle OVV MO s vojáky v ulicích každý den.\nP
+ ořadatel: Vlčí mák České republiky (zahájení: ministr obrany Jarom
+ ír Zůna)\nZdroj: https://x.com/ObranaTweetuje/status/2115690137858310497
+ \nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://x.com/ObranaTweetuje/status/2115690137858310497
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Česká republika
+X-ACR-ORGANIZER:Vlčí mák České republiky (zahájení: ministr obrany J
+ aromír Zůna)
+END:VEVENT
+END:VCALENDAR
