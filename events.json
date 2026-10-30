@@ -1281,6 +1281,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-c66310b5371b",
+  "title": "Tisková konference: Koncepce výstavby AČR do roku 2040",
+  "type": "jiné",
+  "start": "2026-11-02T15:30",
+  "end": null,
+  "all_day": false,
+  "location": "Praha, Generální štáb AČR",
+  "organizer": "Generální štáb AČR / Ministerstvo obrany",
+  "description": "Představení Koncepce výstavby Armády ČR do roku 2040 (dlouhodobý rámec rozvoje schopností a modernizace). Jen pro akreditovaná média (akreditace do 30. 10. 11:00).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8394",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
   "id": "ev-db9ca7f528e9",
   "title": "Nábor: Šumperk – Scholaris",
   "type": "výběrové řízení/nábor",
@@ -1483,6 +1500,23 @@
   "date_precision": "day",
   "first_seen": "2026-10-28",
   "updated": "2026-10-28"
+ },
+ {
+  "id": "ev-63f12a141b8c",
+  "title": "Nábor: Jihlava – Přehlídka středních škol",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-13",
+  "end": "2026-11-13",
+  "all_day": true,
+  "location": "Jihlava",
+  "organizer": "Armáda ČR (doarmady.cz)",
+  "description": "Náborová prezentace armády na Přehlídce středních škol v Jihlavě.",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-30",
+  "updated": "2026-10-30"
  },
  {
   "id": "ev-b26bebd7a1f5",

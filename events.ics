@@ -1501,6 +1501,24 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-c66310b5371b@mapa-acr-az.vercel.app
+DTSTAMP:20261030T000000Z
+LAST-MODIFIED:20261030T000000Z
+DTSTART;TZID=Europe/Prague:20261102T153000
+SUMMARY:Tisková konference: Koncepce výstavby AČR do roku 2040
+DESCRIPTION:Představení Koncepce výstavby Armády ČR do roku 2040 (dlou
+ hodobý rámec rozvoje schopností a modernizace). Jen pro akreditovaná m
+ édia (akreditace do 30. 10. 11:00).\nPořadatel: Generální štáb AČR 
+ / Ministerstvo obrany\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/
+ action.php?id=8394\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8394
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, Generální štáb AČR
+X-ACR-ORGANIZER:Generální štáb AČR / Ministerstvo obrany
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-db9ca7f528e9@mapa-acr-az.vercel.app
 DTSTAMP:20261017T000000Z
 LAST-MODIFIED:20261017T000000Z
@@ -1736,6 +1754,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Bruntál
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-63f12a141b8c@mapa-acr-az.vercel.app
+DTSTAMP:20261030T000000Z
+LAST-MODIFIED:20261030T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Nábor: Jihlava – Přehlídka středních škol
+DESCRIPTION:Náborová prezentace armády na Přehlídce středních škol 
+ v Jihlavě.\nPořadatel: Armáda ČR (doarmady.cz)\nZdroj: https://doarmad
+ y.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.ap
+ p/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Jihlava
+X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-b26bebd7a1f5@mapa-acr-az.vercel.app
