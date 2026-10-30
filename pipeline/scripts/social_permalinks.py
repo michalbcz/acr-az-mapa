@@ -26,6 +26,7 @@ from __future__ import annotations
 import glob
 import gzip
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -232,6 +233,20 @@ def refresh_x_cache(extra=()) -> tuple[int, int]:
 # ---------------------------------------------------------------------------
 # Permalink index: (channel_key) → [(text, url)]
 # ---------------------------------------------------------------------------
+def _use_db() -> bool:
+    """Čtení z SQLite (db/mapa.sqlite), pokud je dostupná; ACR_DATA_SOURCE=files vynutí soubory."""
+    if os.environ.get("ACR_DATA_SOURCE", "sqlite") != "sqlite":
+        return False
+    dbdir = Path(os.environ.get("ACR_DB_DIR") or ROOT.parent / "db")
+    if str(dbdir) not in sys.path:
+        sys.path.insert(0, str(dbdir))
+    try:
+        import mapa_db
+        return mapa_db.db_path().exists()
+    except Exception:
+        return False
+
+
 class PermalinkIndex:
     def __init__(self):
         self.by_ch: dict = {}
@@ -246,6 +261,41 @@ class PermalinkIndex:
         self.by_ch.setdefault(ck, []).append((text, url))
 
     def _load(self):
+        if _use_db():
+            return self._load_db()
+        self._load_files()
+
+    def _load_db(self):
+        import mapa_db
+        for t in mapa_db.x_tweet_index().values():
+            self._add("https://x.com/" + t.get("handle", ""), t.get("text"), t.get("url"))
+        for _n, d in mapa_db.x_post_files():
+            for acc in d.get("accounts") or []:
+                base = acc.get("url") or "https://x.com/" + (acc.get("handle") or "")
+                for po in acc.get("posts") or []:
+                    url = po.get("url") or x_status_url(acc.get("handle"), po.get("id"))
+                    for t in (po.get("text"), po.get("title")):
+                        self._add(base, t, url)
+        hints = mapa_db.permalink_hints()
+        for r in mapa_db.captures():
+            if not is_social(r.get("url") or ""):
+                continue
+            lp = r.get("last_post") if isinstance(r.get("last_post"), dict) else {}
+            self._add(r["url"], r.get("last_post_title"), r.get("last_post_url"))
+            self._add(r["url"], lp.get("title"), lp.get("url"))
+            for rp in r.get("recent_posts") or []:
+                if isinstance(rp, dict):
+                    self._add(r["url"], rp.get("title") or rp.get("text"), rp.get("url") or rp.get("post_url"))
+        for h in hints:
+            if h["source"].startswith("captures") and is_social(h["channel_url"] or ""):
+                self._add(h["channel_url"], h["text"], h["url"])
+        for o in mapa_db.comments():
+            self._add(o.get("channel_url") or "", o.get("post_title_or_excerpt"), o.get("post_url"))
+        for h in hints:
+            if h["source"].startswith("comments_inbox"):
+                self._add(h["channel_url"] or "", h["text"], h["url"])
+
+    def _load_files(self):
         for t in load_x_cache().values():
             self._add("https://x.com/" + t.get("handle", ""), t.get("text"), t.get("url"))
         for xp in [DATA / "x_posts.json"] + sorted(DATA.glob("x_posts.json.bak*")):

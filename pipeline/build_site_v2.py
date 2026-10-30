@@ -9,6 +9,10 @@ from urllib.parse import urlparse
 import os
 ROOT = Path(os.environ.get('ACR_ROOT') or Path(__file__).resolve().parent)
 OUT = ROOT / 'site_v2'
+# Všechna data mapy se čtou z SQLite (db/mapa.sqlite) přes db/mapa_db.py.
+DB_DIR = Path(os.environ.get('ACR_DB_DIR') or ROOT.parent / 'db')
+sys.path.insert(0, str(DB_DIR))
+import mapa_db  # noqa: E402
 
 CATS = [
     ('oficialni', 'Oficiální weby MO / AČR', 'Centrální weby ministerstva a armády'),
@@ -445,9 +449,8 @@ def _archive_module():
 
 
 def _load_url_aliases():
-    ap = ROOT / 'data' / 'url_aliases.json'
     try:
-        d = json.loads(ap.read_text(encoding='utf-8'))
+        d = mapa_db.url_aliases()
         return {k: v for k, v in d.items() if not k.startswith('_')}
     except Exception:
         return {}
@@ -485,19 +488,8 @@ def load_updates_history():
     Safety net: duplicates (same channel + normalized text) are collapsed here
     too, so feed + histogram + header count only unique posts.
     """
-    hp = ROOT / 'data' / 'updates_history.jsonl'
     rows = []
-    if not hp.exists():
-        return rows
-    raw = []
-    for line in hp.read_text(encoding='utf-8', errors='replace').splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            raw.append(json.loads(line))
-        except Exception:
-            continue
+    raw = mapa_db.updates_history()
     raw = _apply_url_aliases(raw)
     mod = _archive_module()
     if mod is not None and hasattr(mod, 'dedupe_rows'):
@@ -581,19 +573,13 @@ def _tracked_channel_urls():
     global _TRACKED
     if _TRACKED is None:
         _TRACKED = set()
-        cp = ROOT / 'data' / 'captures.jsonl'
-        if cp.exists():
-            for line in cp.read_text(encoding='utf-8', errors='replace').splitlines():
-                try:
-                    u = json.loads(line).get('url')
-                except Exception:
-                    continue
-                if u:
-                    _TRACKED.add(_url_norm(u))
-        ep = ROOT / 'data' / 'enrichment.json'
-        if ep.exists():
+        for r in mapa_db.captures():
+            u = r.get('url')
+            if u:
+                _TRACKED.add(_url_norm(u))
+        if True:
             try:
-                for u, e in json.loads(ep.read_text(encoding='utf-8')).items():
+                for u, e in mapa_db.enrichment().items():
                     _TRACKED.add(_url_norm(u))
                     for n in e.get('news_pages') or []:
                         if n.get('url'):
@@ -625,15 +611,9 @@ def load_x_post_index(mod):
     idx = {}
     if mod is None:
         return idx
-    files = [ROOT / 'data' / 'x_posts.json'] + sorted((ROOT / 'data').glob('x_posts.json.bak*'), reverse=True)
     accounts = []
-    for xp in files:
-        if not xp.exists():
-            continue
-        try:
-            accounts.extend(json.loads(xp.read_text(encoding='utf-8')).get('accounts') or [])
-        except Exception:
-            continue
+    for _name, d in mapa_db.x_post_files():
+        accounts.extend(d.get('accounts') or [])
     for acc in accounts:
         base = acc.get('url') or ('https://x.com/' + (acc.get('handle') or ''))
         ck = mod.channel_key(base)
@@ -783,18 +763,8 @@ PLATFORM_LABEL = {'fb': 'Facebook', 'ig': 'Instagram', 'x': 'X', 'yt': 'YouTube'
 
 def load_interesting_comments(mod):
     """data/interesting_comments.jsonl (see scripts/add_interesting_comments.py), newest first."""
-    cp = ROOT / 'data' / 'interesting_comments.jsonl'
     rows = []
-    if not cp.exists():
-        return rows
-    for line in cp.read_text(encoding='utf-8', errors='replace').splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            o = json.loads(line)
-        except Exception:
-            continue
+    for o in mapa_db.comments():
         if not (o.get('comment_text') or '').strip():
             continue
         # defensive: never show private-person names
@@ -952,17 +922,9 @@ CZ_MONTHS = ['ledna', 'února', 'března', 'dubna', 'května', 'června', 'červ
 def load_motd():
     """data/motd/YYYY-MM-DD.json (written via scripts/set_motd.py) → newest first."""
     out = []
-    d = ROOT / 'data' / 'motd'
-    if not d.exists():
-        return out
-    for p in sorted(d.glob('????-??-??.json'), reverse=True):
-        try:
-            m = json.loads(p.read_text(encoding='utf-8'))
-        except Exception as e:
-            print(f'warn: motd {p.name}: {e}')
-            continue
+    for stem, m in reversed(mapa_db.motd_files()):
         if m.get('headline') and m.get('items'):
-            m.setdefault('date', p.stem)
+            m.setdefault('date', stem)
             out.append(m)
     return out
 
@@ -1057,7 +1019,13 @@ def render_motd(motds, items, chkey):
 
 
 def main():
-    run_archive_updates()
+    # archive_updates.py (zápis do updates_history.jsonl) + import do SQLite běží
+    # PŘED buildem v run_build.sh – builder sám už jen čte z databáze.
+    if os.environ.get('ACR_RUN_ARCHIVE') == '1':
+        run_archive_updates()
+        import subprocess
+        subprocess.run([sys.executable, str(DB_DIR / 'import_data.py'), '--root', str(ROOT)], check=True)
+        mapa_db._CON = None
 
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -1106,24 +1074,13 @@ def main():
             print(f'WARN: comment screenshot missing: {rel}')
     print(f'comment screenshots copied: {_n_cs}')
 
-    rows = []
-    for line in (ROOT / 'data' / 'captures.jsonl').read_text(encoding='utf-8', errors='replace').splitlines():
-        line = line.strip()
-        if not line:
-            continue
-        try:
-            rows.append(json.loads(line))
-        except Exception:
-            pass
+    rows = mapa_db.captures()
     by = {}
     for r in rows:
         by[r.get('url')] = r
     rows = list(by.values())
 
-    enrich = {}
-    ep = ROOT / 'data' / 'enrichment.json'
-    if ep.exists():
-        enrich = json.loads(ep.read_text())
+    enrich = mapa_db.enrichment()
 
     # prepare images + card data
     items = []
@@ -1479,10 +1436,9 @@ def main():
 
 
     # Absence / policy note from alt platform research
-    alt_path = ROOT / 'data' / 'alt_platforms.json'
     absence_items = []
-    if alt_path.exists():
-        for a in json.loads(alt_path.read_text(encoding='utf-8')):
+    if True:
+        for a in mapa_db.alt_platforms():
             if a.get('officiality') == 'absence' or a.get('platform') == 'policy':
                 plat = (a.get('platform') or '').upper()
                 if a.get('platform') == 'policy':
@@ -2199,5 +2155,17 @@ if(activeView==='chrono'||activeView==='feed'||activeView==='histogram'||activeV
     print(f'ok items={len(items)} admin={admin_count} komentare={len(comments)} html={(OUT/"index.html").stat().st_size} cats={dict(counts)}')
 
 
+def publish_sqlite():
+    """Zveřejní databázi + SQL konzoli spolu s webem (site_v2/mapa.sqlite, site_v2/sql.html)."""
+    src = mapa_db.db_path()
+    if src.exists():
+        shutil.copy2(src, OUT / 'mapa.sqlite')
+    sp = DB_DIR / 'sql.html'
+    if sp.exists():
+        shutil.copy2(sp, OUT / 'sql.html')
+    print(f'sqlite published: {src.name} ({src.stat().st_size if src.exists() else 0} B)')
+
+
 if __name__ == '__main__':
     main()
+    publish_sqlite()

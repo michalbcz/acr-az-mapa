@@ -263,8 +263,8 @@ def card(e, now, url_to_id, past=False):
 
 def build(root, out, items=None, now=None):
     root, out = Path(root), Path(out)
-    p = root / 'data' / 'events.json'
-    events = json.loads(p.read_text(encoding='utf-8')) if p.exists() else []
+    import mapa_db  # db/mapa_db.py
+    events = mapa_db.events()
     now = now or dt.datetime.now(TZ)
     url_to_id = {}
     for it in items or []:

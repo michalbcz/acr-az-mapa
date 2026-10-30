@@ -9,7 +9,9 @@ from __future__ import annotations
 
 import html
 import json
+import os
 import re
+import sys
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -17,6 +19,8 @@ from urllib.parse import quote, urldefrag, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "site_v2" / "archiv-is.html"
+sys.path.insert(0, str(Path(os.environ.get("ACR_DB_DIR") or ROOT.parent / "db")))
+import mapa_db  # noqa: E402
 ARCHIVE_DATA = ROOT / "data" / "archive_status.json"
 URLS_DATA = ROOT / "urls.json"
 CAPTURES_DATA = ROOT / "data" / "captures.jsonl"
@@ -51,6 +55,11 @@ SOCIAL_HOSTS = {
 
 
 def read_jsonl(path: Path) -> list[dict]:
+    # data mapy se čtou z SQLite (db/mapa.sqlite)
+    fn = {CAPTURES_DATA: mapa_db.captures, HISTORY_DATA: mapa_db.updates_history,
+          COMMENTS_DATA: mapa_db.comments}.get(path)
+    if fn:
+        return [o for o in fn() if isinstance(o, dict)]
     if not path.exists():
         return []
     rows = []
@@ -117,9 +126,9 @@ def archive_org(snapshot: object) -> str | None:
 
 
 def build_items() -> list[dict]:
-    archive = json.loads(ARCHIVE_DATA.read_text(encoding="utf-8"))
+    archive = mapa_db.archive_status()
     tracked = archive.get("links", {})
-    urls = json.loads(URLS_DATA.read_text(encoding="utf-8"))
+    urls = mapa_db.watched_urls()
 
     base_category: dict[str, str] = {}
     for key, values in urls.items():

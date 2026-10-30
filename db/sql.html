@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SQL konzole – Mapa AČR / AZ</title>
+<style>
+body{font-family:system-ui,sans-serif;margin:0;background:#0f1412;color:#e6ece8}
+header{padding:12px 18px;background:#1b2a22;border-bottom:1px solid #2d4436}
+header a{color:#9fd3b0}
+main{padding:14px 18px;max-width:1400px}
+textarea{width:100%;min-height:150px;font:13px ui-monospace,monospace;background:#16201b;color:#e6ece8;border:1px solid #2d4436;border-radius:6px;padding:8px;box-sizing:border-box}
+button,select{background:#2d5a3d;color:#fff;border:0;border-radius:5px;padding:7px 12px;margin:6px 6px 6px 0;cursor:pointer}
+select{background:#16201b;border:1px solid #2d4436}
+#status{opacity:.8;font-size:13px}
+.err{color:#ff8a80}
+.wrap{overflow:auto;max-height:65vh;border:1px solid #2d4436;border-radius:6px;margin-top:8px}
+table{border-collapse:collapse;font-size:12.5px}
+th,td{border-bottom:1px solid #24352c;padding:4px 8px;text-align:left;vertical-align:top;max-width:480px;overflow-wrap:anywhere}
+th{position:sticky;top:0;background:#1b2a22}
+details{margin:8px 0;font-size:13px}
+code{background:#16201b;padding:1px 4px;border-radius:3px}
+</style></head><body>
+<header><b>SQL konzole</b> · databáze <a href="mapa.sqlite" download>mapa.sqlite</a> · <a href="index.html">← zpět na mapu</a>
+<span id="status">načítám…</span></header>
+<main>
+<p style="font-size:13px;opacity:.85">Dotazy běží jen ve vašem prohlížeči (sql.js) nad kopií databáze. Povoleny jsou pouze čtecí dotazy <code>SELECT</code> / <code>WITH</code> / <code>PRAGMA table_info</code>. Schéma a popis tabulek: <code>docs/SQL.md</code> v repozitáři.</p>
+<select id="ex"><option value="">— ukázkové dotazy —</option></select>
+<textarea id="q" spellcheck="false">SELECT name AS tabulka FROM sqlite_master WHERE type='table' ORDER BY name;</textarea>
+<button id="run">Spustit (Ctrl+Enter)</button><span id="info" style="font-size:13px"></span>
+<details><summary>Tabulky</summary><div id="tabs"></div></details>
+<div class="wrap"><table id="out"></table></div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/sql-wasm.js"></script>
+<script>
+const EX = [
+ ['Počet řádků v tabulkách', "SELECT 'captures' t, COUNT(*) n FROM captures UNION ALL SELECT 'updates',COUNT(*) FROM updates UNION ALL SELECT 'comments',COUNT(*) FROM comments UNION ALL SELECT 'events',COUNT(*) FROM events UNION ALL SELECT 'health_checks',COUNT(*) FROM health_checks UNION ALL SELECT 'link_history',COUNT(*) FROM link_history;"],
+ ['Kanály podle kategorie a oficiality', "SELECT category, officiality, COUNT(*) AS kanalu\nFROM channels GROUP BY 1,2 ORDER BY 1,2;"],
+ ['Příspěvky za posledních 14 dní podle zdroje', "SELECT source_label, COUNT(*) AS prispevku, MAX(date_iso) AS posledni\nFROM updates WHERE date_iso >= date('now','-14 day')\nGROUP BY 1 ORDER BY 2 DESC;"],
+ ['Komentáře podle důvodu zařazení', "SELECT r.reason AS duvod, COUNT(*) AS komentaru\nFROM comment_reasons r GROUP BY 1 ORDER BY 2 DESC;"],
+ ['Ověřené komentáře (fact-check)', "SELECT c.platform, c.channel, v.status, v.summary\nFROM comments c JOIN verifications v ON v.comment_id = c.id\nORDER BY v.checked_at DESC;"],
+ ['Certifikáty, které brzy vyprší (poslední měření)', "SELECT h.url, t.issuer_o, t.not_after, t.days_to_expiry\nFROM health_checks h JOIN tls_certs t USING(check_id)\nWHERE h.date = (SELECT MAX(date) FROM health_checks)\n  AND t.days_to_expiry IS NOT NULL\nORDER BY t.days_to_expiry LIMIT 20;"],
+ ['Dostupnost webů po dnech', "SELECT date, SUM(up) AS online, COUNT(*) - SUM(up) AS offline\nFROM health_checks GROUP BY date ORDER BY date DESC LIMIT 30;"],
+ ['Nefunkční odkazy', "SELECT l.url, l.http_status, l.error, GROUP_CONCAT(s.source, ', ') AS zdroje\nFROM link_status l LEFT JOIN link_status_sources s USING(url)\nWHERE l.status = 'broken' GROUP BY l.url;"],
+ ['Stav archivace (Wayback / archive.today)', "SELECT service, status, COUNT(*) AS odkazu\nFROM archive_snapshots GROUP BY 1,2 ORDER BY 1,3 DESC;"],
+ ['Nadcházející události', "SELECT start, title, type, location\nFROM events WHERE start >= date('now') ORDER BY start LIMIT 30;"],
+ ['Zprávy dne – poslední týden', "SELECT m.file_date, m.headline, i.category, i.text\nFROM motd m JOIN motd_items i USING(file_date)\nORDER BY m.file_date DESC, i.ord LIMIT 40;"],
+ ['Weby podle CMS', "SELECT COALESCE(cms,'?') AS cms, COUNT(*) AS webu FROM enrichment GROUP BY 1 ORDER BY 2 DESC;"],
+];
+const sel = document.getElementById('ex'), q = document.getElementById('q'), out = document.getElementById('out'),
+      st = document.getElementById('status'), info = document.getElementById('info');
+EX.forEach(([t, s], i) => { const o = document.createElement('option'); o.value = i; o.textContent = t; sel.appendChild(o); });
+sel.onchange = () => { if (sel.value !== '') { q.value = EX[sel.value][1]; run(); } };
+let db = null;
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function readOnly(sql) {
+  const s = sql.replace(/--[^\n]*/g, '').replace(/\/\*[\s\S]*?\*\//g, '').trim().replace(/;\s*$/, '');
+  if (s.includes(';')) return 'Povolen je jen jeden dotaz.';
+  if (!/^(select|with|pragma\s+table_info|explain)\b/i.test(s)) return 'Povoleny jsou jen čtecí dotazy (SELECT / WITH).';
+  if (/\b(insert|update|delete|drop|alter|create|attach|detach|replace|vacuum|reindex)\b/i.test(s.replace(/'[^']*'/g, ''))) return 'Dotaz obsahuje zakázaný příkaz.';
+  return null;
+}
+function run() {
+  if (!db) return;
+  const sql = q.value, bad = readOnly(sql);
+  out.innerHTML = '';
+  if (bad) { info.innerHTML = ' <span class="err">' + esc(bad) + '</span>'; return; }
+  const t0 = performance.now();
+  try {
+    const res = db.exec(sql);
+    if (!res.length) { info.textContent = ' 0 řádků'; return; }
+    const { columns, values } = res[0], lim = 2000;
+    out.innerHTML = '<tr>' + columns.map(c => '<th>' + esc(c) + '</th>').join('') + '</tr>' +
+      values.slice(0, lim).map(r => '<tr>' + r.map(v => '<td>' + (v === null ? '<i style="opacity:.5">NULL</i>' : esc(v)) + '</td>').join('') + '</tr>').join('');
+    info.textContent = ` ${values.length} řádků${values.length > lim ? ' (zobrazeno ' + lim + ')' : ''} · ${(performance.now() - t0).toFixed(0)} ms`;
+  } catch (e) { info.innerHTML = ' <span class="err">' + esc(e.message) + '</span>'; }
+}
+document.getElementById('run').onclick = run;
+q.addEventListener('keydown', e => { if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) { e.preventDefault(); run(); } });
+Promise.all([
+  initSqlJs({ locateFile: f => 'https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/' + f }),
+  fetch('mapa.sqlite').then(r => { if (!r.ok) throw new Error('mapa.sqlite: HTTP ' + r.status); return r.arrayBuffer(); })
+]).then(([SQL, buf]) => {
+  db = new SQL.Database(new Uint8Array(buf));
+  const tabs = db.exec("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name")[0].values.map(r => r[0]);
+  document.getElementById('tabs').innerHTML = tabs.map(t => `<code style="cursor:pointer" data-t="${t}">${t}</code>`).join(' ');
+  document.querySelectorAll('#tabs code').forEach(c => c.onclick = () => { q.value = `SELECT * FROM ${c.dataset.t} LIMIT 100;`; run(); });
+  st.textContent = `· ${(buf.byteLength / 1048576).toFixed(1)} MB, ${tabs.length} tabulek`;
+  run();
+}).catch(e => { st.innerHTML = '<span class="err">' + esc(e.message) + '</span>'; });
+</script>
+</body></html>

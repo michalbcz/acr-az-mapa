@@ -692,3 +692,5 @@ Záznamů: 16
 | `officiality` | string | 16 | absence |
 | `notes` | string | 16 | No official AČR/MO/AZ/doarmady/POKOS public Telegram channel |
 | `evidence` | string | 16 | https://mocr.mo.gov.cz/informacni-servis/site/dalsi-informac |
+
+> Větev `feature/sqlite-data`: data mapy jsou v SQLite (`db/mapa.sqlite`), viz [SQL.md](SQL.md).

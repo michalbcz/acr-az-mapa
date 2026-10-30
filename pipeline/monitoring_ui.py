@@ -63,39 +63,32 @@ class Monitoring:
     def __init__(self, root):
         root = Path(root)
         self.hist = []
-        hp = root / 'data' / 'health_history.jsonl'
-        if hp.exists():
-            for line in hp.read_text(encoding='utf-8', errors='replace').splitlines():
-                try:
-                    self.hist.append(json.loads(line))
-                except Exception:
-                    pass
+        import mapa_db  # db/mapa_db.py (sys.path nastavuje build_site_v2)
+        self.hist = mapa_db.health_history()
         self.by_url = {}
         for r in self.hist:
             self.by_url.setdefault(r.get('url'), []).append(r)
         for v in self.by_url.values():
             v.sort(key=lambda r: r.get('date') or '')
         try:
-            _al = json.loads((root / 'data' / 'url_aliases.json').read_text(encoding='utf-8'))
+            _al = mapa_db.url_aliases()
             self.retired = {k for k in _al if not k.startswith('_')}
         except Exception:
             self.retired = set()
         self.days = sorted({r.get('date') for r in self.hist if r.get('date')})
         ls = {}
-        lp = root / 'data' / 'link_status.json'
-        if lp.exists():
+        if True:
             try:
-                ls = json.loads(lp.read_text(encoding='utf-8'))
+                ls = mapa_db.link_status()
             except Exception:
                 ls = {}
         self.link_meta = ls
         self.links = ls.get('links') or {}
-        ap = root / 'data' / 'archive_status.json'
         self.arch_meta = {}
         self.arch = {}
-        if ap.exists():
+        if True:
             try:
-                self.arch_meta = json.loads(ap.read_text(encoding='utf-8'))
+                self.arch_meta = mapa_db.archive_status()
                 self.arch = self.arch_meta.get('links') or {}
             except Exception:
                 pass
