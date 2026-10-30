@@ -1,0 +1,158 @@
+{
+ "date": "2026-10-21",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel run; archive_submit NESPOUŠTĚN)",
+ "czdefence_top": {
+  "title": "Baku buduje vlastní obranný průmysl: Česko, Izrael a Turecko jsou u toho",
+  "pubDate": "Wed, 21 Oct 2026 07:54:00 +0200",
+  "url": "https://www.czdefence.cz/clanek/baku-buduje-vlastni-obranny-prumysl-cesko-izrael-a-turecko-jsou-u-toho",
+  "second": {
+   "title": "Generál Hlaváč: Armáda potřebuje rychlejší akvizice, digitalizaci velení a zapojení umělé inteligence",
+   "pubDate": "Wed, 21 Oct 2026 07:07:48 +0200",
+   "url": "https://www.czdefence.cz/clanek/general-hlavac-armada-potrebuje-rychlejsi-akvizice-digitalizaci-veleni-a-zapojeni-umele-inteligence"
+  },
+  "source": "curl https://www.czdefence.cz/rss2: 1. pokus TLS unexpected eof, 2. pokus 200 (122456 B / 120 items) ~08:18 → feed_cache/czdefence.xml; ingest ~08:18 + znovu po enrichmentu ~08:30 (live)"
+ },
+ "enrichment": {
+  "entries": 55,
+  "enrich_sites": {
+   "sites_with_news_pages": 44,
+   "news_pages_with_items": 41,
+   "captures_updated": 3,
+   "cms_unknown": 20,
+   "finished": "~08:27"
+  },
+  "enrich_refine": {
+   "sites_with_news_pages": 46,
+   "news_pages_with_items": 49,
+   "captures_updated": 0,
+   "finished": "~08:30"
+  },
+  "note": "Zálohy captures/enrichment/x_posts/updates_history/events (+feed_cache czdefence.xml/json) .bak-pre-20261021. První běh enrichmentu přerušen restartem boxu (~08:19), spuštěn znovu 08:20."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 obě účty (20 B) ~08:18 → X API v2 get_users_posts since_id (x MCP): ArmadaCR 3 (2 vlastní + 1 RT @uniobrany nepřidán), ObranaTweetuje 2 vlastní",
+  "ArmadaCR_latest_own": "2026-10-20 17:54 Prague (2112573171949838474 – Strakoničtí vojáci míří do Pobaltí)",
+  "ObranaTweetuje_latest_own": "2026-10-20 15:10 Prague (2112531996312568221 – Rekordní čísla náboru, Zůna benefity AZ)",
+  "new_posts": {
+   "ArmadaCR": [
+    "https://x.com/ArmadaCR/status/2112573171949838474",
+    "https://x.com/ArmadaCR/status/2112518855662743786"
+   ],
+   "ObranaTweetuje": [
+    "https://x.com/ObranaTweetuje/status/2112531996312568221",
+    "https://x.com/ObranaTweetuje/status/2112515736245588389"
+   ]
+  },
+  "note": "x_posts.json: ArmadaCR 13→15, ObranaTweetuje 13→15 (text = API text, plné note_tweet texty v raw). X captures last_post neměněny (dělá sociální běh).",
+  "x_raw": [
+   "data/x_raw/synd_ArmadaCR_2026-10-21.json (429)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-21.json (429)",
+   "data/x_raw/xapi_2026-10-21.json"
+  ]
+ },
+ "archive_updates": {
+  "added": 11,
+  "total": 517,
+  "from": 506,
+  "note": "motd_facts counts_diff vs 20.10.: 502 → 517 (vč. +4 ze sociálního běhu 20.10.)"
+ },
+ "health": {
+  "sites": 54,
+  "up": 51,
+  "down": 3,
+  "down_list": [
+   "portal.ardos.org (TLS UNEXPECTED_EOF, 7. den)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "transitions": [],
+  "certs_le_30d": {
+   "www.az44lmopr.cz": 12
+  }
+ },
+ "links": {
+  "checked": "2026-10-21T08:30:22+02:00 (po 1. buildu)",
+  "total": 793,
+  "ok": 664,
+  "login_wall": 122,
+  "broken": 1,
+  "unknown": 6,
+  "broken_list": [
+   "https://kvv-jihlava.mo.gov.cz/aktuality/omezeni-urednich-hodin-1 (404; ověřeno curl; web KVV nyní vede /aktuality/omezeni-provozu-kvv-jihlava-v-listopadu-2026 → 200)"
+  ],
+  "unknown_by_host": {
+   "www.facebook.com": 3,
+   "portal.ardos.org": 1,
+   "zbranekvalitne.cz": 1,
+   "lvisingr.czweb.org": 1
+  }
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 124); archive_status.json beze změny (od 2026-10-07)"
+ },
+ "archive_submit": "nespuštěn (dle zadání)",
+ "events": {
+  "added": 8,
+  "updated": 0,
+  "total": 110,
+  "inbox": "data/events_inbox/2026-10-21.json (8 kandidátů)",
+  "changes": [
+   "+ UKAŽ FORMU – přezkoušení z tělesné zdatnosti UO: Praha 27. 10. 2026 10–12, Praha 16. 2. 2027, Olomouc 6. 3., Mor. Třebová 16. 3., Hradec Králové 17. 3., Brno 18. 3. (Nadstandardní příprava), Mor. Třebová 23. 3. 2027 (zdroj unob.cz/…/prezkouseni-z-telesne-zdatnosti-garantovane-ministerstvem-obrany; nově i na doarmady náborových akcích)",
+   "+ Přijetí ministra obrany Arménie S. Papikyana 22. 10. 2026 14:30, MO Praha – jen pro média (mo.gov.cz diary action.php?id=8389)"
+  ],
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (200) – nově UKAŽ FORMU termíny; ostatní už v events",
+   "doarmady /nastupni-terminy-az-a-dvc + /nastupni-terminy-vzp (200)",
+   "mo.gov.cz diary 10/2026 a 11/2026 (200); action.php?id=8389 nové, 8390–8396 prázdné stuby (349 B)",
+   "unob.cz (www.unob.cz TLS unrecognized name; unob.cz 200) – akce univerzity + UKAŽ FORMU",
+   "X: RT @uniobrany přísaha UO 30. 10. – už v events (ev-c3766926e6cd)"
+  ],
+  "not_checked": "acr.mo.gov.cz přehled cvičení, KVV aktuality kromě Jihlavy, obecní/krajská oznámení"
+ },
+ "motd": {
+  "file": "data/motd/2026-10-21.json",
+  "draft": "data/motd/drafts/2026-10-21.json",
+  "headline": "Strakoničtí vojáci se chystají na misi do Litvy, MO hlásí rekordní nábor záložáků a Univerzita obrany vypsala termíny přezkoušení UKAŽ FORMU.",
+  "items": 6
+ },
+ "publish": {
+  "data_commit": "25df956",
+  "pushed_at": "2026-10-21T08:33:36+02:00",
+  "note": "rsync (exclude .git/vercel.json/README.md), 16 změněných položek v git status (index, motd.json, updates_history.json, events.ics/json, 8 nových events/*.ics, archiv-is.html…); archiv-is.html v mirroru OK; push napoprvé OK (po obnovení /usr/bin/gh symlinku)."
+ },
+ "live_check": {
+  "at": "2026-10-21T08:33:53+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "cat-komentare": true,
+   "motd": true
+  },
+  "motd_json_date": "2026-10-21",
+  "index_identical_to_mirror": true,
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 110,
+   "parse": "ok"
+  },
+  "interesting_comments": 94,
+  "archiv_is": 200
+ },
+ "problems": [
+  "Box se ~08:19 restartoval (uptime 2 min): smazán /tmp, ztracen 1. zápis events (redo), přerušen 1. enrichment (redo), zmizel rsync (apt install) a symlink /usr/bin/gh pro git credential helper (obnoven ln -s /usr/local/bin/gh)",
+  "X syndication 429 obě účty → X API (x MCP)",
+  "czdefence RSS 1. pokus TLS EOF, 2. pokus OK",
+  "portal.ardos.org TLS EOF 7. den",
+  "zbranekvalitne.cz + lvisingr.czweb.org ConnectTimeout",
+  "nový broken link: KVV Jihlava omezeni-urednich-hodin-1 → 404 (aktualita přejmenována)",
+  "archive_lookup timeout 110 s (status od 2026-10-07)",
+  "az44lmopr.cz cert 12 d",
+  "www.unob.cz TLS unrecognized name (unob.cz funguje)",
+  "včerejší archive_submit: 60× wayback error + 1× archive.today error"
+ ]
+}

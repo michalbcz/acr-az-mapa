@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T08:24:37+02:00",
+ "headline": "MO k působení generála Haratka; Czech CAS SOF Week 2026; Zůna v Pentagonu; 5 nových akcí v kalendáři.",
+ "items": [
+  {
+   "text": "Ministerstvo obrany (16. 10.) vydalo vyjádření k působení brigádního generála Radka Haratka v čele Velitelství informačních a kybernetických sil AČR: jeho žádost o předčasný odchod ze služby nebyla schválena a ministr uložil NGŠ podat podnět k jeho přemístění na jiné místo. Zmiňuje i šetření projektů „KAREL“ a „VOLBY“ vojenskou policií.",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://mocr.mo.gov.cz/",
+   "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vyjadreni-k-pusobeni-velitele-velitelstvi-informacnich-a-kybernetickych-sil-acr--266501/"
+  },
+  {
+   "text": "Armáda ČR na X (16. 10.): skončil mnohonárodní výcvik speciálních sil Czech Close Air Support SOF Week 2026, do kterého se zapojilo přes 30 jednotek z 10 členských a partnerských zemí NATO.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2111037825869119765"
+  },
+  {
+   "text": "Ministerstvo obrany na X (16. 10.): ministr Jaromír Zůna jednal v Pentagonu s náměstkem pro politiku Elbridgem A. Colbym, hlavním architektem konceptu nové obranné alianční politiky NATO 3.0.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2110982421789172148"
+  },
+  {
+   "text": "Kalendář: +5 akcí (celkem 101) – výstava „Historie a současnost radioelektronického boje“ před GŠ AČR v Praze (22. 10.–26. 11., v den zahájení ukázky dronů a stánky náboru a POKOS), jmenování plukovníků na Vítkově (27. 10.) a pietní akt k 108. výročí vzniku ČSR (28. 10.). Dále VUS Ondráš ve Žďáru nad Sázavou (19. 10.) a nábor na Scholaris Šumperk (3. 11.).",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8385",
+   "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8385"
+  },
+  {
+   "text": "SSL: armadninoviny.cz má obnovený certifikát (89 dní). Certifikáty securityoutlines.cz a jirivojacek.cz vyprší za 13 dní, az44lmopr.cz za 16 dní a forum.vojsko.net za 28 dní.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Odkazy: KVV Praha a Středočeský kraj má nový funkční odkaz na stránku aktivní zálohy, takže kontrola odkazů už nehlásí žádný nefunkční odkaz (627 ok, 0 nefunkčních). Dál nedostupné zůstávají portal.ardos.org (TLS chyba), zbranekvalitne.cz a lvisingr.czweb.org.",
+   "category": "odkazy",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

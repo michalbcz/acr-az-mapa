@@ -1,0 +1,164 @@
+{
+ "date": "2026-10-14",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel subagent; archive_submit NESPOUŠTĚN tímto agentem)",
+ "czdefence_top": {
+  "title": "Colt MK 47: Moderní granátomet s programovatelnou municí rozšiřuje možnosti palebné podpory pěchoty",
+  "pubDate": "Wed, 14 Oct 2026 07:36:06 +0200",
+  "url": "https://www.czdefence.cz/clanek/colt-mk-47-moderni-granatomet-s-programovatelnou-munici-rozsiruje-moznosti-palebne-podpory-pechoty",
+  "second": {
+   "title": "Bezpečnost České republiky čelí novým výzvám. Zpravodajci, policie i experti upozorňují na proměnu hrozeb",
+   "pubDate": "Tue, 13 Oct 2026 08:16:09 +0200"
+  },
+  "source": "curl live https://www.czdefence.cz/rss2 200 (122936 B / 120 items) 08:11 → feed_cache/czdefence.xml (raw XML; WebFetch vrací jen markdown); ingest 08:11 + znovu po enrichmentu 08:20"
+ },
+ "enrichment": {
+  "entries": 56,
+  "cms": {
+   "Drupal": 27,
+   "unknown": 12,
+   "WordPress": 6,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "Webnode": 2,
+   "custom": 2,
+   "Nextcloud": 1,
+   "Groups.io": 1,
+   "phpBB": 1
+  },
+  "news_pages": 47,
+  "news_pages_with_items": 50,
+  "enrich_sites": {
+   "news_pages": 45,
+   "news_pages_with_items": 43,
+   "captures_updated": 4,
+   "finished": "08:17:34"
+  },
+  "enrich_refine": {
+   "news_pages": 47,
+   "news_pages_with_items": 50,
+   "captures_updated": 0,
+   "finished": "08:19:44"
+  },
+  "note": "capture_experts/units/kvv nespouštěny. Zálohy enrichment/captures/x_posts/updates_history/events .bak-pre-20261014. X captures last_post (+last_post_url) aktualizovány."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 (20 B) 08:11 obě účty → X API v2 (x MCP get_users_by_usernames + get_users_posts); ArmadaCR kept 6/19 (13 skipped: RT, odpovědi jiným, self-reply link-only), ObranaTweetuje kept 17/17; x_posts cap 12/účet (ArmadaCR 11, ObranaTweetuje 12)",
+  "ArmadaCR_latest_own": "2026-10-13 18:00 Prague (2110037997525606805 Moravian Lance 2026 – experimentální cvičení)",
+  "ObranaTweetuje_latest_own": "2026-10-13 15:08 Prague (2109994679588577526 Zůna na ambasádě ve Washingtonu)",
+  "new_posts": {
+   "ArmadaCR": [
+    "2110037997525606805",
+    "2110007918380626316"
+   ],
+   "ObranaTweetuje": [
+    "2109994679588577526",
+    "2109947074972381534",
+    "2109940970158690306",
+    "2109918614618845281"
+   ],
+   "note": "API okno vrátilo i starší 2107473724580474984 (6.10) – odřízl cap 12, nepočítán"
+  },
+  "x_raw": [
+   "data/x_raw/xapi_2026-10-14.json",
+   "data/x_raw/synd_ArmadaCR_2026-10-14.json (429, 20 B)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-14.json (429, 20 B)"
+  ]
+ },
+ "social_permalinks": {
+  "x_tweet_index": "170 → 176",
+  "backfill_added": 0
+ },
+ "archive_updates": {
+  "added": 15,
+  "total": 425,
+  "from": 410
+ },
+ "health": {
+  "sites": 55,
+  "up": 52,
+  "down": 3,
+  "down_list": [
+   "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "1. běh 08:19–08:22: armadninoviny.cz TLS EOF (51/4); curl 08:22 2× 200 → 2. běh 08:23 přepsal den: 52/3, beze změn vs 13.10.",
+  "certs_le_30d": {
+   "www.valka.cz": 3,
+   "www.armadninoviny.cz": 14,
+   "www.securityoutlines.cz": 16,
+   "jirivojacek.cz": 16,
+   "www.az44lmopr.cz": 19
+  }
+ },
+ "links": {
+  "checked": "2026-10-14T08:24:28+02:00 (po buildu)",
+  "total": 705,
+  "ok": 572,
+  "login_wall": 124,
+  "broken": 1,
+  "unknown": 8,
+  "broken_list": [
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+  ]
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 124); data/archive_status.json updated_at zůstává 2026-10-07 08:24",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "tímto agentem nespuštěn; pozn.: běží proces archive_submit.py --cap 60 (PID 60550, start 14.10. 06:52), 37/60 pokusů vše ConnectTimeout na web.archive.org:80",
+ "events": {
+  "added": 1,
+  "total": 94,
+  "inbox": "data/events_inbox/2026-10-14.json (Tachov Kam na školu 3.11. 9:00–16:00, ev-c4997d2c6abb)",
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (200) — nově Tachov 3.11.2026 (detail ověřen revis-tachov.cz/kam-na-skolu-2026.html: 9:00–16:00, Společenský areál Mže, Hornická 1695); ostatní položky už v events.json",
+   "doarmady /deje-se/nastupni-terminy-az-a-dvc + /nastupni-terminy-vzp (200) – termíny odpovídají events.json",
+   "mo.gov.cz diary action.php?id=8383 (ARMY DEN, už v events), 8384–8395 prázdné stuby (349 B); kalendář 10/2026 id 8375–8383 (vše v events), 11/2026 bez akcí",
+   "czdefence RSS, X ArmadaCR/ObranaTweetuje, 15 nových řádků updates_history – žádná nová veřejná akce"
+  ],
+  "not_checked": "acr.mo.gov.cz přehled cvičení, unob.cz, KVV aktuality (čas)"
+ },
+ "motd": {
+  "file": "data/motd/2026-10-14.json",
+  "draft": "data/motd/drafts/2026-10-14.json",
+  "headline": "Ministr Zůna ve Washingtonu, AČR o Moravian Lance a dronech; valka.cz cert 3 d.",
+  "items": 6
+ },
+ "publish": {
+  "data_commit": "a795bda",
+  "pushed_at": "2026-10-14T08:28:34+02:00",
+  "note": "sync site_v2→git mirror přes python shutil (--delete ekvivalent, exclude .git/vercel.json/README.md): 23 souborů, 0 smazáno; archiv-is.html v mirroru OK"
+ },
+ "live_check": {
+  "at": "2026-10-14T08:30:01+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "motd": true
+  },
+  "motd_in_html": true,
+  "motd_json_date": "2026-10-14",
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 94,
+   "parse": "ok"
+  }
+ },
+ "social": {
+  "screenshots": "pending – paralelní subagent",
+  "comments": "pending – paralelní subagent (MOTD bez nových komentářů, interesting_comments 81)"
+ },
+ "problems": [
+  "X syndication 429 → fallback X API",
+  "rsync není → sync přes python",
+  "armadninoviny.cz přechodná TLS EOF v 1. health běhu → health znovu",
+  "archive_lookup timeout 110 s (status od 2026-10-07)",
+  "běžící archive_submit (start 06:52) – web.archive.org ConnectTimeout"
+ ]
+}

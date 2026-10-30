@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-07",
+  "timezone": "Europe/Prague",
+  "part": "data + events + MOTD + build + publish (no screenshots/comments/archive_submit)",
+  "czdefence_top": {
+    "title": "eSAURION: Nový český radar protivzdušné obrany má být očima celé baterie",
+    "pubDate": "Wed, 07 Oct 2026 07:09:50 +0200",
+    "url": "https://www.czdefence.cz/clanek/esaurion-novy-cesky-radar-protivzdusne-obrany-ma-byt-ocima-cele-baterie",
+    "source": "WebFetch rss2 → feed_cache/czdefence.xml (4 nové + 8 z předchozí cache = 12 items) + czdefence.json; ingest OK; box TLS EOF (curl 08:16)"
+  },
+  "enrichment": {
+    "entries": 56,
+    "cms": {
+      "Drupal": 26,
+      "unknown": 12,
+      "WordPress": 5,
+      "custom": 3,
+      "Next.js": 2,
+      "WebToDate": 2,
+      "phpBB": 2,
+      "Webnode": 2,
+      "Nextcloud": 1,
+      "Groups.io": 1
+    },
+    "news_pages": 47,
+    "news_pages_with_items": 44,
+    "note": "enrich_sites + enrich_refine; czdefence ingest znovu po enrichmentu (enrich přepsal enrichment.json)"
+  },
+  "x_syndication": {
+    "status": "429 6× (08:16–08:19, 3 pokusy/účet po 40 s) → ponechána cache z 2026-10-06",
+    "ArmadaCR_latest_own": "2026-10-05",
+    "ObranaTweetuje_latest_own": "2026-10-05",
+    "x_raw": "nový dump nevznikl (429)"
+  },
+  "social_permalinks": {
+    "x_tweet_index": 143,
+    "backfill_added": 0,
+    "social_rows": 144,
+    "with_permalink": 77,
+    "account_only": 67
+  },
+  "archive_updates": {
+    "added": 9,
+    "total": 326,
+    "from": 317
+  },
+  "health": {
+    "sites": 55,
+    "up": 52,
+    "down": 3,
+    "down_list": [
+      "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+      "resco-cr.cz (TLS EOF)",
+      "www.czdefence.cz (TLS EOF)"
+    ],
+    "certs_le_30d": {
+      "www.valka.cz": 10,
+      "rentaacr.cz": 15,
+      "www.armadninoviny.cz": 21,
+      "www.securityoutlines.cz": 23,
+      "jirivojacek.cz": 23,
+      "www.az44lmopr.cz": 26
+    }
+  },
+  "links": {
+    "checked": 590,
+    "ok": 446,
+    "login_wall": 91,
+    "broken": 1,
+    "unknown": 52,
+    "broken_list": [
+      "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+    ]
+  },
+  "archive_lookup": {
+    "links": 590,
+    "wayback_archived": 361,
+    "wayback_none": 229,
+    "archive_is": "blocked_captcha"
+  },
+  "archive_submit": "nespuštěno (nepovinný závěrečný krok nadřazeného běhu)",
+  "events": {
+    "added": 1,
+    "total": 88,
+    "inbox": "data/events_inbox/2026-10-07.json",
+    "checked": [
+      "doarmady.mo.gov.cz/deje-se/naborove-akce",
+      "mo.gov.cz diary action.php?id=8383–8388 (8383 = ARMY DEN Flora, již v kalendáři; 8384+ prázdné)"
+    ],
+    "not_checked": "acr.mo.gov.cz cvičení, KVV, unob.cz (časový limit)"
+  },
+  "youtube_comments": "přeskočeno (nepovinné)",
+  "motd": {
+    "file": "data/motd/2026-10-07.json",
+    "items": 5
+  },
+  "publish": {
+    "commit": "c844037b8e4c929836215021c8907bedb007e5b6",
+    "pushed_at": "2026-10-07T08:27:33+02:00"
+  },
+  "live_check": {
+    "at": "2026-10-07T08:28:27+02:00",
+    "http": 200,
+    "markers": {
+      "cat-chrono": 13,
+      "badge-oficialni": 11,
+      "cat-events": 8
+    },
+    "motd_in_html": true,
+    "events_ics": {
+      "http": 200,
+      "content_type": "text/calendar; charset=utf-8",
+      "vevents": 88,
+      "parse": "ok"
+    },
+    "archiv_is": "308 → 200 (clean URL)"
+  }
+}

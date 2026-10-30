@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-20",
+ "headline": "Armáda ČR v sobotu ukáže v Letňanech CV90 i Leopard 2A4, 800 nováčků ve Vyškově finišuje výcvik a certifikát az44lmopr.cz vyprší za 13 dní.",
+ "items": [
+  {
+   "text": "Armáda ČR (web, 19. 10.): na Dni bezpečnosti a obrany v sobotu 24. 10. v PVA EXPO PRAHA Letňany (9:00–15:30, vstup zdarma bez registrace) představí například BVP CV90, tank Leopard 2A4, RBS-70NG, techniku speciálních a výsadkových sil a maskovací vzor MAD21. Akci připomnělo i MO na X, v kalendáři Události je nově s časem konání.",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/armada-cr-predstavi-na-dni-bezpecnosti-a-obrany-vybranou-vojenskou-techniku-266507/"
+  },
+  {
+   "text": "Armáda ČR (X, 19. 10.): zhruba 800 nováčků – noví profesionální vojáci, aktivní záložáci i účastníci dobrovolného vojenského cvičení – má po čtyřech týdnech ve Vyškově za sebou komplexní polní výcvik. Čekají je už jen závěrečné testy a slavnostní vojenská přísaha.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2112212776072425550"
+  },
+  {
+   "text": "Armáda ČR (X, 19. 10.): ženisté a chemici pomáhají se Správou NP Šumava sanovat bývalý vojenský prostor Dobrá Voda, kde je kontaminovaná zemina a sudy s nebezpečnými chemickými látkami. Po průzkumu terénu teď budují přístupovou cestu a oplocení.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2112142172161991094"
+  },
+  {
+   "text": "CZ Defence (neoficiální odborný web, 20. 10.): analýza, zda MO dokáže proměnit schválenou koncepci vojenské robotiky ve skutečnou schopnost – AČR buduje testovací prostředí a v roce 2026 uskutečnila rozsáhlé mezinárodní testování UGV. Týž den vyšel i text o veletrhu MSPO 2026 v Kielcích (drony, AI, autonomní systémy).",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/robotika-v-acr-koncepce-existuje-dokaze-ji-ale-ministerstvo-obrany-promenit-ve-skutecnou-schopnost"
+  },
+  {
+   "text": "Události: na stránce náborových akcí Do armády přibyla prezentace na přehlídce škol Scholaris v Prostějově (5. 11. 2026); kalendář má nyní 102 akcí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "SSL: certifikát az44lmopr.cz vyprší za 13 dní (3. 11.). Dál nedostupné zůstávají portal.ardos.org (TLS chyba, 6. den), zbranekvalitne.cz a lvisingr.czweb.org; žádný nový nefunkční odkaz.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

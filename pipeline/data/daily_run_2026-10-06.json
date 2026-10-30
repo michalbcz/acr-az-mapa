@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-06",
+  "timezone": "Europe/Prague",
+  "part": "data (no screenshots/comments/publish)",
+  "czdefence_top": {
+    "title": "Karel Havlíček: Čím lepší, silnější a výkonnější obranný průmysl v České republice bude, tím větší domácí zdroje budou k dispozici",
+    "pubDate": "Tue, 06 Oct 2026 07:09:51 +0200",
+    "url": "https://www.czdefence.cz/clanek/karel-havlicek-cim-lepsi-silnejsi-a-vykonnejsi-obranny-prumysl-v-ceske-republice-bude-tim-vetsi-domaci-zdroje-budou-k-dispozici",
+    "source": "WebFetch (agent tool; cursor namespace WebFetch not available) → feed_cache/czdefence.xml+json (12 items); ingest OK; box TLS EOF"
+  },
+  "enrichment": {
+    "entries": 56,
+    "cms": {
+      "Drupal": 26,
+      "unknown": 12,
+      "WordPress": 5,
+      "custom": 3,
+      "Next.js": 2,
+      "WebToDate": 2,
+      "phpBB": 2,
+      "Webnode": 2,
+      "Nextcloud": 1,
+      "Groups.io": 1
+    },
+    "news_pages": 47,
+    "news_pages_with_items": 44
+  },
+  "x_syndication": {
+    "status": "429 at 08:13–08:17, 200 at 08:19 → live refresh",
+    "ArmadaCR_latest_own": "2026-10-05",
+    "ObranaTweetuje_latest_own": "2026-10-05"
+  },
+  "archive_updates": {
+    "added": 18,
+    "total": 317,
+    "from": 299
+  },
+  "health": {
+    "sites": 55,
+    "up": 52,
+    "down": 3
+  },
+  "links": {
+    "ok": 376,
+    "login_wall": 86,
+    "broken": 1,
+    "unknown": 44
+  },
+  "archive_lookup": {
+    "before_submit": 293,
+    "after_submit": 298,
+    "none": 209,
+    "links": 507
+  },
+  "archive_submit": {
+    "finished_at": "2026-10-06T08:55:36+02:00",
+    "wayback_ok": 33,
+    "origin_unreachable": 27,
+    "archive_is": "blocked_tls_redirect",
+    "candidates": 250,
+    "log": "/tmp/archive_submit_20261006.log"
+  },
+  "events": {
+    "added": 19,
+    "total": 87,
+    "inbox": "data/events_inbox/2026-10-06.json"
+  }
+}

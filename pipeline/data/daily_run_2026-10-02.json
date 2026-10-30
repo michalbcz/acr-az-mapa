@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T08:57:21+02:00",
+  "timezone": "Europe/Prague",
+  "czdefence_top": {
+    "title": "První vojenská Tatra Phoenix 8×8 třetí generace s palivovou cisternou pro Armádu České republiky",
+    "date": "2026-10-02",
+    "pubDate": "Fri, 02 Oct 2026 08:16:02 +0200",
+    "url": "https://www.czdefence.cz/clanek/prvni-vojenska-tatra-phoenix-8x8-treti-generace-s-palivovou-cisternou-pro-armadu-ceske-republiky",
+    "source": "WebFetch → feed_cache/czdefence.xml+json; ingest_rss_feeds OK (box TLS EOF)"
+  },
+  "x_syndication_status": {
+    "refreshed": true,
+    "method": "syndication.twitter.com/srv/timeline-profile/screen-name/HANDLE __NEXT_DATA__",
+    "latest_post_date": "2026-10-01",
+    "handles": [
+      "ArmadaCR",
+      "ObranaTweetuje"
+    ],
+    "note": "live syndication OK; last_posts refreshed"
+  },
+  "archive_updates": {
+    "added": null,
+    "total": 276,
+    "note": "after captures/czdefence; +~3 during day"
+  },
+  "health": {
+    "sites": 55,
+    "up": 52,
+    "down": 3,
+    "down_urls": [
+      {
+        "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1",
+        "http_status": 404,
+        "error": ""
+      },
+      {
+        "url": "https://resco-cr.cz/",
+        "http_status": null,
+        "error": "TLS error: HTTPSConnectionPool(host='resco-cr.cz', port=443): Max retries exceed"
+      },
+      {
+        "url": "https://www.czdefence.cz/",
+        "http_status": null,
+        "error": "TLS error: HTTPSConnectionPool(host='www.czdefence.cz', port=443): Max retries e"
+      }
+    ]
+  },
+  "links": {
+    "checked_at": "2026-10-02T08:21:10+02:00",
+    "ok": 332,
+    "login_wall": 81,
+    "broken": 1,
+    "unknown": 33
+  },
+  "archive_submit_final": {
+    "finished_at": "2026-10-02T08:55:45+02:00",
+    "wayback_ok": 35,
+    "wayback_origin_unreachable": 25,
+    "wayback_429": 0,
+    "archive_is": "blocked_tls_redirect",
+    "candidates": 205,
+    "log": "/tmp/archive_submit_2026-10-02.log",
+    "summary": "submit summary wayback ok=35 origin_unreachable=25; no 429"
+  },
+  "events_result": {
+    "added": 0,
+    "updated": 0,
+    "unchanged": 2,
+    "total": 63,
+    "inbox": "data/events_inbox/2026-10-02.json",
+    "note": "Cheb Kam po ZŠ 22.10. a Vojákem na zkoušku Strakonice 9.10. už v events; ics sync v publish"
+  },
+  "comments": {
+    "inbox_count": 0,
+    "added": 0,
+    "total_after": 20,
+    "note": "FB logged-in scrape; jen běžné Super/štěstí — nic dle slovníku důvodů"
+  },
+  "screenshots_result": {
+    "priority_ok": 7,
+    "priority_total": 8,
+    "archive_dir": "screenshots/archive/2026-10-02/",
+    "ok": [
+      {
+        "name": "FB Armáda ČR",
+        "path": "screenshots/facebook-ArmadaCeskerepubliky-loggedin.jpg"
+      },
+      {
+        "name": "FB MO",
+        "path": "screenshots/facebook-MinisterstvoobranyCeskerepubliky-loggedin.jpg"
+      },
+      {
+        "name": "FB Do armády",
+        "path": "screenshots/facebook-doarmady-cz-loggedin.jpg"
+      },
+      {
+        "name": "IG Armáda ČR",
+        "path": "screenshots/instagram-armadaceskerepubliky-loggedin.png"
+      },
+      {
+        "name": "IG Do armády",
+        "path": "screenshots/instagram-do_armady-loggedin.png"
+      },
+      {
+        "name": "X @ArmadaCR",
+        "path": "screenshots/x-ArmadaCR.png"
+      },
+      {
+        "name": "X @ObranaTweetuje",
+        "path": "screenshots/x-ObranaTweetuje.png"
+      }
+    ],
+    "failed": [
+      {
+        "name": "FB Aktivní zálohy",
+        "path": "screenshots/facebook-aktivnizalohy-loggedin.jpg",
+        "bytes": 28831,
+        "mtime": "2026-10-01T08:28:04+02:00",
+        "error": "content unavailable / error page kept from prior day",
+        "note": "mtime 2026-10-01; not overwritten with bad capture"
+      }
+    ]
+  },
+  "motd_headline": "VA Vyškov 30 let; X live; ardos up; archive 35/25.",
+  "motd_path": "data/motd/2026-10-02.json",
+  "motd_set": true,
+  "commit_sha": "b0ec3657aeb2dd933c85516432964338367f7683",
+  "commit_message": "Denní update mapy AČR/AZ 2026-10-02: finální MOTD + archive_submit 35/25",
+  "published_at": "2026-10-02T08:58:05+02:00",
+  "live_verify": {
+    "url": "https://mapa-acr-az.vercel.app",
+    "index_http": 200,
+    "markers": {
+      "cat-chrono": true,
+      "badge-oficialni": true,
+      "cat-health": true,
+      "cat-events": true,
+      "cat-motd": true,
+      "reltime": true
+    },
+    "events_ics_http": 200,
+    "events_ics_content_type": "text/calendar; charset=utf-8",
+    "ics_parse_ok": true,
+    "ics_components": 67,
+    "verified_at": "2026-10-02T08:58:05+02:00",
+    "motd_headline_live": "VA Vyškov 30 let; X live; ardos up; archive 35/25."
+  },
+  "problems": [
+    "czdefence.cz TLS EOF z boxu (RSS přes WebFetch + feed_cache)",
+    "KVV Praha/SČK aktivni-zaloha-1 → 404 (trvá)",
+    "resco-cr.cz TLS EOF",
+    "cert valka.cz 15 dní, rentaacr 20 dní",
+    "FB Aktivní zálohy screenshot unavailable (ponechán starý error page; nepřepsáno)",
+    "archive.ph/archive.today z boxu blocked_tls_redirect",
+    "MO diary 8379+ stále prázdné WebToDate stuby",
+    "komentáře 0 nových (žádné dle slovníku důvodů)"
+  ],
+  "final_step_done": true,
+  "publish": true,
+  "commit_shas": [
+    "146f94b22e9ea54ff1afc8a0b32718a60464d074",
+    "b0ec3657aeb2dd933c85516432964338367f7683"
+  ],
+  "motd_items": 6,
+  "note": "146f94b = hlavní denní publish; b0ec365 = follow-up finální MOTD (6 items, X live wording) na stejném git/Vercel projektu"
+}

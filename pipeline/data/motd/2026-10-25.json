@@ -1,0 +1,39 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T08:29:15+01:00",
+ "headline": "CZ Defence: malým obranným firmám a start-upům v Česku nechybí programy, ale jejich propojení od vývoje k první armádní zakázce.",
+ "items": [
+  {
+   "text": "Odborná média (neoficiální): CZ Defence 25. 10. s odkazem na Hospodářské noviny shrnuje nástroje financování obranných inovací (EIB, EGAP, Inovační fond NATO, DIANA, program EU Agile) a upozorňuje, že start-upům chybí cesta od prototypu přes armádní zkoušku k první objednávce. Podle článku napoví podzimní vyhodnocení cvičení Drone Shield 2026, zda se pro výrobce dronů něco změní.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/financovani-obrannych-inovaci-nastroje-existuji-chybi-propojeni"
+  },
+  {
+   "text": "Události: dnes bez nových akcí, kalendář má dál 115 akcí. Nejbližší jsou v úterý 27. října přezkoušení UKAŽ FORMU v Praze, náborové akce v Brně a Pardubicích a jmenování plukovníků na Vítkově, ve středu 28. října pietní akt k výročí vzniku republiky.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Sociální sítě: oficiální účty @ArmadaCR a @ObranaTweetuje na X nemají od pátku 23. října žádný nový příspěvek (ověřeno dnes ráno z veřejné časové osy).",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR"
+  },
+  {
+   "text": "Dostupnost a SSL beze změny: 51 z 54 webů je dostupných, portal.ardos.org dál selhává na chybě TLS spojení a nedostupné zůstávají zbranekvalitne.cz a lvisingr.czweb.org. Žádný certifikát nevyprší do 30 dní.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Odkazy: jediným nefunkčním odkazem zůstává (404) aktualita KVV Jihlava o omezení úředních hodin.",
+   "category": "odkazy",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

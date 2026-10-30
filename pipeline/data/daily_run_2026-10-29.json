@@ -1,0 +1,12 @@
+{"date":"2026-10-29","timezone":"Europe/Prague","part":"data + events + MOTD + build + publish (FB/IG/X komentáře + screenshoty: paralelní běh; archive_submit NESPUŠTĚN; archive_lookup vynechán)",
+"czdefence":"curl rss2 200 (120 items) → feed_cache/czdefence.xml; ingest před i po enrichmentu",
+"enrichment":{"enrich_sites":{"sites_with_news_pages":44,"news_pages_with_items":42,"captures_updated":3},"enrich_refine":{"sites_with_news_pages":46,"news_pages_with_items":50,"captures_updated":0}},
+"x_syndication":{"status":"syndication 429 → X API v2 get_users_posts since_id (x MCP)","new_posts":{"ArmadaCR":["2115447154206822832","2115368048442159476"],"ObranaTweetuje":["2115690137858310497","2115456563125071999","2115381985627476280"]},"skipped_rt":["2115528694089592940","2115528493773779398","2115528370704560150","2115406796324258270"],"x_raw":["data/x_raw/xapi_2026-10-29.json"]},
+"archive_updates":{"added":13,"total":606},
+"health":{"sites":54,"up":51,"down":3,"down_list":["portal.ardos.org (TLS UNEXPECTED_EOF)","zbranekvalitne.cz (HTTP 500, plain http)","lvisingr.czweb.org (HTTP 500, plain http)"],"certs_le_30d":{},"min_days":35,"note":"1. běh: resco-cr.cz přechodně TLS EOF (curl 301 OK) → health spuštěn znovu"},
+"links":{"ok":780,"login_wall":142,"broken":4,"unknown":2,"broken_list":["lvisingr.czweb.org 500","zbranekvalitne.cz 500","kvv-jihlava omezeni-urednich-hodin-1 404","x.com/i/status/2114388754978779444 404 (nově)"]},
+"comments":{"before":120,"after":120,"yt":"OK (bez 429); tvarmycz TPDoPiVd9qU: 1 pochvala (nezajímavá), 1 urážka ministra (nezveřejněno); AZTV jen staré videa"},
+"events":{"added":1,"total":120,"new":["Sbírka Vlčí mák ČR 29. 10.–11. 11. (X ObranaTweetuje 2115690137858310497)"],"checked":["doarmady naborove-akce (vše už v kalendáři)","mo.gov.cz diary action.php 8391–8398 (max 8393, vše v kalendáři)"]},
+"motd":{"file":"data/motd/2026-10-29.json","items":5},
+"publish":{"commit":"eb14e3c","pushed_at":"2026-10-29T08:23:03+01:00","note":"rsync na boxu chybí (apt nedostupný) → ekvivalentní sync Pythonem; git credential helper ukazuje na /usr/bin/gh (neexistuje) → push s -c credential.helper=/usr/local/bin/gh"},
+"live_check":{"at":"2026-10-29T08:23:18+01:00","http":200,"index_identical_to_mirror":true,"events_ics":{"http":200,"content_type":"text/calendar; charset=utf-8","vevents":120,"parse":"ok"},"archiv_is":200}}

@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T13:52:59+02:00",
+ "headline": "Bold Quest 2026 u speciálních sil; Havlíček o obranném průmyslu; +19 termínů KZP na rok 2027; valka.cz cert 11 d.",
+ "items": [
+  {
+   "text": "Oficiální web AČR (5. 10.): „Bold Quest 2026: Speciální síly testovaly společný obraz moderního bojiště“. @ArmadaCR na X (5. 10.) píše o střelbě z jedoucího vozidla u vojáků na Slovensku.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/bold-quest-2026:-specialni-sily-testovaly-spolecny-obraz-moderniho-bojiste-266255/"
+  },
+  {
+   "text": "@ObranaTweetuje (5. 10.): ministr obrany Jaromír Zůna se 4. 10. v brněnském Muzeu exilu zúčastnil vernisáže výstavy Rytíři nebes o československých letcích v RAF.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2107033651405832287"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (6. 10.): Karel Havlíček – „Čím lepší, silnější a výkonnější obranný průmysl v České republice bude, tím větší domácí zdroje budou k dispozici“.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/karel-havlicek-cim-lepsi-silnejsi-a-vykonnejsi-obranny-prumysl-v-ceske-republice-bude-tim-vetsi-domaci-zdroje-budou-k-dispozici"
+  },
+  {
+   "text": "Kalendář událostí +19 (celkem 87): termíny kurzů základní přípravy pro AZ, DVC a vojáky z povolání ve Vyškově a přísah absolventů na celý rok 2027.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/nastupni-terminy-az-a-dvc"
+  },
+  {
+   "text": "SSL: valka.cz vyprší za 11 dní a rentaacr.cz za 16 dní; certifikátů do 30 dní je 6. Dostupnost beze změny 52 up / 3 down (404 AZ KVV Praha, TLS czdefence a resco-cr).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Kontrola odkazů: 376 ok, 1 nefunkční (KVV Praha AZ). Archive.org Save Page Now uložil 33 odkazů, 27 bylo nedostupných; archive.is je z boxu blokován captchou.",
+   "category": "archiv",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

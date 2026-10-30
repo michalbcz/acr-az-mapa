@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-16",
+ "headline": "Effective Logistics 2026; Zůna v CEPA a na veletrhu AUSA; Kamufláž o dronech; armadninoviny.cz cert 12 d.",
+ "items": [
+  {
+   "text": "Oficiální zpravodajství AČR (15. 10.): ve Vojenském újezdu Hradiště proběhlo cvičení Effective Logistics 2026 – 72 hodin nepřetržité akce, které prověřilo logistické schopnosti 141. praporu logistiky.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/logistika-v-hlavni-roli--cviceni-effective-logistics-proverilo-schopnosti-141--praporu-logistiky-266449/"
+  },
+  {
+   "text": "Ministerstvo obrany na X a webu (15. 10.): ministr Jaromír Zůna diskutoval u kulatého stolu v think tanku CEPA ve Washingtonu a s velvyslancem Jakubem Kulhánkem navštívil zbrojní veletrh AUSA.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2110717519975641200"
+  },
+  {
+   "text": "Armáda ČR na X (15. 10.): nový díl Kamufláže o budoucnosti dronů – jeden chytrý autonomní dron s umělou inteligencí, nebo roj levnějších spolupracujících strojů?",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2110688286423257172"
+  },
+  {
+   "text": "KVV Pardubice (15. 10.): vojáci navštívili Klub vozíčkářů Trutnov, představili projekt POKOS (Příprava občanů k obraně státu) a nabídli laserovou střelnici.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://kvv-pardubice.mo.gov.cz/naborkariera/aktivni-zaloha/201-prapor-uzemni-obrany",
+   "source_url": "https://kvv-pardubice.mo.gov.cz/aktuality/vojaci-z-kvv-pardubice-zavitali-mezi-cleny-klubu-vozickaru-trutnov"
+  },
+  {
+   "text": "SSL: certifikát armadninoviny.cz vyprší za 12 dní, securityoutlines.cz a jirivojacek.cz nově za 14 dní, az44lmopr.cz za 17 dní. Nově pod 30 dní i forum.vojsko.net (29 d).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "CZ Defence dnes: brigádní generál Zdeněk Mikula o tom, že modernizace nesmí zastínit to podstatné – brigádu tvoří lidé. Kalendář: nově náborová prezentace AČR „Dynamo děkuje 2026“ v Pardubicích (27. 10.), celkem 96 událostí.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/brig-gen-zdenek-mikula-modernizace-nesmi-zastinit-to-podstatne-brigadu-tvori-lide"
+  }
+ ]
+}

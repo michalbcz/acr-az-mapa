@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T08:20:42+01:00",
+ "headline": "Generální štáb 2. listopadu představí Koncepci výstavby Armády ČR do roku 2040; ministr Zůna jednal s maďarským protějškem.",
+ "items": [
+  {
+   "text": "Ministerstvo obrany v kalendáři akcí ohlásilo na pondělí 2. 11. od 15:30 tiskovou konferenci k představení Koncepce výstavby Armády ČR do roku 2040 na Generálním štábu (jen pro akreditovaná média). Akce i náborová prezentace v Jihlavě 13. 11. přibyly do kalendáře událostí.",
+   "category": "jiné",
+   "importance": "vysoká",
+   "link": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8394",
+   "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8394"
+  },
+  {
+   "text": "Ministerstvo obrany na X: součástí prvních česko-maďarských mezivládních konzultací v Praze bylo jednání ministra obrany Jaromíra Zůny s maďarským protějškem Romuluszem Ruszin-Szendim.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "https://x.com/ObranaTweetuje/status/2115844244459888825",
+   "source_url": "https://x.com/ObranaTweetuje/status/2115844244459888825"
+  },
+  {
+   "text": "Armáda ČR na X představila nové bojové vozidlo pěchoty CV90 MkIV (38 tun, téměř 1 000 koní) a jeho rozdíly oproti BVP-2.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "https://x.com/ArmadaCR/status/2115851062145933352",
+   "source_url": "https://x.com/ArmadaCR/status/2115851062145933352"
+  },
+  {
+   "text": "Weby útvarů: velitel 7. mechanizované brigády Miroslav Vybíhal byl prezidentem jmenován brigádním generálem; KVV Jihlava informuje o slavnostním odhalení památníku mjr. Františka Kašíka.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "https://7mb.mo.gov.cz/aktuality/velitel-sedmicky-miroslav-vybihal-byl-jmenovan-prezidentem-do-hodnosti-brigadniho",
+   "source_url": "https://7mb.mo.gov.cz/aktuality/velitel-sedmicky-miroslav-vybihal-byl-jmenovan-prezidentem-do-hodnosti-brigadniho"
+  },
+  {
+   "text": "Odborná média (neoficiální): CZ Defence přináší rozhovor s generálem Petrem Šnajdárkem, podle něhož je největší překážkou zavádění moderních technologií byrokracie.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "https://www.czdefence.cz/clanek/general-petr-snajdarek-nejvetsi-prekazkou-zavadeni-modernich-technologii-je-byrokracie",
+   "source_url": "https://www.czdefence.cz/clanek/general-petr-snajdarek-nejvetsi-prekazkou-zavadeni-modernich-technologii-je-byrokracie"
+  },
+  {
+   "text": "Dostupnost: portal.ardos.org je po výpadku TLS znovu dostupný, online je 52 z 54 webů (dál HTTP 500 u zbranekvalitne.cz a lvisingr.czweb.org). Žádný certifikát nevyprší do 30 dní.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  }
+ ]
+}

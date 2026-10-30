@@ -1,0 +1,188 @@
+{
+ "date": "2026-10-16",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel subagent; archive_submit NESPOUŠTĚN tímto agentem)",
+ "czdefence_top": {
+  "title": "Moderní americká obrněná vozidla budou ovládána hlasem osádky",
+  "pubDate": "Fri, 16 Oct 2026 08:16:00 +0200",
+  "url": "https://www.czdefence.cz/clanek/moderni-americka-obrnena-vozidla-budou-ovladana-hlasem-osadky",
+  "second": {
+   "title": "Brig. gen. Zdeněk Mikula: Modernizace nesmí zastínit to podstatné – brigádu tvoří lidé",
+   "pubDate": "Fri, 16 Oct 2026 07:10:17 +0200",
+   "url": "https://www.czdefence.cz/clanek/brig-gen-zdenek-mikula-modernizace-nesmi-zastinit-to-podstatne-brigadu-tvori-lide"
+  },
+  "source": "curl live https://www.czdefence.cz/rss2 200 (122976 B / 120 items) 08:14 → feed_cache/czdefence.xml; ingest 08:14 + znovu po enrichmentu 08:23 (live fetch ingestem, nový top článek 08:16)"
+ },
+ "enrichment": {
+  "entries": 56,
+  "enrich_sites": {
+   "news_pages": 45,
+   "news_pages_with_items": 43,
+   "captures_updated": 3,
+   "finished": "~08:21"
+  },
+  "enrich_refine": {
+   "news_pages": 47,
+   "news_pages_with_items": 48,
+   "captures_updated": 0,
+   "finished": "~08:23"
+  },
+  "cms": {
+   "Drupal": 26,
+   "unknown": 12,
+   "WordPress": 6,
+   "custom": 3,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "Webnode": 2,
+   "phpBB": 2,
+   "Groups.io": 1
+  },
+  "note": "Zálohy captures/enrichment/x_posts/updates_history/events .bak-pre-20261016 (+ feed_cache czdefence.xml/json .bak-pre-20261016). X captures last_post (+last_post_url) aktualizovány, po enrichmentu ověřeno, že nebyly přepsány."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 (20 B) ~08:14 obě účty → X API v2 (x MCP get_users_by_usernames + get_users_posts, 20/účet); ArmadaCR kept 8/19 (11 skipped: RT, self-reply link-only), ObranaTweetuje kept 18/18 → cap 12",
+  "ArmadaCR_latest_own": "2026-10-15 13:04 Prague (2110688286423257172 – Jeden chytrý dron, nebo celý roj? nový díl Kamufláže)",
+  "ObranaTweetuje_latest_own": "2026-10-15 15:00 Prague (2110717519975641200 – Zůna u kulatého stolu v CEPA)",
+  "new_posts": {
+   "ArmadaCR": [
+    "2110688286423257172"
+   ],
+   "ObranaTweetuje": [
+    "2110717519975641200",
+    "2110701989470343515"
+   ]
+  },
+  "x_raw": [
+   "data/x_raw/xapi_2026-10-16.json",
+   "data/x_raw/synd_ArmadaCR_2026-10-16.json (429, 20 B)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-16.json (429, 20 B)"
+  ]
+ },
+ "social_permalinks": {
+  "x_tweet_index": "183 → 186",
+  "backfill_added": 0,
+  "social_rows": 203,
+  "with_permalink": 136
+ },
+ "archive_updates": {
+  "added": 12,
+  "total": 456,
+  "from": 444,
+  "note": "motd_facts counts_diff vs 15.10. snapshot: 440 → 456 (zahrnuje i řádky přidané po včerejším snapshotu)"
+ },
+ "health": {
+  "sites": 55,
+  "up": 51,
+  "down": 4,
+  "down_list": [
+   "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+   "portal.ardos.org (TLS UNEXPECTED_EOF; curl 2× 08:20 stejná chyba → druhý běh neprováděn, 2. den down)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "Jeden běh 08:17–08:19; beze změn vs 15.10. (transitions []).",
+  "certs_le_30d": {
+   "www.armadninoviny.cz": 12,
+   "www.securityoutlines.cz": 14,
+   "jirivojacek.cz": 14,
+   "www.az44lmopr.cz": 17,
+   "forum.vojsko.net": 29
+  }
+ },
+ "links": {
+  "checked": "2026-10-16T08:24:00+02:00 (po buildu)",
+  "total": 728,
+  "ok": 605,
+  "login_wall": 116,
+  "broken": 1,
+  "unknown": 6,
+  "broken_list": [
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+  ]
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 124); data/archive_status.json updated_at zůstává 2026-10-07 08:24",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "nespuštěn znovu – už běží archive_submit.py --cap 60 (PID 190785, start 16.10. 06:57); ověřeno 08:33",
+ "events": {
+  "added": 1,
+  "total": 96,
+  "inbox": "data/events_inbox/2026-10-16.json (Nábor: Pardubice – Dynamo děkuje 2026: Pohybem k pohodě, 27.10. celodenní, ev-49ab90e307cc)",
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (200) — nově Pardubice „Dynamo děkuje 2026: Pohybem k pohodě“ 27.10.2026; detail hcdynamo.cz/hybej-se-s-dynamem (200) popisuje jen výzvu (čas/místo prezentace neuvádí) → celodenní; ostatní položky už v events.json",
+   "doarmady /deje-se/nastupni-terminy-az-a-dvc + /nastupni-terminy-vzp (200) – termíny odpovídají events.json",
+   "mo.gov.cz diary action.php?id=8383 (ARMY DEN, už v events), 8384–8400 prázdné stuby (349 B); kalendář 10/2026 id 8375–8383 (vše v events), 11/2026 bez akcí",
+   "acr.mo.gov.cz/informacni-servis/zpravodajstvi (200) – nic nového k akcím; unob.cz (www → TLS unrecognized name, bez www 200) – DOD bez nových dat",
+   "czdefence RSS, X ArmadaCR/ObranaTweetuje, 12 nových řádků updates_history – žádná nová veřejná akce"
+  ],
+  "not_checked": "acr.mo.gov.cz přehled cvičení 2026, KVV aktuality (čas)"
+ },
+ "motd": {
+  "file": "data/motd/2026-10-16.json",
+  "draft": "data/motd/drafts/2026-10-16.json",
+  "headline": "Effective Logistics 2026; Zůna v CEPA a na veletrhu AUSA; Kamufláž o dronech; armadninoviny.cz cert 12 d.",
+  "items": 6
+ },
+ "publish": {
+  "data_commit": "9e0d7fa",
+  "pushed_at": "2026-10-16T08:27:19+02:00",
+  "note": "rsync -a --delete (exclude .git/vercel.json/README.md): 7 souborů změněno, 0 smazáno; archiv-is.html v mirroru OK"
+ },
+ "social": {
+  "screenshots": "ok 8/8 přepsáno (FB AČR, FB MO, FB doarmady.cz, FB aktivnizalohy, IG armadaceskerepubliky, IG do_armady, X ArmadaCR, X ObranaTweetuje); záloha screenshots/archive/2026-10-16/ (8); blur_viewer_identity.py --inplace + ruční doblur: X levý dolní viewer card (0–33 % š., 70–100 % v.), IG bublina Messages (avatary kontaktů); Chrome avatar vpravo nahoře rozmazán (ověřeno FB AČR, X ×2, IG do_armady)",
+  "aktivnizalohy": "FB 'This content isn't available right now' (5.+ den); i předchozí screenshot (15.10.) byla chybová stránka → nahrazen dnešním; captures status unavailable, starý last_post (Těchonín, aktivnizaloha permalink) ponechán jako v předchozích dnech",
+  "captures": "backup captures.jsonl.bak-pre-social-20261016; FB AČR/MO + IG AČR nové title+permalink; IG do_armady title aktualizován (permalink DeeQk52OMUH beze změny); FB doarmady.cz title 'Přednášky, seminárky…' (14.10.) – permalink nenalezen, stávající pfbid035Ev… patřil příspěvku 'Lákala tě armáda…' (7.10.) → smazán (last_post_url=null); X last_post z API ponechán",
+  "comments": "+4 (inbox data/comments_inbox/2026-10-16.json, kandidáti 1–4; index 0 generická odpověď vynechán), interesting_comments 83 → 87",
+  "archive_updates": "total 456 → 460 (+4)",
+  "commit": "46a26bb",
+  "pushed_at": "2026-10-16T08:32:08+02:00",
+  "live_check": {
+   "at": "2026-10-16T08:33:05+02:00",
+   "http": 200,
+   "markers": {
+    "cat-chrono": true,
+    "badge-oficialni": true,
+    "cat-events": true,
+    "cat-health": true,
+    "cat-komentare": true,
+    "motd": true
+   },
+   "interesting_comments": 87,
+   "new_fb_permalink_in_html": true,
+   "events_ics": {
+    "http": 200,
+    "vevents": 96
+   },
+   "archiv_is": 200
+  }
+ },
+ "problems": [
+  "X syndication 429 → fallback X API",
+  "portal.ardos.org TLS EOF 2. den",
+  "archive_lookup timeout 110 s (status od 2026-10-07)",
+  "www.unob.cz TLS unrecognized name (bez www OK)"
+ ],
+ "live_check": {
+  "at": "2026-10-16T08:28:30+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "motd": true
+  },
+  "motd_in_html": true,
+  "motd_json_date": "2026-10-16",
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 96,
+   "parse": "ok"
+  },
+  "interesting_comments": 83,
+  "archiv_is": "308 → /archiv-is 200"
+ }
+}

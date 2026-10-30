@@ -1,0 +1,337 @@
+{
+ "captured_at": "2026-10-30T07:12:57.285369+00:00",
+ "method": "X API v2 get_users_posts (x MCP, since_id)",
+ "note": "2026-10-30 ~08:15 Prague: X API v2 since_id; nové vlastní posty: ArmadaCR 1, ObranaTweetuje 2 (RT přeskočeny) (raw data/x_raw/xapi_2026-10-30.json).",
+ "accounts": [
+  {
+   "handle": "ArmadaCR",
+   "url": "https://x.com/ArmadaCR",
+   "posts": [
+    {
+     "id": "2115851062145933352",
+     "created_at": "2026-10-29T16:59:38.000Z",
+     "text": "38 tun, téměř 1 000 koní a řízení skoro jako v osobním autě!\n\nTo je nové bojové vozidlo pěchoty CV90 MkIV. Jak moc se liší od staršího BVP-2 a co všechno dokáže?\n\nO tom vám poví víc Tarkan Turkcan, ředitel platformy CV90 ve společnosti BAE Systems Hägglunds, který s těmito https://t.co/9dzvGocaWR",
+     "url": "https://x.com/ArmadaCR/status/2115851062145933352"
+    },
+    {
+     "id": "2115447154206822832",
+     "created_at": "2026-10-28T14:14:39.000Z",
+     "text": "Takto jsme si dnes na Vítkově připomněli vznik Československa.  Jak jste 28. říjen oslavili vy? A co pro vás tento den znamená?\n\nNapište nám do komentářů. 👇 https://t.co/9mIota791O",
+     "url": "https://x.com/ArmadaCR/status/2115447154206822832"
+    },
+    {
+     "id": "2115368048442159476",
+     "created_at": "2026-10-28T09:00:19.000Z",
+     "text": "28. říjen 🇨🇿\nDnes salutujeme všem, kteří se zasloužili o náš stát. https://t.co/vq7EeVheuk",
+     "url": "https://x.com/ArmadaCR/status/2115368048442159476"
+    },
+    {
+     "id": "2115334140400746835",
+     "created_at": "2026-10-28T06:45:34.000Z",
+     "text": "Před 108 lety vzniklo samostatné Československo. Nebylo to zadarmo. O jeho vznik usiloval domácí i zahraniční odboj. Naši legionáři za něj bojovali na frontách první světové války. Prolévali krev za stát, který ještě ani neexistoval.\n\nNavazujeme na tradici našich předků. Stejně https://t.co/byi9kw2h8E",
+     "url": "https://x.com/ArmadaCR/status/2115334140400746835"
+    },
+    {
+     "id": "2115124359454965921",
+     "created_at": "2026-10-27T16:51:59.000Z",
+     "text": "Nebezpečí, které nevidíte. Jak se na něj připravit? ☣️\n\nTo v Rumunsku na cvičení CORONAT MASK 2026 trénovali naši chemici společně s vojáky z dalších 11 zemí.\n\nCo všechno obnáší boj s chemickými, biologickými a radiologickými hrozbami? Podívejte se na video. 👇 https://t.co/oLKOCmnZPu",
+     "url": "https://x.com/ArmadaCR/status/2115124359454965921"
+    },
+    {
+     "id": "2115060921257136558",
+     "created_at": "2026-10-27T12:39:54.000Z",
+     "text": "Tomáš a Dominik. Co mají tihle dva vojáci společné? Když šlo o lidský život, nezůstali stát stranou a neváhali pomoci.\n\nVýsadkář Tomáš se cestou z dovolené stal svědkem vážné nehody motorkářky. Okamžitě zastavil, poskytl zraněné ženě první pomoc a zůstal s ní až do příjezdu https://t.co/a72QAFbLle",
+     "url": "https://x.com/ArmadaCR/status/2115060921257136558"
+    },
+    {
+     "id": "2114784566170853777",
+     "created_at": "2026-10-26T18:21:46.000Z",
+     "text": "Ochrana zdrojů pitné vody, elektřiny a tepla. I to jsou úkoly Teritoriálních sil, které zajišťují Krajská Vojenská velitelství a jejich prapory územní obrany. A právě ochrana infrastruktury hlavního města byla hlavní částí cvičení Safeguard 2026.\nV případě krize je kromě obrany https://t.co/YRXCKnrOhp",
+     "url": "https://x.com/ArmadaCR/status/2114784566170853777"
+    },
+    {
+     "id": "2114283246993482046",
+     "created_at": "2026-10-25T09:09:42.000Z",
+     "text": "#nezapomeneme https://t.co/rmPYrAgepB",
+     "url": "https://x.com/ArmadaCR/status/2114283246993482046"
+    },
+    {
+     "id": "2113616753863643491",
+     "created_at": "2026-10-23T13:01:17.000Z",
+     "text": "Vyškov zažil největší vojenskou přísahu v novodobé historii vojenské akademie.\n\nPo týdnech náročného výcviku přísahalo téměř 800 profesionálních vojáků, příslušníků aktivní zálohy a absolventů dobrovolného vojenského cvičení. \n\nGratulujeme a vítejte v rodině!🫡 https://t.co/P3BoP3pjly",
+     "url": "https://x.com/ArmadaCR/status/2113616753863643491"
+    },
+    {
+     "id": "2113526289680482340",
+     "created_at": "2026-10-23T07:01:49.000Z",
+     "text": "Více info najdete tady: https://t.co/YwhZcAhSYt",
+     "url": "https://x.com/ArmadaCR/status/2113526289680482340"
+    },
+    {
+     "id": "2113521432793690545",
+     "created_at": "2026-10-23T06:42:31.000Z",
+     "text": "🇨🇿🇵🇱 Prohlubujeme spolupráci s Polskem. Naše vrtulníky pomáhají chránit tamní vzdušný prostor a na stole je také vyslání českých ženistů budovat obranu na východním křídle NATO. Možnost jejich zapojení nyní vyhodnocujeme.\n\nPrávě do Polska vedla první bilaterální zahraniční https://t.co/Ra91dHlOpU",
+     "url": "https://x.com/ArmadaCR/status/2113521432793690545"
+    },
+    {
+     "id": "2113262940421869903",
+     "created_at": "2026-10-22T13:35:22.000Z",
+     "text": "Mají různé profese. Za každým z nich je jiný příběh. V jednom se ale rozhodli stejně. Oblékli uniformu. 🇨🇿\n\nBudoucí příslušníci aktivní zálohy a účastníci dobrovolného vojenského cvičení mají za sebou kurz základní přípravy. Už zítra složí po boku profesionálních vojáků slavnostní vojenskou přísahu. 🫡\n\nProtože bezpečnost České republiky jim není lhostejná.",
+     "url": "https://x.com/ArmadaCR/status/2113262940421869903"
+    },
+    {
+     "id": "2113187402181452090",
+     "created_at": "2026-10-22T08:35:12.000Z",
+     "text": "Česká verze CV90 je poprvé doma! 🇨🇿\n\nPředstavujeme vám nové bojové vozidlo pěchoty pro naši těžkou brigádu. Lepší ochrana, moderní technologie a větší palebná síla. Co přinese našim vojákům? Podívejte se na rozhovor.\n\nSledujte nás, bude toho víc! https://t.co/KjLc8WhMDO",
+     "url": "https://x.com/ArmadaCR/status/2113187402181452090"
+    },
+    {
+     "id": "2113130096504529142",
+     "created_at": "2026-10-22T04:47:29.000Z",
+     "text": "#nezapomeneme https://t.co/NUwrIJixY9",
+     "url": "https://x.com/ArmadaCR/status/2113130096504529142"
+    },
+    {
+     "id": "2112903882653229433",
+     "created_at": "2026-10-21T13:48:36.000Z",
+     "text": "Znovu mezi nejlepšími! Z legendární soutěže průzkumáků ve Velké Británii přivezli naši vojáci stříbro druhý rok v řadě. 🇨🇿🇬🇧\n\nCambrian Patrol není žádná procházka malebnou krajinou Walesu. Jde o extrémní závod v nehostinných horách Brecon Beacons, kde trénují i britské speciální https://t.co/7VJuUFjy4B",
+     "url": "https://x.com/ArmadaCR/status/2112903882653229433"
+    },
+    {
+     "id": "2112861726265774258",
+     "created_at": "2026-10-21T11:01:05.000Z",
+     "text": "Současnost i budoucnost naší armády na jednom místě. 🇨🇿\n\nA mezi vystavenou technikou také jedna novinka, která se vůbec poprvé představuje v České republice a brzy bude v naší výzbroji. Která to je? Dodívejte se na video až do konce.\n\nJsme na Future Forces Forum 2026 v pražských https://t.co/b1g6Ep2DZN",
+     "url": "https://x.com/ArmadaCR/status/2112861726265774258"
+    },
+    {
+     "id": "2112573171949838474",
+     "created_at": "2026-10-20T15:54:28.000Z",
+     "text": "Strakoničtí vojáci míří do Pobaltí. Právě teď se připravují na zahraniční operaci v Litvě, kde budou po boku spojenců chránit východní křídlo NATO. Na starost budou mít pozemní protivzdušnou obranu.\n\nZa sebou mají výcvik zaměřený mimo jiné na střelby, taktiku nebo první pomoc v https://t.co/InUsOyvaW9",
+     "url": "https://x.com/ArmadaCR/status/2112573171949838474"
+    },
+    {
+     "id": "2112518855662743786",
+     "created_at": "2026-10-20T12:18:38.000Z",
+     "text": "Studentka, projektový manažer, pekař, učitelka, účetní nebo podnikatel. Různé profese, různé životní příběhy. V uniformě ale všichni nosíme na rameni stejnou vlajku a skládáme stejnou přísahu. 🇨🇿\n\nTohle jsou vojáci aktivní zálohy ze 111. praporu územní obrany v podřízenosti https://t.co/evatLMSGxx",
+     "url": "https://x.com/ArmadaCR/status/2112518855662743786"
+    },
+    {
+     "id": "2112212776072425550",
+     "created_at": "2026-10-19T16:02:23.000Z",
+     "text": "Před čtyřmi týdny to bylo 800 civilistů. Neznali se. Nevěděli, co je čeká, kolik v sobě mají síly a co všechno dokážou.\n\nDnes už jsou téměř v cíli. Noví profesionální vojáci, aktivní záložáci i účastníci dobrovolného vojenského cvičení mají za sebou komplexní polní výcvik, při https://t.co/37ZERFn8sX",
+     "url": "https://x.com/ArmadaCR/status/2112212776072425550"
+    },
+    {
+     "id": "2112142172161991094",
+     "created_at": "2026-10-19T11:21:50.000Z",
+     "text": "Reporty ze Šumavy #2!\n\nPrvotní průzkum terénu máme hotový. Teď budujeme přístupovou cestu, aby se lidé i technika dostali bezpečně do zasažené oblasti. Zároveň pracujeme na jejím oplocení.\n\nNaši ženisté a chemici se podílejí na sanaci bývalého vojenského prostoru Dobrá Voda, kde https://t.co/VBBVMF439a",
+     "url": "https://x.com/ArmadaCR/status/2112142172161991094"
+    },
+    {
+     "id": "2111063239962628380",
+     "text": "Cílová lajna pracovního týdne je už na dohled. 🏁\n\nTak hlavně nezapadnout do bahna těsně před finišem! Užijte si víkend.😎 https://t.co/y2i0s4tOcO",
+     "created_at": "2026-10-16T11:54:32.000Z",
+     "url": "https://x.com/ArmadaCR/status/2111063239962628380"
+    },
+    {
+     "id": "2111037825869119765",
+     "text": "CZECH CLOSE AIR SUPPORT SOF WEEK 2026 🇨🇿\n\nTo byl společný výcvik speciálních sil. Moderní technologie a schopnost koordinovaně reagovat na současné bezpečnostní výzvy.\n\nVíce než 30 jednotek z 10 členských a partnerských zemí NATO se zapojilo do mnohonárodního cvičení Czech CAS https://t.co/CRH42SkEgc",
+     "created_at": "2026-10-16T10:13:33.000Z",
+     "url": "https://x.com/ArmadaCR/status/2111037825869119765"
+    },
+    {
+     "id": "2110688286423257172",
+     "text": "Jeden chytrý dron, nebo celý roj? Co bude mít na moderním bojišti větší význam? \n\nAutonomní drony řízené umělou inteligencí, nebo desítky levnějších strojů, které dokážou spolupracovat? Odpověď není tak jednoduchá.\n\nV novém díle Kamufláže se bavíme o budoucnosti dronů, umělé https://t.co/tLy3urIUrt",
+     "created_at": "2026-10-15T11:04:36.000Z",
+     "url": "https://x.com/ArmadaCR/status/2110688286423257172"
+    },
+    {
+     "id": "2110400243334361413",
+     "text": "Testujeme, porovnáváme a hledáme nejlepší řešení pro armádu. \n\nDrone Shield 2026 spojil vojáky, odborníky a technologické firmy při testování bezpilotních a robotických systémů i možností obrany proti dronům. Cíl je jasný, vybrat technologie, které skutečně obstojí v podmínkách https://t.co/zCVjLLSuLh",
+     "created_at": "2026-10-14T16:00:02.000Z",
+     "url": "https://x.com/ArmadaCR/status/2110400243334361413"
+    },
+    {
+     "id": "2110330977423659129",
+     "text": "Tihle vojáci stojí za každou úspěšnou vojenskou operací. Možná nejsou tolik vidět, ale bez jejich práce by žádná armáda nedokázala dlouhodobě bojovat.\n\nZásobování v terénu. Od munice přes palivo a náhradní díly až po vodu a jídlo. Přeprava techniky i vojáků. Vyprošťování a opravy https://t.co/T8f7Xj7zDn",
+     "created_at": "2026-10-14T11:24:47.000Z",
+     "url": "https://x.com/ArmadaCR/status/2110330977423659129"
+    },
+    {
+     "id": "2110037997525606805",
+     "text": "Jak jsme na tom? Jak naše jednotky obstojí v podmínkách moderního bojiště? Zkušenosti ze současných konfliktů přenášíme přímo do výcviku.\n\nExperimentální cvičení Moravian Lance 2026 nebylo přehlídkou schopností, ale jejich zkouškou. Vytvořili jsme podmínky blížící se realitě. https://t.co/LZ9LcgrQlA",
+     "created_at": "2026-10-13T16:00:35.000Z",
+     "url": "https://x.com/ArmadaCR/status/2110037997525606805"
+    }
+   ]
+  },
+  {
+   "handle": "ObranaTweetuje",
+   "url": "https://x.com/ObranaTweetuje",
+   "posts": [
+    {
+     "id": "2115844244459888825",
+     "created_at": "2026-10-29T16:32:33.000Z",
+     "text": "Maďarskou delegaci v Praze přivítal premiér Andrej Babiš společně s členy české vlády v rámci prvních česko-maďarských mezivládních konzultací. Jejich součástí bylo také jednání ministra obrany Jaromíra Zůny s jeho maďarským protějškem Romuluszem Ruszin-Szendim, které se zaměřilo https://t.co/NKtH1nkQ9a",
+     "url": "https://x.com/ObranaTweetuje/status/2115844244459888825"
+    },
+    {
+     "id": "2115734661372497957",
+     "created_at": "2026-10-29T09:17:06.000Z",
+     "text": "Jak může 5G změnit místa velení @ArmadaCR? Privátní mobilní sítě mohou propojit vojáky, senzory, drony i další prostředky a dostat potřebná data k veliteli v reálném čase.  \n\nSledujete nový díl podcastu Signál Bečva z produkce Spojovacího vojska AČR 👉 https://t.co/zXETVhgyK7 https://t.co/vY5pGZP1um",
+     "url": "https://x.com/ObranaTweetuje/status/2115734661372497957"
+    },
+    {
+     "id": "2115690137858310497",
+     "created_at": "2026-10-29T06:20:11.000Z",
+     "text": "Ministr obrany Jaromír Zůna dnes oficiálně zahájil další ročník kampaně Vlčí mák České republiky pro válečné veterány. 🌺\n\nKdyž si v termínu od 29. října do 11. listopadu připnete vlčí mák nebo si pořídíte jeho digitální verzi DiGiMÁK, vyjádříte respekt a úctu válečným veteránům https://t.co/Orx725wuo5",
+     "url": "https://x.com/ObranaTweetuje/status/2115690137858310497"
+    },
+    {
+     "id": "2115456563125071999",
+     "created_at": "2026-10-28T14:52:02.000Z",
+     "text": "U příležitosti státního svátku jmenoval prezident republiky pět nových generálů @ArmadaCR dalších šest povýšil do vyšší generálské hodnosti. ⭐\n\nSlavnostního ceremoniálu na pražském Hradě se zúčastnili také ministr obrany Jaromír Zůna a náčelník Generálního štábu AČR armádní https://t.co/M8DwFbWC8L",
+     "url": "https://x.com/ObranaTweetuje/status/2115456563125071999"
+    },
+    {
+     "id": "2115381985627476280",
+     "created_at": "2026-10-28T09:55:41.000Z",
+     "text": "V prostorách Národního památníku na Vítkově jsme dnes zahájili oslavy 108. výročí vzniku samostatného Československa! 🇨🇿\n\nSlavnostního nástupu se zúčastnili prezident republiky Petr Pavel, předseda Senátu Miloš Vystrčil, předseda Poslanecké sněmovny Tomio Okamura, předseda vlády https://t.co/yNQKhNcbI4",
+     "url": "https://x.com/ObranaTweetuje/status/2115381985627476280"
+    },
+    {
+     "id": "2115337879991759199",
+     "created_at": "2026-10-28T07:00:26.000Z",
+     "text": "🇨🇿 28. říjen je připomínkou vzniku našeho státu i odpovědnosti za jeho budoucnost. \n\nČeská státnost vždy stála na lidech, kteří byli připraveni sloužit své zemi. Děkujeme všem, kteří tuto tradici nesou i dnes. 🇨🇿🫡 https://t.co/tiaiMIVGxF",
+     "url": "https://x.com/ObranaTweetuje/status/2115337879991759199"
+    },
+    {
+     "id": "2114818805780152605",
+     "created_at": "2026-10-26T20:37:49.000Z",
+     "text": "Armádní sportovkyní roku 2026 se stala olympijská vítězka ve snowboardingu Zuzana Maděrová. 🏂\n\nBěhem slavnostního vyhlášení ankety @ASCDukla jí předal ocenění ministr obrany Jaromír Zůna. Ten ve svém projevu poděkoval všem sportovcům Dukly za skvělou sezónu. Ti letos vybojovali https://t.co/bgigepnWrK",
+     "url": "https://x.com/ObranaTweetuje/status/2114818805780152605"
+    },
+    {
+     "id": "2114745825154732522",
+     "created_at": "2026-10-26T15:47:49.000Z",
+     "text": "Ministr obrany Jaromír Zůna dnes ke krátkému zdvořilostnímu jednání přijal velvyslance Singapuru Tan Sú Kúna. \n\nSchůzka navázala na setkání ministrů obrany České republiky a Singapuru z letošního května a podpořila bilaterální spolupráci obou zemí zejména s ohledem na https://t.co/Tyng5MjMcK",
+     "url": "https://x.com/ObranaTweetuje/status/2114745825154732522"
+    },
+    {
+     "id": "2114410331967533465",
+     "created_at": "2026-10-25T17:34:41.000Z",
+     "text": "🫡 Provedu! Cena za svobodu \n\n🎬 1. díl dokumentární série o působení elitní české chemické jednotky na mezinárodní vojenské základně v Litvě můžete sledovat v úterý 27. října ve 21:00 hod. na ČT2.\n\n🤝 Na projektu od roku 2024 spolupracovala @CzechTV s Ministerstvem obrany a https://t.co/2zuSndhFkt",
+     "url": "https://x.com/ObranaTweetuje/status/2114410331967533465"
+    },
+    {
+     "id": "2114274320331464999",
+     "created_at": "2026-10-25T08:34:13.000Z",
+     "text": "Čest jejich památce! 🫡 https://t.co/gsmnReKQhl",
+     "url": "https://x.com/ObranaTweetuje/status/2114274320331464999"
+    },
+    {
+     "id": "2113604974240207226",
+     "created_at": "2026-10-23T12:14:29.000Z",
+     "text": "Vyškov byl dnes svědkem největší vojenské přísahy v historii Velitelství výcviku - Vojenské akademie. Svůj závazek podílet se na obraně České republiky složilo 760 vojáků. 🇨🇿\n\nNovým vojákům přijeli za jejich rozhodnutí posílit řady @ArmadaCR poděkovat ministr obrany Jaromír Zůna, https://t.co/DhI2jp2EVT",
+     "url": "https://x.com/ObranaTweetuje/status/2113604974240207226"
+    },
+    {
+     "id": "2113289163717890348",
+     "created_at": "2026-10-22T15:19:34.000Z",
+     "text": "🤝 Dnes se v Praze uskutečnilo setkání ministra obrany Jaromíra Zůny s jeho arménským protějškem. \n\n@papikyan_suren přijel jednat o obranné spolupráci, společném výcviku i zapojení českého obranného průmyslu do modernizace arménských ozbrojených sil. 🫡\n\n„Další rozvoj naší https://t.co/d11gL3WeRC",
+     "url": "https://x.com/ObranaTweetuje/status/2113289163717890348"
+    },
+    {
+     "id": "2113266626015433091",
+     "created_at": "2026-10-22T13:50:00.000Z",
+     "text": "🇨🇿 V rámci veletrhu @ForcesForum se koná také 45 odborných panelů a diskusí. Dnes se zde uskutečnil například kulatý stůl na téma \"Český průmysl a zakázky pro AČR\". Ministr obrany Jaromír Zůna na něm představil novou Koncepci výstavby Armády ČR, priority v obraně i rezortní https://t.co/aGARHOAGBS",
+     "url": "https://x.com/ObranaTweetuje/status/2113266626015433091"
+    },
+    {
+     "id": "2113146009152893243",
+     "created_at": "2026-10-22T05:50:43.000Z",
+     "text": "Čest jeho památce! 🫡 https://t.co/Gs8wdUikdh",
+     "url": "https://x.com/ObranaTweetuje/status/2113146009152893243"
+    },
+    {
+     "id": "2112919098426359935",
+     "created_at": "2026-10-21T14:49:03.000Z",
+     "text": "V rámci veletrhu @ForcesForum se ministr obrany Jaromír Zůna setkal s ministry obrany Libanonu @MGMichelMenassa 🇱🇧 a Mosambiku Cristovaem Arturem Chumem. 🇲🇿\n\nJednal rovněž s komisařem Evropské komise @KubiliusA. Probírali spolu roli Evropy ve světle amerického konceptu NATO 3.0, https://t.co/vjqNkknAzY",
+     "url": "https://x.com/ObranaTweetuje/status/2112919098426359935"
+    },
+    {
+     "id": "2112897093178101979",
+     "created_at": "2026-10-21T13:21:37.000Z",
+     "text": "Na výstavišti v pražských Letňanech dnes začal mezinárodní veletrh @ForcesForum. Slavnostně jej zahájil prezident Petr Pavel, ministr obrany Jaromír Zůna, ministr průmyslu a obchodu Karel Havlíček a další významní hosté. \n\n\"Jedním z poučení ze současných konfliktů je, že rychlý https://t.co/POwyWgiGis",
+     "url": "https://x.com/ObranaTweetuje/status/2112897093178101979"
+    },
+    {
+     "id": "2112531996312568221",
+     "created_at": "2026-10-20T13:10:51.000Z",
+     "text": "Rekordní čísla hlásí @ArmadaCR nejen v náboru vojáků z povolání, ale také záložáků. Ministr obrany Jaromír Zůna v dnešním videu představuje benefity, které přináší služba v aktivní záloze. 🪖 https://t.co/C6U3Sb2eE3",
+     "url": "https://x.com/ObranaTweetuje/status/2112531996312568221"
+    },
+    {
+     "id": "2112515736245588389",
+     "created_at": "2026-10-20T12:06:14.000Z",
+     "text": "🇨🇿 Chcete studovat a zároveň dělat něco, co má skutečný smysl?\n\nNa veletrhu Gaudeamus Brno 2026 představuje @uniobrany možnosti studia na jediné vojenské vysoké škole v České republice. Seznamte se s nabízenými obory, kariérou v @ArmadaCR  i technologiemi, které utvářejí moderní https://t.co/lE7bUdLMG5",
+     "url": "https://x.com/ObranaTweetuje/status/2112515736245588389"
+    },
+    {
+     "id": "2112109902445342893",
+     "created_at": "2026-10-19T09:13:36.000Z",
+     "text": "🪖 @ArmadaCR bude součástí Dne bezpečnosti a obrany 2026, kde představí moderní vojenskou techniku a schopnosti našich vojáků. 🫡\n\n🕰️ sobota 24. října od 9:00 do 15:30 hod.\n📍 PVA EXPO Praha - Letňany\n🎟️ Vstup zdarma\n\nVíce informací zde 👉 https://t.co/jM55wdbsNj https://t.co/BePpPVtQ6y",
+     "url": "https://x.com/ObranaTweetuje/status/2112109902445342893"
+    },
+    {
+     "id": "2111019103901171851",
+     "text": "🎖️ Kdo je válečný veterán?\n\nVáleční veteráni nejsou jen ti, kteří bojovali za naši svobodu během druhé světové války. Dnes mezi ně patří také tisíce mužů a žen, kteří se zapojili do zahraničních vojenských misí.\n\n🕊️ Druhoválečných veteránů dnes evidujeme už jen 35. Vedle nich https://t.co/dFuKAeNb4q",
+     "created_at": "2026-10-16T08:59:09.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2111019103901171851"
+    },
+    {
+     "id": "2110982421789172148",
+     "text": "🇨🇿🇺🇸 Ministr obrany Jaromír Zůna během pracovní návštěvy USA jednal v Pentagonu s náměstkem ministra @DeptofWar pro politiku Elbridgem A. Colbym, hlavním architektem konceptu nové obranné alianční politiky NATO 3.0. 🪖\n\nŠlo o první přijetí ministra obrany Jaromíra Zůny v https://t.co/nysGwoGByK",
+     "created_at": "2026-10-16T06:33:24.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2110982421789172148"
+    },
+    {
+     "id": "2110717519975641200",
+     "text": "🇨🇿🇺🇸 Součástí ministrova programu ve Washingtonu byla také diskuse u kulatého stolu v americkém think tanku @cepa, který se dlouhodobě věnuje posilování transatlantických vazeb a budoucnosti obrany.\n\nV debatě se ministr věnoval také proměně bezpečnostního prostředí. Připomněl, že https://t.co/D70gdxWXEg",
+     "created_at": "2026-10-15T13:00:46.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2110717519975641200"
+    },
+    {
+     "id": "2110701989470343515",
+     "text": "🇨🇿🇺🇸 České firmy mají co nabídnout i na americkém trhu! Ministr obrany Jaromír Zůna společně s velvyslancem Jakubem Kulhánkem z @CZinWashington  navštívil zbrojní veletrh AUSA ve Washingtonu, kde ocenil jejich schopnosti i potenciál pro armádu a mezinárodní spolupráci. 🤝 https://t.co/frcImYArEA",
+     "created_at": "2026-10-15T11:59:03.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2110701989470343515"
+    },
+    {
+     "id": "2110458174541099447",
+     "text": "🇨🇿🇺🇸 Ministr obrany Jaromír Zůna vystoupil na Česko-americkém obranném a bezpečnostním fóru ve Washingtonu, které pořádají @HudsonInstitute a Jagello 2000. Hovořil mimo jiné o úspěchu českých firem na americkém obranném trhu.\n\n„Americká armáda natolik důvěřuje firmě s českými https://t.co/3C4Z6LKRdv",
+     "created_at": "2026-10-14T19:50:13.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2110458174541099447"
+    },
+    {
+     "id": "2110376542912102900",
+     "text": "❓ Víte jak funguje:\n- spolupráce armády a civilních složek? 🪖🤝👮‍♂️\n- ochrana v digitálním prostoru? 💻\n- zdravotní příprava obyvatelstva? 🚑\n\n👉 Den bezpečnosti a obrany v PVA EXPO PRAHA propojený s veletrhem @ForcesForum vám v sobotu 24. října poskytne odpovědi!\n\nNázorné ukázky https://t.co/v1Uuc8oYna",
+     "created_at": "2026-10-14T14:25:51.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2110376542912102900"
+    },
+    {
+     "id": "2110279968160670118",
+     "text": "🇨🇿🇺🇸 Během návštěvy Washingtonu se ministr obrany Jaromír Zůna při společenské večeři setkal s veliteli národních gard Texasu a Nebrasky, kterým při této příležitosti předal pamětní plakety. 🤝\n\nFoto: Michal Danis https://t.co/y2ptlWY0mJ",
+     "created_at": "2026-10-14T08:02:06.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2110279968160670118"
+    },
+    {
+     "id": "2109994679588577526",
+     "text": "Na české ambasádě ve Washingtonu se ministr obrany Jaromír Zůna setkal s českým velvyslancem Jakubem Kulhánkem.\n\n🇨🇿🇺🇸 Společně pozdravili účastníky Česko-amerického obranného a bezpečnostního fóra. Právě na tomto fóru, které se dnes koná v Hudsonově institutu, vystoupí ministr se https://t.co/1OgX2i8lEC",
+     "created_at": "2026-10-13T13:08:28.000Z",
+     "url": "https://x.com/ObranaTweetuje/status/2109994679588577526"
+    }
+   ]
+  }
+ ]
+}

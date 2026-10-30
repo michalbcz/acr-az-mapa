@@ -1,0 +1,185 @@
+{
+ "date": "2026-10-17",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel subagent; archive_submit NESPOUŠTĚN tímto agentem)",
+ "czdefence_top": {
+  "title": "Máme AI ještě pod kontrolou?",
+  "pubDate": "Sat, 17 Oct 2026 07:10:28 +0200",
+  "url": "https://www.czdefence.cz/clanek/mame-ai-jeste-pod-kontrolou",
+  "second": {
+   "title": "Moderní americká obrněná vozidla budou ovládána hlasem osádky",
+   "pubDate": "Fri, 16 Oct 2026 08:16:00 +0200",
+   "url": "https://www.czdefence.cz/clanek/moderni-americka-obrnena-vozidla-budou-ovladana-hlasem-osadky"
+  },
+  "source": "curl live https://www.czdefence.cz/rss2 200 (122586 B / 120 items) ~08:14 → feed_cache/czdefence.xml; ingest ~08:14 + znovu po enrichmentu ~08:22 (live fetch ingestem)"
+ },
+ "enrichment": {
+  "entries": 55,
+  "enrich_sites": {
+   "news_pages": 45,
+   "news_pages_with_items": 42,
+   "captures_updated": 4,
+   "finished": "~08:20"
+  },
+  "enrich_refine": {
+   "news_pages": 47,
+   "news_pages_with_items": 49,
+   "captures_updated": 0,
+   "finished": "~08:22"
+  },
+  "cms": {
+   "Drupal": 25,
+   "unknown": 12,
+   "WordPress": 6,
+   "custom": 3,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "Webnode": 2,
+   "phpBB": 2,
+   "Groups.io": 1
+  },
+  "note": "Zálohy captures/enrichment/x_posts/updates_history/events .bak-pre-20261017 (+ feed_cache czdefence.xml/json .bak-pre-20261017). X captures last_post (+last_post_url) aktualizovány až po enrichmentu (atomický zápis)."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 (20 B 'Rate limit exceeded') ~08:14 obě účty → X API v2 (x MCP get_users_posts, 20/účet; user_id z xapi_2026-10-16); ArmadaCR kept 11/19 (8 skipped: RT, self-reply link-only), ObranaTweetuje kept 17/17 → cap 12",
+  "ArmadaCR_latest_own": "2026-10-16 13:54 Prague (2111063239962628380 – Cílová lajna pracovního týdne, víkendové přání); 2026-10-16 12:13 Prague (2111037825869119765 – Czech CAS SOF Week 2026)",
+  "ObranaTweetuje_latest_own": "2026-10-16 10:59 Prague (2111019103901171851 – Kdo je válečný veterán?); 2026-10-16 08:33 Prague (2110982421789172148 – Zůna v Pentagonu s E. Colbym)",
+  "new_posts": {
+   "ArmadaCR": [
+    "2111063239962628380",
+    "2111037825869119765",
+    "2110007921610276986"
+   ],
+   "ObranaTweetuje": [
+    "2111019103901171851",
+    "2110982421789172148"
+   ]
+  },
+  "x_raw": [
+   "data/x_raw/xapi_2026-10-17.json",
+   "data/x_raw/synd_ArmadaCR_2026-10-17.json (429, 20 B)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-17.json (429, 20 B)"
+  ]
+ },
+ "social_permalinks": {
+  "x_tweet_index": "186 → 190",
+  "backfill_added": 0,
+  "social_rows": 210,
+  "with_permalink": 142
+ },
+ "archive_updates": {
+  "added": 13,
+  "total": 473,
+  "from": 460,
+  "note": "motd_facts counts_diff vs 16.10. snapshot: 456 → 473"
+ },
+ "health": {
+  "sites": 54,
+  "up": 51,
+  "down": 3,
+  "down_list": [
+   "portal.ardos.org (TLS UNEXPECTED_EOF, 3. den)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "Jeden běh ~08:15–08:17; transitions []. KVV Praha URL změněna 16.10. 11:30 jiným během (commit a4bf3ab/b8156f9) na /zaloha-ozbrojenych-sil/aktivni-zaloha → UP 200; sites 55 → 54, channels 109 → 108. armadninoviny.cz cert obnoven (12 → 89 d, notAfter 2027-01-15).",
+  "certs_le_30d": {
+   "www.securityoutlines.cz": 13,
+   "jirivojacek.cz": 13,
+   "www.az44lmopr.cz": 16,
+   "forum.vojsko.net": 28
+  }
+ },
+ "links": {
+  "checked": "2026-10-17T08:22:43+02:00 (po buildu)",
+  "total": 751,
+  "ok": 627,
+  "login_wall": 118,
+  "broken": 0,
+  "unknown": 6,
+  "broken_list": [],
+  "unknown_by_host": {
+   "www.facebook.com": 3,
+   "portal.ardos.org": 1,
+   "zbranekvalitne.cz": 1,
+   "lvisingr.czweb.org": 1
+  }
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 124); data/archive_status.json updated_at zůstává 2026-10-07 08:24",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "nespuštěn (dělá se úplně nakonec mimo tento běh)",
+ "events": {
+  "added": 5,
+  "total": 101,
+  "inbox": "data/events_inbox/2026-10-17.json (Šumperk Scholaris 3.11.; VUS Ondráš Žďár n. S. 19.10. 17:00 [diary 8384]; výstava Historie a současnost REB před GŠ 22.10.–26.11. [8385]; jmenování plukovníků Vítkov 27.10. 11:00 [8386, média s akreditací]; pietní akt 108. výročí ČSR Vítkov 28.10. 9:00 [8387, média s akreditací])",
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (200) — nově Šumperk. Scholaris 3. 11. 2026 (detail odkaz chybí/vede na Tachov → celodenní); ostatní položky už v events.json",
+   "doarmady /deje-se/nastupni-terminy-az-a-dvc + /nastupni-terminy-vzp (200) – staženy, beze změn v events (bez detailní revize)",
+   "mo.gov.cz diary action.php?id=8383 (ARMY DEN, už v events), 8384–8387 NOVÉ (zapsány), 8388–8392 prázdné stuby (349 B)",
+   "acr.mo.gov.cz/informacni-servis/zpravodajstvi (301 → 200) – nic nového k akcím; unob.cz akce univerzity (200) – bez nových dat",
+   "czdefence RSS, X ArmadaCR/ObranaTweetuje, 13 nových řádků updates_history – žádná nová veřejná akce s datem"
+  ],
+  "not_checked": "acr.mo.gov.cz přehled cvičení 2026, KVV aktuality (čas)"
+ },
+ "motd": {
+  "file": "data/motd/2026-10-17.json",
+  "draft": "data/motd/drafts/2026-10-17.json",
+  "headline": "MO k působení generála Haratka; Czech CAS SOF Week 2026; Zůna v Pentagonu; 5 nových akcí v kalendáři.",
+  "items": 6
+ },
+ "publish": {
+  "data_commit": "687ba8a",
+  "pushed_at": "2026-10-17T08:26:24+02:00",
+  "note": "rsync -a --delete (exclude .git/vercel.json/README.md): 11 souborů změněno/přidáno (5 nových events/*.ics), 0 smazáno; archiv-is.html v mirroru OK"
+ },
+ "problems": [
+  "X syndication 429 → fallback X API",
+  "portal.ardos.org TLS EOF 3. den",
+  "archive_lookup timeout 110 s (status od 2026-10-07)",
+  "zbranekvalitne.cz + lvisingr.czweb.org ConnectTimeout"
+ ],
+ "live_check": {
+  "at": "2026-10-17T08:26:43+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "cat-komentare": true,
+   "motd": true
+  },
+  "motd_in_html": true,
+  "motd_json_date": "2026-10-17",
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 101,
+   "parse": "ok"
+  },
+  "interesting_comments": 87,
+  "archiv_is": 200
+ },
+ "social": {
+  "screenshots": "ok 8/8 přepsáno (zdroj staging; 1920x1200); záloha screenshots/archive/2026-10-17/ (8); blur_viewer_identity.py --inplace (FB friends, IG messages, X followed+viewer) + ruční doblur Chrome avatar vpravo nahoře ×8; kontrola okem prošla (X, FB AČR/MO/doarmady/aktivnizalohy, IG ×2)",
+  "aktivnizalohy": "FB 'This content isn't available right now', status unavailable, starý last_post ponechán",
+  "captures": "backup captures.jsonl.bak-pre-social-20261017; FB AČR title+permalink pfbid0org6g…; FB MO title, url null; FB doarmady.cz title video, url null; IG AČR nový post DejeLVUIOMH; IG do_armady beze změny; X ponecháno z API",
+  "comments": "+2 (inbox data/comments_inbox/2026-10-17.json, X ObranaTweetuje, anon), interesting_comments 87 → 89",
+  "commit": "f2c33e5",
+  "pushed_at": "2026-10-17T08:29:14+02:00",
+  "live_check": {
+   "at": "2026-10-17T08:29:40+02:00",
+   "http": 200,
+   "markers": "cat-chrono, badge-oficialni, cat-events, cat-health, cat-komentare, motd ok",
+   "interesting_comments": 89,
+   "new_ig_permalink_in_html": true,
+   "events_ics": {
+    "http": 200,
+    "vevents": 101
+   },
+   "archiv_is": "viz report"
+  }
+ }
+}

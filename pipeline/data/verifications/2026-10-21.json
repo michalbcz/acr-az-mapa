@@ -1,0 +1,277 @@
+[
+ {
+  "id": "6fa83b17a718fd",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Náměstek Radovan Vích (SPD) podle MO i médií dosud nemá osvědčení na stupeň Tajné (žádost 3. 2. 2026, má jen Vyhrazené). Že by „ovládal ministerstvo“, je hodnocení, které zdroje nedokládají.",
+   "sources": [
+    {
+     "title": "Ekonomický deník: Zůnův náměstek z SPD stále nemá prověrku na stupeň tajné",
+     "url": "https://ekonomickydenik.cz/zunuv-namestek-stale-nema-proverku-tajne/"
+    },
+    {
+     "title": "Aktuálně.cz: Ani jeden z Zůnových náměstků dosud nemá bezpečnostní prověrku",
+     "url": "https://zpravy.aktualne.cz/domaci/zuna-v-klestich-ani-jeden-z-jeho-namestku-doted-nema-bezpecnostni-proverku/r~aaa29e920412ccb24862e14ca97a0315/"
+    },
+    {
+     "title": "FORUM 24: Lhůta uplynula, prověrky nepřišly",
+     "url": "https://www.forum24.cz/lhuta-uplynula-proverky-neprisly-zunovi-namestci-dal-nesmeji-k-tajnym-informacim-ani-na-tajna-jednani"
+    },
+    {
+     "title": "Ministerstvo obrany: Náměstek ministra obrany Ing. Radovan Vích (životopis)",
+     "url": "https://mocr.mo.gov.cz/scripts/detail.php?id=261902"
+    }
+   ]
+  }
+ },
+ {
+  "id": "5925203fa26f3a",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Ministr Zůna uložil NGŠ navrhnout přeložení gen. Haratka (velitel informačních a kybernetických sil), ten však k 15.–16. 10. 2026 ve funkci zůstává s důvěrou NGŠ; odvolán zatím nebyl.",
+   "sources": [
+    {
+     "title": "Ekonomický deník: Ministr Zůna uložil Hlaváčovi, aby přeložil šéfa kybernetických sil",
+     "url": "https://ekonomickydenik.cz/ministr-zuna-hlavac-prelozeni-haratka/"
+    },
+    {
+     "title": "Deník N: Ve funkci nadále pokračuje Radek Haratek",
+     "url": "https://denikn.cz/minuta/2221369/"
+    },
+    {
+     "title": "Novinky: Generál Hlaváč se vzepřel Zůnovi",
+     "url": "https://www.novinky.cz/clanek/domaci-general-hlavac-se-vzeprel-zunovi-velitele-kybernetickych-sil-ve-funkci-podrzel-40603098"
+    }
+   ]
+  }
+ },
+ {
+  "id": "98e89b29b13f6e",
+  "verification": {
+   "status": "potvrzeno",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Předpoklad otázky sedí: ministr žádal Haratkovo přeložení, NGŠ ho ve funkci podržel.",
+   "sources": [
+    {
+     "title": "Novinky: Generál Hlaváč se vzepřel Zůnovi",
+     "url": "https://www.novinky.cz/clanek/domaci-general-hlavac-se-vzeprel-zunovi-velitele-kybernetickych-sil-ve-funkci-podrzel-40603098"
+    },
+    {
+     "title": "Hospodářské noviny: Haratek chtěl odejít do civilu, ministerstvo uložilo jeho přeložení",
+     "url": "https://domaci.hn.cz/c1-67946500-velitel-informacnich-sil-general-haratek-chtel-odejit-do-civilu-ministerstvo-to-odmitlo-a-ulozilo-hlavacovi-jeho-prelozeni"
+    }
+   ]
+  }
+ },
+ {
+  "id": "28d34a639631b0",
+  "verification": {
+   "status": "potvrzeno",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "NGŠ Hlaváč na konferenci YES v Kyjevě (září 2026) nejel; podle Respektu ministerstvo cestu neschválilo, ministr Zůna to vysvětluje vzájemnou dohodou kvůli úkolům v ČR.",
+   "sources": [
+    {
+     "title": "Seznam Zprávy: Definitivní stopka z ministerstva. Šéf armády na Ukrajinu nepojede",
+     "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-definitivni-stopka-z-ministerstva-sef-armady-na-ukrajinu-nepojede-314862"
+    },
+    {
+     "title": "Respekt: Zůna definitivně znemožnil šéfovi armády cestu do Kyjeva",
+     "url": "https://www.respekt.cz/politika/zuna-definitivne-znemoznil-sefovi-armady-cestu-do-kyjeva-okamura-blokaci-vita"
+    },
+    {
+     "title": "Seznam Zprávy: Zůna – Hlaváč na konferenci v Kyjevě nejel kvůli pracovním povinnostem",
+     "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zuna-hlavac-na-konferenci-v-kyjeve-nejel-kvuli-pracovnim-povinnostem-v-cesku-315187"
+    }
+   ]
+  }
+ },
+ {
+  "id": "761b2d264d9b64",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Cesta NGŠ na Ukrajinu (konference YES) se neuskutečnila, protože ji ministerstvo neschválilo; ministr tvrdí, že šlo o dohodu. „Zákaz učit se od Ukrajinců“ jako obecné opatření zdroje nedokládají.",
+   "sources": [
+    {
+     "title": "Seznam Zprávy: Definitivní stopka z ministerstva. Šéf armády na Ukrajinu nepojede",
+     "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-definitivni-stopka-z-ministerstva-sef-armady-na-ukrajinu-nepojede-314862"
+    },
+    {
+     "title": "Respekt: Zůna definitivně znemožnil šéfovi armády cestu do Kyjeva",
+     "url": "https://www.respekt.cz/politika/zuna-definitivne-znemoznil-sefovi-armady-cestu-do-kyjeva-okamura-blokaci-vita"
+    },
+    {
+     "title": "Seznam Zprávy: Zůna – Hlaváč na konferenci v Kyjevě nejel kvůli pracovním povinnostem",
+     "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-zuna-hlavac-na-konferenci-v-kyjeve-nejel-kvuli-pracovnim-povinnostem-v-cesku-315187"
+    }
+   ]
+  }
+ },
+ {
+  "id": "6b2e28503baf82",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Doložena je jen zmařená cesta NGŠ do Kyjeva; obecný zákaz konzultací s ukrajinskými dronaři zdroje nepotvrzují. Nabídku Drone Deal ministerstvo zatím „posuzuje“.",
+   "sources": [
+    {
+     "title": "Seznam Zprávy: Definitivní stopka z ministerstva. Šéf armády na Ukrajinu nepojede",
+     "url": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-definitivni-stopka-z-ministerstva-sef-armady-na-ukrajinu-nepojede-314862"
+    },
+    {
+     "title": "Novinky: Ukrajina chce Česku předat své zkušenosti s drony. Obrana se do toho nehrne",
+     "url": "https://www.novinky.cz/clanek/domaci-ukrajina-chce-cesku-predat-sve-zkusenosti-s-drony-obrana-se-do-toho-nehrne-40600018"
+    }
+   ]
+  }
+ },
+ {
+  "id": "dcf0d4b506ab16",
+  "verification": {
+   "status": "potvrzeno",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Ukrajina Česku nabídla připojení k Drone Deal; ministr Zůna k 30. 9. 2026 uvedl, že ji „posuzujeme“, rozhodnutí zatím nepadlo.",
+   "sources": [
+    {
+     "title": "Novinky: Ukrajina chce Česku předat své zkušenosti s drony",
+     "url": "https://www.novinky.cz/clanek/domaci-ukrajina-chce-cesku-predat-sve-zkusenosti-s-drony-obrana-se-do-toho-nehrne-40600018"
+    }
+   ]
+  }
+ },
+ {
+  "id": "4b9f2b3ddabfab",
+  "verification": {
+   "status": "potvrzeno",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "MO 25. 9. 2026 zrušilo zadávací řízení na až 185 obrněných vozidel 4×4 (≈24,7 mld. Kč) pro ženisty, zdravotníky aj.; resort ale avizuje nové vyhlášení tendru.",
+   "sources": [
+    {
+     "title": "ČT24: Resort obrany zrušil zakázku na obrněná vozidla, tendr vyhlásí znovu",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/resort-obrany-zrusil-zakazku-na-obrnena-vozidla-za-temer-25-miliard-378128"
+    },
+    {
+     "title": "Hrot24: Ministerstvo obrany zrušilo tendr na 185 obrněných vozidel",
+     "url": "https://www.hrot24.cz/clanek/obrana-zrusila-tendr-185-obrnenych-vozidel-bushmaster-HGMze"
+    }
+   ]
+  }
+ },
+ {
+  "id": "c569517e6870fe",
+  "verification": {
+   "status": "potvrzeno",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "C-390 dopravil do Podgorice i útočné pušky CZ BREN 3; Černá Hora je první armádou, která je zavedla. AČR nakupuje BREN 2 (rámcová smlouva s CZ), BREN 3 ve výzbroji nemá.",
+   "sources": [
+    {
+     "title": "Aero-space.eu: Czech Air Force C-390 completes first cargo mission to Montenegro",
+     "url": "https://aero-space.eu/2026/10/13/czech-air-force-c-390-millennium-completes-first-cargo-mission-delivering-defence-equipment-to-montenegro/"
+    },
+    {
+     "title": "Armádní zpravodaj: Černá Hora jako první na světě přijala BREN 3 do výzbroje",
+     "url": "https://armadnizpravodaj.cz/zpravodajstvi/cerna-hora-jako-prvni-na-svete-prijala-utocnou-pusku-bren-3-do-vyzbroje/"
+    },
+    {
+     "title": "MO: Smlouva na dodávky ručních zbraní s Českou zbrojovkou",
+     "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/ministerstvo-obrany-dnes-uzavrelo-smlouvu-na-dodavky-rucnich-zbrani-s-ceskou-zbrojovkou-a-s--260177/"
+    }
+   ]
+  }
+ },
+ {
+  "id": "02c7fda412bea5",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Přepad služebny SNB v Čelákovicích 28. 9. 1951 a podříznutí strážmistra Honzátka Ctiradem Mašínem zdroje potvrzují; Josef Mašín se ale akce neúčastnil (byl v Jeseníku), třetím byl Zbyněk Janata.",
+   "sources": [
+    {
+     "title": "Místa Paměti národa: Radek se vrátil a šmiknul mu hrdlo (Čelákovice)",
+     "url": "https://www.mistapametinaroda.cz/?id=449"
+    },
+    {
+     "title": "Aktuálně.cz: Od přepadení stanice SNB skupinou bratří Mašínů uplynulo 70 let",
+     "url": "https://zpravy.aktualne.cz/domaci/foto-pripad-masin-uplynulo-70-let-od-vrazedneho-prepadu-snb/r~947de1dc1ac211ec966d0cc47ab5f122/"
+    }
+   ]
+  }
+ },
+ {
+  "id": "da6dc7a7138fb5",
+  "verification": {
+   "status": "potvrzeno",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Ministr Metnar v březnu 2019 skutečně uvedl, že akce ČSBS pod vedením J. Vodičky jsou zneužívány k politické agitaci a útokům proti NATO.",
+   "sources": [
+    {
+     "title": "ČT24: Podle Metnara je Svaz bojovníků za svobodu zneužíván k politické agitaci i k útokům proti NATO",
+     "url": "https://ct24.ceskatelevize.cz/clanek/domaci/podle-metnara-je-svaz-bojovniku-za-svobodu-zneuzivan-k-politicke-agitaci-i-k-utokum-proti-nato-66077"
+    }
+   ]
+  }
+ },
+ {
+  "id": "f1a4efa0649fc8",
+  "verification": {
+   "status": "nepodloženo / nelze ověřit",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Obvinění ministra z kolaborace s nepřítelem je osobní názor autora; žádný veřejný zdroj ho nedokládá.",
+   "sources": []
+  }
+ },
+ {
+  "id": "f33b37b96ceda9",
+  "verification": {
+   "status": "nepodloženo / nelze ověřit",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Obvinění ministra z kolaborace s nepřítelem není doloženo žádným veřejným zdrojem.",
+   "sources": []
+  }
+ },
+ {
+  "id": "57459b25abb507",
+  "verification": {
+   "status": "nepodloženo / nelze ověřit",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Tvrzení, že NATO vede válku proti Rusku, nedokládá žádný oficiální zdroj; NATO není stranou války na Ukrajině.",
+   "sources": []
+  }
+ },
+ {
+  "id": "c56d599b33c855",
+  "verification": {
+   "status": "nepodloženo / nelze ověřit",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Označení NATO za teroristickou organizaci nemá oporu v žádném ověřitelném zdroji.",
+   "sources": []
+  }
+ },
+ {
+  "id": "8b4dcc8d3f4b1a",
+  "verification": {
+   "status": "nepodloženo / nelze ověřit",
+   "checked_at": "2026-10-21T11:55:48+02:00",
+   "verifier": "Grok Bot",
+   "summary": "Konkrétní případ (zranění v Litvě 2023, neodškodnění) nebylo možné ve veřejných zdrojích dohledat.",
+   "sources": []
+  }
+ }
+]

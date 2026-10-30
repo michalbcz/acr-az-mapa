@@ -1,0 +1,29 @@
+{
+  "captured_at": "2026-09-06T08:28:00+02:00",
+  "read_only": true,
+  "no_private_groups_joined": true,
+  "counts": {
+    "new_public_facebook_pages": 7,
+    "new_public_facebook_groups": 1,
+    "private_group_landings": 6,
+    "instagram_profiles": 1,
+    "total": 15
+  },
+  "results": [
+    {"url":"https://www.facebook.com/AZBrno","type":"page","status":"ok","latest":{"title":"updated their bio.","author":"Rota AZ KVV Brno \"plk. Františka Kopuletého\"","date":"November 13, 2025"},"unit_hint":"241 prÚzO / former pěší rota KVV Brno","screenshot":"facebook-AZBrno-new.png"},
+    {"url":"https://www.facebook.com/AZOstrava","type":"page","status":"ok","latest":{"title":"Přátelské setkání bývalých i současných příslušníků 211. praporu AZ","author":"211. prapor územní obrany","date":"June 1"},"unit_hint":"211 prÚzO Ostrava","screenshot":"facebook-AZOstrava-new.png"},
+    {"url":"https://www.facebook.com/profile.php?id=100068958558708","type":"page","status":"ok","latest":{"title":"Pěší rota AZ KVV Pardubice stále nabízí ještě volná místa na různých pozicích.","author":"Pěší rota AZ KVV Pardubice","date":"March 19, 2018"},"unit_hint":"201 prÚzO Pardubice","screenshot":"facebook-profile-100068958558708-new.png"},
+    {"url":"https://www.facebook.com/aktivnizaloha","type":"page","status":"ok_partial","latest":{"title":null,"author":"Aktivní záloha Agentury vojenského zdravotnictví","date":"March 16, 2025"},"unit_hint":"AZ AVZdr / Těchonín","note":"Latest item is a reel with no visible caption/title.","screenshot":"facebook-aktivnizaloha-new.png"},
+    {"url":"https://www.facebook.com/AZ22ZVrL","type":"page","status":"ok","latest":{"title":"Tak to jsme my ...","author":"Aktivní záloha 22. ZVrL Náměšť nad Oslavou","date":"December 3, 2025"},"unit_hint":"AZ 22. ZVrL Náměšť","screenshot":"facebook-AZ22ZVrL-new.png"},
+    {"url":"https://www.facebook.com/AZ.SLP","type":"page","status":"ok","latest":{"title":"Přestože má své zaměstnání, dobrovolně pomáhá v nemocnici | slp.army.cz","author":"Aktivní záloha u Správy letiště Pardubice","date":"February 10, 2021"},"unit_hint":"AZ Správa letiště Pardubice","screenshot":"facebook-AZ-SLP-new.png"},
+    {"url":"https://www.facebook.com/vojenska.policie.aktivni.zaloha","type":"page","status":"ok","latest":{"title":"Gratulace za AZ k velkému úspěchu!","author":"AZVP","date":"August 28 at 6:11 AM"},"unit_hint":"Vojenská policie AZ","screenshot":"facebook-AZVP-new.png"},
+    {"url":"https://www.facebook.com/groups/182677655083326","type":"public_group","status":"ok","latest":{"title":null,"author":"Daniel Danny Opatrný","date":"August 29 at 7:54 AM"},"unit_hint":"141 prÚzO / former rota Liberec","note":"Latest item is an unc captioned photo set.","screenshot":"facebook-group-Liberec-new.png"},
+    {"url":"https://www.facebook.com/groups/234175749950253","type":"private_group","status":"private_group","unit_hint":"211 prÚzO Ostrava","note":"Closed landing/members-only notice; not joined.","screenshot":"facebook-group-234175749950253-private.png"},
+    {"url":"https://www.facebook.com/groups/1439901832966515","type":"private_group","status":"private_group","unit_hint":"211 prÚzO Ostrava","note":"Closed landing/members-only notice; not joined.","screenshot":"facebook-group-1439901832966515-private.png"},
+    {"url":"https://www.facebook.com/groups/140470625982157","type":"private_group","status":"private_group","unit_hint":"possibly 131 Hradec / general AZ","note":"Closed landing; membership-pending state visible; no Join click.","screenshot":"facebook-group-140470625982157-private.png"},
+    {"url":"https://www.facebook.com/groups/157616357611881","type":"private_group","status":"private_group","unit_hint":"cross-unit AZ community","note":"Closed landing/members-only notice; not joined.","screenshot":"facebook-group-157616357611881-private.png"},
+    {"url":"https://www.facebook.com/groups/1539418246375393","type":"private_group","status":"private_group","unit_hint":"cross-AZ gear bazaar","note":"Extra URL from az_social_extra.json (Výstrojní bazar); closed landing; not joined.","screenshot":"facebook-group-1539418246375393-private.png"},
+    {"url":"https://www.facebook.com/groups/127051224493959","type":"private_group","status":"private_group","unit_hint":"AZ AVZdr / Těchonín","note":"Extra URL from az_social_extra.json (Těchonín); closed landing; not joined.","screenshot":"facebook-group-127051224493959-private.png"},
+    {"url":"https://www.instagram.com/teritorialni_sily_acr/","type":"instagram_profile","status":"ok_partial","profile":"teritoriální síly","followers":1622,"latest":{"title":null,"author":null,"date":null},"unit_hint":"14 krajských vojenských velitelství / teritoriální síly","note":"Public header visible; Instagram login prompt blocked opening latest post; no SSO/login action taken.","screenshot":"instagram-teritorialni_sily_acr-new.png"}
+  ]
+}

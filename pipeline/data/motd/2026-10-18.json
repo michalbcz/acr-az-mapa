@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T08:30:43+02:00",
+ "headline": "VLS a armáda chystají zázemí pro mobilní jatka; EOD nacvičují zneškodnění FPV dronů; v týdnu Gaudeamus, Future Forces a přísaha KZP.",
+ "items": [
+  {
+   "text": "Ministerstvo obrany (17. 10.): Vojenské lesy a statky otevřely v Javorné u Bražce v Doupovských horách nový areál pro chov skotu, poprvé s robotickou technologií pro podestýlání. Součástí je i zpevněná plocha s přípojkami pro mobilní jatka, připravená ve spolupráci s Armádou ČR pro zásobování vojáků masem za krizových stavů.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://mocr.mo.gov.cz/",
+   "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/vls-otevrely-v-javorne-moderni-areal-pro-skot--poprve-nasadi-robotickou-technologii-266499/"
+  },
+  {
+   "text": "CZ Defence (neoficiální odborný web, 18. 10.): vojenští pyrotechnici EOD nacvičují zneškodňování FPV dronů, které dopadly s nevybuchlou náloží, mj. pomocí dálkově ovládaných robotů. Článek popisuje, proč i sestřelený nebo elektronicky vyřazený dron zůstává pro vojáky a techniku nebezpečný.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/dron-nevybuchl-hrozba-ale-zustava-pyrotechnici-eod-nacvicuji-likvidaci-fpv-dronu-s-vybusninami"
+  },
+  {
+   "text": "Armádní noviny (neoficiální web, 16. 10.): Saab představil první ze tří švédských letounů včasné výstrahy GlobalEye, které mají hlídat hlavně nízkoletící střely s plochou dráhou letu a drony, ve vzduchu vydrží až 11 hodin. Dodávky Švédsku začnou od roku 2027, o letounech jedná i NATO a další země.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.armadninoviny.cz/",
+   "source_url": "https://www.armadninoviny.cz/prvni-svedsky-globaleye-letajici-radar-bude-strezit-nebe-az-11-hodin.html"
+  },
+  {
+   "text": "Tento týden (bez nových akcí, celkem 101): v pondělí 19. 10. vystoupí VUS Ondráš ve Žďáru nad Sázavou, 20.–23. 10. je nábor na Gaudeamus v Brně, 21.–23. 10. veletrh Future Forces v Letňanech a 22. 10. začíná výstava o radioelektronickém boji před GŠ AČR. V pátek 23. 10. je přísaha absolventů KZP ve Vyškově a v sobotu 24. 10. den bezpečnosti a obrany pro veřejnost v Letňanech.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "SSL: certifikáty securityoutlines.cz a jirivojacek.cz vyprší za 12 dní, az44lmopr.cz za 15 dní a forum.vojsko.net za 27 dní. Dál nedostupné zůstávají portal.ardos.org (TLS chyba), zbranekvalitne.cz a lvisingr.czweb.org, kontrola odkazů nehlásí žádný nefunkční odkaz (629 ok).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

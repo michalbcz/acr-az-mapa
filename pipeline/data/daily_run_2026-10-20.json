@@ -1,0 +1,200 @@
+{
+ "date": "2026-10-20",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel subagent; archive_submit NESPOUŠTĚN tímto agentem)",
+ "czdefence_top": {
+  "title": "MSPO 2026: Drony, umělá inteligence a nové technologie mění podobu moderního bojiště",
+  "pubDate": "Tue, 20 Oct 2026 08:16:39 +0200",
+  "url": "https://www.czdefence.cz/clanek/mspo-2026-drony-umela-inteligence-a-nove-technologie-meni-podobu-moderniho-bojiste",
+  "second": {
+   "title": "Robotika v AČR: Koncepce existuje, dokáže ji ale ministerstvo obrany proměnit ve skutečnou schopnost?",
+   "pubDate": "Tue, 20 Oct 2026 07:10:58 +0200",
+   "url": "https://www.czdefence.cz/clanek/robotika-v-acr-koncepce-existuje-dokaze-ji-ale-ministerstvo-obrany-promenit-ve-skutecnou-schopnost"
+  },
+  "source": "curl live https://www.czdefence.cz/rss2 200 (122425 B / 120 items) ~08:09 → feed_cache/czdefence.xml; ingest ~08:09 + znovu po enrichmentu ~08:20 (live, nový článek MSPO 08:16); cache přepsána RSS z ~08:20"
+ },
+ "enrichment": {
+  "entries": 55,
+  "enrich_sites": {
+   "sites_with_news_pages": 43,
+   "news_pages_with_items": 39,
+   "captures_updated": 2,
+   "cms_unknown": 21,
+   "finished": "~08:16"
+  },
+  "enrich_refine": {
+   "sites_with_news_pages": 46,
+   "news_pages_with_items": 48,
+   "captures_updated": 0,
+   "finished": "~08:19"
+  },
+  "cms": {
+   "Drupal": 25,
+   "unknown": 12,
+   "WordPress": 6,
+   "custom": 3,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "Webnode": 2,
+   "phpBB": 2,
+   "Groups.io": 1
+  },
+  "note": "Zálohy captures/enrichment/x_posts/updates_history/events .bak-pre-20261020 (+ feed_cache czdefence.xml/json .bak-pre-20261020)."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 obě účty (20 B) ~08:10 → X API v2 get_users_posts since_id (x MCP): ArmadaCR 2, ObranaTweetuje 3 (1 vlastní + 2 RT @OVV_MO_CR nepřidány)",
+  "ArmadaCR_latest_own": "2026-10-19 18:02 Prague (2112212776072425550 – 800 civilistů / Vyškov)",
+  "ObranaTweetuje_latest_own": "2026-10-19 11:13 Prague (2112109902445342893 – Den bezpečnosti a obrany 2026)",
+  "new_posts": {
+   "ArmadaCR": [
+    "https://x.com/ArmadaCR/status/2112212776072425550",
+    "https://x.com/ArmadaCR/status/2112142172161991094"
+   ],
+   "ObranaTweetuje": [
+    "https://x.com/ObranaTweetuje/status/2112109902445342893"
+   ]
+  },
+  "note": "Plné texty ověřeny přes get_posts_by_ids (note_tweet). x_posts.json: ArmadaCR 11→13, ObranaTweetuje 12→13.",
+  "x_raw": [
+   "data/x_raw/synd_ArmadaCR_2026-10-20.json (429)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-20.json (429)",
+   "data/x_raw/xapi_2026-10-20.json (since_id, 2+3 výsledky)"
+  ]
+ },
+ "social_permalinks": {
+  "x_tweet_index": "202 → 205",
+  "backfill_added": 0,
+  "social_rows": 223,
+  "with_permalink": 151
+ },
+ "archive_updates": {
+  "added": 10,
+  "total": 502,
+  "from": 492,
+  "note": "motd_facts counts_diff vs 19.10. snapshot: 491 → 502. Nové řádky: 3× X, acr.mo.gov.cz (Den bezpečnosti a obrany), 2× czdefence, KVV Jihlava (Omezení úředních hodin – stejný obsah jako 18.10.), armadninoviny (článek hexakoptéra + junk '0 komentářů'), 111prapor (starý 2018 řádek)."
+ },
+ "health": {
+  "sites": 54,
+  "up": 51,
+  "down": 3,
+  "down_list": [
+   "portal.ardos.org (TLS UNEXPECTED_EOF, 6. den)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "Jeden běh ~08:10–08:12; transitions [].",
+  "certs_le_30d": {
+   "www.az44lmopr.cz": 13
+  }
+ },
+ "links": {
+  "checked": "2026-10-20T08:20:26+02:00 (po 1. buildu)",
+  "total": 770,
+  "ok": 643,
+  "login_wall": 121,
+  "broken": 0,
+  "unknown": 6,
+  "broken_list": [],
+  "unknown_by_host": {
+   "www.facebook.com": 3,
+   "portal.ardos.org": 1,
+   "zbranekvalitne.cz": 1,
+   "lvisingr.czweb.org": 1
+  }
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 124); data/archive_status.json updated_at zůstává 2026-10-07T08:24:07+02:00",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "nespuštěn (dělá se úplně nakonec mimo tento běh); motd_facts: včerejší běh 60× wayback error + 1× archive.today error",
+ "events": {
+  "added": 1,
+  "updated": 1,
+  "total": 102,
+  "inbox": "data/events_inbox/2026-10-20.json (2 kandidáti)",
+  "changes": [
+   "+ Nábor: Prostějov – Scholaris 5. 11. 2026 (doarmady náborové akce; odkaz 'Přečíst více' na webu chybně vede na Tachov)",
+   "~ Den bezpečnosti a obrany (ev-59180f304b60): doplněn čas 9:00–15:30, popis techniky, source_url MO kalendář action.php?id=8388 (id beze změny)"
+  ],
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (200) – nově Prostějov Scholaris 5.11., ostatní už v events",
+   "doarmady /deje-se/nastupni-terminy-az-a-dvc + /nastupni-terminy-vzp (200) – struktura beze změny; dílčí data bloků 2027 jako dosud nepřidána",
+   "mo.gov.cz diary 10/2026 (max id 8388) a 11/2026 (200, bez akcí); action.php?id=8388 = Den bezpečnosti a obrany 2026 (nové), 8389–8400 prázdné stuby (349 B)",
+   "unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/ (200) – vše už v events",
+   "kvv-jihlava.mo.gov.cz/aktuality/omezeni-urednich-hodin-1 (200) – uzavření 11. a 16. 11., není veřejná akce",
+   "X: Den bezpečnosti (už v events), RT OVV Kyjov živý vlčí mák 2.11. – nepřidáno (veteránská akce třetí strany, zdroj neotevřen)",
+   "czdefence RSS (Robotika, MSPO) – žádná akce s datem"
+  ],
+  "not_checked": "ostatní KVV aktuality, acr.mo.gov.cz přehled cvičení, obecní/krajská oznámení"
+ },
+ "comments": "YouTube/X komentáře tímto agentem přeskočeny (dělá paralelní agent).",
+ "motd": {
+  "file": "data/motd/2026-10-20.json",
+  "draft": "data/motd/drafts/2026-10-20.json",
+  "headline": "Armáda ČR v sobotu ukáže v Letňanech CV90 i Leopard 2A4, 800 nováčků ve Vyškově finišuje výcvik a certifikát az44lmopr.cz vyprší za 13 dní.",
+  "items": 6
+ },
+ "publish": {
+  "data_commit": "60dd76a",
+  "pushed_at": "2026-10-20T08:24:35+02:00",
+  "note": "rsync -a --delete (exclude .git/vercel.json/README.md): 9 souborů (index.html, motd.json, updates_history.json, archiv-is.html, events.ics, events.json, events/ev-59180f304b60.ics, +events/ev-94524a52e017.ics), 0 smazáno; archiv-is.html v mirroru OK; rsync i gh na boxu přítomny; push napoprvé OK."
+ },
+ "problems": [
+  "X syndication 429 obě účty → X API (x MCP)",
+  "portal.ardos.org TLS EOF 6. den",
+  "zbranekvalitne.cz + lvisingr.czweb.org ConnectTimeout",
+  "archive_lookup timeout 110 s (status od 2026-10-07T08:24:07+02:00)",
+  "az44lmopr.cz cert 13 d",
+  "včerejší archive_submit: 60/60 wayback error",
+  "enrich_sites cms unknown 21 (refine → 12)",
+  "history: junk řádek armadninoviny '0 komentářů' a starý 111prapor 2018 řádek",
+  "doarmady: odkaz Prostějov Scholaris vede na Tachov stránku",
+  "set_motd: 'mj.' počítáno jako konec věty → přeformulováno"
+ ],
+ "live_check": {
+  "at": "2026-10-20T08:27:02+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "cat-komentare": true,
+   "motd": true
+  },
+  "motd_in_html": true,
+  "motd_json_date": "2026-10-20",
+  "index_identical_to_mirror": true,
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 102,
+   "parse": "ok"
+  },
+  "interesting_comments": 93,
+  "archiv_is": "200 (/archiv-is.html)"
+ },
+ "social": {
+  "screenshots": "7/8 binárně změněno v buildu (full/thumbs 038,039,040,041,051,057,058) + IG do_armady: staging soubor byte-identický se včerejším (tmp/social_2026-10-19, md5 2a1aa19f…) → výsledek identický, full/052 beze změny; zdroj staging tmp/social_2026-10-20 (1920x1200 full-screen s rámem Chrome); záloha screenshots/archive/2026-10-20/ (8, backup_screenshots.py s explicitními cestami); blur_viewer_identity.py --no-ocr --out-dir (tesseract chybí → fixní oblasti); fixní FB/X oblast opět mířila mimo (FB AČR adresa, FB MO 'Government organization' + avatary přátel, FB doarmady recenze/adresa, X lokace/Following) → obnoveno z originálu (/tmp/manual_blur_20261020.py); ruční doblur: FB MO avatary přátel (4), FB doarmady lišta 'Comment as …' + avatar, X 'Followed by …' ×2, Chrome profil vpravo nahoře IG×2 + X×2, IG avatar profilu v levém panelu ×2; X účet vlevo dole, IG Messages bublina a FB avatar vpravo nahoře pokryty skriptem; kontrola okem ×8 (celé snímky + detailní výřezy) prošla – žádné jméno/avatar viewera",
+  "aktivnizalohy": "FB 'This content isn't available right now', status unavailable, starý last_post ponechán, captured_at+notes",
+  "captures": "backup captures.jsonl.bak-pre-social-20261020; FB AČR → 'Před čtyřmi týdny to bylo 800 civilistů.' + pfbid02rXeM9… (z observations); FB MO → '4 pilíře letošní sbírky Vlčí mák…', permalink null → starý HEDI OPEX URL odstraněn; FB doarmady → 'Cvičení aktivní zálohy Armády ČR jako předmět na vysoké škole?…' (sdílený reel AČR, 16.10.), URL null; IG AČR → 'Reporty ze Šumavy #2!' reel/DerIrKsNYJt (čísla lajků nejistá – uvedeno v textu); IG do_armady stejný post DeeQk52OMUH (jen date_raw/text); X ArmadaCR → status/2112212776072425550, X ObranaTweetuje → status/2112109902445342893 (oba ověřeny X API get_posts_by_ids, created_at 2026-10-19 18:02 a 11:13 Praha) – předtím zastaralé posty z 10./11.10.",
+  "comments": "inbox data/comments_inbox/2026-10-20.json (2 anon IG kandidáti, --check valid=2); add_interesting_comments: added=1 (IG AČR Šumava – soukromá firma) updated=1 (IG do_armady 'chcípnout na poli mezi drony', 122→151 likes), interesting_comments 93 → 94",
+  "archive_updates": "total 502 → 506 (+4)",
+  "commit": "05be87b",
+  "pushed_at": "2026-10-20T08:32:14+02:00",
+  "live_check": {
+   "at": "2026-10-20T08:32:45+02:00",
+   "http": 200,
+   "markers": "cat-chrono, badge-oficialni, cat-events, cat-health, cat-komentare, motd ok; index.html identický s mirrorem; nový komentář a titulek IG Šumava v HTML; full/039.jpg identický",
+   "interesting_comments": 94,
+   "events_ics": {
+    "http": 200,
+    "content_type": "text/calendar; charset=utf-8",
+    "vevents": 102,
+    "parse": "ok"
+   },
+   "archiv_is": 200
+  },
+  "archive_submit": "nespuštěno (dle zadání)"
+ }
+}

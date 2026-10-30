@@ -1,0 +1,187 @@
+{
+ "date": "2026-10-08",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (no screenshots/comments/archive_submit)",
+ "czdefence_top": {
+  "title": "Lze řešit hybridní a komplexní krize ohrožující ČR bez změny Ústavy České republiky?",
+  "pubDate": "Thu, 08 Oct 2026 08:16:49 +0200",
+  "url": "https://www.czdefence.cz/clanek/lze-resit-hybridni-a-komplexni-krize-ohrozujici-cr-bez-zmeny-ustavy-ceske-republiky",
+  "source": "WebFetch rss2 → feed_cache/czdefence.{xml,json} (5 nových/změněných + předchozí cache = 15 items); box TLS dnes OK (curl 200 v 08:18), ingest_rss_feeds načetl rss2 živě (120 items) a přepsal cache"
+ },
+ "enrichment": {
+  "entries": 56,
+  "cms": {
+   "Drupal": 26,
+   "unknown": 11,
+   "WordPress": 6,
+   "custom": 3,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "phpBB": 2,
+   "Webnode": 2,
+   "Nextcloud": 1,
+   "Groups.io": 1
+  },
+  "news_pages": 47,
+  "news_pages_with_items": 47,
+  "note": "enrich_sites + enrich_refine; czdefence ingest znovu po enrichmentu. Ruční oprava parse artefaktů: armadninoviny.cz last_post/last_item '0 komentářů' → 'Lotyšsko převzalo první bojová vozidla pěchoty ASCOD' (enrichment + captures), 2× '&nbsp;' v titulcích czdefence unescapováno"
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 6× (08:18–08:20, 3 pokusy/účet po 25 s) → posty načteny přes X API v2 (x MCP get_users_posts) 08:21; ArmadaCR +4, ObranaTweetuje +7 (self-reply link-only posty vynechány)",
+  "ArmadaCR_latest_own": "2026-10-07 (2107842884636717257 Vítejte doma! – Vítkov)",
+  "ObranaTweetuje_latest_own": "2026-10-07 (2107880009880699066 video shrnutí ministra)",
+  "x_raw": "data/x_raw/xapi_2026-10-08.json"
+ },
+ "social_permalinks": {
+  "x_tweet_index": 154,
+  "backfill_added": 0,
+  "social_rows": 161,
+  "with_permalink": 94,
+  "account_only": 67
+ },
+ "archive_updates": {
+  "added": 19,
+  "total": 351,
+  "from": 332,
+  "note": "po odstranění 4 artefaktů z dneška ('0 komentářů', 2× '&nbsp;' duplicita, 1× opakovaný '0 komentářů' last_post)"
+ },
+ "health": {
+  "sites": 55,
+  "up": 51,
+  "down": 4,
+  "down_list": [
+   "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "www.armadninoviny.cz (TLS EOF)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "2 běhy (08:21, 08:27) – síť z boxu nestabilní: 1. běh 50/5 (navíc TLS EOF az44lmopr.cz, jirivojacek.cz; armadninoviny up), uložen 2. běh. czdefence.cz a resco-cr.cz opět up.",
+  "certs_le_30d": {
+   "www.valka.cz": 9,
+   "rentaacr.cz": 14,
+   "www.armadninoviny.cz": 20,
+   "www.securityoutlines.cz": 22,
+   "jirivojacek.cz": 22,
+   "www.az44lmopr.cz": "25 (1. běh; ve 2. běhu TLS EOF)"
+  }
+ },
+ "links": {
+  "checked": 620,
+  "ok": 510,
+  "login_wall": 102,
+  "broken": 1,
+  "unknown": 7,
+  "broken_list": [
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+  ]
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 300 s (08:31–08:36), bez výstupu; data/archive_status.json zůstává z 2026-10-07 08:24 (wayback archived 376 / none 214 z 590, archive.is blocked_captcha)",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "nespuštěno (nepovinný závěrečný krok nadřazeného běhu)",
+ "events": {
+  "added": 0,
+  "total": 88,
+  "inbox": "data/events_inbox/2026-10-08.json (prázdný)",
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (všech 15 budoucích akcí 8. 10. 2026–7. 1. 2027 už v kalendáři)",
+   "mo.gov.cz diary action.php?id=8383–8392 (8383 = ARMY DEN Flora, již v kalendáři; 8384–8392 prázdné)",
+   "acr.mo.gov.cz/aktuality/ (404 – špatná URL, bez výsledku)",
+   "unob.cz (box TLS chyba, WebFetch 500)",
+   "X posty ArmadaCR/ObranaTweetuje (žádná nová budoucí akce)"
+  ],
+  "not_checked": "nastupni-terminy (včera/6. 10. kompletní), KVV aktuality, acr.mo.gov.cz přehled cvičení (čas)"
+ },
+ "motd": {
+  "file": "data/motd/2026-10-08.json",
+  "items": 5
+ },
+ "publish": {
+  "commit": "65ead8d8be08fbd17669bbeb920f7f493934073f",
+  "pushed_at": "2026-10-08T08:31:43+02:00"
+ },
+ "live_check": {
+  "at": "2026-10-08T08:32:08+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": 13,
+   "badge-oficialni": 156,
+   "cat-events": 80
+  },
+  "motd_in_html": true,
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 88,
+   "parse": "ok"
+  },
+  "archiv_is": "308 → 200 (clean URL)"
+ },
+ "social": {
+  "source": "tmp/social_2026-10-08/ (observations.json + 8 PNG, prohlížeč přihlášený, 08:20)",
+  "screenshots": {
+   "replaced": 7,
+   "total_accounts": 8,
+   "files": [
+    "facebook-ArmadaCeskerepubliky-loggedin.jpg",
+    "facebook-MinisterstvoobranyCeskerepubliky-loggedin.jpg",
+    "facebook-doarmady-cz-loggedin.jpg",
+    "instagram-armadaceskerepubliky-loggedin.png",
+    "instagram-do_armady-loggedin.png",
+    "x-com-armadacr.png",
+    "x-com-obranatweetuje.png"
+   ],
+   "not_replaced": {
+    "facebook-aktivnizalohy-loggedin.jpg": "FB „This content isn't available right now“ i přihlášeně (2. den po sobě); capture řádek beze změny (status unavailable)"
+   },
+   "backup": "screenshots/archive/2026-10-08/ (8 souborů vč. aktivnizalohy); data/captures.jsonl.bak-pre-social-20261008",
+   "processing": "ořez chrome prohlížeče + taskbaru (0,82,1280,742), blur_viewer_identity.py + ruční blur: avatary přátel u FB ArmadaČR a doarmady, avatary v IG Messages; vizuálně zkontrolovány 4 výstupy",
+   "limits": "jen viditelná část okna; u IG/X hlavička profilu a začátek prvního příspěvku"
+  },
+  "captures_updated": 7,
+  "captures_notes": {
+   "facebook doarmady.cz": "last_post_url = null (permalink nezjištěn; stejný post na IG /p/DeMaNKKu9JA/)",
+   "facebook MO": "datum na FB nečitelné → 2026-10-07 podle stejného postu na X (13h)",
+   "instagram armadaceskerepubliky": "nejnovější položka je společný reel s planespottercz_official (2026-10-07T16:00Z) → použit jako poslední příspěvek; vlastní poslední post /p/DeMlwJziMBS/ neotevřen (poznámka v notes)",
+   "x": "last_post_title/text/url sjednoceny na pozorovaný nejnovější post (dříve URL ze syndication neodpovídala titulku)"
+  },
+  "comments": {
+   "inbox": "data/comments_inbox/2026-10-08.json",
+   "candidates": 3,
+   "added": 3,
+   "updated": 0,
+   "rejected": 0,
+   "total": 40,
+   "author_type": "anon (všechny)"
+  },
+  "archive_updates": {
+   "added": 6,
+   "total": 357
+  },
+  "commit": "382544b12ff31314624edea0a18b187fe2a89147",
+  "pushed_at": "2026-10-08T08:41:28+02:00",
+  "live_check": {
+   "at": "2026-10-08T08:41:46+02:00",
+   "http": 200,
+   "markers": {
+    "cat-chrono": 13,
+    "badge-oficialni": 159,
+    "cat-events": 80,
+    "cat-komentare": 28
+   },
+   "motd_in_html": true,
+   "events_ics": {
+    "http": 200,
+    "content_type": "text/calendar; charset=utf-8",
+    "vevents": 88,
+    "parse": "ok"
+   },
+   "interesting_comments_json": {
+    "items": 40,
+    "new_items_present": true
+   }
+  },
+  "archive_submit": "nespouštěno (pokyn)"
+ }
+}

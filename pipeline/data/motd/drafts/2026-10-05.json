@@ -1,0 +1,38 @@
+{
+ "date": "2026-10-05",
+ "generated_at": "2026-10-05T08:25:08+02:00",
+ "headline": "MO slaví 30 let W-3A Sokol; Střecha o penězích na obranu; +2 komentáře; valka.cz cert 12 d.",
+ "items": [
+  {
+   "text": "Oficiální MO na FB i X @ObranaTweetuje (4. 10.): „Vrtulník W-3A Sokol – 30 let ve službách AČR 🇨🇿“. X syndication je dnes opět živá a poslední vlastní post @ArmadaCR je z 2/10 („Pomoz zachraňovat životy“).",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://x.com/ObranaTweetuje"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (5. 10.) přináší rozhovor s generálporučíkem Ivem Střechou „Bez peněz potřebné schopnosti nevybudujeme“; web je z boxu dál nedostupný kvůli TLS, data jdou přes RSS.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/genpor-ivo-strecha-bez-penez-potrebne-schopnosti-nevybudujeme"
+  },
+  {
+   "text": "Zajímavé komentáře +2 (celkem 23): pod reelem MO žádá uživatel prověření neověřeného tvrzení, že na protiválečné demonstraci (sobota 3/10) vystoupil voják z povolání s proruskými výroky, MO zatím nereagovalo. Armáda ČR navíc odpověděla pod reelem o dronech.",
+   "category": "komentář",
+   "importance": "střední",
+   "link": "#cat-komentare"
+  },
+  {
+   "text": "SSL: valka.cz vyprší za 12 dní a rentaacr.cz za 17 dní; certifikátů do 30 dní je 7 (včera 6), na hraně je portal.ardos.org (30 dní). Dostupnost beze změny 52 up / 3 down (404 AZ KVV Praha, TLS czdefence a resco-cr).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Archive.org: včerejší Save Page Now doběhl s výsledkem 50 uloženo / 10 nedostupných, snímek má nyní 290 ze 471 sledovaných odkazů (včera 274). Kontrola odkazů beze změny: 348 ok, 1 nefunkční (KVV Praha AZ).",
+   "category": "archiv",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

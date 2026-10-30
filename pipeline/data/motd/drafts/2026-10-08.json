@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-10-08T08:32:00+02:00",
+ "headline": "Na Vítkově ocenili vojáky ze zahraničních operací; AČR buduje 14 praporů územní obrany; Černá Hora převzala český materiál; valka.cz cert 9 d.",
+ "items": [
+  {
+   "text": "Na X (7. 10.) @ObranaTweetuje a @ArmadaCR: v Národním památníku na Vítkově byli oceněni vojáci, kteří působili v zahraničních operacích na Slovensku, v Lotyšsku, Litvě a Polsku. Ocenili je náměstek ministra obrany René Schreier a první zástupce náčelníka GŠ generálmajor Petr Čepelka.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2107835897429299536"
+  },
+  {
+   "text": "@ArmadaCR na X (7. 10.): „Teritoriální síly rostou“ – armáda buduje 14 praporů územní obrany v podřízenosti krajských vojenských velitelství, jeden pro každý kraj, jejichž vojáci cvičí tam, kde žijí.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2107804496206204994"
+  },
+  {
+   "text": "Oficiální web MO (7. 10.): „Černá Hora převzala první tranši vojenského materiálu od českých firem pro své ozbrojené síly“. Týž den ministr Zůna a náčelník GŠ generálporučík Miroslav Hlaváč v Brně diskutovali o budoucnosti českého obranného průmyslu (X @ObranaTweetuje).",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://mocr.mo.gov.cz/",
+   "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/cerna-hora-prevzala-prvni-transi-vojenskeho-materialu-od-ceskych-firem-pro-sve-ozbrojene-sily-266301/"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (8. 10.): „Lze řešit hybridní a komplexní krize ohrožující ČR bez změny Ústavy České republiky?“ a „Význam a vývoj moderní protivzdušné obrany“. Web je z boxu po několika dnech opět dostupný včetně TLS.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/lze-resit-hybridni-a-komplexni-krize-ohrozujici-cr-bez-zmeny-ustavy-ceske-republiky"
+  },
+  {
+   "text": "SSL: certifikát valka.cz vyprší za 9 dní, rentaacr.cz za 14 dní a armadninoviny.cz za 20 dní. Dostupnost 51 up / 4 down: trvá 404 stránky AZ u KVV Praha, czdefence.cz a resco-cr.cz jsou opět online, z boxu nově nedostupné zbranekvalitne.cz a lvisingr.czweb.org (timeout) a armadninoviny.cz (TLS chyba).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

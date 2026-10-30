@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-14",
+ "headline": "Ministr Zůna ve Washingtonu, AČR o Moravian Lance a dronech; valka.cz cert 3 d.",
+ "items": [
+  {
+   "text": "Ministerstvo obrany na X (13. října): ministr Jaromír Zůna zahájil cestu do USA u Masarykova pomníku ve Washingtonu, navštívil National Mall a s velvyslancem Jakubem Kulhánkem pozdravil účastníky Česko-amerického obranného a bezpečnostního fóra.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2109994679588577526"
+  },
+  {
+   "text": "Armáda ČR na X (13. 10.): shrnutí experimentálního cvičení Moravian Lance 2026 („nebylo přehlídkou schopností, ale jejich zkouškou“) a nový díl podcastu o dronech na bojišti.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2110037997525606805"
+  },
+  {
+   "text": "Oficiální zpravodajství AČR (13. 10.): Česká stopa na cvičení v Portugalsku – autonomní roboti a spolupráce akademie s armádou mění vojenskou taktiku.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/ceska-stopa-na-cviceni-v-portugalsku:-autonomni-roboti-a-spoluprace-akademie-s-armadou-meni-vojenskou-taktiku-266407/"
+  },
+  {
+   "text": "SSL: certifikát valka.cz vyprší za 3 dny (17. 10.), armadninoviny.cz už jen za 14 dní (28. 10.). Další ≤30 d: securityoutlines.cz a jirivojacek.cz 16 d, az44lmopr.cz 19 d.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "CZ Defence dnes: Colt MK 47 – granátomet s programovatelnou municí rozšiřuje možnosti palebné podpory pěchoty.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/colt-mk-47-moderni-granatomet-s-programovatelnou-munici-rozsiruje-moznosti-palebne-podpory-pechoty"
+  },
+  {
+   "text": "Kalendář: nově náborová prezentace AČR na přehlídce škol Kam na školu v Tachově (3. listopadu, celkem 94 událostí). Dnes Veletrh kariéra ve zdravotnictví v Praze a poslední den cvičení Safeguard HMP 2026.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  }
+ ]
+}

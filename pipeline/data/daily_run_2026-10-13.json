@@ -1,0 +1,186 @@
+{
+ "date": "2026-10-13",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel browser subagent; YT comments skipped; archive_submit NESPOUŠTĚN)",
+ "czdefence_top": {
+  "title": "CSG vstupuje do kosmického průmyslu investicí do MDA Space",
+  "pubDate": "Tue, 13 Oct 2026 07:35:05 +0200",
+  "url": "https://www.czdefence.cz/clanek/csg-vstupuje-do-kosmickeho-prumyslu-investici-do-mda-space",
+  "second": {
+   "title": "Jak vyhrát bitvu o celkové náklady na sestřel",
+   "pubDate": "Tue, 13 Oct 2026 07:10:59 +0200",
+   "url": "https://www.czdefence.cz/clanek/jak-vyhrat-bitvu-o-celkove-naklady-na-sestrel"
+  },
+  "also": "Bezpečnost České republiky čelí novým výzvám… (po re-ingestu po enrichmentu jako last)",
+  "source": "feed_cache/czdefence.xml (RSS 122733 B / 120 items); curl live HTTPS 200; ingest 08:13 + znovu po enrichmentu"
+ },
+ "enrichment": {
+  "entries": 56,
+  "cms": {
+   "Drupal": 26,
+   "unknown": 11,
+   "WordPress": 6,
+   "custom": 3,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "phpBB": 2,
+   "Webnode": 2,
+   "Nextcloud": 1,
+   "Groups.io": 1
+  },
+  "news_pages": 47,
+  "news_pages_with_items": 51,
+  "enrich_sites": {
+   "news_pages": 45,
+   "news_pages_with_items": 43,
+   "captures_updated": 3,
+   "finished": "08:20 approx"
+  },
+  "enrich_refine": {
+   "finished": "08:22 approx",
+   "captures_updated": 0,
+   "news_pages": 47,
+   "news_pages_with_items": 51
+  },
+  "note": "enrich_sites + enrich_refine; czdefence ingest znovu po enrichmentu. capture_experts/units/kvv nespouštěny. Zálohy: enrichment/captures/x_posts/updates_history/events .bak-pre-20261013. X captures last_post aktualizovány."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile empty HTTP 200 (0 B) 08:13 obě účty → X API v2 (x MCP get_users_posts); ArmadaCR kept 9 (10 skipped: odpovědi jiným + self-reply link-only), ObranaTweetuje 12 (0 skipped)",
+  "ArmadaCR_latest_own": "2026-10-12 16:24 Prague (2109651489337594149 'Cvičení aktivní zálohy… jako předmět na VŠ') — nový; +2109616813067604324 tři AZ při Zápasu cti",
+  "ObranaTweetuje_latest_own": "2026-10-12 16:08 Prague (2109647411559776658 ČT Provedu! Cena za svobodu) — nový",
+  "new_posts": {
+   "ArmadaCR": [
+    "2109651489337594149",
+    "2109616813067604324"
+   ],
+   "ObranaTweetuje": [
+    "2109647411559776658"
+   ],
+   "note": "do x_posts se navíc vrátil starší 2107842884636717257 (7.10 Vítkov) z API okna — nepočítán jako dnešní novinka"
+  },
+  "x_raw": [
+   "data/x_raw/xapi_2026-10-13.json",
+   "data/x_raw/synd_ArmadaCR_2026-10-13.json (empty 0 B)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-13.json (empty 0 B)"
+  ]
+ },
+ "social_permalinks": {
+  "x_tweet_index": 170,
+  "backfill_added": 0
+ },
+ "archive_updates": {
+  "added": 12,
+  "total": 410,
+  "from": 398
+ },
+ "health": {
+  "sites": 55,
+  "up": 52,
+  "down": 3,
+  "down_list": [
+   "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "az44lmopr.cz False→True (po 2 dnech TLS EOF znovu online). 1 běh ~08:24 Prague.",
+  "certs_le_30d": {
+   "www.valka.cz": 4,
+   "www.armadninoviny.cz": 15,
+   "www.securityoutlines.cz": 17,
+   "jirivojacek.cz": 17,
+   "www.az44lmopr.cz": 20
+  }
+ },
+ "links": {
+  "checked": "2026-10-13T08:28:07+02:00 (po buildu)",
+  "ok": 569,
+  "login_wall": 114,
+  "broken": 1,
+  "unknown": 7,
+  "broken_list": [
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+  ]
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 0/prázdný log); data/archive_status.json updated_at zůstává 2026-10-07 08:24",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "spuštěno na pozadí po shrnutí",
+ "events": {
+  "added": 1,
+  "total": 93,
+  "inbox": "data/events_inbox/2026-10-13.json (RunTour Pardubice 17.10)",
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce — nově RunTour Pardubice 17.10 (ověřen run-tour.cz); ostatní už v events.json; Prostějov/Olomouc v přehledu HTML nejasně (ponechány z burzapav.cz)",
+   "doarmady /deje-se/nastupni-terminy-az-a-dvc + /deje-se/nastupni-terminy-vzp (200) – beze změn termínů",
+   "mo.gov.cz diary action.php?id=8383 (ARMY DEN, už ev-af0ce6ab706d), 8384–8420 stuby WebToDate",
+   "czdefence RSS, X ArmadaCR/ObranaTweetuje – bez dalších nových veřejných akcí"
+  ],
+  "not_checked": "acr.mo.gov.cz přehled cvičení, unob.cz (čas)"
+ },
+ "motd": {
+  "file": "data/motd/2026-10-13.json",
+  "draft": "data/motd/drafts/2026-10-13.json",
+  "headline": "AČR o AZ na VŠ a Moravian Lance; az44lmopr znovu online; valka.cz cert 4 d.",
+  "items": 6
+ },
+ "publish": {
+  "data_commit": "f60872d",
+  "pushed_at": "2026-10-13T08:30:31+02:00",
+  "note": "rsync binary chyběl (apt package not found) → sync site_v2→git mirror přes python shutil ekvivalent --delete + exclude .git/vercel.json/README.md; archiv-is.html v mirroru OK"
+ },
+ "live_check": {
+  "at": "2026-10-13T08:30:56+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "motd": true
+  },
+  "motd_in_html": true,
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 93,
+   "parse": "ok"
+  }
+ },
+ "social": {
+  "screenshots": "paralelně jiný subagent",
+  "comments": "FB/IG/X: paralelní subagent; YT přeskočeno (čas)"
+ },
+ "problems": [
+  "rsync není v PATH ani apt (Unable to locate package) — sync přes python",
+  "X syndication empty 200 → fallback X API",
+  "archive_lookup timeout 110 s (status od 2026-10-07)",
+  "archive_submit nespouštěn dle pokynu",
+  "YT komentáře nestihnuty"
+ ],
+ "social_screenshots": {
+  "refreshed": 8,
+  "blur": true,
+  "note": "FB aktivnizalohy unavailable → screenshot facebook.com/aktivnizaloha; profily přes page.pdf→pdftoppm; zálohy screenshots/archive/2026-10-13/; observations /tmp/social_2026-10-13/",
+  "commits": [
+   "380bb11"
+  ],
+  "push_prague": "08:33"
+ },
+ "comments": {
+  "inbox": 5,
+  "added": 3,
+  "updated": 2,
+  "total": 81,
+  "dropped": "FB odpověď 'Děkujeme.' (bez hodnoty), osobní útoky vyloučeny při výběru"
+ },
+ "live_check_social": {
+  "at": "2026-10-13T08:34+02:00",
+  "http": 200,
+  "interesting_comments": 81,
+  "events_ics": {
+   "http": 200,
+   "vevents": 93
+  }
+ }
+}

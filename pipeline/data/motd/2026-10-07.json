@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T08:24:02+02:00",
+ "headline": "Rakovník má nový logistický pluk; radar eSAURION; komentáře k odebrání záštity Future Air Force; valka.cz cert 10 d.",
+ "items": [
+  {
+   "text": "Oficiální web AČR (6. 10.): „Z praporu se stal pluk. Rakovník je domovem nové logistické jednotky Armády České republiky“, KVV Olomouc týž den informuje o celorepublikovém finále branně-vědomostní soutěže POKOS.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/z-praporu-se-stal-pluk--rakovnik-je-domovem-nove-logisticke-jednotky-armady-ceske-republiky-266273/"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (7. 10.): „eSAURION: Nový český radar protivzdušné obrany má být očima celé baterie“ – AESA radar společnosti RETIA (CSG) představený na Dnech NATO v Ostravě.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/esaurion-novy-cesky-radar-protivzdusne-obrany-ma-byt-ocima-cele-baterie"
+  },
+  {
+   "text": "Zajímavé komentáře +12 (celkem 35): nejvíc reakcí (6) je pod prohlášením náčelníka Generálního štábu AČR k odebrání záštity nad konferencí Future Air Force na FB a IG AČR. Diskutující krok vítají i kritizují, že akce nebyla prověřena dříve.",
+   "category": "komentář",
+   "importance": "střední",
+   "link": "#cat-komentare",
+   "source_url": "https://www.facebook.com/ArmadaCeskerepubliky/posts/pfbid0eydjGxtVLcB4rNmqSgMbP4cGgqnEhtfCxQzmSQt8oVEL9Kkubq5JPCWhHKUUa9Nql"
+  },
+  {
+   "text": "Kalendář událostí +1 (celkem 88): nábor Do armády na Veletrhu vzdělávání ve Zlíně 4. 11. 2026. Kalendář MO nově potvrzuje i ARMY DEN na Floře 10. 10. od 10 do 18 hodin (akce už v kalendáři je).",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "SSL: certifikát valka.cz vyprší za 10 dní, rentaacr.cz za 15 dní; do 30 dní vyprší 6 certifikátů. Dostupnost beze změny 52 up / 3 down (404 AZ KVV Praha, TLS czdefence a resco-cr).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

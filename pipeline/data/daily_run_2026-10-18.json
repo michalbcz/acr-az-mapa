@@ -1,0 +1,184 @@
+{
+ "date": "2026-10-18",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel subagent; archive_submit NESPOUŠTĚN tímto agentem)",
+ "czdefence_top": {
+  "title": "HAMMAR: velký hráč na poli moderní logistiky",
+  "pubDate": "Sun, 18 Oct 2026 08:16:18 +0200",
+  "url": "https://www.czdefence.cz/clanek/hammar-velky-hrac-na-poli-moderni-logistiky",
+  "second": {
+   "title": "Dron nevybuchl. Hrozba ale zůstává. Pyrotechnici EOD nacvičují likvidaci FPV dronů s výbušninami",
+   "pubDate": "Sun, 18 Oct 2026 07:10:06 +0200",
+   "url": "https://www.czdefence.cz/clanek/dron-nevybuchl-hrozba-ale-zustava-pyrotechnici-eod-nacvicuji-likvidaci-fpv-dronu-s-vybusninami"
+  },
+  "source": "curl live https://www.czdefence.cz/rss2 200 (122577 B / 120 items) ~08:17 → feed_cache/czdefence.xml; ingest ~08:17 + znovu po enrichmentu ~08:27 (live fetch ingestem)"
+ },
+ "enrichment": {
+  "entries": 55,
+  "enrich_sites": {
+   "sites_with_news_pages": 44,
+   "news_pages_with_items": 41,
+   "captures_updated": 2,
+   "finished": "~08:25"
+  },
+  "enrich_refine": {
+   "sites_with_news_pages": 46,
+   "news_pages_with_items": 49,
+   "captures_updated": 0,
+   "finished": "~08:27"
+  },
+  "cms": {
+   "Drupal": 25,
+   "unknown": 12,
+   "WordPress": 6,
+   "custom": 3,
+   "Next.js": 2,
+   "WebToDate": 2,
+   "Webnode": 2,
+   "phpBB": 2,
+   "Groups.io": 1
+  },
+  "note": "Zálohy captures/enrichment/x_posts/updates_history/events .bak-pre-20261018 (+ feed_cache czdefence.xml/json .bak-pre-20261018). X captures (captured_at+notes) aktualizovány až po enrichmentu (atomický zápis); last_post beze změny."
+ },
+ "x_syndication": {
+  "status": "syndication timeline-profile 429 (20 B 'Rate limit exceeded') ~08:18 obě účty → X API v2 (x MCP get_users_posts, max 20; user_id z xapi_2026-10-17); ArmadaCR 19 → kept 11 (8 skipped: RT, self-reply link-only), ObranaTweetuje 17 → kept 17 → cap 12",
+  "ArmadaCR_latest_own": "2026-10-16 13:54 Prague (2111063239962628380 – Cílová lajna pracovního týdne)",
+  "ObranaTweetuje_latest_own": "2026-10-16 10:59 Prague (2111019103901171851 – Kdo je válečný veterán?)",
+  "new_posts": {
+   "ArmadaCR": [],
+   "ObranaTweetuje": []
+  },
+  "note": "Od 17. 10. žádný nový vlastní post (víkend).",
+  "x_raw": [
+   "data/x_raw/xapi_2026-10-18.json",
+   "data/x_raw/synd_ArmadaCR_2026-10-18.json (429, 20 B)",
+   "data/x_raw/synd_ObranaTweetuje_2026-10-18.json (429, 20 B)"
+  ]
+ },
+ "social_permalinks": {
+  "x_tweet_index": "190 → 190",
+  "backfill_added": 0,
+  "social_rows": 218,
+  "with_permalink": 148
+ },
+ "archive_updates": {
+  "added": 6,
+  "total": 483,
+  "from": 477,
+  "note": "motd_facts counts_diff vs 17.10. snapshot: 473 → 483 (mezi tím +4 ze sociálního běhu 17.10.)"
+ },
+ "health": {
+  "sites": 54,
+  "up": 51,
+  "down": 3,
+  "down_list": [
+   "portal.ardos.org (TLS UNEXPECTED_EOF, 4. den)",
+   "zbranekvalitne.cz (ConnectTimeout)",
+   "lvisingr.czweb.org (ConnectTimeout)"
+  ],
+  "note": "Jeden běh ~08:18–08:19; transitions [].",
+  "certs_le_30d": {
+   "www.securityoutlines.cz": 12,
+   "jirivojacek.cz": 12,
+   "www.az44lmopr.cz": 15,
+   "forum.vojsko.net": 27
+  }
+ },
+ "links": {
+  "checked": "2026-10-18T08:27:37+02:00 (po 1. buildu)",
+  "total": 754,
+  "ok": 629,
+  "login_wall": 119,
+  "broken": 0,
+  "unknown": 6,
+  "broken_list": [],
+  "unknown_by_host": {
+   "www.facebook.com": 3,
+   "portal.ardos.org": 1,
+   "zbranekvalitne.cz": 1,
+   "lvisingr.czweb.org": 1
+  }
+ },
+ "archive_lookup": {
+  "status": "přeskočeno – timeout 110 s (exit 124); data/archive_status.json updated_at zůstává 2026-10-07 08:24",
+  "updated_at": "2026-10-07T08:24:07+02:00"
+ },
+ "archive_submit": "nespuštěn (dělá se úplně nakonec mimo tento běh)",
+ "events": {
+  "added": 0,
+  "total": 101,
+  "inbox": "data/events_inbox/2026-10-18.json ([] – prázdný stav)",
+  "checked": [
+   "doarmady.mo.gov.cz/deje-se/naborove-akce (200) – všech 13 budoucích položek už v events.json",
+   "doarmady /deje-se/nastupni-terminy-az-a-dvc + /nastupni-terminy-vzp (200) – termíny odpovídají events.json",
+   "mo.gov.cz diary action.php?id=8386–8387 (známé), 8388–8400 prázdné stuby (349 B); měsíční kalendář 10/2026 max id 8387, 11/2026 a 12/2026 bez akcí",
+   "unob.cz akce univerzity (200) – UO prezentace na Gaudeamus/FFF/ADCF = stejné akce jako v events, Vzdělání a řemeslo + DOD 5.12. už v events",
+   "acr.mo.gov.cz + mocr.mo.gov.cz zpravodajství (200, výpis renderován JS – bez odkazů v HTML); czdefence RSS, X, 6 nových řádků updates_history – žádná nová veřejná akce s datem"
+  ],
+  "not_checked": "acr.mo.gov.cz přehled cvičení 2026, KVV aktuality"
+ },
+ "comments": "YouTube/X syndication komentáře tímto agentem přeskočeny (volitelné; X syndication 429).",
+ "motd": {
+  "file": "data/motd/2026-10-18.json",
+  "draft": "data/motd/drafts/2026-10-18.json",
+  "headline": "VLS a armáda chystají zázemí pro mobilní jatka; EOD nacvičují zneškodnění FPV dronů; v týdnu Gaudeamus, Future Forces a přísaha KZP.",
+  "items": 5
+ },
+ "publish": {
+  "data_commit": "9811ba4",
+  "pushed_at": "2026-10-18T08:33:51+02:00",
+  "note": "rsync -a --delete (exclude .git/vercel.json/README.md): 4 soubory změněny (index.html, motd.json, updates_history.json, archiv-is.html), 0 smazáno; archiv-is.html v mirroru OK. rsync na boxu chyběl → doinstalován apt (rsync); první push 08:32:58 selhal (credential helper '/usr/bin/gh auth git-credential' – /usr/bin/gh chyběl) → apt install gh (2.46.0), gh auth status OK (michalbcz), push 08:33:51 OK."
+ },
+ "problems": [
+  "X syndication 429 → fallback X API",
+  "portal.ardos.org TLS EOF 4. den",
+  "archive_lookup timeout 110 s (status od 2026-10-07)",
+  "zbranekvalitne.cz + lvisingr.czweb.org ConnectTimeout",
+  "rsync chyběl na boxu → doinstalován",
+  "/usr/bin/gh chyběl (git credential helper) → první push selhal, gh doinstalován apt, druhý push OK",
+  "/archiv-is.html vrací 308 → /archiv-is (Vercel cleanUrls), cíl 200"
+ ],
+ "live_check": {
+  "at": "2026-10-18T08:34:25+02:00",
+  "http": 200,
+  "markers": {
+   "cat-chrono": true,
+   "badge-oficialni": true,
+   "cat-events": true,
+   "cat-health": true,
+   "cat-komentare": true,
+   "motd": true
+  },
+  "motd_in_html": true,
+  "motd_json_date": "2026-10-18",
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 101,
+   "parse": "ok"
+  },
+  "interesting_comments": 89,
+  "archiv_is": "308 → /archiv-is 200"
+ },
+ "social": {
+  "screenshots": "ok 8/8 přepsáno (zdroj staging tmp/social_2026-10-18; 1920x1200); záloha screenshots/archive/2026-10-18/ (8); blur_viewer_identity.py --inplace ×8 + ruční doblur: Chrome profil vpravo nahoře (IG×2, X×2; FB pokryto skriptem), avatary přátel FB MO (4) a FB doarmady (1), IG avatar profilu v levém panelu ×2, X 'Followed by' ×2; IG Messages bublina a X účet vlevo dole pokryty skriptem; kontrola okem prošla ×8 (žádné jméno/avatar viewera, 'Comment as' na snímcích není)",
+  "aktivnizalohy": "FB 'This content isn't available right now', status unavailable, starý last_post ponechán",
+  "captures": "backup captures.jsonl.bak-pre-social-20261018; FB AČR reel 1099350093072691 (title+url); FB MO HEDI OPEX title+permalink pfbid02J22…; FB doarmady.cz title sdílený reel AČR, url null; IG AČR reel DenH3hMInCN; IG do_armady stejný post DeeQk52OMUH (title doplněn); X ponecháno z API",
+  "comments": "inbox data/comments_inbox/2026-10-18.json (5 anon kandidátů: FB AČR 1, IG AČR 1, IG do_armady 3; sarkastický 'chcípnout mezi drony' ponechán – není osobní útok, nejvýraznější ohlas 91 liků); add_interesting_comments: added=3 updated=2, interesting_comments 89 → 92",
+  "side_effect": "omylem širší glob při ručním blur Chrome avataru: 12 jiných loggedin snímků (9 FB jpg 1280px, 3 IG png) přeuloženo – blur box mimo plochu obrazu, obsah beze změny, jen jednou rekomprese JPEG q90 (proto 17 změněných full/thumbs v mirroru)",
+  "commit": "f80c336",
+  "pushed_at": "2026-10-18T08:38:55+02:00",
+  "live_check": {
+   "at": "2026-10-18T08:39:08+02:00",
+   "http": 200,
+   "markers": "cat-chrono, badge-oficialni, cat-events, cat-health, cat-komentare, motd ok; nové permalinky DenH3hMInCN, reel 1099350093072691, pfbid02J22 v HTML",
+   "interesting_comments": 92,
+   "events_ics": {
+    "http": 200,
+    "content_type": "text/calendar",
+    "vevents": 101
+   }
+  },
+  "archive_submit": "nespuštěno (dle zadání)"
+ }
+}

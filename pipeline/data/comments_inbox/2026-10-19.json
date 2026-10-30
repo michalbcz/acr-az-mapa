@@ -1,0 +1,64 @@
+[
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/armadaceskerepubliky/",
+  "post_url": "https://www.instagram.com/armadaceskerepubliky/reel/DenH3hMInCN/",
+  "post_title_or_excerpt": "I když to dnes nebyla výhra.…",
+  "comment_url": null,
+  "comment_text": "Zapomněl si dodat že Dvořák navážil",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "1d",
+  "reasons": [
+   "kritika / stížnost",
+   "výrazný ohlas"
+  ],
+  "reason_note": "Kritika, že armáda neuvádí, že voják nesplnil váhový limit; silný ohlas (197 lajků).",
+  "engagement": {
+   "likes": 197,
+   "replies": 2
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/do_armady/",
+  "post_url": "https://www.instagram.com/do_armady/p/DeeQk52OMUH/",
+  "post_title_or_excerpt": "Přednášky, seminárky, zkouškové…",
+  "comment_url": null,
+  "comment_text": "To je nuda, pojďme radši chcípnout na poli mezi drony. To zní jak zábava.",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "3d",
+  "reasons": [
+   "kritika / stížnost",
+   "výrazný ohlas"
+  ],
+  "reason_note": "Sarkastická reakce na náborový příspěvek AZ odkazující na válku s drony, 122 lajků.",
+  "engagement": {
+   "likes": 122,
+   "replies": 5
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/do_armady/",
+  "post_url": "https://www.instagram.com/do_armady/p/DeeQk52OMUH/",
+  "post_title_or_excerpt": "Přednášky, seminárky, zkouškové…",
+  "comment_url": null,
+  "comment_text": "Tyjo :D tyhle nábory musí stát dost peněz :D a přitom se vám lidi jen smejou :D",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "3d",
+  "reasons": [
+   "kritika / stížnost"
+  ],
+  "reason_note": "Kritika nákladů a účinnosti náborové kampaně.",
+  "engagement": {
+   "likes": 70,
+   "replies": 4
+  }
+ }
+]

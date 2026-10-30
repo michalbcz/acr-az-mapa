@@ -1,0 +1,2825 @@
+{
+ "https://doarmady.mo.gov.cz/koho-hledame/vojak-v-zaloze/aktivni-zaloha": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Next.js",
+  "cms_version": null,
+  "cms_evidence": "Next.js markers",
+  "admin_urls": [
+   "https://doarmady.mo.gov.cz/admin",
+   "https://doarmady.mo.gov.cz/login",
+   "https://doarmady.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://doarmady.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://doarmady.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://doarmady.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://doarmady.mo.gov.cz/o-armade/armypedia/vojenske-zpravodajstvi",
+    "title": "Vojenské zpravodajství",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://doarmady.mo.gov.cz/deje-se/aktuality",
+    "title": "Novinky z armády",
+    "last_item": "10. 8. 2026Zaujalo vás studentské léto v maskáčích? Totéž můžete zažít i vy",
+    "last_item_date": "17. 9. 2026",
+    "last_item_url": "https://doarmady.mo.gov.cz/deje-se/aktuality/zaujalo-vas-studentske-leto-v-maskacich-totez-muzete-zazit-i-vy"
+   }
+  ],
+  "last_post_title": "10. 8. 2026Zaujalo vás studentské léto v maskáčích? Totéž můžete zažít i vy",
+  "last_post_date": "17. 9. 2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://doarmady.mo.gov.cz/koho-hledame/vojak-v-zaloze/aktivni-zaloha",
+  "error": null,
+  "etag": "\"a9fqx7nva460qv\"",
+  "http_date": "Fri, 30 Oct 2026 07:15:20 GMT"
+ },
+ "https://aktivnizaloha.mo.gov.cz/prehled-jednotek-az": {
+  "http_last_modified": null,
+  "html_modified": "2023-10-17T22:15:03+02:00",
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://aktivnizaloha.mo.gov.cz/user/login",
+   "https://aktivnizaloha.mo.gov.cz/admin",
+   "https://aktivnizaloha.mo.gov.cz/login",
+   "https://aktivnizaloha.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Newsletter AZ INFO",
+    "last_item": "Aktivní_info_1_2022.pdf",
+    "last_item_date": "2023-10-17T22:15:03+02:00",
+    "last_item_url": "https://aktivnizaloha.mo.gov.cz/sites/aktivnizaloha/files/2024-06/Aktivn%C3%AD_info_1_2022.pdf"
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Ostravští záložníci uctili památku podplukovníka Josefa Otiska",
+    "last_item_date": "3.2.2025",
+    "last_item_url": "https://aktivnizaloha.mo.gov.cz/aktuality/ostravsti-zaloznici-uctili-pamatku-podplukovnika-josefa-otiska"
+   }
+  ],
+  "last_post_title": "Ostravští záložníci uctili památku podplukovníka Josefa Otiska",
+  "last_post_date": "3.2.2025",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://aktivnizaloha.mo.gov.cz/prehled-jednotek-az",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:17:02 GMT"
+ },
+ "https://aktivnizaloha.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2023-10-17T22:15:03+02:00",
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://aktivnizaloha.mo.gov.cz/user/login",
+   "https://aktivnizaloha.mo.gov.cz/admin",
+   "https://aktivnizaloha.mo.gov.cz/login",
+   "https://aktivnizaloha.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Newsletter AZ INFO",
+    "last_item": "Aktivní_info_1_2022.pdf",
+    "last_item_date": "2023-10-17T22:15:03+02:00",
+    "last_item_url": "https://aktivnizaloha.mo.gov.cz/sites/aktivnizaloha/files/2024-06/Aktivn%C3%AD_info_1_2022.pdf"
+   },
+   {
+    "url": "https://aktivnizaloha.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Ostravští záložníci uctili památku podplukovníka Josefa Otiska",
+    "last_item_date": "3.2.2025",
+    "last_item_url": "https://aktivnizaloha.mo.gov.cz/aktuality/ostravsti-zaloznici-uctili-pamatku-podplukovnika-josefa-otiska"
+   }
+  ],
+  "last_post_title": "Ostravští záložníci uctili památku podplukovníka Josefa Otiska",
+  "last_post_date": "3.2.2025",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://aktivnizaloha.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:20:50 GMT"
+ },
+ "https://acr.mo.gov.cz/": {
+  "http_last_modified": "Fri, 30 Oct 2026 07:00:14 GMT",
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "WebToDate",
+  "cms_version": null,
+  "cms_evidence": "author=WebContentManagementSystem: Macron Software | WebToDate, www.webtodate.cz",
+  "admin_urls": [
+   "https://acr.mo.gov.cz/admin",
+   "https://acr.mo.gov.cz/login",
+   "https://acr.mo.gov.cz/scripts/login.php",
+   "https://acr.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://acr.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://acr.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://acr.mo.gov.cz/scripts/login.php",
+    "status": 404
+   },
+   {
+    "url": "https://acr.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://acr.mo.gov.cz/scripts/detail.php?pgid=78",
+    "title": "Zpravodajství",
+    "last_item": "Prezident republiky udělil státní vyznamenání třem vojákům, kteří zahynuli v Afghánistánu",
+    "last_item_date": "28.10.2026",
+    "last_item_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/prezident-republiky-udelil-statni-vyznamenani-trem-vojakum--kteri-zahynuli-v-afghanistanu-266662/"
+   },
+   {
+    "url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/prezident-republiky-udelil-statni-vyznamenani-trem-vojakum--kteri-zahynuli-v-afghanistanu-266662/",
+    "title": "news",
+    "last_item": "Od tragické události v afghánském městečku Gerešk uplyne v sobotu již deset let",
+    "last_item_date": null,
+    "last_item_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/od-tragicke-udalosti-v-afghanskem-mestecku-geresk-uplyne-v-sobotu-jiz-deset-let-141976/"
+   }
+  ],
+  "last_post_title": "Prezident republiky udělil státní vyznamenání třem vojákům, kteří zahynuli v Afghánistánu",
+  "last_post_date": "28.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://acr.mo.gov.cz/",
+  "error": null,
+  "etag": "\"93de-65f09591c5d74\"",
+  "http_date": "Fri, 30 Oct 2026 07:15:26 GMT"
+ },
+ "https://mocr.mo.gov.cz/": {
+  "http_last_modified": "Fri, 30 Oct 2026 06:07:58 GMT",
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "WebToDate",
+  "cms_version": null,
+  "cms_evidence": "author=WebContentManagementSystem: Macron Software | WebToDate, www.webtodate.cz",
+  "admin_urls": [
+   "https://mocr.mo.gov.cz/admin",
+   "https://mocr.mo.gov.cz/login",
+   "https://mocr.mo.gov.cz/scripts/login.php",
+   "https://mocr.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://mocr.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://mocr.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://mocr.mo.gov.cz/scripts/login.php",
+    "status": 404
+   },
+   {
+    "url": "https://mocr.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://mocr.mo.gov.cz/scripts/detail.php?pgid=481",
+    "title": "Zpravodajství",
+    "last_item": null,
+    "last_item_date": null,
+    "last_item_url": null
+   },
+   {
+    "url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/pietni-akt-na-vitkove-pripomnel-108--vyroci-vzniku-ceskoslovenska-266576/",
+    "title": "news",
+    "last_item": "Prezident jmenoval pět nových generálů, šest povýšil do vyšší generálské hodnosti",
+    "last_item_date": null,
+    "last_item_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/prezident-jmenoval-pet-novych-generalu--sest-povysil-do-vyssi-generalske-hodnosti-266517/"
+   }
+  ],
+  "last_post_title": "Poslední &gt;&gt;",
+  "last_post_date": "29.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://mocr.mo.gov.cz/",
+  "error": null,
+  "etag": "\"8e55-65f089e291ff3\"",
+  "http_date": "Fri, 30 Oct 2026 07:15:32 GMT"
+ },
+ "https://veters.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2021-09-17T21:41:57+02:00",
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://veters.mo.gov.cz/user/login",
+   "https://veters.mo.gov.cz/admin",
+   "https://veters.mo.gov.cz/login",
+   "https://veters.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://veters.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://veters.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://veters.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://veters.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://veters.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Krátké zprávy",
+    "last_item": "Krátké zprávy",
+    "last_item_date": "2021-09-17T21:41:57+02:00",
+    "last_item_url": "https://veters.mo.gov.cz/aktuality/kratke-zpravy"
+   },
+   {
+    "url": "https://veters.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Teritoriální síly posíleny o Provost marshala",
+    "last_item_date": "29.9.2026",
+    "last_item_url": "https://veters.mo.gov.cz/aktuality/teritorialni-sily-posileny-o-provost-marshala"
+   }
+  ],
+  "last_post_title": "Krátké zprávy",
+  "last_post_date": "2021-09-17T21:41:57+02:00",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://veters.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 05:02:28 GMT"
+ },
+ "https://portal.ardos.org/": {
+  "http_last_modified": "Tue, 14 Oct 2025 11:32:48 GMT",
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Nextcloud",
+  "cms_version": null,
+  "cms_evidence": "meta refresh to /nextcloud",
+  "admin_urls": [
+   "https://portal.ardos.org/nextcloud",
+   "https://portal.ardos.org/nextcloud/login",
+   "https://portal.ardos.org/admin",
+   "https://portal.ardos.org/login",
+   "https://portal.ardos.org/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://portal.ardos.org/nextcloud",
+    "status": 200
+   },
+   {
+    "url": "https://portal.ardos.org/nextcloud/login",
+    "status": 200
+   },
+   {
+    "url": "https://portal.ardos.org/admin",
+    "status": 404
+   },
+   {
+    "url": "https://portal.ardos.org/login",
+    "status": 404
+   },
+   {
+    "url": "https://portal.ardos.org/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://portal.ardos.org/",
+  "error": null,
+  "etag": "\"f6-6411cbe56415a\"",
+  "http_date": "Fri, 30 Oct 2026 07:15:38 GMT"
+ },
+ "https://rkacr.mo.gov.cz/ardos": {
+  "http_last_modified": null,
+  "html_modified": "2025-01-03T12:33:33+01:00",
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://rkacr.mo.gov.cz/user/login",
+   "https://rkacr.mo.gov.cz/admin",
+   "https://rkacr.mo.gov.cz/login",
+   "https://rkacr.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://rkacr.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://rkacr.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://rkacr.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://rkacr.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://rkacr.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Krátké zprávy",
+    "last_item": "Krátké zprávy",
+    "last_item_date": "2025-01-03T12:33:33+01:00",
+    "last_item_url": "https://rkacr.mo.gov.cz/aktuality/kratke-zpravy"
+   },
+   {
+    "url": "https://rkacr.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "36 mezinarodni setkani radioamateru holice",
+    "last_item_date": "28.8.2026",
+    "last_item_url": "https://rkacr.mo.gov.cz/aktuality/36-mezinarodni-setkani-radioamateru-holice-2026"
+   }
+  ],
+  "last_post_title": "Krátké zprávy",
+  "last_post_date": "2025-01-03T12:33:33+01:00",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://rkacr.mo.gov.cz/ardos",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:38:00 GMT"
+ },
+ "https://radioklub.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2025-01-03T12:33:33+01:00",
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://radioklub.mo.gov.cz/user/login",
+   "https://radioklub.mo.gov.cz/admin",
+   "https://radioklub.mo.gov.cz/login",
+   "https://radioklub.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://radioklub.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://radioklub.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://radioklub.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://radioklub.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://radioklub.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Krátké zprávy",
+    "last_item": "Krátké zprávy",
+    "last_item_date": "2025-01-03T12:33:33+01:00",
+    "last_item_url": "https://radioklub.mo.gov.cz/aktuality/kratke-zpravy"
+   },
+   {
+    "url": "https://radioklub.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "36. mezinárodní setkání radioamatérů Holice 2026",
+    "last_item_date": "28.8.2026",
+    "last_item_url": "https://radioklub.mo.gov.cz/aktuality/36-mezinarodni-setkani-radioamateru-holice-2026"
+   }
+  ],
+  "last_post_title": "Krátké zprávy",
+  "last_post_date": "2025-01-03T12:33:33+01:00",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://radioklub.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:29:53 GMT"
+ },
+ "https://groups.io/g/ardos": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Groups.io",
+  "cms_version": null,
+  "cms_evidence": "groups.io platform",
+  "admin_urls": [
+   "https://groups.io/admin",
+   "https://groups.io/login",
+   "https://groups.io/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://groups.io/admin",
+    "status": 404
+   },
+   {
+    "url": "https://groups.io/login",
+    "status": 200
+   },
+   {
+    "url": "https://groups.io/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://groups.io/g/ardos",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:15:47 GMT"
+ },
+ "https://kvv-praha-stredoceskykraj.mo.gov.cz/zaloha-ozbrojenych-sil/aktivni-zaloha": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/user/login",
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/admin",
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/login",
+   "https://kvv-praha-stredoceskykraj.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Den bezpečnosti a obrany 24. 10. 2026",
+    "last_item_date": "22.10.2026",
+    "last_item_url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktuality/den-bezpecnosti-obrany-24-10-2026"
+   }
+  ],
+  "last_post_title": "Den bezpečnosti a obrany 24. 10. 2026",
+  "last_post_date": "22.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/zaloha-ozbrojenych-sil/aktivni-zaloha",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:12:58 GMT"
+ },
+ "https://kvv-hlavnimestopraha.mo.gov.cz/aktivni-zaloha/111-prapor-uzemni-obrany-aktivni-zaloha": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-hlavnimestopraha.mo.gov.cz/user/login",
+   "https://kvv-hlavnimestopraha.mo.gov.cz/admin",
+   "https://kvv-hlavnimestopraha.mo.gov.cz/login",
+   "https://kvv-hlavnimestopraha.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-hlavnimestopraha.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-hlavnimestopraha.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-hlavnimestopraha.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-hlavnimestopraha.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-hlavnimestopraha.mo.gov.cz/aktuality",
+    "title": "Informace",
+    "last_item": "SAFEGUARD 2026",
+    "last_item_date": "9.10.2026",
+    "last_item_url": "https://kvv-hlavnimestopraha.mo.gov.cz/aktuality/safeguard-2026"
+   },
+   {
+    "url": "https://kvv-hlavnimestopraha.mo.gov.cz/aktuality/nabor-do-acr",
+    "title": "Nábor do AČR",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "SAFEGUARD 2026",
+  "last_post_date": "9.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-hlavnimestopraha.mo.gov.cz/aktivni-zaloha/111-prapor-uzemni-obrany-aktivni-zaloha",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:49:52 GMT"
+ },
+ "https://kvv-hradeckralove.mo.gov.cz/aktivni-zaloha": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-hradeckralove.mo.gov.cz/user/login",
+   "https://kvv-hradeckralove.mo.gov.cz/admin",
+   "https://kvv-hradeckralove.mo.gov.cz/login",
+   "https://kvv-hradeckralove.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-hradeckralove.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-hradeckralove.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-hradeckralove.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-hradeckralove.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-hradeckralove.mo.gov.cz/pokos/aktuality-z-pokos",
+    "title": "Aktuality z POKOS",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-hradeckralove.mo.gov.cz/aktivni-zaloha",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:06:48 GMT"
+ },
+ "https://kvv-liberec.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-liberec.mo.gov.cz/user/login",
+   "https://kvv-liberec.mo.gov.cz/admin",
+   "https://kvv-liberec.mo.gov.cz/login",
+   "https://kvv-liberec.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-liberec.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-liberec.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-liberec.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-liberec.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-liberec.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "VÝSLEDKY - 29. ROČNÍK MEMORIÁLU GENERÁLA KARLA MRÁZKA",
+    "last_item_date": "21.9.2026",
+    "last_item_url": "https://kvv-liberec.mo.gov.cz/aktuality/vysledky-29-rocnik-memorialu-generala-karla-mrazka"
+   },
+   {
+    "url": "https://kvv-liberec.mo.gov.cz/aktuality/vysledky-29-rocnik-memorialu-generala-karla-mrazka",
+    "title": "news",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "VÝSLEDKY - 29. ROČNÍK MEMORIÁLU GENERÁLA KARLA MRÁZKA",
+  "last_post_date": "21.9.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-liberec.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 04:28:12 GMT"
+ },
+ "https://kvvusti.mo.gov.cz/aktivni-zaloha/aktivni-zaloha-u-kvv-ul-151-prapor-uzemni-obrany": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvvusti.mo.gov.cz/user/login",
+   "https://kvvusti.mo.gov.cz/admin",
+   "https://kvvusti.mo.gov.cz/login",
+   "https://kvvusti.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvvusti.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvvusti.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvvusti.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvvusti.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvvusti.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Krajské kolo branně-vědomostního závodu",
+    "last_item_date": "2.10.2026",
+    "last_item_url": "https://kvvusti.mo.gov.cz/aktuality/krajske-kolo-branne-vedomostniho-zavodu"
+   }
+  ],
+  "last_post_title": "Krajské kolo branně-vědomostního závodu",
+  "last_post_date": "2.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvvusti.mo.gov.cz/aktivni-zaloha/aktivni-zaloha-u-kvv-ul-151-prapor-uzemni-obrany",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:07 GMT"
+ },
+ "https://kvv-karlovyvary.mo.gov.cz/161-prapor-uzemni-obrany": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-karlovyvary.mo.gov.cz/user/login",
+   "https://kvv-karlovyvary.mo.gov.cz/admin",
+   "https://kvv-karlovyvary.mo.gov.cz/login",
+   "https://kvv-karlovyvary.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-karlovyvary.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-karlovyvary.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-karlovyvary.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-karlovyvary.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-karlovyvary.mo.gov.cz/uredni-deskapovinne-informace/svobodny-pristup-k-informacim/vyrocni-zpravy",
+    "title": "Výroční zprávy",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-karlovyvary.mo.gov.cz/161-prapor-uzemni-obrany",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 05:58:28 GMT"
+ },
+ "https://kvvcb.mo.gov.cz/zaloha-ozbrojenych-sil/aktivni-zaloha/181-prapor-uzemni-obrany": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvvcb.mo.gov.cz/user/login",
+   "https://kvvcb.mo.gov.cz/admin",
+   "https://kvvcb.mo.gov.cz/login",
+   "https://kvvcb.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvvcb.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvvcb.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvvcb.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvvcb.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvvcb.mo.gov.cz/uredni-deskapovinne-informace/svobodny-pristup-k-informacim-zakon-cislo-1061999-sb/vyrocni-zpravy",
+    "title": "Výroční zprávy",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://kvvcb.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Padesátdvojka přilákala tisíce návštěvníků. KVV České Budějovice představilo POKOS i možnosti služby v armádě",
+    "last_item_date": "21.9.2026",
+    "last_item_url": "https://kvvcb.mo.gov.cz/aktuality/padesatdvojka-prilakala-tisice-navstevniku-kvv-ceske-budejovice-predstavilo-pokos-i"
+   }
+  ],
+  "last_post_title": "Padesátdvojka přilákala tisíce návštěvníků. KVV České Budějovice představilo POKOS i možnosti služby v armádě",
+  "last_post_date": "21.9.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvvcb.mo.gov.cz/zaloha-ozbrojenych-sil/aktivni-zaloha/181-prapor-uzemni-obrany",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:15 GMT"
+ },
+ "https://kvv-plzen.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-plzen.mo.gov.cz/user/login",
+   "https://kvv-plzen.mo.gov.cz/admin",
+   "https://kvv-plzen.mo.gov.cz/login",
+   "https://kvv-plzen.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-plzen.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-plzen.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-plzen.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-plzen.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-plzen.mo.gov.cz/aktuality-0",
+    "title": "Všechny aktuality",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://kvv-plzen.mo.gov.cz/aktuality/vojenska-ubytovna-v-plzni-na-svetovaru",
+    "title": "Ubytovna Světovar",
+    "last_item": "ubytovani_info_a_cenik_.docx",
+    "last_item_date": "1.1.2026",
+    "last_item_url": "https://kvv-plzen.mo.gov.cz/sites/kvv-plzen/files/2026-03/ubytovani_info_a_cenik_.docx"
+   }
+  ],
+  "last_post_title": "ubytovani_info_a_cenik_.docx",
+  "last_post_date": "1.1.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-plzen.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:36:04 GMT"
+ },
+ "https://kvv-jihlava.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-jihlava.mo.gov.cz/user/login",
+   "https://kvv-jihlava.mo.gov.cz/admin",
+   "https://kvv-jihlava.mo.gov.cz/login",
+   "https://kvv-jihlava.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-jihlava.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-jihlava.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-jihlava.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-jihlava.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-jihlava.mo.gov.cz/aktuality",
+    "title": "Všechny aktuality",
+    "last_item": "Slavnostní odhalení památníku mjr. Františku Kašíkovi",
+    "last_item_date": "29.10.2026",
+    "last_item_url": "https://kvv-jihlava.mo.gov.cz/aktuality/slavnostni-odhaleni-pamatniku-mjr-frantisku-kasikovi"
+   },
+   {
+    "url": "https://kvv-jihlava.mo.gov.cz/aktuality/slavnostni-odhaleni-pamatniku-mjr-frantisku-kasikovi",
+    "title": "news",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Slavnostní odhalení památníku mjr. Františku Kašíkovi",
+  "last_post_date": "29.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-jihlava.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 02:19:27 GMT"
+ },
+ "https://kvv-ostrava.mo.gov.cz/do-armady/aktivni-zaloha/aktivni-zaloha-u-kvv-ostrava": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-ostrava.mo.gov.cz/user/login",
+   "https://kvv-ostrava.mo.gov.cz/admin",
+   "https://kvv-ostrava.mo.gov.cz/login",
+   "https://kvv-ostrava.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-ostrava.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-ostrava.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-ostrava.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-ostrava.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-ostrava.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Omezení úředních hodin",
+    "last_item_date": "27.10.2026",
+    "last_item_url": "https://kvv-ostrava.mo.gov.cz/aktuality/omezeni-urednich-hodin"
+   },
+   {
+    "url": "https://kvv-ostrava.mo.gov.cz/do-armady/aktivni-zaloha/informace-pro-vojaky-az/aktivni-zaloha-aktuality",
+    "title": "- aktuality",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Omezení úředních hodin",
+  "last_post_date": "27.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-ostrava.mo.gov.cz/do-armady/aktivni-zaloha/aktivni-zaloha-u-kvv-ostrava",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:47:39 GMT"
+ },
+ "https://kvv-pardubice.mo.gov.cz/naborkariera/aktivni-zaloha/201-prapor-uzemni-obrany": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-pardubice.mo.gov.cz/user/login",
+   "https://kvv-pardubice.mo.gov.cz/admin",
+   "https://kvv-pardubice.mo.gov.cz/login",
+   "https://kvv-pardubice.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-pardubice.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-pardubice.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-pardubice.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-pardubice.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-pardubice.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "branný závod MISE",
+    "last_item_date": "26.10.2026",
+    "last_item_url": "https://kvv-pardubice.mo.gov.cz/aktuality/branny-zavod-mise"
+   },
+   {
+    "url": "https://kvv-pardubice.mo.gov.cz/pokos/aktuality-z-pokos",
+    "title": "AKTUALITY z POKOS",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "branný závod MISE",
+  "last_post_date": "26.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-pardubice.mo.gov.cz/naborkariera/aktivni-zaloha/201-prapor-uzemni-obrany",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:23 GMT"
+ },
+ "https://kvv-zlin.mo.gov.cz/vykon-branne-povinnosti/aktivni-zaloha-ozbrojenych-sil-cr/aktivni-zaloha-u-krajskeho-vojenskeho": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-zlin.mo.gov.cz/user/login",
+   "https://kvv-zlin.mo.gov.cz/admin",
+   "https://kvv-zlin.mo.gov.cz/login",
+   "https://kvv-zlin.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-zlin.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-zlin.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-zlin.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-zlin.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-zlin.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Nová éra pro 231. prapor územní obrany",
+    "last_item_date": "21.9.2026",
+    "last_item_url": "https://kvv-zlin.mo.gov.cz/aktuality/nova-era-pro-231-prapor-uzemni-obrany"
+   },
+   {
+    "url": "https://kvv-zlin.mo.gov.cz/pokos-0/aktuality-z-pokos",
+    "title": "Aktuality z POKOS",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Nová éra pro 231. prapor územní obrany",
+  "last_post_date": "21.9.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-zlin.mo.gov.cz/vykon-branne-povinnosti/aktivni-zaloha-ozbrojenych-sil-cr/aktivni-zaloha-u-krajskeho-vojenskeho",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:33 GMT"
+ },
+ "https://kvv-brno.mo.gov.cz/aktivni-zaloha-0": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-brno.mo.gov.cz/user/login",
+   "https://kvv-brno.mo.gov.cz/admin",
+   "https://kvv-brno.mo.gov.cz/login",
+   "https://kvv-brno.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-brno.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-brno.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-brno.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-brno.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-brno.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Ministr obrany navštívil Brno",
+    "last_item_date": "12.10.2026",
+    "last_item_url": "https://kvv-brno.mo.gov.cz/aktuality/ministr-obrany-navstivil-brno"
+   },
+   {
+    "url": "https://kvv-brno.mo.gov.cz/aktuality-k-pokos",
+    "title": "Aktuality k POKOS",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Ministr obrany navštívil Brno",
+  "last_post_date": "12.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-brno.mo.gov.cz/aktivni-zaloha-0",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:05:44 GMT"
+ },
+ "https://kvv-olomouc.mo.gov.cz/az-u-kvv": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://kvv-olomouc.mo.gov.cz/user/login",
+   "https://kvv-olomouc.mo.gov.cz/admin",
+   "https://kvv-olomouc.mo.gov.cz/login",
+   "https://kvv-olomouc.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://kvv-olomouc.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-olomouc.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-olomouc.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://kvv-olomouc.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://kvv-olomouc.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Krátké zprávy",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://kvv-olomouc.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Celorepublikové finále branně-vědomostní soutěže ukázalo význam POKOS",
+    "last_item_date": "6.10.2026",
+    "last_item_url": "https://kvv-olomouc.mo.gov.cz/aktuality/celorepublikove-finale-branne-vedomostni-souteze-ukazalo-vyznam-pokos"
+   }
+  ],
+  "last_post_title": "Celorepublikové finále branně-vědomostní soutěže ukázalo význam POKOS",
+  "last_post_date": "6.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://kvv-olomouc.mo.gov.cz/az-u-kvv",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:31 GMT"
+ },
+ "https://petatricatnici.eu/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": "7",
+  "cms_evidence": "Drupal markers; Drupal.settings; generator=Drupal 7 (http://drupal.org)",
+  "admin_urls": [
+   "https://petatricatnici.eu/user/login",
+   "https://petatricatnici.eu/admin",
+   "https://petatricatnici.eu/login",
+   "https://petatricatnici.eu/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://petatricatnici.eu/user/login",
+    "status": 200
+   },
+   {
+    "url": "https://petatricatnici.eu/admin",
+    "status": 403
+   },
+   {
+    "url": "https://petatricatnici.eu/login",
+    "status": 404
+   },
+   {
+    "url": "https://petatricatnici.eu/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://petatricatnici.eu/novinky",
+    "title": "Novinky",
+    "last_item": "11. 11. 2022 Den válečných veteránů",
+    "last_item_date": "11. 11. 2022",
+    "last_item_url": "https://petatricatnici.eu/node/467"
+   }
+  ],
+  "last_post_title": "11. 11. 2022 Den válečných veteránů",
+  "last_post_date": "11. 11. 2022",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://petatricatnici.eu/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:42 GMT"
+ },
+ "https://petatricatnici.eu/forum/": {
+  "http_last_modified": null,
+  "html_modified": "2017-04-22T23:10:06+00:00",
+  "meta_article_time": null,
+  "cms": "phpBB",
+  "cms_version": null,
+  "cms_evidence": "phpbb cookie/markers",
+  "admin_urls": [
+   "https://petatricatnici.eu/forum/adm/",
+   "https://petatricatnici.eu/adm/",
+   "https://petatricatnici.eu/admin",
+   "https://petatricatnici.eu/login",
+   "https://petatricatnici.eu/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://petatricatnici.eu/forum/adm/",
+    "status": 200
+   },
+   {
+    "url": "https://petatricatnici.eu/adm/",
+    "status": 404
+   },
+   {
+    "url": "https://petatricatnici.eu/admin",
+    "status": 403
+   },
+   {
+    "url": "https://petatricatnici.eu/login",
+    "status": 404
+   },
+   {
+    "url": "https://petatricatnici.eu/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://petatricatnici.eu/novinky",
+    "title": "Novinky",
+    "last_item": "11. 11. 2022 Den válečných veteránů",
+    "last_item_date": "11. 11. 2022",
+    "last_item_url": "https://petatricatnici.eu/node/467"
+   }
+  ],
+  "last_post_title": "11. 11. 2022 Den válečných veteránů",
+  "last_post_date": "11. 11. 2022",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://petatricatnici.eu/forum/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:15:52 GMT"
+ },
+ "https://111prapor.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2018-06-11T17:08:06+02:00",
+  "meta_article_time": null,
+  "cms": "WordPress",
+  "cms_version": "5.3.1",
+  "cms_evidence": "wp-content/wp-includes or generator",
+  "admin_urls": [
+   "https://111prapor.cz/wp-admin/",
+   "https://111prapor.cz/wp-login.php",
+   "https://111prapor.cz/admin",
+   "https://111prapor.cz/login",
+   "https://111prapor.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://111prapor.cz/wp-admin/",
+    "status": 200
+   },
+   {
+    "url": "https://111prapor.cz/wp-login.php",
+    "status": 200
+   },
+   {
+    "url": "https://111prapor.cz/admin",
+    "status": 200
+   },
+   {
+    "url": "https://111prapor.cz/login",
+    "status": 200
+   },
+   {
+    "url": "https://111prapor.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://111prapor.cz/category/rubrika-aktuality/",
+    "title": "Aktuality",
+    "last_item": "Záložáci na dni dětí",
+    "last_item_date": "2018-11-12T07:49:47+01:00",
+    "last_item_url": "https://111prapor.cz/2018/06/11/zalozaci-na-dni-deti/"
+   }
+  ],
+  "last_post_title": "Záložáci na dni dětí",
+  "last_post_date": "2018-11-12T07:49:47+01:00",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://111prapor.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:06 GMT"
+ },
+ "https://www.az44lmopr.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no body fetched",
+  "admin_urls": [
+   "https://www.az44lmopr.cz/admin",
+   "https://www.az44lmopr.cz/login",
+   "https://www.az44lmopr.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.az44lmopr.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.az44lmopr.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.az44lmopr.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": null,
+  "final_url": "https://www.az44lmopr.cz/",
+  "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>"
+ },
+ "https://www.mpsfar.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Webnode",
+  "cms_version": null,
+  "cms_evidence": "generator=Webnode 2",
+  "admin_urls": [
+   "https://www.mpsfar.cz/admin",
+   "https://www.mpsfar.cz/login",
+   "https://www.mpsfar.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.mpsfar.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.mpsfar.cz/login",
+    "status": 200
+   },
+   {
+    "url": "https://www.mpsfar.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.mpsfar.cz/aktuality/",
+    "title": "aktuality",
+    "last_item": "Běhej s IZS 2026",
+    "last_item_date": "22.08.2026",
+    "last_item_url": "https://www.mpsfar.cz/l/beh-s-izs-2026/"
+   }
+  ],
+  "last_post_title": "Běhej s IZS 2026",
+  "last_post_date": "22.08.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.mpsfar.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:51 GMT"
+ },
+ "https://43vysadkovypluk.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://43vysadkovypluk.mo.gov.cz/user/login",
+   "https://43vysadkovypluk.mo.gov.cz/admin",
+   "https://43vysadkovypluk.mo.gov.cz/login",
+   "https://43vysadkovypluk.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://43vysadkovypluk.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://43vysadkovypluk.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://43vysadkovypluk.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://43vysadkovypluk.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://43vysadkovypluk.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://43vysadkovypluk.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 01:58:18 GMT"
+ },
+ "https://14plogp.mo.gov.cz/aktivni-zaloha": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://14plogp.mo.gov.cz/user/login",
+   "https://14plogp.mo.gov.cz/admin",
+   "https://14plogp.mo.gov.cz/login",
+   "https://14plogp.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://14plogp.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://14plogp.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://14plogp.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://14plogp.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://14plogp.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Logistika v hlavní roli. Cvičení EFFECTIVE LOGISTICS prověřilo schopnosti 141. praporu logistiky",
+    "last_item_date": "16.10.2026",
+    "last_item_url": "https://14plogp.mo.gov.cz/aktuality/logistika-v-hlavni-roli-cviceni-effective-logistics-proverilo-schopnosti-141-praporu"
+   },
+   {
+    "url": "https://14plogp.mo.gov.cz/aktuality/kalendar-akci",
+    "title": "Kalendář akcí",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Logistika v hlavní roli. Cvičení EFFECTIVE LOGISTICS prověřilo schopnosti 141. praporu logistiky",
+  "last_post_date": "16.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://14plogp.mo.gov.cz/aktivni-zaloha",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:13:59 GMT"
+ },
+ "https://akis.mo.gov.cz/aktivni-zaloha": {
+  "http_last_modified": null,
+  "html_modified": "2025-05-23T10:02:07+02:00",
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://akis.mo.gov.cz/user/login",
+   "https://akis.mo.gov.cz/admin",
+   "https://akis.mo.gov.cz/login",
+   "https://akis.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://akis.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://akis.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://akis.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://akis.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://akis.mo.gov.cz/aktuality/kratke-zpravy",
+    "title": "Krátké zprávy",
+    "last_item": "Krátké zprávy",
+    "last_item_date": "2025-05-23T10:02:07+02:00",
+    "last_item_url": "https://akis.mo.gov.cz/aktuality/kratke-zpravy"
+   },
+   {
+    "url": "https://akis.mo.gov.cz/aktuality",
+    "title": "Aktuálně",
+    "last_item": "Signál Bečva 7: 3D tisk v poli",
+    "last_item_date": "25.10.2026",
+    "last_item_url": "https://akis.mo.gov.cz/aktuality/signal-becva-7-3d-tisk-v-poli"
+   }
+  ],
+  "last_post_title": "Krátké zprávy",
+  "last_post_date": "2025-05-23T10:02:07+02:00",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://akis.mo.gov.cz/aktivni-zaloha",
+  "error": null,
+  "http_date": "Sun, 25 Oct 2026 18:01:11 GMT"
+ },
+ "https://7mb.mo.gov.cz/aktivni-zaloha-7mb": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://7mb.mo.gov.cz/user/login",
+   "https://7mb.mo.gov.cz/admin",
+   "https://7mb.mo.gov.cz/login",
+   "https://7mb.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://7mb.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://7mb.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://7mb.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://7mb.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://7mb.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Velitel Sedmičky Miroslav Vybíhal byl jmenován prezidentem do hodnosti brigádního generála",
+    "last_item_date": "28.10.2026",
+    "last_item_url": "https://7mb.mo.gov.cz/aktuality/velitel-sedmicky-miroslav-vybihal-byl-jmenovan-prezidentem-do-hodnosti-brigadniho"
+   }
+  ],
+  "last_post_title": "Velitel Sedmičky Miroslav Vybíhal byl jmenován prezidentem do hodnosti brigádního generála",
+  "last_post_date": "28.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://7mb.mo.gov.cz/aktivni-zaloha-7mb",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:14:05 GMT"
+ },
+ "https://pokos.mo.gov.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Drupal",
+  "cms_version": null,
+  "cms_evidence": "Drupal markers",
+  "admin_urls": [
+   "https://pokos.mo.gov.cz/user/login",
+   "https://pokos.mo.gov.cz/admin",
+   "https://pokos.mo.gov.cz/login",
+   "https://pokos.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://pokos.mo.gov.cz/user/login",
+    "status": 404
+   },
+   {
+    "url": "https://pokos.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://pokos.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://pokos.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://pokos.mo.gov.cz/aktuality",
+    "title": "Aktuality",
+    "last_item": "Kurz „Úvod do branně – bezpečnostní problematiky“ pro pedagogy VŠ",
+    "last_item_date": "26.10.2026",
+    "last_item_url": "https://pokos.mo.gov.cz/aktuality/kurz-uvod-do-branne-bezpecnostni-problematiky-pro-pedagogy-vs-0"
+   },
+   {
+    "url": "https://pokos.mo.gov.cz/aktuality/kurz-uvod-do-branne-bezpecnostni-problematiky-pro-pedagogy-vs-0",
+    "title": "news",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Kurz „Úvod do branně – bezpečnostní problematiky“ pro pedagogy VŠ",
+  "last_post_date": "26.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://pokos.mo.gov.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 06:38:05 GMT"
+ },
+ "https://www.mpsfar.cz/kontakt/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Webnode",
+  "cms_version": null,
+  "cms_evidence": "generator=Webnode 2",
+  "admin_urls": [
+   "https://www.mpsfar.cz/admin",
+   "https://www.mpsfar.cz/login",
+   "https://www.mpsfar.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.mpsfar.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.mpsfar.cz/login",
+    "status": 200
+   },
+   {
+    "url": "https://www.mpsfar.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.mpsfar.cz/aktuality/",
+    "title": "aktuality",
+    "last_item": "Běhej s IZS 2026",
+    "last_item_date": "22.08.2026",
+    "last_item_url": "https://www.mpsfar.cz/l/beh-s-izs-2026/"
+   }
+  ],
+  "last_post_title": "Běhej s IZS 2026",
+  "last_post_date": "22.08.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.mpsfar.cz/kontakt/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:15:02 GMT"
+ },
+ "https://doarmady.mo.gov.cz/o-armade/poznejte-armadu/utvary-a-posadky/91-skupina-informacniho-boje": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "Next.js",
+  "cms_version": null,
+  "cms_evidence": "Next.js markers",
+  "admin_urls": [
+   "https://doarmady.mo.gov.cz/admin",
+   "https://doarmady.mo.gov.cz/login",
+   "https://doarmady.mo.gov.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://doarmady.mo.gov.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://doarmady.mo.gov.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://doarmady.mo.gov.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://doarmady.mo.gov.cz/o-armade/armypedia/vojenske-zpravodajstvi",
+    "title": "Vojenské zpravodajství",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://doarmady.mo.gov.cz/deje-se/aktuality",
+    "title": "Novinky z armády",
+    "last_item": "10. 8. 2026Zaujalo vás studentské léto v maskáčích? Totéž můžete zažít i vy",
+    "last_item_date": "17. 9. 2026",
+    "last_item_url": "https://doarmady.mo.gov.cz/deje-se/aktuality/zaujalo-vas-studentske-leto-v-maskacich-totez-muzete-zazit-i-vy"
+   }
+  ],
+  "last_post_title": "10. 8. 2026Zaujalo vás studentské léto v maskáčích? Totéž můžete zažít i vy",
+  "last_post_date": "17. 9. 2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://doarmady.mo.gov.cz/o-armade/poznejte-armadu/utvary-a-posadky/91-skupina-informacniho-boje",
+  "error": null,
+  "etag": "\"aariy5xhl34siu\"",
+  "http_date": "Fri, 30 Oct 2026 07:16:07 GMT"
+ },
+ "https://www.czdefence.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "custom",
+  "cms_version": null,
+  "cms_evidence": "no clear markers; rss_feed",
+  "admin_urls": [
+   "https://www.czdefence.cz/admin",
+   "https://www.czdefence.cz/login",
+   "https://www.czdefence.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.czdefence.cz/admin",
+    "status": 200
+   },
+   {
+    "url": "https://www.czdefence.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.czdefence.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.czdefence.cz/rss2",
+    "title": "RSS",
+    "last_item": "Bezpečnostní politika státu z pohledu občana a daňového poplatníka",
+    "last_item_date": "30. 10. 2026",
+    "last_item_url": "https://www.czdefence.cz/clanek/bezpecnostni-politika-statu-z-pohledu-obcana-a-danoveho-poplatnika",
+    "items": [
+     {
+      "title": "Bezpečnostní politika státu z pohledu občana a daňového poplatníka",
+      "date": "30. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/bezpecnostni-politika-statu-z-pohledu-obcana-a-danoveho-poplatnika"
+     },
+     {
+      "title": "Generál Petr Šnajdárek: Největší překážkou zavádění moderních technologií je byrokracie",
+      "date": "30. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/general-petr-snajdarek-nejvetsi-prekazkou-zavadeni-modernich-technologii-je-byrokracie"
+     },
+     {
+      "title": "Dobrovolně, dokud to půjde. Nizozemsko připravuje nový Dienmodel",
+      "date": "29. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/dobrovolne-dokud-to-pujde-nizozemsko-pripravuje-novy-dienmodel"
+     },
+     {
+      "title": "Future Forces 2026: Světové premiéry, nové zbraňové systémy a technologie, které mění moderní bojiště",
+      "date": "29. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/future-forces-2026-svetove-premiery-nove-zbranove-systemy-a-technologie-ktere-meni-moderni-bojiste"
+     },
+     {
+      "title": "Rozpočet obrany 2027: Ministr jej hájí, náčelník generálního štábu varuje před zpomalením modernizace",
+      "date": "28. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/ministr-obrany-pred-cleny-vyboru-pro-obranu-hajil-navrh-rozpoctu-na-rok-2027"
+     },
+     {
+      "title": "Ruské hybridní působení v Evropě sílí – jak se v něm vyznat a umíme na něj reagovat?",
+      "date": "28. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/ruske-hybridni-pusobeni-v-evrope-sili-jak-se-v-nem-vyznat-a-umime-na-nej-reagovat"
+     },
+     {
+      "title": "Autonomní bezpilotní letouny pro přepravu těžkých nákladů v logistice spojeneckých armád",
+      "date": "27. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/autonomni-bezpilotni-letouny-pro-prepravu-tezkych-nakladu-v-logistice-spojeneckych-armad"
+     },
+     {
+      "title": "Praporčík Vítězslav Kalousek: O úspěchu na Noble Skywave rozhodla trpělivost, schopnost improvizovat a hlavně to, že se tým nevzdal",
+      "date": "27. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/praporcik-vitezslav-kalousek-o-uspechu-na-noble-skywave-rozhodla-trpelivost-schopnost-improvizovat-a-hlavne-to-ze-se-tym-nevzdal"
+     },
+     {
+      "title": "Czech Security Forum 2026: Akademici a odborníci debatovali o budoucnosti a jednotě NATO",
+      "date": "26. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/czech-security-forum-2026-akademici-a-odbornici-debatovali-o-budoucnosti-a-jednote-nato"
+     },
+     {
+      "title": "Jaromír Zůna: Nestačí jen zvyšovat výdaje na obranu, důležité je také efektivní hospodaření a podpora českého průmyslu",
+      "date": "26. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/jaromir-zuna-nestaci-jen-zvysovat-vydaje-na-obranu-dulezite-je-take-efektivni-hospodareni-a-podpora-ceskeho-prumyslu"
+     },
+     {
+      "title": "Financování obranných inovací: nástroje existují, chybí propojení",
+      "date": "25. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/financovani-obrannych-inovaci-nastroje-existuji-chybi-propojeni"
+     },
+     {
+      "title": "Třetí den Future Forces 2026 ve znamení robotizace, průmyslové spolupráce a moderních technologií",
+      "date": "24. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/future-forces-2026-zavrsil-treti-den-ve-znameni-robotizace-prumyslove-spoluprace-a-modernich-technologii"
+     },
+     {
+      "title": "Nová bezpečnostní architektura Evropy: Česko může místo u jednacího stolu získat díky vojenské logistice",
+      "date": "23. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/nato-3-0-cesko--logistika-nato-nizozemsko"
+     },
+     {
+      "title": "Druhý den Future Forces 2026: Ministři, obranný průmysl i kvantové technologie ve studiu CZ DEFENCE",
+      "date": "23. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/druhy-den-future-forces-2026-ministri-obranny-prumysl-i-kvantove-technologie-ve-studiu-cz-defence"
+     },
+     {
+      "title": "Moravian Lance 2026: Česká armáda testovala nové způsoby vedení moderní války",
+      "date": "22. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/moravian-lance-2026-ceska-armada-testovala-nove-zpusoby-vedeni-moderni-valky"
+     },
+     {
+      "title": "Future Forces 2026: První den ve znamení technologických premiér, modernizace armády a budoucnosti českého obranného průmyslu",
+      "date": "22. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/future-forces-forum-2026-prvni-den-ve-znameni-technologickych-premier-modernizace-armady-a-budoucnosti-ceskeho-obranneho-prumyslu"
+     },
+     {
+      "title": "Baku buduje vlastní obranný průmysl: Česko, Izrael a Turecko jsou u toho",
+      "date": "21. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/baku-buduje-vlastni-obranny-prumysl-cesko-izrael-a-turecko-jsou-u-toho"
+     },
+     {
+      "title": "Generál Hlaváč: Armáda potřebuje rychlejší akvizice, digitalizaci velení a zapojení umělé inteligence",
+      "date": "21. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/general-hlavac-armada-potrebuje-rychlejsi-akvizice-digitalizaci-veleni-a-zapojeni-umele-inteligence"
+     },
+     {
+      "title": "MSPO 2026: Drony, umělá inteligence a nové technologie mění podobu moderního bojiště",
+      "date": "20. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/mspo-2026-drony-umela-inteligence-a-nove-technologie-meni-podobu-moderniho-bojiste"
+     },
+     {
+      "title": "Robotika v AČR: Koncepce existuje, dokáže ji ale ministerstvo obrany proměnit ve skutečnou schopnost?",
+      "date": "20. 10. 2026",
+      "url": "https://www.czdefence.cz/clanek/robotika-v-acr-koncepce-existuje-dokaze-ji-ale-ministerstvo-obrany-promenit-ve-skutecnou-schopnost"
+     }
+    ]
+   },
+   {
+    "url": "https://www.czdefence.cz/clanky",
+    "title": "Články",
+    "last_item": "Generál Petr Šnajdárek: Největší překážkou zavádění moderních technologií je&nbsp;byrokracie",
+    "last_item_date": "30. 10. 2026",
+    "last_item_url": "https://www.czdefence.cz/clanek/general-petr-snajdarek-nejvetsi-prekazkou-zavadeni-modernich-technologii-je-byrokracie"
+   },
+   {
+    "url": "https://www.czdefence.cz/novinky",
+    "title": "Novinky",
+    "last_item": "Bezpečnost České republiky čelí novým výzvám. Zpravodajci, policie i&nbsp;experti upozorňují na&nbsp;proměnu hrozeb",
+    "last_item_date": "13. 10. 2026",
+    "last_item_url": "https://www.czdefence.cz/clanek/bezpecnost-ceske-republiky-celi-novym-vyzvam-zpravodajci-policie-i-experti-upozornuji-na-promenu-hrozeb"
+   }
+  ],
+  "last_post_title": "Bezpečnostní politika státu z pohledu občana a daňového poplatníka",
+  "last_post_date": "30. 10. 2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.czdefence.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:14:07 GMT",
+  "feed_source": "live:https://www.czdefence.cz/rss2"
+ },
+ "https://www.natoaktual.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://www.natoaktual.cz/admin",
+   "https://www.natoaktual.cz/login",
+   "https://www.natoaktual.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.natoaktual.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.natoaktual.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.natoaktual.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.natoaktual.cz/zpravodajstvi",
+    "title": "Zpravodajství",
+    "last_item": "Rutte vyzdvihl silnou spolupráci mezi NATO a EU během návštěvy komisaře Kubiliuse",
+    "last_item_date": "2026-10-29T17:21:00",
+    "last_item_url": "https://www.natoaktual.cz/v-mediich/rutte-kubilius-schuzka-silne-vazby-eu-nato-vyzdvihnuti-spoluprace.A261029_172148_na_media_jakp"
+   },
+   {
+    "url": "https://www.natoaktual.cz/zpravy/dny-nato-red-arrows-tornado-armada-mosnov-ostrava.A260925_151803_na_zpravy_m00",
+    "title": "Red Arrows v akci, novinky v armádě. Dny NATO přilákaly 150 tisíc lidí",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": "Rutte vyzdvihl silnou spolupráci mezi NATO a EU během návštěvy komisaře Kubiliuse",
+  "last_post_date": "2026-10-29T17:21:00",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.natoaktual.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:13 GMT"
+ },
+ "https://www.armadninoviny.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "custom",
+  "cms_version": null,
+  "cms_evidence": "comment=Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Buil",
+  "admin_urls": [
+   "https://www.armadninoviny.cz/admin",
+   "https://www.armadninoviny.cz/login",
+   "https://www.armadninoviny.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.armadninoviny.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.armadninoviny.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.armadninoviny.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.armadninoviny.cz/ctk.html",
+    "title": "Všechny články Armádního radaru",
+    "last_item": "0 komentářů",
+    "last_item_date": "30.10.2026",
+    "last_item_url": "https://www.armadninoviny.cz/drony-potopily-lod-u-bulharska-do-akce-mohly-vyrazit-ceskoslovenske-l-39-albatros.html#diskuze"
+   },
+   {
+    "url": "https://www.armadninoviny.cz/?stranka=2",
+    "title": "další články ›",
+    "last_item": "České motory pro norskou protivzdušnou obranu. Kongsberg testuje nové interceptory White Spike",
+    "last_item_date": "29.10.2026",
+    "last_item_url": "https://www.armadninoviny.cz/ceske-motory-pro-norskou-protivzdusnou-obranu-kongsberg-testuje-nove-interceptory-white-spike.html"
+   }
+  ],
+  "last_post_title": "0 komentářů",
+  "last_post_date": "30.10.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.armadninoviny.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:14:12 GMT"
+ },
+ "https://www.valka.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://www.valka.cz/admin",
+   "https://www.valka.cz/login",
+   "https://www.valka.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.valka.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.valka.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.valka.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.valka.cz/news/view/1",
+    "title": "Novinky",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://www.valka.cz/Clanky-c500225",
+    "title": "Články",
+    "last_item": "Ramboslav u37871",
+    "last_item_date": "27.09.2026",
+    "last_item_url": "https://www.valka.cz/Ramboslav-u37871"
+   }
+  ],
+  "last_post_title": "Ramboslav u37871",
+  "last_post_date": "27.09.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.valka.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:17 GMT"
+ },
+ "https://jirivojacek.cz/": {
+  "http_last_modified": "Wed, 19 Aug 2026 08:19:51 GMT",
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://jirivojacek.cz/admin",
+   "https://jirivojacek.cz/login",
+   "https://jirivojacek.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://jirivojacek.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://jirivojacek.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://jirivojacek.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://jirivojacek.cz/",
+  "error": null,
+  "etag": "\"6a856727-337f6\"",
+  "http_date": "Fri, 30 Oct 2026 07:16:21 GMT"
+ },
+ "http://lvisingr.czweb.org/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no body fetched",
+  "admin_urls": [
+   "http://lvisingr.czweb.org/admin",
+   "http://lvisingr.czweb.org/login",
+   "http://lvisingr.czweb.org/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "http://lvisingr.czweb.org/admin",
+    "status": 500
+   },
+   {
+    "url": "http://lvisingr.czweb.org/login",
+    "status": 500
+   },
+   {
+    "url": "http://lvisingr.czweb.org/cms",
+    "status": 500
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 500,
+  "final_url": "http://lvisingr.czweb.org/",
+  "error": "HTTPError 500",
+  "http_date": "Fri, 30 Oct 2026 07:16:21 GMT"
+ },
+ "https://www.iir.cz/": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://www.iir.cz/admin",
+   "https://www.iir.cz/login",
+   "https://www.iir.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.iir.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.iir.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.iir.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.iir.cz/policy-news",
+    "title": "Odběr policy publikací",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://www.iir.cz/odborne-clanky",
+    "title": "Odborné články",
+    "last_item": "New Study Explores Societal Resilience in NATO and Ukraine",
+    "last_item_date": "8. 9. 2026",
+    "last_item_url": "https://www.iir.cz/new-study-explores-societal-resilience-in-nato-and-ukraine"
+   }
+  ],
+  "last_post_title": "New Study Explores Societal Resilience in NATO and Ukraine",
+  "last_post_date": "8. 9. 2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.iir.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:23 GMT"
+ },
+ "https://www.aobp.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2026-07-10",
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://aobp.cz/admin",
+   "https://aobp.cz/login",
+   "https://aobp.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://aobp.cz/admin",
+    "status": 200
+   },
+   {
+    "url": "https://aobp.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://aobp.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://aobp.cz/cs/news/263/nato-edge-26/",
+    "title": "news",
+    "last_item": "Konference a sympozia",
+    "last_item_date": "2026-07-10",
+    "last_item_url": "https://aobp.cz/cs/aktualne/?type=konference-a-sympozia"
+   },
+   {
+    "url": "https://aobp.cz/cs/news/289/moznosti-zapojeni-ceskych-expertu-do-vyzkumnych-aktivit-nato-sto/",
+    "title": "news",
+    "last_item": "Programy pro R&amp;D",
+    "last_item_date": "2026-08-24",
+    "last_item_url": "https://aobp.cz/cs/aktualne/?type=programy-pro-rd"
+   }
+  ],
+  "last_post_title": "Konference a sympozia",
+  "last_post_date": "2026-07-10",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://aobp.cz/cs/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:27 GMT"
+ },
+ "https://magnetpress.online/atm/": {
+  "http_last_modified": "Fri, 30 Oct 2026 07:12:14 GMT",
+  "html_modified": "2024-02-29T12:59:30+00:00",
+  "meta_article_time": "2024-02-29T12:59:30+00:00",
+  "cms": "WordPress",
+  "cms_version": "7.1.4",
+  "cms_evidence": "wp-content/wp-includes or generator",
+  "admin_urls": [
+   "https://magnetpress.online/wp-admin/",
+   "https://magnetpress.online/wp-login.php",
+   "https://magnetpress.online/admin",
+   "https://magnetpress.online/login",
+   "https://magnetpress.online/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://magnetpress.online/wp-admin/",
+    "status": 404
+   },
+   {
+    "url": "https://magnetpress.online/wp-login.php",
+    "status": 404
+   },
+   {
+    "url": "https://magnetpress.online/admin",
+    "status": 200
+   },
+   {
+    "url": "https://magnetpress.online/login",
+    "status": 404
+   },
+   {
+    "url": "https://magnetpress.online/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://magnetpress.online/kategoria/atm/",
+    "title": "Články",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://magnetpress.online/kategoria/letectvi-kosmonautika/",
+    "title": "Články",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://magnetpress.online/atm/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:14:36 GMT"
+ },
+ "https://www.linkedin.com/in/ivo-zelinka-5240611a": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://www.linkedin.com/admin",
+   "https://www.linkedin.com/login",
+   "https://www.linkedin.com/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.linkedin.com/admin",
+    "status": 200
+   },
+   {
+    "url": "https://www.linkedin.com/login",
+    "status": 200
+   },
+   {
+    "url": "https://www.linkedin.com/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 999,
+  "final_url": "https://www.linkedin.com/in/ivo-zelinka-5240611a",
+  "error": "HTTPError 999",
+  "http_date": "Fri, 30 Oct 2026 07:16:30 GMT"
+ },
+ "https://www.securityoutlines.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2025-11-19T19:03:37+00:00",
+  "meta_article_time": "2025-11-19T19:03:37+00:00",
+  "cms": "WordPress",
+  "cms_version": null,
+  "cms_evidence": "wp-content/wp-includes or generator",
+  "admin_urls": [
+   "https://securityoutlines.cz/wp-admin/",
+   "https://securityoutlines.cz/wp-login.php",
+   "https://securityoutlines.cz/admin",
+   "https://securityoutlines.cz/login",
+   "https://securityoutlines.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://securityoutlines.cz/wp-admin/",
+    "status": 200
+   },
+   {
+    "url": "https://securityoutlines.cz/wp-login.php",
+    "status": 200
+   },
+   {
+    "url": "https://securityoutlines.cz/admin",
+    "status": 200
+   },
+   {
+    "url": "https://securityoutlines.cz/login",
+    "status": 200
+   },
+   {
+    "url": "https://securityoutlines.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://securityoutlines.cz/novinky-afrika-duben-2014/",
+    "title": "Novinky",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://securityoutlines.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:14:18 GMT"
+ },
+ "https://www.csol.cz/": {
+  "http_last_modified": "Thu, 29 Oct 2026 23:19:48 GMT",
+  "html_modified": "2026-05-21T08:59:37+00:00",
+  "meta_article_time": "2026-05-21T08:59:37+00:00",
+  "cms": "WordPress",
+  "cms_version": "7.1.4",
+  "cms_evidence": "wp-content/wp-includes or generator",
+  "admin_urls": [
+   "https://www.csol.cz/wp-admin/",
+   "https://www.csol.cz/wp-login.php",
+   "https://www.csol.cz/admin",
+   "https://www.csol.cz/login",
+   "https://www.csol.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.csol.cz/wp-admin/",
+    "status": 404
+   },
+   {
+    "url": "https://www.csol.cz/wp-login.php",
+    "status": 404
+   },
+   {
+    "url": "https://www.csol.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://www.csol.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://www.csol.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.csol.cz/o-nas/vyrocni-zpravy/",
+    "title": "Výroční zprávy",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://www.csol.cz/clanky-a-reporty/",
+    "title": "Články",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.csol.cz/",
+  "error": null,
+  "etag": "\"15c62-65f02ea77c214\"",
+  "http_date": "Fri, 30 Oct 2026 07:14:54 GMT"
+ },
+ "https://svz-cr.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2026-10-13T14:54:09+02:00",
+  "meta_article_time": "2026-10-13T14:54:09+02:00",
+  "cms": "WordPress",
+  "cms_version": "7.1.4",
+  "cms_evidence": "wp-content/wp-includes or generator",
+  "admin_urls": [
+   "https://svz-cr.cz/wp-admin/",
+   "https://svz-cr.cz/wp-login.php",
+   "https://svz-cr.cz/admin",
+   "https://svz-cr.cz/login",
+   "https://svz-cr.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://svz-cr.cz/wp-admin/",
+    "status": 404
+   },
+   {
+    "url": "https://svz-cr.cz/wp-login.php",
+    "status": 404
+   },
+   {
+    "url": "https://svz-cr.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://svz-cr.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://svz-cr.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://svz-cr.cz/archiv-aktualit/",
+    "title": "Aktuality",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://svz-cr.cz/",
+  "error": null,
+  "etag": "\"634-1793214992;;;\"",
+  "http_date": "Fri, 30 Oct 2026 07:14:46 GMT"
+ },
+ "https://resco-cr.cz/": {
+  "http_last_modified": null,
+  "html_modified": "2025-11-16T14:33:27+00:00",
+  "meta_article_time": "2025-11-16T14:33:27+00:00",
+  "cms": "WordPress",
+  "cms_version": "7.1.4",
+  "cms_evidence": "wp-content/wp-includes or generator",
+  "admin_urls": [
+   "https://www.resco-cr.cz/wp-admin/",
+   "https://www.resco-cr.cz/wp-login.php",
+   "https://www.resco-cr.cz/admin",
+   "https://www.resco-cr.cz/login",
+   "https://www.resco-cr.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://www.resco-cr.cz/wp-admin/",
+    "status": 200
+   },
+   {
+    "url": "https://www.resco-cr.cz/wp-login.php",
+    "status": 200
+   },
+   {
+    "url": "https://www.resco-cr.cz/admin",
+    "status": 200
+   },
+   {
+    "url": "https://www.resco-cr.cz/login",
+    "status": 200
+   },
+   {
+    "url": "https://www.resco-cr.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://www.resco-cr.cz/category/aktuality/",
+    "title": "Aktuality",
+    "last_item": "Ondřej Bumba",
+    "last_item_date": "23.4.2026",
+    "last_item_url": "https://www.resco-cr.cz/author/ondra/"
+   }
+  ],
+  "last_post_title": "Ondřej Bumba",
+  "last_post_date": "23.4.2026",
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://www.resco-cr.cz/",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:14:47 GMT"
+ },
+ "https://disdex.io/server/1214280554350911568": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://disdex.io/admin",
+   "https://disdex.io/login",
+   "https://disdex.io/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://disdex.io/admin",
+    "status": 404
+   },
+   {
+    "url": "https://disdex.io/login",
+    "status": 404
+   },
+   {
+    "url": "https://disdex.io/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://disdex.io/server/1214280554350911568",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:32 GMT"
+ },
+ "https://rentaacr.cz/forum.php": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://rentaacr.cz/admin",
+   "https://rentaacr.cz/login",
+   "https://rentaacr.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://rentaacr.cz/admin",
+    "status": 404
+   },
+   {
+    "url": "https://rentaacr.cz/login",
+    "status": 404
+   },
+   {
+    "url": "https://rentaacr.cz/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://rentaacr.cz/acrclanky.html",
+    "title": "Novinky o AČR",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://rentaacr.cz/forum.php",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:15:13 GMT"
+ },
+ "https://disdex.io/server/302783149962690560": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no clear markers",
+  "admin_urls": [
+   "https://disdex.io/admin",
+   "https://disdex.io/login",
+   "https://disdex.io/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://disdex.io/admin",
+    "status": 404
+   },
+   {
+    "url": "https://disdex.io/login",
+    "status": 404
+   },
+   {
+    "url": "https://disdex.io/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://disdex.io/server/302783149962690560",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:34 GMT"
+ },
+ "https://forum.vojsko.net/viewforum.php?f=100": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "phpBB",
+  "cms_version": null,
+  "cms_evidence": "phpbb cookie/markers",
+  "admin_urls": [
+   "https://forum.vojsko.net/forum/adm/",
+   "https://forum.vojsko.net/adm/",
+   "https://forum.vojsko.net/admin",
+   "https://forum.vojsko.net/login",
+   "https://forum.vojsko.net/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "https://forum.vojsko.net/forum/adm/",
+    "status": 404
+   },
+   {
+    "url": "https://forum.vojsko.net/adm/",
+    "status": 200
+   },
+   {
+    "url": "https://forum.vojsko.net/admin",
+    "status": 404
+   },
+   {
+    "url": "https://forum.vojsko.net/login",
+    "status": 404
+   },
+   {
+    "url": "https://forum.vojsko.net/cms",
+    "status": 404
+   }
+  ],
+  "news_pages": [
+   {
+    "url": "https://forum.vojsko.net/viewforum.php?f=72&sid=e1b5d31b44731076aa2ace250d23913a",
+    "title": "Novinky",
+    "last_item": null,
+    "last_item_date": null
+   },
+   {
+    "url": "https://forum.vojsko.net/viewtopic.php?f=100&t=40040&sid=e1b5d31b44731076aa2ace250d23913a",
+    "title": "Články k historii československé armády",
+    "last_item": null,
+    "last_item_date": null
+   }
+  ],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 200,
+  "final_url": "https://forum.vojsko.net/viewforum.php?f=100",
+  "error": null,
+  "http_date": "Fri, 30 Oct 2026 07:16:35 GMT"
+ },
+ "http://zbranekvalitne.cz/forum/viewtopic.php?t=13594": {
+  "http_last_modified": null,
+  "html_modified": null,
+  "meta_article_time": null,
+  "cms": "unknown",
+  "cms_version": null,
+  "cms_evidence": "no body fetched",
+  "admin_urls": [
+   "http://zbranekvalitne.cz/admin",
+   "http://zbranekvalitne.cz/login",
+   "http://zbranekvalitne.cz/cms"
+  ],
+  "admin_checks": [
+   {
+    "url": "http://zbranekvalitne.cz/admin",
+    "status": 500
+   },
+   {
+    "url": "http://zbranekvalitne.cz/login",
+    "status": 500
+   },
+   {
+    "url": "http://zbranekvalitne.cz/cms",
+    "status": 500
+   }
+  ],
+  "news_pages": [],
+  "last_post_title": null,
+  "last_post_date": null,
+  "last_post_author": null,
+  "fetch_status": 500,
+  "final_url": "http://zbranekvalitne.cz/forum/viewtopic.php?t=13594",
+  "error": "HTTPError 500",
+  "http_date": "Fri, 30 Oct 2026 07:16:44 GMT"
+ }
+}

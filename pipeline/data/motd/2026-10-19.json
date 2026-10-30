@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T08:28:43+02:00",
+ "headline": "MO hlásí konec kampaně HEDI OPEX 2026, KVV Jihlava v listopadu dva dny zavře a tři sledované weby obnovily SSL certifikáty.",
+ "items": [
+  {
+   "text": "Ministerstvo obrany (FB, 17. 10.): ve středu 14. října skončila v portugalském vojenském prostoru Santa Margarida mezinárodní experimentální kampaň HEDI OPEX 2026.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.facebook.com/MinisterstvoobranyCeskerepubliky",
+   "source_url": "https://www.facebook.com/MinisterstvoobranyCeskerepubliky/posts/pfbid02J22DLNdTpKuzdc4FkQ94rvLdk7Jt6sfzVLC83QiC6YSxsVsBB4H8WgEFLdn9cKL1l"
+  },
+  {
+   "text": "KVV Jihlava (18. 10.): krajské vojenské velitelství bude pro veřejnost uzavřeno ve středu 11. a v pondělí 16. listopadu 2026, v neodkladných věcech je dostupné e-mailem nebo telefonicky. V ostatních pracovních dnech funguje standardně.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://kvv-jihlava.mo.gov.cz/",
+   "source_url": "https://kvv-jihlava.mo.gov.cz/aktuality/omezeni-provozu-kvv-jihlava-v-listopadu-2026"
+  },
+  {
+   "text": "Pod nedělním reelem Armády ČR „I když to dnes nebyla výhra.“ (FB i IG, 18. 10.) se uživatelé ptají, kdy se k jednotkám dostane nová uniforma MAD21, kterou podle nich zatím reálně nosí jen málokdo. Komentáře jsou anonymně v sekci Zajímavé komentáře (celkem 92).",
+   "category": "komentář",
+   "importance": "střední",
+   "link": "#cat-komentare",
+   "source_url": "https://www.facebook.com/reel/1099350093072691/"
+  },
+  {
+   "text": "CZ Defence (neoficiální odborný web, 19. 10.): rozhovor s Pavlem Kolářem o tom, jak mohou kvantové technologie proměnit vojenské operace, ochranu informací i rozhodování velitelů. Česko se do výzkumu zapojilo přes Quantum Innovation Center Czech Republic, jedním z klíčových partnerů je Univerzita obrany.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/pavel-kolar-prechod-na-kvantove-technologie-je-o-lidech"
+  },
+  {
+   "text": "SSL: securityoutlines.cz, jirivojacek.cz a forum.vojsko.net mají obnovené certifikáty (platí 89 dní), certifikát az44lmopr.cz ale vyprší za 14 dní (3. 11.). Dál nedostupné zůstávají portal.ardos.org (TLS chyba), zbranekvalitne.cz a lvisingr.czweb.org.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Europe/Prague",
+  "part": "full: data + events + MOTD + build + publish + social screenshots/comments",
+  "czdefence_top": {
+    "title": "Budou hlídat moře i nebe NATO. Dočká se velkých MALE dronů v budoucnu také AČR?",
+    "pubDate": "Sun, 11 Oct 2026 07:10:03 +0200",
+    "url": "https://www.czdefence.cz/clanek/budou-hlidat-more-i-nebe-nato-docka-se-velkych-male-dronu-v-budoucnu-take-acr",
+    "source": "feed_cache/czdefence.{xml,json} (xml RSS 123029 B / items~120); ingest live OK"
+  },
+  "enrichment": {
+    "entries": 56,
+    "cms": {
+      "Drupal": 26,
+      "unknown": 11,
+      "WordPress": 6,
+      "custom": 3,
+      "Next.js": 2,
+      "WebToDate": 2,
+      "phpBB": 2,
+      "Webnode": 2,
+      "Nextcloud": 1,
+      "Groups.io": 1
+    },
+    "news_pages": 47,
+    "news_pages_with_items": 38,
+    "note": "enrich_sites + enrich_refine; czdefence ingest znovu po enrichmentu. Artefakty: armadninoviny '3 komentářů' → 'Německo mění plány… MEKO A-200' (09.10.2026); aobp R&amp;D unescapováno; doarmady glued date odděleno"
+  },
+  "x_syndication": {
+    "status": "syndication timeline-profile empty HTTP 200 (0 B) 08:16 → posty přes X API v2 (x MCP get_users_posts); ArmadaCR kept 6 (9 skipped), ObranaTweetuje 12",
+    "ArmadaCR_latest_own": "2026-10-10 (2108973444335611909 Zápas cti)",
+    "ObranaTweetuje_latest_own": "2026-10-10 (2108910321767256120 MAD21 video)",
+    "x_raw": "data/x_raw/xapi_2026-10-11.json"
+  },
+  "social_permalinks": {
+    "x_tweet_index": 166,
+    "backfill_added": 0,
+    "social_rows": 174,
+    "with_permalink": 107,
+    "account_only": 67
+  },
+  "archive_updates": {
+    "added": 10,
+    "total": 386,
+    "from": 376,
+    "note": "archive_updates.py added=10; build archive added=0"
+  },
+  "health": {
+    "sites": 55,
+    "up": 51,
+    "down": 4,
+    "down_list": [
+      "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+      "www.az44lmopr.cz (TLS EOF) — nově down (včera up)",
+      "zbranekvalitne.cz (ConnectTimeout)",
+      "lvisingr.czweb.org (ConnectTimeout)"
+    ],
+    "note": "1 běh ~08:28 Prague; Transition: az44lmopr up→down.",
+    "certs_le_30d": {
+      "www.valka.cz": 6,
+      "rentaacr.cz": 11,
+      "www.armadninoviny.cz": 17,
+      "www.securityoutlines.cz": 19,
+      "www.az44lmopr.cz": 22
+    }
+  },
+  "links": {
+    "checked": 661,
+    "ok": 538,
+    "login_wall": 115,
+    "broken": 1,
+    "unknown": 7,
+    "broken_list": [
+      "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+    ]
+  },
+  "archive_lookup": {
+    "status": "přeskočeno – timeout 110 s (exit 124); data/archive_status.json zůstává z 2026-10-07 08:24",
+    "updated_at": "2026-10-07T08:24:07+02:00"
+  },
+  "archive_submit": "spouští se na pozadí po shrnutí",
+  "events": {
+    "added": 3,
+    "total": 92,
+    "inbox": "data/events_inbox/2026-10-11.json (3 položky: Zápas cti, Prostějov burza, Olomouc burza)",
+    "checked": [
+      "doarmady.mo.gov.cz/deje-se/naborove-akce",
+      "doarmady nastupni-terminy-az-a-dvc + nastupni-terminy-vzp",
+      "mo.gov.cz diary action.php?id=8390–8410 (stuby ~349 B)",
+      "sparta.cz/cs/novinky/45245-organizacni-info-zapas-cti",
+      "burzapav.cz"
+    ],
+    "not_checked": "acr.mo.gov.cz přehled cvičení (čas)"
+  },
+  "motd": {
+    "file": "data/motd/2026-10-11.json",
+    "draft": "data/motd/drafts/2026-10-11.json",
+    "headline": "Dnes Zápas cti na Letné s AČR; czdefence o MALE dronech pro NATO; az44lmopr.cz nově down; valka.cz cert 6 d.",
+    "items": 5
+  },
+  "publish": {
+    "commit": "af228f4d39bed63fed58c4de941747f4b01d0dbf",
+    "pushed_at": "2026-10-11T08:34:22+02:00"
+  },
+  "live_check": {
+    "at": "2026-10-11T08:35:00+02:00",
+    "http": 200,
+    "markers": {
+      "cat-chrono": 13,
+      "badge-oficialni": 176,
+      "cat-events": 78
+    },
+    "motd_in_html": true,
+    "events_ics": {
+      "http": 200,
+      "content_type": "text/calendar; charset=utf-8",
+      "vevents": 92,
+      "parse": "ok"
+    },
+    "archiv_is": "200 (clean URL /archiv-is) / archiv-is.html 308"
+  },
+  "social": {
+    "screenshots": "přeskočeno (rozsah subagenta – dělá nadřazený běh)",
+    "comments": "přeskočeno (prázdný comments inbox OK)"
+  },
+  "social_screenshots": {
+    "refreshed": 8,
+    "files": [
+      "facebook-ArmadaCeskerepubliky-loggedin.jpg",
+      "facebook-MinisterstvoobranyCeskerepubliky-loggedin.jpg",
+      "facebook-doarmady-cz-loggedin.jpg",
+      "facebook-aktivnizalohy-loggedin.jpg",
+      "instagram-armadaceskerepubliky-loggedin.png",
+      "instagram-do_armady-loggedin.png",
+      "x-ArmadaCR.png → x-com-armadacr.png",
+      "x-ObranaTweetuje.png → x-com-obranatweetuje.png"
+    ],
+    "blur": true,
+    "note": "FB aktivnizalohy URL unavailable → screenshot z facebook.com/aktivnizaloha (AZ Agentury vojenského zdravotnictví); X dlaždice přes x-com-*",
+    "commits": [
+      "b32887c",
+      "11ba724"
+    ],
+    "push_prague": "08:43–08:44"
+  },
+  "comments": {
+    "inbox": 14,
+    "added": 13,
+    "updated": 1,
+    "total": 70,
+    "dropped_personal_attacks": 5
+  },
+  "publish_social": {
+    "commits": [
+      "b32887c",
+      "11ba724"
+    ],
+    "final": "11ba724"
+  }
+}

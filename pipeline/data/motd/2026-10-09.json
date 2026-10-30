@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-09",
+ "generated_at": "2026-10-09T08:38:17+02:00",
+ "headline": "Ample Strike 2026: 600 vojáků a 19 zemí; DEFENCEO o civilním a obranném průmyslu; CZ BREN 3 do Černé Hory; valka.cz cert 8 d.",
+ "items": [
+  {
+   "text": "@ArmadaCR na X (8. 10.): mezinárodní cvičení Ample Strike 2026 – 600 vojáků, 26 týmů leteckých návodčích a 19 zemí. Prověřilo spolupráci pilotů a pozemních jednotek; v příspěvku jsou Lords of Thunders v akci.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2108232717469172129"
+  },
+  {
+   "text": "Oficiální web AČR (8. 10.): „Obrana České republiky nezačíná na jejích hranicích. Vojáci se vrátili z východního křídla NATO“ – shrnutí návratu ze spojeneckých misí.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/obrana-ceske-republiky-nezacina-na-jejich-hranicich--vojaci-se-vratili-z-vychodniho-kridla-nato--266305/"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (9. 10.): na konferenci DEFENCEO diskutovali manažeři, zástupci AČR a státních institucí o propojení civilního a obranného průmyslu. Týž den web píše, že české pušky CZ BREN 3 míří do Černé Hory jako první zavedení na světě.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/predni-manazeri-zastupci-acr-a-statnich-instituci-na-konferenci-defenceo-diskutovali-o-propojeni-civilniho-a-obranneho-prumyslu"
+  },
+  {
+   "text": "@ObranaTweetuje na X (8. 10.): transportní letoun C-390 přepravil 2. 10. do Černé Hory první dodávku vojenského materiálu podle mezivládní dohody (AMOS). Související podcast Signál Bečva o 3D tisku v terénu.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2108146029941891166"
+  },
+  {
+   "text": "SSL: certifikát valka.cz vyprší za 8 dní, rentaacr.cz za 13 dní. Dostupnost 52 up / 3 down: armadninoviny.cz je z boxu opět online (včera TLS chyba); trvá 404 stránky AZ u KVV Praha a timeouty zbranekvalitne.cz a lvisingr.czweb.org.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

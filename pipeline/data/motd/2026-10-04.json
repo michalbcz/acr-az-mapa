@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-04",
+ "generated_at": "2026-10-04T08:25:48+02:00",
+ "headline": "MO Dukla 1944; czdefence Kanada/Farlík; +5 událostí; valka 13d.",
+ "items": [
+  {
+   "text": "Oficiální MO (4. 10.): „Dukla 1944 — 82 let od největšího bojového nasazení čs. vojáků za 2. sv. války.“ X syndication dnes empty/429, takže zůstává cache @ArmadaCR/@ObranaTweetuje z 2. 10. (poslední posty 1. 10.).",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://mocr.mo.gov.cz/",
+   "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/dukla-1944:-od-nejvetsiho-bojoveho-nasazeni-cs--vojaku-za-2--svetove-valky-uplynulo-82-let-266256/"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (RSS/WebFetch): dnes „Evropské sbližování s Kanadou…“ a „Generál Farlík o kvantově odolném šifrování“ (4. 10.). TLS z boxu stále padá.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/evropske-sblizovani-s-kanadou-nejen-v-obranne-politice"
+  },
+  {
+   "text": "Kalendář +5 (celkem 68): MORAVIAN LANCE 5.–16. 10. Libavá, ONDRÁŠ Karpatami ČB 5. 10. / Jablonec 9. 10. / Flora 10. 10. a DEFENCEO Brno 7. 10.",
+   "category": "jiné",
+   "importance": "vysoká",
+   "link": "#cat-events",
+   "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8380"
+  },
+  {
+   "text": "Health stále 52 up / 3 down (404 AZ KVV Praha; TLS czdefence + resco-cr). SSL: valka.cz za 13 dní, rentaacr.cz za 18 dní (certs ≤30 d: 6).",
+   "category": "dostupnost",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Zajímavé komentáře +1 (celkem 21): pod FB AČR „Pomoz zachraňovat životy“ kritika válečného kontextu. Screenshoty prioritních účtů 7/8 (FB AZ opět nedostupné).",
+   "category": "komentář",
+   "importance": "střední",
+   "link": "#cat-komentare"
+  },
+  {
+   "text": "Archiv historie +14 (celkem 290); odkazy 347 ok / 1 broken (KVV Praha AZ) / 38 unknown. Archive.org Save Page Now dnes doběhne a doplníme výsledek.",
+   "category": "archiv",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

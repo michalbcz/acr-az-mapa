@@ -1,0 +1,40 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11T08:33:59+02:00",
+ "headline": "Dnes Zápas cti na Letné s AČR; czdefence o MALE dronech pro NATO; az44lmopr.cz nově down; valka.cz cert 6 d.",
+ "items": [
+  {
+   "text": "Dnes (ne 11. 10.) od 18:00 na epet ARENĚ na Letné probíhá čtvrtý Zápas cti: AC Sparta Praha – FK Pardubice ve spolupráci s Armádou ČR (doprovodný program od 16:00 – armádní guláš, vojenská hudba, vyznamenání, přelet L-410; otevření stadionu 16:30).",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "https://sparta.cz/cs/novinky/45245-organizacni-info-zapas-cti",
+   "source_url": "https://x.com/ArmadaCR/status/2108973444335611909"
+  },
+  {
+   "text": "CZ Defence (11. 10.): článek o perspektivě velkých MALE dronů v NATO a otázce, zda se jich dočká i AČR. Včera na webu také výstup z Dronedge 2026 k národní protidronové ochraně.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/budou-hlidat-more-i-nebe-nato-docka-se-velkych-male-dronu-v-budoucnu-take-acr"
+  },
+  {
+   "text": "Do kalendáře přibyly náborové účasti na Burzách práce a vzdělávání v Prostějově (15. 10., Společenský dům) a v Olomouci (22. 10., Výstaviště Flora). Cvičení SAFEGUARD HMP 2026 v Praze pokračuje do úterý 14. 10.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Dostupnost: web az44lmopr.cz je nově nedostupný (TLS EOF z boxu; včera ještě up). Trvá 404 stránky AZ u KVV Praha a Středočeského kraje a timeouty zbranekvalitne.cz a lvisingr.czweb.org — celkem 51 up / 4 down.",
+   "category": "dostupnost",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "SSL: certifikát valka.cz vyprší za 6 dní (17. 10.), rentaacr.cz za 11 dní.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+[
+ {
+  "platform": "fb",
+  "channel_url": "https://www.facebook.com/ArmadaCeskerepubliky",
+  "post_url": "https://www.facebook.com/ArmadaCeskerepubliky/posts/pfbid02FgpmD4JajJySgJQQmW4uJNWtufAfLp9eryCB5U7x3dggiLDaed6uf1yPmhsfmXpyl",
+  "post_title_or_excerpt": "#nezapomeneme",
+  "comment_url": "https://www.facebook.com/ArmadaCeskerepubliky/posts/pfbid02FgpmD4JajJySgJQQmW4uJNWtufAfLp9eryCB5U7x3dggiLDaed6uf1yPmhsfmXpyl?comment_id=1768624477761362",
+  "comment_text": "Umírat pro americké zahraniční zájmy je Čest pro každého člena každé kolonie..",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "22h",
+  "reasons": [
+   "dezinformace / propaganda",
+   "výrazný ohlas"
+  ],
+  "reason_note": "Prorusky laděný komentář pod připomínkou tří vojáků zahynulých v Bosně (1998), nejvíc lajkovaný v „nejrelevantnějším“ pořadí (41 reakcí, 6 odpovědí).",
+  "engagement": {
+   "likes": 41,
+   "replies": 6
+  },
+  "screenshot": "screenshots/comments/comment_2026-10-26_fb_ArmadaCeskerepubliky_1.png"
+ },
+ {
+  "platform": "x",
+  "channel_url": "https://x.com/ArmadaCR",
+  "post_url": "https://x.com/ArmadaCR/status/2114283246993482046",
+  "post_title_or_excerpt": "#nezapomeneme",
+  "comment_url": "https://x.com/i/status/2114388754978779444",
+  "comment_text": "Ano, v této teroristické akci zemřelo plno vojáků teroristické organizace NATO...",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "15h",
+  "reasons": [
+   "dezinformace / propaganda"
+  ],
+  "reason_note": "Propagandistická odpověď označující NATO za teroristickou organizaci pod vzpomínkou na padlé vojáky v Bosně; malý dosah (12 zobrazení).",
+  "engagement": {
+   "likes": 0,
+   "replies": 0
+  },
+  "screenshot": "screenshots/comments/comment_2026-10-26_x_ArmadaCR_1.png"
+ },
+ {
+  "platform": "x",
+  "channel_url": "https://x.com/ObranaTweetuje",
+  "post_url": "https://x.com/ObranaTweetuje/status/2114410331967533465",
+  "post_title_or_excerpt": "Provedu! Cena za svobodu",
+  "comment_url": "https://x.com/i/status/2114603713788826042",
+  "comment_text": "A tak to tady u nás vedeme.\nStrnulost a potlačování iniciativy.\n„Promarnili jsme čtyři roky.“ Čeští vojáci trénují na Rusko a raději cvičí s drony na vlastní pěst (odkaz seznamzpravy.cz)",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "51m",
+  "reasons": [
+   "kritika / stížnost",
+   "nová informace / fakt"
+  ],
+  "reason_note": "Kritika strnulosti armády se sdíleným článkem Seznam Zpráv o vojácích, kteří s drony cvičí na vlastní pěst a za vlastní peníze.",
+  "engagement": {
+   "likes": 20,
+   "replies": 2
+  },
+  "screenshot": "screenshots/comments/comment_2026-10-26_x_ObranaTweetuje_1.png",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-26T08:25:00+01:00",
+   "verifier": "Grok Bot",
+   "summary": "Článek Seznam Zpráv z 26. 10. 2026 skutečně popisuje (podle anonymních vojáků) dronový výcvik „na vlastní pěst“ a za vlastní peníze a MO přiznává, že každý voják nemá detektor ani rušičku dronů. Zároveň ale MO uvádí, že drony jsou součástí cvičení i běžného výcviku, a gen. v záloze Hyťha říká, že situace není tak špatná a zavádění dronů probíhá (rámcová smlouva, 3 000 dronů do dvou let); „potlačování iniciativy“ je hodnocení, ne ověřitelný fakt.",
+   "sources": [
+    {
+     "title": "Kdyby začala válka, jsme v háji, tvrdí vojáci. S drony trénují na vlastní pěst (převzatý text článku Seznam Zpráv, europesays.com)",
+     "url": "https://www.europesays.com/cz/258579/"
+    }
+   ]
+  }
+ }
+]

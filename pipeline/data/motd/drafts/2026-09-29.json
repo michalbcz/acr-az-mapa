@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T08:39:04+02:00",
+  "headline": "Vítkov: Symboly státnosti; czdefence o reakčním čase; archive 0/60.",
+  "items": [
+    {
+      "text": "Oficiální mocr.mo.gov.cz a FB MO (28. 9.): na Vítkově se otevřela stálá expozice Symboly státnosti u hrobu Neznámého vojína; Den české státnosti.",
+      "category": "příspěvek",
+      "importance": "střední",
+      "link": "card:https://mocr.mo.gov.cz/",
+      "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/v-narodnim-pamatniku-na-vitkove-s-hrobem-neznameho-vojina-se-otevrela-stala-expozice-symboly-statnosti-266130/"
+    },
+    {
+      "text": "Neoficiální czdefence.cz dnes (29. 9.): Reakční čas jako klíčová veličina odstrašení (RSS cache; TLS z boxu stále padá).",
+      "category": "příspěvek",
+      "importance": "střední",
+      "link": "card:https://www.czdefence.cz/",
+      "source_url": "https://www.czdefence.cz/clanek/reakcni-cas-jako-klicova-velicina-odstraseni"
+    },
+    {
+      "text": "Army den na Floře (10. 10.) má ověřený čas 10:00–18:00 (dříve celodenní). Celkem stále 59 událostí.",
+      "category": "jiné",
+      "importance": "střední",
+      "link": "#cat-events"
+    },
+    {
+      "text": "Health 51 up / 4 down: nově valka.cz 503; Discord disdex.io oba zase up. Trvá 404 AZ KVV Praha a TLS u czdefence.cz i resco-cr.cz.",
+      "category": "dostupnost",
+      "importance": "vysoká",
+      "link": "#cat-health"
+    },
+    {
+      "text": "Archive.org Save Page Now dnes: 0 ok / 60 unreachable (bez 429). Certy LE ≤30 dní: valka.cz 18, rentaacr.cz 23, armadninoviny.cz 29.",
+      "category": "archiv",
+      "importance": "střední",
+      "link": "#kontrola-odkazu"
+    }
+  ]
+}

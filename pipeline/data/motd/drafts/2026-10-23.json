@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-23",
+ "headline": "Budoucí záložáci a účastníci DVC dnes skládají přísahu, armáda představila českou verzi CV90 a ministr Zůna jednal s arménským ministrem obrany.",
+ "items": [
+  {
+   "text": "Armáda ČR (X, 22. 10.): budoucí příslušníci aktivní zálohy a účastníci dobrovolného vojenského cvičení dokončili kurz základní přípravy a 23. 10. skládají po boku profesionálních vojáků slavnostní vojenskou přísahu.",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2113262940421869903"
+  },
+  {
+   "text": "Armáda ČR (X, 22. 10.): česká verze bojového vozidla pěchoty CV90 pro těžkou brigádu je poprvé v Česku, armáda k ní zveřejnila rozhovor. Web AČR 22. 10. informoval o návštěvě náčelníka Generálního štábu v Polsku, kde byla prioritou společná obrana a rozvoj vojenských schopností.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2113187402181452090"
+  },
+  {
+   "text": "Ministerstvo obrany (X, 22. 10.): ministr Jaromír Zůna se v Praze setkal s arménským ministrem obrany Surenem Papikyanem kvůli obranné spolupráci, výcviku a zapojení českého průmyslu do modernizace arménských sil. Na Future Forces Zůna na kulatém stole „Český průmysl a zakázky pro AČR“ představil novou Koncepci výstavby Armády ČR.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2113289163717890348"
+  },
+  {
+   "text": "Události: přibyla náborová prezentace armády na veletrhu Volba povolání v Havířově 4. 11. od 9 do 17 h a dva další dny otevřených dveří FVT a FVL Univerzity obrany v Brně 16. 1. a 4. 2. 2027 od 8 do 14 h. Kalendář má nyní 114 akcí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Dostupnost a SSL: portal.ardos.org je po 8 dnech TLS chyb znovu dostupný (nový certifikát na 72 dní) a certifikáty az44lmopr.cz a csol.cz byly obnoveny, žádný certifikát teď nevyprší do 30 dní. Dál nedostupné zůstávají zbranekvalitne.cz a lvisingr.czweb.org a nefunkční (404) odkaz na aktualitu KVV Jihlava o omezení úředních hodin.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Odborná média (neoficiální): CZ Defence 23. 10. vydal článek „Nová bezpečnostní architektura Evropy: Česko může místo u jednacího stolu získat díky vojenské logistice“ a reportáž z druhého dne Future Forces. Armádní noviny 22. 10. píší o novém bezpilotním prostředku GRYF od KBP INTERNATIONAL pro protivzdušnou obranu.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/nato-3-0-cesko--logistika-nato-nizozemsko"
+  }
+ ]
+}

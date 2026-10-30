@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T08:22:57+01:00",
+ "headline": "Ministerstvo obrany zve na dokumentární sérii „Provedu! Cena za svobodu“ o české chemické jednotce v Litvě, první díl běží v úterý 27. října na ČT2.",
+ "items": [
+  {
+   "text": "Ministerstvo obrany na X oznámilo, že 1. díl dokumentární série „Provedu! Cena za svobodu“ o působení elitní české chemické jednotky na mezinárodní základně v Litvě uvede ČT2 v úterý 27. října ve 21:00; na projektu MO spolupracuje s Českou televizí od roku 2024.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2114410331967533465"
+  },
+  {
+   "text": "Ministerstvo obrany 25. října sdílelo připomínku odboru válečných veteránů: před 28 lety (v roce 1998) zahynuli při leteckém neštěstí v misi SFOR v Bosně a Hercegovině tři čeští vojáci vrtulníkové jednotky sedmého mechanizovaného praporu.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2114274320331464999"
+  },
+  {
+   "text": "Agentura komunikačních a informačních systémů (oficiální web jednotky) zveřejnila 25. října 7. díl podcastu Signál Bečva o 3D tisku v poli: armádní odborníci v něm popisují výrobu náhradních dílů a rychlé prototypování přímo v místě nasazení.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://akis.mo.gov.cz/aktivni-zaloha",
+   "source_url": "https://akis.mo.gov.cz/aktuality/signal-becva-7-3d-tisk-v-poli"
+  },
+  {
+   "text": "Odborná média (neoficiální): CZ Defence přináší rozhovor s ministrem obrany Jaromírem Zůnou z konference DEFENCEO 2026 v Brně o rekordních výdajích na obranu, efektivním hospodaření a podpoře domácího obranného průmyslu. Armádní noviny zase píší, že vietnamské letectvo při cvičení 29. září poprvé bombardovalo z českých L-39NG a všechny útoky podle vietnamské armády uspěly.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/jaromir-zuna-nestaci-jen-zvysovat-vydaje-na-obranu-dulezite-je-take-efektivni-hospodareni-a-podpora-ceskeho-prumyslu"
+  },
+  {
+   "text": "Dostupnost, SSL a odkazy beze změny: 51 z 54 webů je dostupných (portal.ardos.org dál s chybou TLS, zbranekvalitne.cz a lvisingr.czweb.org nedostupné), žádný certifikát nevyprší do 30 dní. Z 886 kontrolovaných odkazů zůstává nefunkční jen aktualita KVV Jihlava (404); v kalendáři dnes nepřibyla žádná nová akce.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  }
+ ]
+}

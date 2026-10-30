@@ -1,0 +1,40 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T08:25:20+02:00",
+ "headline": "Armáda poděkovala AZ za Zápas cti; czdefence o VOP CZ/CV90; valka.cz cert 5 d; az44lmopr stále down.",
+ "items": [
+  {
+   "text": "Armáda ČR na X (11. 10. večer) shrnula Zápas cti na Letné: Sparta vzdala hold válečným veteránům a příslušníkům aktivní zálohy.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2109325495342895553"
+  },
+  {
+   "text": "CZ Defence dnes: VOP CZ a CV90 jako české know-how v evropském programu pásových BVP; ráno také článek o americké jednotce pro superinteligenci a otázce pro ČR.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/vop-cz-a-cv90-ceske-know-how-jako-soucast-evropskeho-programu"
+  },
+  {
+   "text": "SSL: certifikát valka.cz vyprší za 5 dní (17. 10.). Certifikát rentaacr.cz byl obnoven (z ~11 na ~89 dní); nově pod 30 dní je i jirivojacek.cz (18 d).",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Dostupnost beze změny přechodů (51 up / 4 down): az44lmopr.cz je druhý den nedostupný (TLS EOF), dál trvá 404 AZ u KVV Praha a timeouty zbranekvalitne.cz a lvisingr.czweb.org.",
+   "category": "dostupnost",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Cvičení SAFEGUARD HMP 2026 v Praze pokračuje do úterý 14. 10. Kalendář událostí beze změny (92 akcí); nové náborové termíny nepřibyly.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  }
+ ]
+}

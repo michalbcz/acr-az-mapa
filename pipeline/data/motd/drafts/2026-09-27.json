@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-27",
+ "generated_at": "2026-09-27T08:22:23.592891+02:00",
+ "headline": "AČR ohlásila Army den na Floře; czdefence o dánské službě a srpnové transformaci české obrany.",
+ "items": [
+  {
+   "text": "Web acr.mo.gov.cz 26. 9. oznámil, že pražskou Floru opět zaplní armáda – už poosmé se uskuteční ARMY DEN (10. 10.).",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/"
+  },
+  {
+   "text": "czdefence.cz dnes vydal článek o dánské jedenáctiměsíční vojenské službě (včetně Grónska) a syntézu srpnové mediální agendy o transformaci české obrany. Web je z monitoringu nedostupný kvůli TLS, obsah bereme z RSS.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/dansko-spustilo-jedenactimesicni-vojenskou-sluzbu-branci-miri-i-do-gronska"
+  },
+  {
+   "text": "Dnes je náborová akce Veteráni na metách v Příbrami; zítra Den s Městskou policií v Brně. V kalendáři mapy zůstává 57 událostí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Stránka AZ u KVV Praha (/aktivni-zaloha-1) stále vrací 404; je jediným nefunkčním ne-sociálním odkazem. czdefence.cz zůstává z boxu nedostupný kvůli TLS.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Certifikáty Let's Encrypt vyprší na valka.cz za 20 dní (17. 10.) a na rentaacr.cz za 25 dní (23. 10.).",
+   "category": "SSL",
+   "importance": "střední",
+   "link": "#cat-health",
+   "source_url": "https://www.valka.cz/"
+  }
+ ]
+}

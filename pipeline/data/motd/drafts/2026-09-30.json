@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T08:49:18.591031+02:00",
+  "headline": "Drone Shield na FB/X AČR; czdefence GPS; valka up; archive 0/60.",
+  "items": [
+    {
+      "text": "Oficiální FB AČR a X @ArmadaCR (29. 9.): cvičení Drone Shield 2026 — „Nad hlavou vám proletí dron. Co uděláte jako první?“; X syndication dnes opět HTTP 200.",
+      "category": "příspěvek",
+      "importance": "vysoká",
+      "link": "card:https://www.facebook.com/ArmadaCeskerepubliky"
+    },
+    {
+      "text": "Neoficiální czdefence.cz dnes (30. 9., RSS cache): GPS ztrácí monopol + rozhovor s pplk. Martinem Krčem (TLS z boxu stále padá).",
+      "category": "příspěvek",
+      "importance": "střední",
+      "link": "card:https://www.czdefence.cz/"
+    },
+    {
+      "text": "Dva nové zajímavé komentáře (kritika/stížnost): pod Drone Shield u AČR a pod příspěvkem MO o pomoci veteránům.",
+      "category": "komentář",
+      "importance": "střední",
+      "link": "#cat-komentare"
+    },
+    {
+      "text": "Health 52 up / 3 down: valka.cz po včerejším 503 zase up. Trvá 404 AZ KVV Praha a TLS u czdefence.cz i resco-cr.cz.",
+      "category": "dostupnost",
+      "importance": "střední",
+      "link": "#cat-health"
+    },
+    {
+      "text": "Kalendář +2 náborové akce (celkem 61): Prostějov OCR Lev 3. 10. a Praha – Veletrh kariéra ve zdravotnictví 14. 10.",
+      "category": "jiné",
+      "importance": "střední",
+      "link": "#cat-events"
+    },
+    {
+      "text": "Archive.org Save Page Now dnes: 0 ok / 60 unreachable (bez 429; převážně Google Calendar template URL z events).",
+      "category": "archiv",
+      "importance": "střední",
+      "link": "#kontrola-odkazu"
+    }
+  ]
+}

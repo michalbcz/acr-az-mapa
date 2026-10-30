@@ -1,0 +1,117 @@
+{
+ "date": "2026-10-30",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X komentáře + screenshoty: paralelní běh; archive_submit NESPUŠTĚN; archive_lookup vynechán)",
+ "czdefence": "curl rss2 200 (120 items) → feed_cache/czdefence.xml; ingest před i po enrichmentu (nové: Šnajdárek, Bezpečnostní politika státu…)",
+ "enrichment": {
+  "enrich_sites": {
+   "sites_with_news_pages": 44,
+   "news_pages_with_items": 40,
+   "captures_updated": 3
+  },
+  "enrich_refine": {
+   "sites_with_news_pages": 46,
+   "news_pages_with_items": 49,
+   "captures_updated": 0
+  },
+  "fix": "mocr.mo.gov.cz: enrichment vzal stránkovací odkaz „Poslední >>“ (URL s HTML entitami, 404) jako poslední článek → odstraněno z updates_history (1 řádek), enrichment.json a link_status.json (zálohy *.bak-pre-20261030-mocr)"
+ },
+ "x_syndication": {
+  "status": "X API v2 get_users_posts since_id (x MCP)",
+  "new_posts": {
+   "ArmadaCR": [
+    "2115851062145933352"
+   ],
+   "ObranaTweetuje": [
+    "2115844244459888825",
+    "2115734661372497957"
+   ]
+  },
+  "skipped_rt": [
+   "2115528694089592940",
+   "2115528493773779398",
+   "2115528370704560150"
+  ],
+  "x_raw": [
+   "data/x_raw/xapi_2026-10-30.json"
+  ]
+ },
+ "archive_updates": {
+  "added": 11,
+  "total": 617,
+  "note": "archive_updates +11 (vč. 1 junk mocr, odstraněn → 616), build doplnil czdefence Šnajdárek → 617"
+ },
+ "health": {
+  "sites": 54,
+  "up": 52,
+  "down": 2,
+  "down_list": [
+   "zbranekvalitne.cz (HTTP 500, plain http)",
+   "lvisingr.czweb.org (HTTP 500, plain http)"
+  ],
+  "transitions": [
+   "portal.ardos.org down→up"
+  ],
+  "certs_le_30d": {},
+  "note": "1. běh: az44lmopr.cz a jirivojacek.cz přechodně TLS chyba (curl 200) → health spuštěn znovu"
+ },
+ "links": {
+  "ok": 791,
+  "login_wall": 149,
+  "broken": 4,
+  "unknown": 5,
+  "broken_list": [
+   "lvisingr.czweb.org 500",
+   "zbranekvalitne.cz 500",
+   "kvv-jihlava omezeni-urednich-hodin-1 404",
+   "x.com/i/status/2114388754978779444 404"
+  ],
+  "note": "mocr junk 404 odstraněn ručně z link_status; unknown = 4× armadninoviny.cz TLS + europesays.com"
+ },
+ "comments": {
+  "before": 121,
+  "after": 121,
+  "yt": "OK; tvarmycz jLiCHDNAM98 (Signál Bečva) 0 komentářů, TPDoPiVd9qU beze změny (pochvala + urážka ministra – nezveřejněno), CgdJEgs9iGw 0; AZTV jen staré videa (2021)"
+ },
+ "events": {
+  "added": 2,
+  "total": 122,
+  "new": [
+   "Tisková konference Koncepce výstavby AČR do 2040, 2. 11. 15:30 GŠ Praha (MO diary action.php?id=8394, jen akreditovaná média)",
+   "Nábor: Jihlava – Přehlídka středních škol 13. 11. (doarmady naborove-akce)"
+  ],
+  "checked": [
+   "doarmady naborove-akce",
+   "mo.gov.cz diary action.php 8392–8400 (max 8394)"
+  ]
+ },
+ "motd": {
+  "file": "data/motd/2026-10-30.json",
+  "items": 6
+ },
+ "publish": {
+  "commit": "e601a59",
+  "pushed_at": "2026-10-30T08:23:25+01:00",
+  "note": "sync Pythonem (rsync chybí), screenshots/ v mirroru nemazány; push s credential.helper=/usr/local/bin/gh"
+ },
+ "live_check": {
+  "at": "2026-10-30T08:23:45+01:00",
+  "http": 200,
+  "index_identical_to_mirror": true,
+  "events_ics": {
+   "http": 200,
+   "content_type": "text/calendar; charset=utf-8",
+   "vevents": 122,
+   "parse": "ok"
+  },
+  "archiv_is": 200
+ },
+ "social": {
+  "screenshots": "7/8 (FB aktivnizalohy dál 'content isn't available'), 1920x1160, blur_viewer_identity bez OCR nesedí → ruční cílený blur (Chrome avatar, X přepínač účtu + Followed by, FB avatary přátel, IG avatar + Messages)",
+  "comments": "121→123 (2× X ObranaTweetuje, Vlčí mák, kritika; bez ověření – žádné sporné tvrzení)",
+  "commit": "e08a1fb",
+  "pushed_at": "2026-10-30T08:25:42+01:00",
+  "live_check": "08:26:05 200, index identický, events.ics 200 text/calendar"
+ },
+ "archive_submit": "spuštěn na pozadí po publish (nečeká se)"
+}

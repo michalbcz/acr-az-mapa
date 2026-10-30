@@ -1,0 +1,4 @@
+{
+  "_comment": "Odkazy nahrazené novými URL (stará -> nová). Build je přepíše ve výstupu historie a vyřadí staré URL z tabulky dostupnosti; surová historie (jsonl) zůstává beze změny.",
+  "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1": "https://kvv-praha-stredoceskykraj.mo.gov.cz/zaloha-ozbrojenych-sil/aktivni-zaloha"
+}

@@ -1,0 +1,39 @@
+{
+ "date": "2026-09-28",
+ "generated_at": "2026-09-28T08:41:27+02:00",
+ "headline": "Wolfram 2026 na POKOS; Farlík a dezinformace na czdefence; 2 nové akce UO.",
+ "items": [
+  {
+   "text": "Oficiální pokos.mo.gov.cz (27. 9.): Wolfram 2026 — rafty, oheň, vojenská technika i týmová spolupráce.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://pokos.mo.gov.cz/",
+   "source_url": "https://pokos.mo.gov.cz/aktuality/wolfram-2026-rafty-ohen-vojenska-technika-i-tymova-spoluprace"
+  },
+  {
+   "text": "Neoficiální czdefence.cz dnes (28. 9.): rozhovor s brig. gen. Farlíkem (UNOB) a článek Dezinformace jakožto výzva pro národní bezpečnost (RSS cache, TLS z boxu padá).",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/dezinformace-jakozto-vyzva-pro-narodni-bezpecnost"
+  },
+  {
+   "text": "Do kalendáře přibyly 2 ověřené akce UO: Den otevřených dveří (Brno/Vyškov/HK, 5. 12.) a Vzdělání a řemeslo v Českých Budějovicích (5.–7. 11.). Celkem 59 událostí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events"
+  },
+  {
+   "text": "Health dnes 50 up / 5 down: stále 404 u AZ KVV Praha (/aktivni-zaloha-1) a TLS u czdefence.cz; nově TLS down také resco-cr.cz a oba Discord servery disdex.io.",
+   "category": "dostupnost",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Archive.org Save Page Now dnes: 5 ok / 18 unreachable / stop na 429. Certy LE ≤30 dní: valka.cz 19 dní, rentaacr.cz 24 dní, armadninoviny.cz 30 dní.",
+   "category": "archiv",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-02",
+ "generated_at": "2026-10-02T08:56:30+02:00",
+ "headline": "VA Vyškov 30 let; X live; ardos up; archive 35/25.",
+ "items": [
+  {
+   "text": "Oficiální FB AČR/MO a X @ArmadaCR/@ObranaTweetuje (1. 10.): 30 let Vojenské akademie ve Vyškově a Drone Shield („Dron ve vzduchu…“). X syndication dnes live (HTTP 200, timeline-profile/screen-name).",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://www.facebook.com/ArmadaCeskerepubliky",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/tricet-let-vojenske-akademie-ve-vyskove:-tricet-let-lidi--kteri-pripravuji-armadu-266242/"
+  },
+  {
+   "text": "Neoficiální czdefence.cz (RSS/WebFetch): nejnověji článek o první vojenské Tatře Phoenix 8×8 3. generace s cisternou pro AČR (2. 10.); TLS z boxu stále padá.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/prvni-vojenska-tatra-phoenix-8x8-treti-generace-s-palivovou-cisternou-pro-armadu-ceske-republiky"
+  },
+  {
+   "text": "Health 52 up / 3 down: portal.ardos.org po včerejším TLS down zase up. Trvá 404 AZ KVV Praha a TLS u czdefence.cz i resco-cr.cz.",
+   "category": "dostupnost",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "SSL: valka.cz vyprší za 15 dní; rentaacr.cz za 20 dní (certs ≤30 dní: 5, včera 6).",
+   "category": "SSL",
+   "importance": "střední",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Kalendář: nově nábor Cheb – Kam po ZŠ (ISŠ) 22. 10.; Vojákem na zkoušku ve Strakonicích (9. 10.) aktualizováno ze zápisu MO diary id=8378. Celkem 63 událostí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Archive.org Save Page Now dnes: 35 ok / 25 origin_unreachable / 0×429 (cap 60). Zajímavé komentáře: 0 nových (interesting_comments zůstává 20).",
+   "category": "archiv",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

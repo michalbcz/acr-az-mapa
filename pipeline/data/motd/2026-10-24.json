@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T08:23:50+02:00",
+ "headline": "Ve Vyškově složilo přísahu rekordních 760 vojáků včetně nových záložáků, armáda zvažuje vyslání ženistů do Polska.",
+ "items": [
+  {
+   "text": "Armáda ČR (web, 23. 10.): v kasárnách Dědice ve Vyškově složilo slavnostní přísahu 760 vojáků – profesionálové, příslušníci aktivní zálohy a absolventi DVC – což je největší přísaha v novodobé historii Vojenské akademie. Další, letos poslední běh základní přípravy začíná 27. 10. a očekává se opět mimořádně silný nástup.",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/historicky-nejvetsi-vojenska-prisaha-ve-vyskove:-slib-slozilo-760-vojaku--266562/"
+  },
+  {
+   "text": "Armáda ČR (X, 23. 10.): české vrtulníky pomáhají chránit polský vzdušný prostor a armáda nyní vyhodnocuje možnost vyslat české ženisty budovat obranu na východním křídle NATO.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2113521432793690545"
+  },
+  {
+   "text": "Události: přibyla náborová prezentace armády na veletrhu Techdays a Výstava škol v Litoměřicích (Zahrada Čech, 6.–7. 11.). Dnes 24. 10. probíhá Den bezpečnosti a obrany pro veřejnost v PVA EXPO Letňany; kalendář má nyní 115 akcí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Dostupnost a SSL: portal.ardos.org je po jednom dni znovu nedostupný kvůli chybě TLS spojení z kontrolního serveru; dál nedostupné zůstávají zbranekvalitne.cz a lvisingr.czweb.org. Žádný certifikát nevyprší do 30 dní a jediným nefunkčním odkazem zůstává (404) aktualita KVV Jihlava o omezení úředních hodin.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Odborná média (neoficiální): CZ Defence 24. 10. shrnuje třetí den Future Forces 2026 ve znamení robotizace a průmyslové spolupráce, Armádní noviny 23. 10. píší o českém suborbitálním raketoplánu NEBESA (Mach 3,5, start bez kosmodromu).",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/future-forces-2026-zavrsil-treti-den-ve-znameni-robotizace-prumyslove-spoluprace-a-modernich-technologii"
+  }
+ ]
+}

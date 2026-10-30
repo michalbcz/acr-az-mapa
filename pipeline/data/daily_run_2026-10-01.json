@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T08:22:56.789530+02:00",
+  "timezone": "Europe/Prague",
+  "enrichment_summary": {
+    "entries": 56,
+    "cms_counts": {
+      "Next.js": 2,
+      "Drupal": 26,
+      "WebToDate": 2,
+      "unknown": 13,
+      "Groups.io": 1,
+      "phpBB": 2,
+      "WordPress": 5,
+      "custom": 3,
+      "Webnode": 2
+    },
+    "sites_with_news_pages": 47,
+    "news_pages_with_items": 44,
+    "note": "po enrich_refine; Nextcloud dnes chybí (portal.ardos.org TLS EOF → unknown)"
+  },
+  "czdefence_top": {
+    "title": "Drone Shield 2026: Armáda testuje odpověď na jednu z největších hrozeb současného bojiště",
+    "date": "2026-10-01",
+    "pubDate": "Thu, 01 Oct 2026 07:09:58 +0200",
+    "url": "https://www.czdefence.cz/clanek/drone-shield-2026-armada-testuje-odpoved-na-jednu-z-nejvetsich-hrozeb-soucasneho-bojiste",
+    "source": "WebFetch → feed_cache/czdefence.xml+json; ingest_rss_feeds OK (box TLS EOF)"
+  },
+  "x_syndication_status": {
+    "refreshed": false,
+    "kept_cache_from": "2026-09-30",
+    "latest_post_date": "2026-09-29",
+    "handles": [
+      "ArmadaCR",
+      "ObranaTweetuje"
+    ],
+    "attempts": {
+      "syndication.twitter.com/srv/timeline-profile?screen_name=": "404 empty",
+      "syndication.twitter.com/srv/timeline-profile/screen-name/HANDLE": "429 Rate limit exceeded",
+      "cdn.syndication.twimg.com/timeline/profile": "HTTP 200 bytes=0"
+    },
+    "note": "posty nepřepsány; captures source=syndication; note x_syndication_cache_kept_20261001"
+  },
+  "archive_updates": {
+    "added": 11,
+    "total": 248,
+    "collapsed": 0,
+    "kept": 161,
+    "candidates": 172
+  },
+  "health": {
+    "sites": 55,
+    "up": 51,
+    "down": 4,
+    "down_urls": [
+      {
+        "url": "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1",
+        "http_status": 404
+      },
+      {
+        "url": "https://portal.ardos.org/",
+        "error": "TLS EOF"
+      },
+      {
+        "url": "https://resco-cr.cz/",
+        "error": "TLS EOF"
+      },
+      {
+        "url": "https://www.czdefence.cz/",
+        "error": "TLS EOF"
+      }
+    ],
+    "certs_le_30_days": [
+      {
+        "days": 16,
+        "url": "https://www.valka.cz/"
+      },
+      {
+        "days": 21,
+        "url": "https://rentaacr.cz/forum.php"
+      },
+      {
+        "days": 27,
+        "url": "https://www.armadninoviny.cz/"
+      },
+      {
+        "days": 29,
+        "url": "https://jirivojacek.cz/"
+      },
+      {
+        "days": 29,
+        "url": "https://www.securityoutlines.cz/"
+      },
+      {
+        "days": 30,
+        "url": "https://www.mpsfar.cz/"
+      },
+      {
+        "days": 30,
+        "url": "https://www.mpsfar.cz/kontakt/"
+      }
+    ]
+  },
+  "links": {
+    "checked": 429,
+    "ok": 321,
+    "broken": 1,
+    "login_wall": 75,
+    "unknown": 32,
+    "broken_example": "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+  },
+  "archive_lookup_brief": {
+    "links": 429,
+    "wayback_archived": 247,
+    "wayback_none": 182,
+    "wayback_error": 0,
+    "archive_is_blocked_captcha": 429
+  },
+  "archive_submit_pid": 818759,
+  "archive_submit_log": "/tmp/archive_submit_2026-10-01.log",
+  "events_result": {
+    "added": 1,
+    "updated": 0,
+    "total": 62,
+    "inbox": "data/events_inbox/2026-10-01.json",
+    "new": [
+      {
+        "title": "Nábor: Ostrov – Kam po ZŠ (SPŠ)",
+        "start": "2026-10-15",
+        "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+      }
+    ],
+    "mo_diary_max_id": 8378,
+    "mo_diary_note": "8378 = Akce Vojákem na zkoušku (již v events); 8379–8395 prázdné stuby WebToDate",
+    "acr_exercises_2026": "přehled na acr.mo.gov.cz chybí (404); jen 2025"
+  },
+  "comments": {
+    "skipped": false,
+    "inbox": "data/comments_inbox/2026-10-01.json",
+    "inbox_count": 5,
+    "added": 5,
+    "updated": 0,
+    "rejected": 0,
+    "total_after": 20,
+    "note": "FB AČR: nová informace, kritika MultiCam, OPSEC/vnitřní rozklad, kritika stíhaček, OPSEC civilní dron"
+  },
+  "problems": [
+    "czdefence.cz TLS EOF z boxu (RSS přes WebFetch + feed_cache)",
+    "X syndication 429 / prázdné 200 — ponechána cache z 2026-09-30 (latest posts 2026-09-29)",
+    "KVV Praha/SČK aktivni-zaloha-1 → 404 (trvá)",
+    "portal.ardos.org + resco-cr.cz TLS EOF",
+    "cert valka.cz 16 dní, rentaacr 21 dní",
+    "acr.mo.gov.cz přehled cvičení 2026 neexistuje (404)",
+    "doarmady /nastupni-terminy-vzp bez /deje-se/ = 404 (správně /deje-se/nastupni-terminy-vzp)",
+    "archive.ph z boxu blocked_captcha / blocked_tls_redirect",
+    "archive_submit 2 ok / 58 origin_unreachable (hlavně Google Calendar template URL 523)",
+    "FB Aktivní zálohy screenshot fail: This content isn't available right now (7/8)",
+    "rsync nebyl nainstalovaný — doinstalován apt (jednorázově)"
+  ],
+  "ready_for_motd_build": false,
+  "publish": true,
+  "note": "dočasný build_site_v2.py proběhl kvůli check_links; finální rebuild po archive_submit + MOTD + screenech",
+  "screenshots_result": {
+    "priority_ok": 7,
+    "priority_total": 8,
+    "archive_dir": "screenshots/archive/2026-10-01/",
+    "refreshed_at": "2026-10-01T08:25:14+02:00",
+    "ok": [
+      {
+        "name": "FB Armáda ČR",
+        "path": "screenshots/facebook-ArmadaCeskerepubliky-loggedin.jpg"
+      },
+      {
+        "name": "FB MO",
+        "path": "screenshots/facebook-MinisterstvoobranyCeskerepubliky-loggedin.jpg"
+      },
+      {
+        "name": "FB Do armády",
+        "path": "screenshots/facebook-doarmady-cz-loggedin.jpg"
+      },
+      {
+        "name": "IG Armáda ČR",
+        "path": "screenshots/instagram-armadaceskerepubliky-loggedin.png"
+      },
+      {
+        "name": "IG Do armády",
+        "path": "screenshots/instagram-do_armady-loggedin.png"
+      },
+      {
+        "name": "X @ArmadaCR",
+        "path": "screenshots/x-ArmadaCR.png"
+      },
+      {
+        "name": "X @ObranaTweetuje",
+        "path": "screenshots/x-ObranaTweetuje.png"
+      }
+    ],
+    "failed": [
+      {
+        "name": "FB Aktivní zálohy",
+        "path": "screenshots/facebook-aktivnizalohy-loggedin.jpg",
+        "error": "This content isn't available right now",
+        "note": "starý soubor nepřepsán smysluplným obsahem (error page 28 KB); záloha archive/2026-10-01/"
+      }
+    ],
+    "source": "/tmp/fb_capture_2026-10-01.json + live mtimes IG/X"
+  },
+  "motd_draft_path": "data/motd/drafts/2026-10-01.json",
+  "motd_check": "ok (--check only; not published)",
+  "updated_at": "2026-10-01T08:40:52+02:00",
+  "comments_added": 5,
+  "motd_set": true,
+  "motd_path": "data/motd/2026-10-01.json",
+  "motd_headline": "MO ADEX v Baku; AČR nové FB; +5 komentářů; archive 2/58.",
+  "motd_note": "finální MOTD přepsán po archive_submit (včetně 2 ok/58 unreachable); draft měl Ostrov+Drone Shield headline",
+  "archive_submit_final": {
+    "pid": 818759,
+    "finished_at": "2026-10-01T08:37:45+02:00",
+    "candidates": 236,
+    "wayback_ok": 2,
+    "wayback_origin_unreachable": 58,
+    "wayback_429": 0,
+    "archive_is": "blocked_tls_redirect",
+    "log": "/tmp/archive_submit_2026-10-01.log",
+    "summary": "submit summary wayback ok=2 origin_unreachable=58; převážně Google Calendar 523"
+  },
+  "commit_sha": "a260aa58c59889dbd231c277d948b4af4f36c68e",
+  "commit_message": "Denní update mapy AČR/AZ 2026-10-01",
+  "published_at": "2026-10-01T08:40:52+02:00",
+  "live_verify": {
+    "url": "https://mapa-acr-az.vercel.app",
+    "index_http": 200,
+    "markers": {
+      "cat-chrono": true,
+      "badge-oficialni": true,
+      "cat-komentare": true,
+      "cat-health": true,
+      "cat-events": true,
+      "cat-motd": true
+    },
+    "events_ics_http": 200,
+    "events_ics_content_type": "text/calendar; charset=utf-8",
+    "ics_parse_ok": true,
+    "ics_components": 66,
+    "verified_at": "2026-10-01T08:40:52+02:00"
+  },
+  "final_step_done": true
+}

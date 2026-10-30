@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-21",
+ "headline": "Strakoničtí vojáci se chystají na misi do Litvy, MO hlásí rekordní nábor záložáků a Univerzita obrany vypsala termíny přezkoušení UKAŽ FORMU.",
+ "items": [
+  {
+   "text": "Armáda ČR (X, 20. 10.): vojáci ze Strakonic se připravují na zahraniční operaci v Litvě, kde budou po boku spojenců zajišťovat pozemní protivzdušnou obranu východního křídla NATO. Před odjezdem začátkem příštího roku je čeká certifikační cvičení.",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2112573171949838474"
+  },
+  {
+   "text": "Ministerstvo obrany (X, 20. 10.): armáda podle MO hlásí rekordní čísla v náboru vojáků z povolání i záložáků. Ministr obrany Jaromír Zůna ve videu představuje benefity služby v aktivní záloze.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2112531996312568221"
+  },
+  {
+   "text": "Armáda ČR (X, 20. 10.) představila záložáky 111. praporu územní obrany KVV Praha – studentku, pekaře, učitelku či podnikatele, kteří cvičí noční střelby, taktiku i ochranu kritické infrastruktury. Praporů územní obrany je 14, v každém kraji jeden.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2112518855662743786"
+  },
+  {
+   "text": "Události: Univerzita obrany zveřejnila termíny přezkoušení z tělesné zdatnosti nanečisto UKAŽ FORMU (nejbližší 27. 10. v Praze-Ruzyni, další od února do března 2027) a MO ohlásilo na 22. 10. přijetí arménského ministra obrany (jen pro média). Kalendář má nyní 110 akcí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://unob.cz/univerzita/co-muzu-studovat/prezkouseni-z-telesne-zdatnosti-garantovane-ministerstvem-obrany"
+  },
+  {
+   "text": "Odborná média (neoficiální): CZ Defence 21. 10. vydal text „Generál Hlaváč: Armáda potřebuje rychlejší akvizice, digitalizaci velení a zapojení umělé inteligence“. Armádní noviny 20. 10. píší, že Arménie získá čtyři české letouny L-39 Skyfox.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/general-hlavac-armada-potrebuje-rychlejsi-akvizice-digitalizaci-veleni-a-zapojeni-umele-inteligence"
+  },
+  {
+   "text": "SSL: certifikát az44lmopr.cz vyprší za 12 dní (3. 11.); dál nedostupné zůstávají portal.ardos.org (TLS chyba, 7. den), zbranekvalitne.cz a lvisingr.czweb.org. Nově nefunkční (404) je odkaz na aktualitu KVV Jihlava o omezení úředních hodin, web KVV ji nyní vede pod adresou „omezeni-provozu-kvv-jihlava-v-listopadu-2026“.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

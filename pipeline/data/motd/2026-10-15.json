@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15T08:28:08+02:00",
+ "headline": "Bold Quest a Drone Shield; Zůna ve Washingtonu; valka.cz obnovila certifikát.",
+ "items": [
+  {
+   "text": "Oficiální zpravodajství AČR (14. 10.): Bold Quest 2026 – osm tisíc kilometrů bez satelitu; čeští vojáci prověřili dálkové rádiové spojení.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/bold-quest-2026:-osm-tisic-kilometru-bez-satelitu--cesti-vojaci-proverili-dalkove-radiove-spojeni-266435/"
+  },
+  {
+   "text": "Ministerstvo obrany na X (14. 10.): ministr Jaromír Zůna vystoupil na Česko-americkém obranném a bezpečnostním fóru ve Washingtonu (Hudson Institute a Jagello 2000) o úspěchu českých firem na americkém trhu.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2110458174541099447"
+  },
+  {
+   "text": "Armáda ČR na X (14. 10.): Drone Shield 2026 – testování bezpilotních a robotických systémů i obrany proti dronům; cíl vybrat technologie použitelné v praxi.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2110400243334361413"
+  },
+  {
+   "text": "SSL: certifikát valka.cz byl obnoven (dříve 3 dny do expirace, nyní ~89 dní). Stále ≤30 d: armadninoviny.cz 13 d, securityoutlines.cz a jirivojacek.cz 15 d, az44lmopr.cz 18 d.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Dostupnost: portal.ardos.org dnes padá na TLS (UNEXPECTED_EOF); včera byl ještě online. Health celkem 51/4.",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health",
+   "source_url": "https://portal.ardos.org/"
+  },
+  {
+   "text": "CZ Defence dnes: Geopolitický boj o suroviny nabírá obrátky, evropský průmysl platí účet. Kalendář: nově nábor Scholaris v Jeseníku (22. 10.), celkem 95 událostí.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/geopoliticky-boj-o-suroviny-nabira-obratky-evropsky-prumysl-plati-ucet"
+  }
+ ]
+}

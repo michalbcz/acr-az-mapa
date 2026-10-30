@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Den otevřených dveří Univerzity obrany (Brno, Vyškov, Hradec Králové)",
+    "type": "výběrové řízení/nábor",
+    "start": "2026-12-05",
+    "end": "2026-12-05",
+    "all_day": true,
+    "location": "Brno (FVT, FVL), Vyškov (Vojenská chemie), Hradec Králové (VLF)",
+    "organizer": "Univerzita obrany",
+    "description": "Den otevřených dveří na fakultách UO: Brno FVT/FVL, Vyškov (vojenská chemie) a Hradec Králové VLF.",
+    "source_url": "https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/",
+    "channel": null,
+    "confidence": "potvrzeno",
+    "date_precision": "day"
+  },
+  {
+    "title": "Vzdělání a řemeslo 2026 (České Budějovice) – prezentace UO",
+    "type": "výběrové řízení/nábor",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "all_day": true,
+    "location": "České Budějovice",
+    "organizer": "Univerzita obrany",
+    "description": "Prezentace Univerzity obrany na veletrhu Vzdělání a řemeslo 2026.",
+    "source_url": "https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/",
+    "channel": null,
+    "confidence": "potvrzeno",
+    "date_precision": "day"
+  }
+]

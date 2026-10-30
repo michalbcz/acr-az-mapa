@@ -1,0 +1,15 @@
+{
+ "date": "2026-10-24", "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel run; archive_submit NESPUŠTĚN)",
+ "czdefence": "curl rss2 200 (122979 B/120 items) → feed_cache/czdefence.xml; ingest před i po enrichmentu (top: Třetí den Future Forces 2026…)",
+ "enrichment": {"enrich_sites": {"sites_with_news_pages": 44, "news_pages_with_items": 41, "captures_updated": 2}, "enrich_refine": {"sites_with_news_pages": 46, "news_pages_with_items": 50, "captures_updated": 0}},
+ "x_syndication": {"status": "syndication timeline-profile 200 obě účty", "new_posts": {"ArmadaCR": ["2113616753863643491","2113526289680482340","2113521432793690545"], "ObranaTweetuje": ["2113604974240207226"]}, "x_raw": ["data/x_raw/synd_ArmadaCR_2026-10-24.json","data/x_raw/synd_ObranaTweetuje_2026-10-24.json"]},
+ "archive_updates": {"added": 12, "total": 557},
+ "health": {"sites": 54, "up": 51, "down": 3, "down_list": ["portal.ardos.org (TLS UNEXPECTED_EOF; curl 3× 000)", "zbranekvalitne.cz (ConnectTimeout)", "lvisingr.czweb.org (ConnectTimeout)"], "certs_le_30d": {}},
+ "links": {"checked": 864, "ok": 729, "login_wall": 128, "broken": 1, "unknown": 6, "broken_list": ["https://kvv-jihlava.mo.gov.cz/aktuality/omezeni-urednich-hodin-1 (404, trvá)"]},
+ "archive_lookup": "na pozadí (timeout 600 s), nečekáno",
+ "events": {"added": 1, "total": 115, "changes": ["+ Nábor: Litoměřice – Techdays a Výstava škol 6.–7. 11. 2026 (doarmady + litomerice.cz)"], "checked": ["doarmady naborove-akce, nastupni-terminy-az-a-dvc", "mo.gov.cz diary action.php 8388–8400 (max ID 8389)"]},
+ "motd": {"file": "data/motd/2026-10-24.json", "items": 5},
+ "publish": {"commit": "24f1145", "pushed_at": "2026-10-24T08:25:06+02:00", "note": "git credential helper odkazuje na /usr/bin/gh (neexistuje, apt gh 500) → push s -c credential.helper=/usr/local/bin/gh"},
+ "live_check": {"at": "2026-10-24T08:25:41+02:00", "http": 200, "index_identical_to_mirror": true, "events_ics": {"http": 200, "content_type": "text/calendar; charset=utf-8", "vevents": 115, "parse": "ok"}, "interesting_comments": 108, "archiv_is": 200}
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T08:27:53+02:00",
+  "headline": "AČR o AZ na VŠ a Moravian Lance; az44lmopr znovu online; valka.cz cert 4 d.",
+  "items": [
+    {
+      "text": "Armáda ČR na X (12. 10.): cvičení aktivní zálohy jako předmět na VŠ (FSV UK) a tři příběhy příslušníků AZ oceněných při Zápasu cti pamětními mincemi.",
+      "category": "příspěvek",
+      "importance": "střední",
+      "link": "card:https://x.com/ArmadaCR",
+      "source_url": "https://x.com/ArmadaCR/status/2109651489337594149"
+    },
+    {
+      "text": "Oficiální zpravodajství AČR: cvičení Moravian Lance 2026 prověřuje bojovou připravenost v podmínkách moderního bojiště (12. 10.).",
+      "category": "příspěvek",
+      "importance": "střední",
+      "link": "card:https://acr.mo.gov.cz/",
+      "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/moravian-lance-2026-proveruje-bojovou-pripravenost-v-podminkach-moderniho-bojiste-266388/"
+    },
+    {
+      "text": "Dostupnost: az44lmopr.cz je po dvou dnech TLS výpadku znovu online (52 up / 3 down). Stále trvá 404 stránky AZ u KVV Praha a timeouty zbranekvalitne.cz a lvisingr.czweb.org.",
+      "category": "dostupnost",
+      "importance": "vysoká",
+      "link": "#cat-health"
+    },
+    {
+      "text": "SSL: certifikát valka.cz vyprší za 4 dny (17. 10.). Další ≤30 d: armadninoviny.cz 15 d, securityoutlines.cz a jirivojacek.cz 17 d, az44lmopr.cz 20 d.",
+      "category": "SSL",
+      "importance": "vysoká",
+      "link": "#cat-health"
+    },
+    {
+      "text": "CZ Defence dnes: CSG vstupuje do kosmického průmyslu investicí do MDA Space; další článek o proměně bezpečnostních hrozeb v ČR.",
+      "category": "příspěvek",
+      "importance": "střední",
+      "link": "card:https://www.czdefence.cz/",
+      "source_url": "https://www.czdefence.cz/clanek/csg-vstupuje-do-kosmickeho-prumyslu-investici-do-mda-space"
+    },
+    {
+      "text": "Kalendář: nově náborová prezentace AČR na RunTour Pardubice (17. 10., celkem 93 událostí); cvičení SAFEGUARD HMP 2026 končí zítra (14. 10.).",
+      "category": "jiné",
+      "importance": "střední",
+      "link": "#cat-events",
+      "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+ {
+  "comment_text": "A tak to tady u nás vedeme.\nStrnulost a potlačování iniciativy.\n„Promarnili jsme čtyři roky.“ Čeští vojáci trénují na Rusko a raději cvičí s drony na vlastní pěst (odkaz seznamzpravy.cz)",
+  "verification": {
+   "status": "částečně pravdivé",
+   "checked_at": "2026-10-26T08:25:00+01:00",
+   "verifier": "Grok Bot",
+   "summary": "Článek Seznam Zpráv z 26. 10. 2026 skutečně popisuje (podle anonymních vojáků) dronový výcvik „na vlastní pěst“ a za vlastní peníze a MO přiznává, že každý voják nemá detektor ani rušičku dronů. Zároveň ale MO uvádí, že drony jsou součástí cvičení i běžného výcviku, a gen. v záloze Hyťha říká, že situace není tak špatná a zavádění dronů probíhá (rámcová smlouva, 3 000 dronů do dvou let); „potlačování iniciativy“ je hodnocení, ne ověřitelný fakt.",
+   "sources": [
+    {
+     "title": "Kdyby začala válka, jsme v háji, tvrdí vojáci. S drony trénují na vlastní pěst (převzatý text článku Seznam Zpráv, europesays.com)",
+     "url": "https://www.europesays.com/cz/258579/"
+    }
+   ]
+  }
+ }
+]

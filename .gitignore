@@ -1,0 +1,6 @@
+pipeline/site_v2/
+pipeline/screenshots/
+__pycache__/
+*.pyc
+*.sqlite-journal
+.env

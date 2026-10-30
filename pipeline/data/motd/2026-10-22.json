@@ -1,0 +1,48 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T08:22:53+02:00",
+ "headline": "Na Future Forces jednal ministr Zůna s delegacemi, průzkumníci obhájili stříbro z Cambrian Patrol a MO zveřejnilo projev k rozpočtu na rok 2027.",
+ "items": [
+  {
+   "text": "Armáda ČR (X, 21. 10.): čeští průzkumníci přivezli ze soutěže Cambrian Patrol ve Walesu stříbro, už druhý rok v řadě. Jde o extrémní závod v horách Brecon Beacons, kde trénují i britské speciální síly SAS.",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://x.com/ArmadaCR",
+   "source_url": "https://x.com/ArmadaCR/status/2112903882653229433"
+  },
+  {
+   "text": "Ministerstvo obrany (X, 21. 10.): veletrh Future Forces v pražských Letňanech zahájili prezident Petr Pavel, ministr obrany Jaromír Zůna a ministr průmyslu Karel Havlíček. Zůna tam jednal s ministry obrany Libanonu a Mosambiku a s eurokomisařem Kubiliusem.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://x.com/ObranaTweetuje",
+   "source_url": "https://x.com/ObranaTweetuje/status/2112919098426359935"
+  },
+  {
+   "text": "Web MO (21. 10.) zveřejnil projev ministra Jaromíra Zůny k návrhu rozpočtu Ministerstva obrany na rok 2027.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://mocr.mo.gov.cz/",
+   "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/jaromir-zuna:-rozpocet-ministerstva-obrany-vyjadruje--jak-cr-pristupuje-k-zajisteni-sve-bezpecnosti-266525/"
+  },
+  {
+   "text": "Události: do kalendáře přibyla náborová prezentace armády na kariérním veletrhu Business Day UTB ve Zlíně 3. 11. od 9 do 15 h, kalendář má nyní 111 akcí. KVV Praha a Středočeský kraj vydalo aktualitu ke Dni bezpečnosti a obrany v Letňanech 24. 10.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events",
+   "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce"
+  },
+  {
+   "text": "Odborná média (neoficiální): CZ Defence 22. 10. vydal článek „Moravian Lance 2026: Česká armáda testovala nové způsoby vedení moderní války“ a reportáž z prvního dne Future Forces. Armádní noviny 21. 10. píší, že LOM PRAHA přebírá servis simulátoru AH-1Z.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/moravian-lance-2026-ceska-armada-testovala-nove-zpusoby-vedeni-moderni-valky"
+  },
+  {
+   "text": "SSL: certifikát az44lmopr.cz vyprší za 11 dní (3. 11.); dál nedostupné zůstávají portal.ardos.org (TLS chyba, 8. den), zbranekvalitne.cz a lvisingr.czweb.org. Nefunkční (404) zůstává odkaz na aktualitu KVV Jihlava o omezení úředních hodin.",
+   "category": "SSL",
+   "importance": "vysoká",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

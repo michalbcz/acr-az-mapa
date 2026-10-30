@@ -1,0 +1,43 @@
+[
+  {
+    "platform": "fb",
+    "channel_url": "https://www.facebook.com/ArmadaCeskerepubliky",
+    "post_url": "https://www.facebook.com/reel/966338189294225/",
+    "post_title_or_excerpt": "Testujeme, porovnáváme a hledáme nejlepší řešení pro armádu. (Drone Shield 2026)",
+    "comment_url": null,
+    "comment_text": "Možná by nebylo špatný se zeptat ukrajinských dronařů. Budou o tom něco malinko vědět. Ale vlastně to máte zakázaný z ministra obrany.",
+    "author_type": "anon",
+    "author_name": null,
+    "comment_date_iso": null,
+    "comment_date_raw": "13h",
+    "reasons": [
+      "kritika / stížnost"
+    ],
+    "reason_note": "Kritika, že armáda nevyužívá zkušenosti ukrajinských dronařů; údajný zákaz ze strany ministra.",
+    "engagement": {
+      "likes": 5,
+      "replies": 1
+    }
+  },
+  {
+    "platform": "fb",
+    "channel_url": "https://www.facebook.com/MinisterstvoobranyCeskerepubliky",
+    "post_url": "https://www.facebook.com/MinisterstvoobranyCeskerepubliky/posts/pfbid0VnhAyXpR8YYpHo8SE6CgarX98HwGj9pB1YNzEAbZCwCyUebs8n3yw2zaeAg2ZwY1l",
+    "post_title_or_excerpt": "Ministr obrany Jaromír Zůna vystoupil na Česko-americkém obranném a bezpečnostním fóru ve Washingtonu",
+    "comment_url": null,
+    "comment_text": "Proc jste odvolal generala Haratka povereneho bojem proti dezinformacim?!!!!???!!! Komu tim napomahate?…",
+    "author_type": "anon",
+    "author_name": null,
+    "comment_date_iso": null,
+    "comment_date_raw": "10h",
+    "reasons": [
+      "kritika / stížnost",
+      "výrazný ohlas"
+    ],
+    "reason_note": "Kritika odvolání gen. Haratka (boj proti dezinformacím); 8 reakcí, 3 odpovědi.",
+    "engagement": {
+      "likes": 8,
+      "replies": 3
+    }
+  }
+]

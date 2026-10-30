@@ -1,0 +1,44 @@
+{
+ "date": "2026-10-01",
+ "generated_at": "2026-10-01T08:38:44+02:00",
+ "headline": "MO ADEX v Baku; AČR nové FB; +5 komentářů; archive 2/58.",
+ "items": [
+  {
+   "text": "Oficiální FB MO (1. 10.): náměstek Radovan Vích na veletrhu ADEX v Baku; mocr.mo.gov.cz shodně o účasti českých firem a dohodě ČR–Ázerbájdžán (30. 9.).",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://www.facebook.com/MinisterstvoobranyCeskerepubliky",
+   "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/v-baku-se-kona-nejvyznamnejsi-zbrojni-veletrh-regionu--nechybi-nejvetsi-ceske-firmy-266169/"
+  },
+  {
+   "text": "Oficiální FB AČR (30. 9.): nový příspěvek „Krev / Chaos / Střelba…“; X syndication dnes 429/prázdné — ponechána cache z 30. 9.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.facebook.com/ArmadaCeskerepubliky"
+  },
+  {
+   "text": "Neoficiální czdefence.cz dnes (RSS cache): článek o týmu Pokročilého pátrání + Drone Shield 2026; TLS z boxu stále padá.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/"
+  },
+  {
+   "text": "Dnes +5 zajímavých komentářů pod FB AČR (kritika/stížnost, OPSEC, nová informace / fakt).",
+   "category": "komentář",
+   "importance": "střední",
+   "link": "#cat-komentare"
+  },
+  {
+   "text": "Health 51 up / 4 down: nově TLS u portal.ardos.org (včera up); trvá 404 AZ KVV Praha a TLS u czdefence.cz i resco-cr.cz.",
+   "category": "dostupnost",
+   "importance": "vysoká",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Archive.org Save Page Now dnes: 2 ok / 58 unreachable (bez 429; převážně Google Calendar template URL).",
+   "category": "archiv",
+   "importance": "střední",
+   "link": "#kontrola-odkazu"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-09",
+  "timezone": "Europe/Prague",
+  "part": "data + events + MOTD + build + publish (no screenshots/comments/archive_submit)",
+  "czdefence_top": {
+    "title": "Přední manažeři, zástupci AČR a státních institucí na konferenci DEFENCEO diskutovali o propojení civilního a obranného průmyslu",
+    "pubDate": "Fri, 09 Oct 2026 07:10:39 +0200",
+    "url": "https://www.czdefence.cz/clanek/predni-manazeri-zastupci-acr-a-statnich-instituci-na-konferenci-defenceo-diskutovali-o-propojeni-civilniho-a-obranneho-prumyslu",
+    "source": "feed_cache/czdefence.{xml,json} (items in json=40; xml RSS 120); ingest live OK; parent: already fetched before this subagent continued"
+  },
+  "enrichment": {
+    "entries": 56,
+    "cms": {
+      "Drupal": 26,
+      "unknown": 11,
+      "WordPress": 6,
+      "custom": 3,
+      "Next.js": 2,
+      "WebToDate": 2,
+      "phpBB": 2,
+      "Webnode": 2,
+      "Nextcloud": 1,
+      "Groups.io": 1
+    },
+    "news_pages": 47,
+    "news_pages_with_items": 36,
+    "note": "enrich_sites + enrich_refine; czdefence ingest znovu po enrichmentu. Artefakty: armadninoviny last_post '0 komentářů' → 'CSG se zapojila… SwarmShot'; &nbsp;/\\xa0 v czdefence a doarmady titles unescapováno; page-title last_post u doarmady 91-skupina/aktivni-zaloha vyčištěn (nespadlo do historie)"
+  },
+  "x_syndication": {
+    "status": "syndication timeline-profile empty HTTP 200 (0 B) 08:29 → posty přes X API v2 (x MCP get_users_posts) 08:30; ArmadaCR kept 8 (6 self-reply link-only vynecháno), ObranaTweetuje 13",
+    "ArmadaCR_latest_own": "2026-10-09 (2108429007930745122 #nezapomeneme)",
+    "ObranaTweetuje_latest_own": "2026-10-08 (2108146029941891166 C-390 Černá Hora)",
+    "x_raw": "data/x_raw/xapi_2026-10-09.json"
+  },
+  "social_permalinks": {
+    "x_tweet_index": 159,
+    "backfill_added": 0,
+    "social_rows": 167,
+    "with_permalink": 99,
+    "account_only": 68
+  },
+  "archive_updates": {
+    "added": 11,
+    "total": 368,
+    "from": 357,
+    "note": "po odstranění parse artefaktů (page titles doarmady, mangled studentské léto); build archive added=0",
+    "after_social_total": 374,
+    "social_added": 6
+  },
+  "health": {
+    "sites": 55,
+    "up": 52,
+    "down": 3,
+    "down_list": [
+      "kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1 (404)",
+      "zbranekvalitne.cz (ConnectTimeout)",
+      "lvisingr.czweb.org (ConnectTimeout)"
+    ],
+    "note": "1 běh 08:31; armadninoviny.cz a czdefence.cz up (včera armadninoviny TLS EOF). Transition: armadninoviny down→up.",
+    "certs_le_30d": {
+      "www.valka.cz": 8,
+      "rentaacr.cz": 13,
+      "www.armadninoviny.cz": 19,
+      "www.securityoutlines.cz": 21,
+      "jirivojacek.cz": 21,
+      "www.az44lmopr.cz": 24,
+      "groups.io/g/ardos": 30,
+      "resco-cr.cz": 30
+    }
+  },
+  "links": {
+    "checked": 633,
+    "ok": 532,
+    "login_wall": 93,
+    "broken": 1,
+    "unknown": 7,
+    "broken_list": [
+      "https://kvv-praha-stredoceskykraj.mo.gov.cz/aktivni-zaloha-1"
+    ]
+  },
+  "archive_lookup": {
+    "status": "přeskočeno – timeout 150 s (08:33–08:35), bez výstupu; data/archive_status.json zůstává z 2026-10-07 08:24 (wayback archived 361 / none 229 z 590, archive.is blocked_captcha)",
+    "updated_at": "2026-10-07T08:24:07+02:00"
+  },
+  "archive_submit": "nespuštěno (nepovinný závěrečný krok nadřazeného běhu)",
+  "events": {
+    "added": 0,
+    "total": 88,
+    "inbox": "data/events_inbox/2026-10-09.json (prázdný)",
+    "checked": [
+      "doarmady.mo.gov.cz/deje-se/naborove-akce (budoucí akce už v kalendáři)",
+      "doarmady nastupni-terminy-az-a-dvc + nastupni-terminy-vzp (termíny už v kalendáři)",
+      "mo.gov.cz diary action.php?id=8390–8400 (všechny prázdné stuby ~349 B)",
+      "unob.cz (TLS unrecognized name z boxu)",
+      "X posty ArmadaCR/ObranaTweetuje (Zápas cti zmíněn, bez ověřeného místa/času → nepřidáno)"
+    ],
+    "not_checked": "acr.mo.gov.cz přehled cvičení, KVV aktuality (čas)"
+  },
+  "motd": {
+    "file": "data/motd/2026-10-09.json",
+    "draft": "data/motd/drafts/2026-10-09.json",
+    "headline": "Ample Strike 2026: 600 vojáků a 19 zemí; DEFENCEO o civilním a obranném průmyslu; CZ BREN 3 do Černé Hory; valka.cz cert 8 d.",
+    "items": 5
+  },
+  "publish": {
+    "commit": "9ae95e72e9ace591be712f744d8319aad3903530",
+    "pushed_at": "2026-10-09T08:38:43+02:00"
+  },
+  "live_check": {
+    "at": "2026-10-09T08:39:32+02:00",
+    "http": 200,
+    "markers": {
+      "cat-chrono": 13,
+      "badge-oficialni": 159,
+      "cat-events": 78
+    },
+    "motd_in_html": true,
+    "events_ics": {
+      "http": 200,
+      "content_type": "text/calendar; charset=utf-8",
+      "vevents": 88,
+      "parse": "ok"
+    },
+    "archiv_is": "200 (clean URL) / archiv-is.html 308"
+  },
+  "social": {
+    "source": "tmp/social_2026-10-09/ (observations.json + 8 screenshots, prohlížeč přihlášený)",
+    "screenshots": {
+      "replaced": 8,
+      "available": 7,
+      "unavailable": 1,
+      "total_accounts": 8,
+      "files": [
+        "facebook-ArmadaCeskerepubliky-loggedin.jpg",
+        "facebook-MinisterstvoobranyCeskerepubliky-loggedin.jpg",
+        "facebook-doarmady-cz-loggedin.jpg",
+        "facebook-aktivnizalohy-loggedin.jpg",
+        "instagram-armadaceskerepubliky-loggedin.png",
+        "instagram-do_armady-loggedin.png",
+        "x-com-armadacr.png",
+        "x-com-obranatweetuje.png"
+      ],
+      "unavailable_note": {
+        "facebook-aktivnizalohy-loggedin.jpg": "FB „This content isn't available right now“ i přihlášeně (3. den); screenshot nahrazen, last_post v capture beze změny (status unavailable)"
+      },
+      "backup": "screenshots/archive/2026-10-09/ (záloha social); data/captures.jsonl.bak-pre-social-20261009",
+      "processing": "bez chrome cropu (vstupy už content 1024×525 FB / 1024×640 IG+X); blur_viewer_identity + ruční GaussianBlur: avatary přátel u FB ArmádaČR a MO, Comment-as u doarmady, IG Messages avatary; vizuálně zkontrolováno",
+      "limits": "jen viditelná část okna; u IG/X hlavička profilu a začátek prvního příspěvku / grid"
+    },
+    "captures_updated": 8,
+    "captures_notes": {
+      "facebook doarmady.cz": "last_post_url = null (permalink nezjištěn; stejný post na IG /p/DeMaNKKu9JA/)",
+      "facebook aktivnizalohy": "status unavailable; last_post nezměněn",
+      "instagram armadaceskerepubliky": "last_post /p/DeQv5A_oeGn/ #nezapomeneme 2026-10-09",
+      "x ArmadaCR": "status/2108429007930745122 #nezapomeneme",
+      "x ObranaTweetuje": "status/2108146029941891166 C-390"
+    },
+    "comments": {
+      "inbox": "data/comments_inbox/2026-10-09.json",
+      "candidates": 9,
+      "added": 9,
+      "updated": 0,
+      "rejected": 0,
+      "total": 49,
+      "author_type": "anon (všechny)"
+    },
+    "archive_updates": {
+      "added": 6,
+      "total": 374,
+      "from": 368
+    },
+    "commit": "a4a204d3dd1ab50932b216faf31eabba278d8571",
+    "pushed_at": "2026-10-09T08:46:52+02:00",
+    "live_check": {
+      "at": "2026-10-09T08:47:28+02:00",
+      "http": 200,
+      "markers": {
+        "cat-chrono": 13,
+        "badge-oficialni": 168,
+        "cat-events": 78,
+        "cat-komentare": 30
+      },
+      "motd_in_html": true,
+      "events_ics": {
+        "http": 200,
+        "content_type": "text/calendar; charset=utf-8",
+        "vevents": 88,
+        "parse": "ok"
+      },
+      "interesting_comments_json": {
+        "http": 200,
+        "items": 49,
+        "new_items_present": true
+      }
+    },
+    "archive_submit": "nespouštěno (pokyn)"
+  }
+}

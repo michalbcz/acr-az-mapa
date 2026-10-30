@@ -1,0 +1,40 @@
+{
+ "date": "2026-09-27",
+ "generated_at": "2026-09-27T08:20:34+02:00",
+ "headline": "Armáda chystá 8. Army den na Floře; do kalendáře přibyly 4 akce (Symboly státnosti, Bráníme srdcem).",
+ "items": [
+  {
+   "text": "Na acr.mo.gov.cz vyšla 26. 9. pozvánka: Pražskou Floru opět zaplní armáda — už poosmé se uskuteční Army den (10. 10.).",
+   "category": "příspěvek",
+   "importance": "vysoká",
+   "link": "card:https://acr.mo.gov.cz/",
+   "source_url": "https://acr.mo.gov.cz/informacni-servis/zpravodajstvi/prazskou-floru-opet-zaplni-armada--uz-poosme-se-uskutecni-army-den-266127/"
+  },
+  {
+   "text": "Do kalendáře přibyly 4 ověřené akce MO: prohlídka expozice Symboly státnosti na Vítkově (29. 9.), finále Bráníme srdcem v Táboře (2. 10.), výcvik pro média ve Vyškově (2.–9. 10.) a ONDRÁŠ ve Zlíně (3. 10.). Celkem 57 událostí.",
+   "category": "jiné",
+   "importance": "střední",
+   "link": "#cat-events"
+  },
+  {
+   "text": "Neoficiální czdefence.cz dnes (27. 9.) píše o dánské jedenáctiměsíční vojenské službě; z boxu je web dál nedostupný přes TLS, bereme RSS přes WebFetch.",
+   "category": "příspěvek",
+   "importance": "střední",
+   "link": "card:https://www.czdefence.cz/",
+   "source_url": "https://www.czdefence.cz/clanek/dansko-spustilo-jedenactimesicni-vojenskou-sluzbu-branci-miri-i-do-gronska"
+  },
+  {
+   "text": "Stránka AZ u KVV Praha (/aktivni-zaloha-1) stále vrací 404 — jediný nefunkční ne-sociální odkaz. Health: 53 up / 2 down (včetně TLS u czdefence.cz).",
+   "category": "dostupnost",
+   "importance": "střední",
+   "link": "#cat-health"
+  },
+  {
+   "text": "Certifikáty Let's Encrypt: valka.cz vyprší za 20 dní (17. 10.), rentaacr.cz za 25 dní (23. 10.).",
+   "category": "SSL",
+   "importance": "střední",
+   "link": "#cat-health",
+   "source_url": "https://www.valka.cz/"
+  }
+ ]
+}

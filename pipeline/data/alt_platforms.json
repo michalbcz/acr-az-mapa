@@ -1,0 +1,146 @@
+[
+  {
+    "platform": "telegram",
+    "name": null,
+    "url": null,
+    "handle": null,
+    "officiality": "absence",
+    "notes": "No official AČR/MO/AZ/doarmady/POKOS public Telegram channel found. Official MO channel list and NGŠ Oct 2025 allowed platforms exclude Telegram. Unrelated extremist Active Club CR (@ActiveClubCR) is NOT AČR.",
+    "evidence": "https://mocr.mo.gov.cz/informacni-servis/site/dalsi-informacni-kanaly-ministerstva-obrany-53920/ ; https://ekonomickydenik.cz/armada-zprisnila-pravidla-influenceri/ ; no t.me links on mo.gov.cz / doarmady / aktivnizaloha"
+  },
+  {
+    "platform": "whatsapp",
+    "name": null,
+    "url": null,
+    "handle": null,
+    "officiality": "absence",
+    "notes": "No official public WhatsApp Business/Community for MO, AČR, or doarmady recruitment. Official AZ contact path: datové schránky / KVV.",
+    "evidence": "https://mocr.mo.gov.cz/ministr-a-ministerstvo/kontakty/kontakty-5203/ ; https://aktivnizaloha.mo.gov.cz/sites/aktivnizaloha/files/2024-06/Aktivn%C3%AD_info_1_2022.pdf ; https://doarmady.mo.gov.cz/"
+  },
+  {
+    "platform": "whatsapp",
+    "name": "WhatsApp Bratři ve zbrani (AZ pěší rota KVV Olomouc)",
+    "url": "https://www.mpsfar.cz/kontakt/",
+    "handle": null,
+    "officiality": "unofficial",
+    "notes": "Invite-only group for active members of AZ infantry company KVV Olomouc; join via unit commander. Mentioned on civilian unit fan site mpsfar.cz (gmail contact). No public invite URL published.",
+    "evidence": "https://www.mpsfar.cz/kontakt/ ; also https://www.mpsfar.cz/l/pozvanka-na-vyslap-na-serak/ (WhatsApp coordination for private AZ meetup)"
+  },
+  {
+    "platform": "whatsapp",
+    "name": "Smart-kaplan (73. Tankový prapor)",
+    "url": "https://73tankovyprapor.mo.gov.cz/aktuality/smart-kaplan-jsem-tu-pro-nase-vojaky-vojakyne",
+    "handle": null,
+    "officiality": "semi",
+    "notes": "COVID-era (2020-04-07) pastoral 1:1 WhatsApp sessions with unit chaplain after SMS/phone arrange. Not a public broadcast channel; local unit pastoral use on mo.gov.cz domain.",
+    "evidence": "https://73tankovyprapor.mo.gov.cz/aktuality/smart-kaplan-jsem-tu-pro-nase-vojaky-vojakyne"
+  },
+  {
+    "platform": "tiktok",
+    "name": null,
+    "url": null,
+    "handle": null,
+    "officiality": "absence",
+    "notes": "AČR banned TikTok use (VeKyS, cited Chinese espionage risk, Mar 2023). NGŠ Oct 2025 allowed official platforms exclude TikTok. No official doarmady/ArmadaCR TikTok found.",
+    "evidence": "https://www.lupa.cz/aktuality/ceska-armada-zakazala-pouzivani-tiktoku-obava-se-cinske-spionaze/ ; https://ekonomickydenik.cz/armada-zprisnila-pravidla-influenceri/"
+  },
+  {
+    "platform": "discord",
+    "name": null,
+    "url": null,
+    "handle": null,
+    "officiality": "absence",
+    "notes": "No official AČR/MO/AZ/ARDOS/POKOS Discord. ARDOS is amateur-radio EmComm (Winlink), not Discord. Official sites have no discord.gg links.",
+    "evidence": "https://rkacr.mo.gov.cz/ardos ; https://radioklub.mo.gov.cz/ardos ; https://mocr.mo.gov.cz/informacni-servis/site/dalsi-informacni-kanaly-ministerstva-obrany-53920/"
+  },
+  {
+    "platform": "discord",
+    "name": "[SAF] Czechoslovak Special Armed Forces",
+    "url": "https://disdex.io/server/1214280554350911568",
+    "handle": "SAF",
+    "officiality": "unofficial",
+    "notes": "Public gaming/milsim Discord (Squad, Arma Reforger); ~195 members per Disdex. Not affiliated with AČR recruitment or Active Reserve. Invite code listed on Disdex: dBMQjR5H8v.",
+    "evidence": "https://disdex.io/server/1214280554350911568"
+  },
+  {
+    "platform": "discord",
+    "name": "Task Force Roddenberry",
+    "url": "https://disdex.io/server/302783149962690560",
+    "handle": "TFR",
+    "officiality": "unofficial",
+    "notes": "Czechoslovak Arma 3 milsim community; ~437 members. Gaming only, not official AČR.",
+    "evidence": "https://disdex.io/server/302783149962690560"
+  },
+  {
+    "platform": "forum",
+    "name": "Vojsko — Fórum (sekce Armáda ČR a ČSR)",
+    "url": "https://forum.vojsko.net/viewforum.php?f=100",
+    "handle": null,
+    "officiality": "unofficial",
+    "notes": "Public civilian military forum; section covers AČR, active reserves, recruitment threads. Index: https://forum.vojsko.net/index.php . Primary fetch unstable/timeout 2026-09-06; existence confirmed via search index snippets.",
+    "evidence": "https://forum.vojsko.net/index.php ; https://forum.vojsko.net/viewforum.php?f=100"
+  },
+  {
+    "platform": "forum",
+    "name": "Renta AČR — Diskuzní fórum",
+    "url": "https://rentaacr.cz/forum.php",
+    "handle": null,
+    "officiality": "unofficial",
+    "notes": "Civilian community forum on AČR pay, benefits, leaving service. Public board. Community hub: https://rentaacr.cz/komunita.html . Not linked from mo.gov.cz.",
+    "evidence": "https://rentaacr.cz/forum.php ; https://rentaacr.cz/komunita.html"
+  },
+  {
+    "platform": "forum",
+    "name": "ZbraneKvalitneCZ — Aktivní záloha - recenze + názory",
+    "url": "http://zbranekvalitne.cz/forum/viewtopic.php?t=13594",
+    "handle": null,
+    "officiality": "unofficial",
+    "notes": "Civilian shooting forum thread with AZ/KZP experience discussion. Strong lead; site returned HTTP 403 to automated fetch 2026-09-06.",
+    "evidence": "WebSearch snippet for http://zbranekvalitne.cz/forum/viewtopic.php?t=13594"
+  },
+  {
+    "platform": "forum",
+    "name": null,
+    "url": null,
+    "handle": null,
+    "officiality": "absence",
+    "notes": "No official Ministry of Defence / AČR-hosted public discussion forum. Comment moderation rules exist for official social accounts only.",
+    "evidence": "https://mocr.mo.gov.cz/informacni-servis/site/dalsi-informacni-kanaly-ministerstva-obrany-53920/"
+  },
+  {
+    "platform": "other",
+    "name": "ARDOS (Amateur Radio Drone Operator System / EmComm)",
+    "url": "https://rkacr.mo.gov.cz/ardos",
+    "handle": "ARDOS",
+    "officiality": "official",
+    "notes": "Clarification: ARDOS is Radioklub AČR crisis-comms + drone volunteer project (Winlink radio), NOT a Discord server. Linked from mo.gov.cz radioklub sites.",
+    "evidence": "https://rkacr.mo.gov.cz/ardos ; https://radioklub.mo.gov.cz/ardos ; https://spojar.mo.gov.cz/clanky/federated-cloud-ardos-region-aktivni-zalohy-akis-izs-radioklub-acr-cvici-zvladani"
+  },
+  {
+    "platform": "policy",
+    "name": "Povolené platformy oficiálních účtů AČR (NGŠ 3.10.2025)",
+    "url": "https://ekonomickydenik.cz/armada-zprisnila-pravidla-influenceri/",
+    "handle": null,
+    "officiality": "official",
+    "notes": "Allowed official org accounts: Instagram, X, Facebook, YouTube, LinkedIn only. Creating org accounts on other platforms forbidden. Explains systematic absence on Telegram/TikTok/Discord/WhatsApp for official presence.",
+    "evidence": "https://ekonomickydenik.cz/armada-zprisnila-pravidla-influenceri/ (report of NGŠ order; order itself PÚ = for official use only)"
+  },
+  {
+    "platform": "linkedin",
+    "name": "Ministerstvo obrany ČR",
+    "url": "https://www.linkedin.com/company/ministerstvoobrany/",
+    "handle": "ministerstvoobrany",
+    "officiality": "official",
+    "notes": "Official MO LinkedIn company page; linked from mocr.mo.gov.cz. NGŠ Oct 2025 allows LinkedIn.",
+    "evidence": "https://www.linkedin.com/company/ministerstvoobrany/ ; mocr.mo.gov.cz"
+  },
+  {
+    "platform": "linkedin",
+    "name": "Czech Army / AČR",
+    "url": "https://www.linkedin.com/company/czecharmy",
+    "handle": "czecharmy",
+    "officiality": "official",
+    "notes": "Likely official AČR LinkedIn (mo.gov.cz contacts). Alias company/czech-army exists.",
+    "evidence": "https://www.linkedin.com/company/czecharmy"
+  }
+]

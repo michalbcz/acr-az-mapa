@@ -1,0 +1,105 @@
+[
+ {
+  "platform": "fb",
+  "channel_url": "https://www.facebook.com/ArmadaCeskerepubliky",
+  "post_url": "https://www.facebook.com/reel/1099350093072691/",
+  "post_title_or_excerpt": "I když to dnes nebyla výhra.…",
+  "comment_url": null,
+  "comment_text": "Tam přišel flexnout MAD21 koukám \n jedinej v armádě, kdo ho reálně má.",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "19m",
+  "reasons": [
+   "kritika / stížnost",
+   "nová informace / fakt"
+  ],
+  "reason_note": "Komentář upozorňuje, že nová uniforma MAD21 je zatím v armádě vzácná (generál ji má, vojáci ne).",
+  "engagement": {
+   "likes": 4,
+   "replies": 1
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/armadaceskerepubliky/",
+  "post_url": "https://www.instagram.com/armadaceskerepubliky/reel/DenH3hMInCN/",
+  "post_title_or_excerpt": "I když to dnes nebyla výhra.…",
+  "comment_url": null,
+  "comment_text": "Ja chci taky MAD21! Budeme ho mít v roce 2036? Nebo dřív?",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "7h",
+  "reasons": [
+   "kritika / stížnost"
+  ],
+  "reason_note": "Stížnost na pomalé zavádění uniformy MAD21 k jednotkám.",
+  "engagement": {
+   "likes": 3,
+   "replies": 1
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/do_armady/",
+  "post_url": "https://www.instagram.com/do_armady/p/DeeQk52OMUH/",
+  "post_title_or_excerpt": "Přednášky, seminárky, zkouškové…",
+  "comment_url": null,
+  "comment_text": "To je nuda, pojďme radši chcípnout na poli mezi drony. To zní jak zábava.",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "2d",
+  "reasons": [
+   "kritika / stížnost",
+   "výrazný ohlas"
+  ],
+  "reason_note": "Nejlajkovanější sarkastická reakce na náborový příspěvek AZ pro studenty.",
+  "engagement": {
+   "likes": 91,
+   "replies": 3
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/do_armady/",
+  "post_url": "https://www.instagram.com/do_armady/p/DeeQk52OMUH/",
+  "post_title_or_excerpt": "Přednášky, seminárky, zkouškové…",
+  "comment_url": null,
+  "comment_text": "Tyjo :D tyhle nábory musí stát dost peněz :D a přitom se vám lidi jen smejou :D",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "2d",
+  "reasons": [
+   "kritika / stížnost",
+   "výrazný ohlas"
+  ],
+  "reason_note": "Kritika nákladů a vyznění náborové kampaně s vysokým ohlasem.",
+  "engagement": {
+   "likes": 61,
+   "replies": 4
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/do_armady/",
+  "post_url": "https://www.instagram.com/do_armady/p/DeeQk52OMUH/",
+  "post_title_or_excerpt": "Přednášky, seminárky, zkouškové…",
+  "comment_url": null,
+  "comment_text": "Je to ostuda,nechat se naverbovat pro zájmy EU",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "2d",
+  "reasons": [
+   "dezinformace / propaganda"
+  ],
+  "reason_note": "Narativ o službě v armádě pro 'zájmy EU' pod náborovým příspěvkem.",
+  "engagement": {
+   "likes": 13,
+   "replies": 3
+  }
+ }
+]

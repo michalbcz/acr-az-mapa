@@ -1,0 +1,67 @@
+[
+ {
+  "title": "Nábor: Šumperk – Scholaris",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-03",
+  "end": "2026-11-03",
+  "all_day": true,
+  "location": "Šumperk",
+  "organizer": "Armáda ČR / Do armády",
+  "description": "Náborová prezentace AČR na přehlídce středních škol Scholaris v Šumperku (čas neuveden).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/",
+  "confidence": "potvrzeno"
+ },
+ {
+  "title": "Vystoupení VUS ONDRÁŠ – Z kraje do kraje (Žďár nad Sázavou)",
+  "type": "veřejná akce",
+  "start": "2026-10-19T17:00",
+  "end": null,
+  "all_day": false,
+  "location": "Žďár nad Sázavou, Městské divadlo",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Folklorní tanečně-hudební pořad malých forem Z kraje do kraje; 19. 10. 2026 v 17:00.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8384",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno"
+ },
+ {
+  "title": "Výstava „Historie a současnost radioelektronického boje“ (Praha, GŠ AČR)",
+  "type": "veřejná akce",
+  "start": "2026-10-22",
+  "end": "2026-11-26",
+  "all_day": true,
+  "location": "Praha 6, Vítězné náměstí (před budovou GŠ AČR)",
+  "organizer": "Vojenský historický ústav Praha / Generální štáb AČR",
+  "description": "Výstava VHÚ o radioelektronickém boji; zahájení 22. 10. ve 14:00, od 9:00 ukázky bezpilotních prostředků 53. pluku průzkumu a EB, stánky náboru AČR a POKOS; k vidění do 26. 11. 2026.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8385",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno"
+ },
+ {
+  "title": "Slavnostní jmenování do hodnosti plukovníka a udělení čestných odznaků AČR (Vítkov)",
+  "type": "jiné",
+  "start": "2026-10-27T11:00",
+  "end": null,
+  "all_day": false,
+  "location": "Praha 3, Národní památník na Vítkově – Slavnostní síň",
+  "organizer": "Generální štáb AČR",
+  "description": "Jmenování příslušníků AČR do hodnosti plukovníka k výročí vzniku ČSR, NGŠ udělí čestné odznaky AČR Za zásluhy; pro média jen s akreditací (do 23. 10. 12:00).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8386",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno"
+ },
+ {
+  "title": "Pietní akt k 108. výročí vzniku samostatného československého státu (Vítkov)",
+  "type": "veřejná akce",
+  "start": "2026-10-28T09:00",
+  "end": null,
+  "all_day": false,
+  "location": "Praha 3, Národní památník na Vítkově – Čestný dvůr",
+  "organizer": "Ministerstvo obrany ČR / Generální štáb AČR",
+  "description": "Pietní akt za účasti prezidenta republiky, ministra obrany a NGŠ AČR; pro média jen s akreditací (do 23. 10. 12:00).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8387",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno"
+ }
+]

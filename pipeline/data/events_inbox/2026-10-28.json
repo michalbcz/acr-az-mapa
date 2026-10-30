@@ -1,0 +1,30 @@
+[
+ {
+  "title": "Nábor: Bruntál – ARTIFEX 2026",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-12",
+  "end": "2026-11-12",
+  "all_day": true,
+  "location": "Bruntál",
+  "organizer": "Agentura personalistiky AČR (Do armády)",
+  "description": "Prezentace armády na ARTIFEX 2026 – veletrhu středních škol a zaměstnanosti v Bruntále (uvedeno v přehledu náborových akcí Do armády; čas a místo konání stránka neuvádí).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day"
+ },
+ {
+  "title": "Státní svátek 28. října: otevřená muzea VHÚ Praha",
+  "type": "veřejná akce",
+  "start": "2026-10-28T10:00",
+  "end": "2026-10-28T18:00",
+  "all_day": false,
+  "location": "Praha – Armádní muzeum Žižkov, Národní památník hrdinů heydrichiády, Letecké muzeum Kbely (oba areály); Národní památník na Vítkově od 11:00",
+  "organizer": "Vojenský historický ústav Praha",
+  "description": "Ve státní svátek jsou muzea VHÚ Praha otevřena od 10 do 18 hodin; Národní památník na Vítkově s hrobem Neznámého vojína od 11 hodin (zpráva MO).",
+  "source_url": "https://mocr.mo.gov.cz/informacni-servis/zpravodajstvi/prijdte-ve-statni-svatek-28--rijna-do-muzei-vhu-praha-266593/",
+  "channel": "https://mocr.mo.gov.cz/",
+  "confidence": "potvrzeno",
+  "date_precision": "day"
+ }
+]

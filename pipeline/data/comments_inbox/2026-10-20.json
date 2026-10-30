@@ -1,0 +1,43 @@
+[
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/armadaceskerepubliky/",
+  "post_url": "https://www.instagram.com/armadaceskerepubliky/reel/DerIrKsNYJt/",
+  "post_title_or_excerpt": "Reporty ze Šumavy #2!",
+  "comment_url": null,
+  "comment_text": "dobra prace, jen aby to nestalo vice, nez kdyby to realizovala soukroma firma",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "14h",
+  "reasons": [
+   "kritika / stížnost"
+  ],
+  "reason_note": "Pochybnost, zda sanace armádou nevyjde dráž než zakázka soukromé firmě.",
+  "engagement": {
+   "likes": 0,
+   "replies": 0
+  }
+ },
+ {
+  "platform": "ig",
+  "channel_url": "https://www.instagram.com/do_armady/",
+  "post_url": "https://www.instagram.com/do_armady/p/DeeQk52OMUH/",
+  "post_title_or_excerpt": "Přednášky, seminárky, zkouškové…",
+  "comment_url": null,
+  "comment_text": "To je nuda, pojďme radši chcípnout na poli mezi drony. To zní jak zábava.",
+  "author_type": "anon",
+  "author_name": null,
+  "comment_date_iso": null,
+  "comment_date_raw": "3d",
+  "reasons": [
+   "kritika / stížnost",
+   "výrazný ohlas"
+  ],
+  "reason_note": "Sarkastická kritika náborové kampaně s velkým ohlasem (151 likes, 13 odpovědí).",
+  "engagement": {
+   "likes": 151,
+   "replies": 13
+  }
+ }
+]

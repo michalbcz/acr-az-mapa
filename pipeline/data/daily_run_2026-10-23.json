@@ -1,0 +1,55 @@
+{
+ "date": "2026-10-23",
+ "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG/X comments+screenshots: parallel run; archive_submit NESPUŠTĚN)",
+ "czdefence": "curl rss2 1. pokus 200 (122612 B/120 items) → feed_cache/czdefence.xml; ingest 08:10 + po enrichmentu ~08:23 (live, top: Nová bezpečnostní architektura Evropy…)",
+ "enrichment": {
+  "enrich_sites": {"sites_with_news_pages": 43, "news_pages_with_items": 39, "captures_updated": 1},
+  "enrich_refine": {"sites_with_news_pages": 46, "news_pages_with_items": 49, "captures_updated": 0}
+ },
+ "x_syndication": {
+  "status": "syndication 429 obě účty → X API v2 get_users_posts since_id (x MCP)",
+  "new_posts": {
+   "ArmadaCR": ["2113262940421869903", "2113187402181452090"],
+   "ObranaTweetuje": ["2113289163717890348", "2113266626015433091"]
+  },
+  "rt_skipped": ["2113188622002479375", "2113169345811787838"],
+  "x_raw": ["data/x_raw/synd_ArmadaCR_2026-10-23.json (429)", "data/x_raw/synd_ObranaTweetuje_2026-10-23.json (429)", "data/x_raw/xapi_2026-10-23.json"]
+ },
+ "archive_updates": {"added": 11, "total": 545},
+ "health": {
+  "sites": 54, "up": 52, "down": 2,
+  "down_list": ["zbranekvalitne.cz (ConnectTimeout)", "lvisingr.czweb.org (ConnectTimeout)"],
+  "recovered": ["portal.ardos.org (UP, nový LE cert 72 d)"],
+  "certs_le_30d": {},
+  "note": "3 běhy check_sites_health: 1. armadninoviny.cz TLS UNEXPECTED_EOF, 2. az44lmopr.cz TLS UNEXPECTED_EOF (curl ručně 1× EOF, 2× 302), 3. (finální, zapsán) 52/2 – přerušované TLS EOF z boxu"
+ },
+ "links": {
+  "checked": "2026-10-23T08:29:39+02:00",
+  "ok": 717, "login_wall": 132, "broken": 1, "unknown": 7,
+  "broken_list": ["https://kvv-jihlava.mo.gov.cz/aktuality/omezeni-urednich-hodin-1 (404, trvá)"],
+  "unknown_by_host": {"www.facebook.com": 3, "www.armadninoviny.cz": 2, "lvisingr.czweb.org": 1, "zbranekvalitne.cz": 1}
+ },
+ "archive_lookup": "spuštěn na pozadí (timeout 600 s), nečekáno",
+ "events": {
+  "added": 3, "total": 114,
+  "changes": [
+   "+ Nábor: Havířov – Volba povolání 4. 11. 2026 9–17 (doarmady náborové akce + plakát akce)",
+   "+ DOD FVT a FVL UO Brno 16. 1. 2027 8–14 (unob.cz)",
+   "+ DOD FVT a FVL UO Brno 4. 2. 2027 8–14 (unob.cz)"
+  ],
+  "checked": [
+   "doarmady naborove-akce, nastupni-terminy-az-a-dvc, nastupni-terminy-vzp (200)",
+   "mo.gov.cz diary 10–12/2026 (200, max ID 8389); action.php 8390–8402 prázdné stuby",
+   "unob.cz dny-otevrenych-dveri-fvl-a-fvt (200)"
+  ],
+  "not_checked": "acr.mo.gov.cz cvičení, KVV aktuality, obecní oznámení"
+ },
+ "motd": {"file": "data/motd/2026-10-23.json", "items": 6},
+ "publish": {"commit": "e57cd7f", "pushed_at": "2026-10-23T08:32:27+02:00"},
+ "live_check": {
+  "at": "2026-10-23T08:33:41+02:00", "http": 200, "index_identical_to_mirror": true,
+  "events_ics": {"http": 200, "content_type": "text/calendar; charset=utf-8", "vevents": 114, "parse": "ok"},
+  "interesting_comments": 105, "archiv_is": 200
+ }
+}

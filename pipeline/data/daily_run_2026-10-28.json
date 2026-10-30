@@ -1,0 +1,16 @@
+{
+ "date": "2026-10-28", "timezone": "Europe/Prague",
+ "part": "data + events + MOTD + build + publish (FB/IG screenshots+comments: parallel run; archive_submit NESPUŠTĚN)",
+ "czdefence": "curl rss2 200 (123008 B/120 items) → feed_cache/czdefence.xml; ingest před i po enrichmentu",
+ "enrichment": {"enrich_sites": {"sites_with_news_pages": 44, "news_pages_with_items": 41, "captures_updated": 2}, "enrich_refine": {"sites_with_news_pages": 46, "news_pages_with_items": 49, "captures_updated": 0}},
+ "x_syndication": {"status": "syndication 429 → X API v2 get_users_posts since_id (x MCP)", "new_posts": {"ArmadaCR": ["2115334140400746835","2115124359454965921","2115060921257136558"], "ObranaTweetuje": ["2115337879991759199"]}, "skipped": ["2115019995423899677 (RT)"], "x_raw": ["data/x_raw/xapi_2026-10-28.json"]},
+ "archive_updates": {"added": 12, "total": 593},
+ "health": {"sites": 54, "up": 51, "down": 3, "down_list": ["portal.ardos.org (TLS UNEXPECTED_EOF)", "zbranekvalitne.cz (HTTP 500 za 2 ms – plain http z boxu)", "lvisingr.czweb.org (HTTP 500 za 2 ms – plain http z boxu)"], "certs_le_30d": {}, "min_days": "petatricatnici.eu 36", "note": "1. běh souběžně s enrichmentem: 2× KVV ConnectTimeout (přechodné, curl 200) → health spuštěn znovu"},
+ "links": {"checked": 916, "ok": 767, "login_wall": 144, "broken": 3, "unknown": 2},
+ "archive_lookup": {"wayback_archived": 379, "wayback_none": 11, "wayback_error": 526},
+ "comments": {"before": 120, "after": 120, "yt": "watch 429 → přeskočeno", "x_self_reply": "žádné nové"},
+ "events": {"added": 2, "total": 119, "new": ["Nábor Bruntál ARTIFEX 12. 11. (doarmady)", "Otevřená muzea VHÚ 28. 10. 10–18 (mocr 266593)"], "checked": ["doarmady naborove-akce", "mo.gov.cz diary action.php 8391–8402 (max ID 8393, vše už v kalendáři)"]},
+ "motd": {"file": "data/motd/2026-10-28.json", "items": 6},
+ "publish": {"commit": "aec7067", "pushed_at": "2026-10-28T08:22:45+01:00"},
+ "live_check": {"at": "2026-10-28T08:23:00+01:00", "http": 200, "index_identical_to_mirror": true, "events_ics": {"http": 200, "content_type": "text/calendar; charset=utf-8", "vevents": 119, "parse": "ok"}, "archiv_is": 200}
+}
