@@ -1697,6 +1697,25 @@ X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)\; veletrh pořád
  ve spolupráci s ICUK a ÚP Litoměřice
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-21bf814eb878@mapa-acr-az.vercel.app
+DTSTAMP:20261031T000000Z
+LAST-MODIFIED:20261031T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zápas na počest válečných veteránů: FC Zbrojovka Brno – FC
+  Baník Ostrava
+DESCRIPTION:Fotbalový zápas na počest válečných veteránů s účast
+ í armády (uveden mezi náborovými akcemi doarmady.cz).\nPořadatel: Arm
+ áda ČR (doarmady.cz)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove
+ -akce\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno
+X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-538b15f04b1f@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
@@ -1737,6 +1756,24 @@ LOCATION:Přerov
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-7d55793b5b5a@mapa-acr-az.vercel.app
+DTSTAMP:20261031T000000Z
+LAST-MODIFIED:20261031T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Nábor: Praha – Den válečných veteránů
+DESCRIPTION:Prezentace armády a rekrutérů na Dni válečných veteránů
+  v Praze.\nPořadatel: Armáda ČR (doarmady.cz)\nZdroj: https://doarmady.
+ mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app/
+ #cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha
+X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-a0520ee9f192@mapa-acr-az.vercel.app
 DTSTAMP:20261028T000000Z
 LAST-MODIFIED:20261028T000000Z
@@ -1754,6 +1791,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Bruntál
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-44b2c712c1f5@mapa-acr-az.vercel.app
+DTSTAMP:20261031T000000Z
+LAST-MODIFIED:20261031T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Nábor: Cheb – Veletrh pracovních příležitostí
+DESCRIPTION:Náborová prezentace armády na Veletrhu pracovních přílež
+ itostí v Chebu.\nPořadatel: Armáda ČR (doarmady.cz)\nZdroj: https://do
+ armady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.verc
+ el.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Cheb
+X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-63f12a141b8c@mapa-acr-az.vercel.app

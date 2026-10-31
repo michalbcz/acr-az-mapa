@@ -1451,6 +1451,23 @@
   "updated": "2026-10-24"
  },
  {
+  "id": "ev-21bf814eb878",
+  "title": "Zápas na počest válečných veteránů: FC Zbrojovka Brno – FC Baník Ostrava",
+  "type": "veřejná akce",
+  "start": "2026-11-07",
+  "end": "2026-11-07",
+  "all_day": true,
+  "location": "Brno",
+  "organizer": "Armáda ČR (doarmady.cz)",
+  "description": "Fotbalový zápas na počest válečných veteránů s účastí armády (uveden mezi náborovými akcemi doarmady.cz).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-31",
+  "updated": "2026-10-31"
+ },
+ {
   "id": "ev-538b15f04b1f",
   "title": "Cvičení Big Foot – pěší přesun vojáků",
   "type": "cvičení",
@@ -1485,6 +1502,23 @@
   "updated": "2026-10-27"
  },
  {
+  "id": "ev-7d55793b5b5a",
+  "title": "Nábor: Praha – Den válečných veteránů",
+  "type": "veřejná akce",
+  "start": "2026-11-11",
+  "end": "2026-11-11",
+  "all_day": true,
+  "location": "Praha",
+  "organizer": "Armáda ČR (doarmady.cz)",
+  "description": "Prezentace armády a rekrutérů na Dni válečných veteránů v Praze.",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-31",
+  "updated": "2026-10-31"
+ },
+ {
   "id": "ev-a0520ee9f192",
   "title": "Nábor: Bruntál – ARTIFEX 2026",
   "type": "výběrové řízení/nábor",
@@ -1500,6 +1534,23 @@
   "date_precision": "day",
   "first_seen": "2026-10-28",
   "updated": "2026-10-28"
+ },
+ {
+  "id": "ev-44b2c712c1f5",
+  "title": "Nábor: Cheb – Veletrh pracovních příležitostí",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-12",
+  "end": "2026-11-12",
+  "all_day": true,
+  "location": "Cheb",
+  "organizer": "Armáda ČR (doarmady.cz)",
+  "description": "Náborová prezentace armády na Veletrhu pracovních příležitostí v Chebu.",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-10-31",
+  "updated": "2026-10-31"
  },
  {
   "id": "ev-63f12a141b8c",
