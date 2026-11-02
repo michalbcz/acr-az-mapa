@@ -1737,6 +1737,27 @@ LOCATION:Vybrané obce (mj. Kraj Vysočina)
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-c2c4708a13c5@mapa-acr-az.vercel.app
+DTSTAMP:20261102T000000Z
+LAST-MODIFIED:20261102T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+SUMMARY:Army Film Festival 2026 (Kino Atlas\, Praha)
+DESCRIPTION:2. ročník festivalu filmů o svobodě a obraně: projekce\, d
+ ebaty s veterány a tvůrci\, živé podcasty\; světová premiéra HUR: K
+ ód „Sýkora“. Vstupenky GoOut. Ohlášeno i MO na X 1. 11.\nPořadate
+ l: A-NEWS ve spolupráci s VHÚ Praha (záštita prezidenta republiky a mi
+ nistra obrany)\nZdroj: https://www.armyfilmfestival.cz/\nPřehled: https:/
+ /mapa-acr-az.vercel.app/#cat-events
+URL:https://www.armyfilmfestival.cz/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Kino Atlas\, Ke Štvanici 371/4\, Praha 8
+X-ACR-ORGANIZER:A-NEWS ve spolupráci s VHÚ Praha (záštita prezidenta re
+ publiky a ministra obrany)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-f8817ed6ad8c@mapa-acr-az.vercel.app
 DTSTAMP:20261027T000000Z
 LAST-MODIFIED:20261027T000000Z

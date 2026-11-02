@@ -1485,6 +1485,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-c2c4708a13c5",
+  "title": "Army Film Festival 2026 (Kino Atlas, Praha)",
+  "type": "veřejná akce",
+  "start": "2026-11-10",
+  "end": "2026-11-12",
+  "all_day": true,
+  "location": "Kino Atlas, Ke Štvanici 371/4, Praha 8",
+  "organizer": "A-NEWS ve spolupráci s VHÚ Praha (záštita prezidenta republiky a ministra obrany)",
+  "description": "2. ročník festivalu filmů o svobodě a obraně: projekce, debaty s veterány a tvůrci, živé podcasty; světová premiéra HUR: Kód „Sýkora“. Vstupenky GoOut. Ohlášeno i MO na X 1. 11.",
+  "source_url": "https://www.armyfilmfestival.cz/",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-02",
+  "updated": "2026-11-02"
+ },
+ {
   "id": "ev-f8817ed6ad8c",
   "title": "Nábor: Přerov – Scholaris",
   "type": "výběrové řízení/nábor",
