@@ -1451,6 +1451,23 @@
   "updated": "2026-10-24"
  },
  {
+  "id": "ev-d5abe0879336",
+  "title": "Vystoupení VUS ONDRÁŠ – V tanci spolu od Ondrášku k Ondráši (Brno)",
+  "type": "veřejná akce",
+  "start": "2026-11-06T19:00",
+  "end": null,
+  "all_day": false,
+  "location": "Brno, Společenské centrum Bystrc",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Výběr z tanečně-hudebního pořadu malých forem ve společném představení V tanci spolu od Ondrášku k Ondráši (kalendář akcí MO). Konec neuveden.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8395",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-03",
+  "updated": "2026-11-03"
+ },
+ {
   "id": "ev-21bf814eb878",
   "title": "Zápas na počest válečných veteránů: FC Zbrojovka Brno – FC Baník Ostrava",
   "type": "veřejná akce",
@@ -1483,6 +1500,23 @@
   "date_precision": "day",
   "first_seen": "2026-09-25",
   "updated": "2026-09-25"
+ },
+ {
+  "id": "ev-241220b80d95",
+  "title": "Zápas svobody: FC Viktoria Plzeň – AC Sparta Praha",
+  "type": "veřejná akce",
+  "start": "2026-11-08",
+  "end": "2026-11-08",
+  "all_day": true,
+  "location": "Plzeň",
+  "organizer": "Armáda ČR (doarmady.cz)",
+  "description": "Fotbalový „Zápas svobody“ s účastí armády, uvedený mezi náborovými akcemi doarmady.cz; čas neuveden.",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-03",
+  "updated": "2026-11-03"
  },
  {
   "id": "ev-c2c4708a13c5",

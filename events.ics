@@ -1697,6 +1697,25 @@ X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)\; veletrh pořád
  ve spolupráci s ICUK a ÚP Litoměřice
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-d5abe0879336@mapa-acr-az.vercel.app
+DTSTAMP:20261103T000000Z
+LAST-MODIFIED:20261103T000000Z
+DTSTART;TZID=Europe/Prague:20261106T190000
+SUMMARY:Vystoupení VUS ONDRÁŠ – V tanci spolu od Ondrášku k Ondráš
+ i (Brno)
+DESCRIPTION:Výběr z tanečně-hudebního pořadu malých forem ve společ
+ ném představení V tanci spolu od Ondrášku k Ondráši (kalendář akc
+ í MO). Konec neuveden.\nPořadatel: Vojenský umělecký soubor ONDRÁŠ\
+ nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8395\nP
+ řehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8395
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Společenské centrum Bystrc
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-21bf814eb878@mapa-acr-az.vercel.app
 DTSTAMP:20261031T000000Z
 LAST-MODIFIED:20261031T000000Z
@@ -1735,6 +1754,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Vybrané obce (mj. Kraj Vysočina)
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-241220b80d95@mapa-acr-az.vercel.app
+DTSTAMP:20261103T000000Z
+LAST-MODIFIED:20261103T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Zápas svobody: FC Viktoria Plzeň – AC Sparta Praha
+DESCRIPTION:Fotbalový „Zápas svobody“ s účastí armády\, uvedený 
+ mezi náborovými akcemi doarmady.cz\; čas neuveden.\nPořadatel: Armáda
+  ČR (doarmady.cz)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akc
+ e\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Plzeň
+X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-c2c4708a13c5@mapa-acr-az.vercel.app
