@@ -1832,6 +1832,25 @@ LOCATION:Praha
 X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-a9eddbaff4c5@mapa-acr-az.vercel.app
+DTSTAMP:20261104T000000Z
+LAST-MODIFIED:20261104T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Nábor: Uherské Hradiště – Veletrhy práce a vzdělávání
+DESCRIPTION:Prezentace armády na Veletrhu práce a vzdělávání v Uhersk
+ ém Hradišti\; uvedeno v seznamu budoucích náborových akcí Do armády
+ \, čas neuveden.\nPořadatel: Armáda ČR / Do armády (náborová akce)\
+ nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https:
+ //mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Uherské Hradiště
+X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-a0520ee9f192@mapa-acr-az.vercel.app
 DTSTAMP:20261028T000000Z
 LAST-MODIFIED:20261028T000000Z
@@ -1885,6 +1904,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Jihlava
 X-ACR-ORGANIZER:Armáda ČR (doarmady.cz)
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-2d50631790ba@mapa-acr-az.vercel.app
+DTSTAMP:20261104T000000Z
+LAST-MODIFIED:20261104T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Nábor: Karlovy Vary – Veletrh pracovních příležitostí
+DESCRIPTION:Prezentace armády na Veletrhu pracovních příležitostí v K
+ arlových Varech\; uvedeno v seznamu budoucích náborových akcí Do arm
+ ády\, čas neuveden.\nPořadatel: Armáda ČR / Do armády (náborová ak
+ ce)\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: ht
+ tps://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Karlovy Vary
+X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-b26bebd7a1f5@mapa-acr-az.vercel.app
