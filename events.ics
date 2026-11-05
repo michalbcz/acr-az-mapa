@@ -1944,6 +1944,42 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-d68bfec3a854@mapa-acr-az.vercel.app
+DTSTAMP:20261105T000000Z
+LAST-MODIFIED:20261105T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261127
+SUMMARY:Nábor: Olomouc – Scholaris
+DESCRIPTION:Náborová prezentace AČR na přehlídce středních škol Sch
+ olaris v Olomouci (25.–26. 11. 2026).\nPořadatel: Armáda ČR / Do arm
+ ády\nZdroj: https://doarmady.mo.gov.cz/deje-se/naborove-akce\nPřehled: h
+ ttps://mapa-acr-az.vercel.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Olomouc
+X-ACR-ORGANIZER:Armáda ČR / Do armády
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-aaaafcf905ec@mapa-acr-az.vercel.app
+DTSTAMP:20261105T000000Z
+LAST-MODIFIED:20261105T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Nábor: Sokolov – Veletrh pracovních příležitostí
+DESCRIPTION:Náborová prezentace AČR na Veletrhu pracovních příležito
+ stí v Sokolově.\nPořadatel: Armáda ČR / Do armády\nZdroj: https://do
+ armady.mo.gov.cz/deje-se/naborove-akce\nPřehled: https://mapa-acr-az.verc
+ el.app/#cat-events
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Sokolov
+X-ACR-ORGANIZER:Armáda ČR / Do armády
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-cdc5c3886ab3@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z
