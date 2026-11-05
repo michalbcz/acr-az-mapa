@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# fake values for tests
+.x.com	TRUE	/	TRUE	1893456000	auth_token	FAKE0000
+#HttpOnly_.x.com	TRUE	/	TRUE	1893456000	ct0	FAKE1111
+.example.org	TRUE	/	FALSE	0	other	v
