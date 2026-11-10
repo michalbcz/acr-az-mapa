@@ -1871,6 +1871,27 @@ LOCATION:Uherské Hradiště
 X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-9284c442bebe@mapa-acr-az.vercel.app
+DTSTAMP:20261110T000000Z
+LAST-MODIFIED:20261110T000000Z
+DTSTART;TZID=Europe/Prague:20261111T090000
+DTEND;TZID=Europe/Prague:20261111T180000
+SUMMARY:Den válečných veteránů – ukázky techniky AČR na náměstí
+  Míru (Praha)
+DESCRIPTION:Statické ukázky současné i historické techniky\, výzbroje
+  a výstroje\, prezentace projektu POKOS a vystoupení Ústřední hudby A
+ ČR\; zapojí se pěší rota AZ při KVV Praha – Středočeský kraj.\n
+ Pořadatel: Generální štáb AČR\nZdroj: https://www.mo.gov.cz/scripts/
+ modules/diary/action.php?id=8399\nPřehled: https://mapa-acr-az.vercel.app
+ /#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8399
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 2\, náměstí Míru
+X-ACR-ORGANIZER:Generální štáb AČR
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-8bd4487eeda5@mapa-acr-az.vercel.app
 DTSTAMP:20261109T000000Z
 LAST-MODIFIED:20261109T000000Z
@@ -1906,6 +1927,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Praha\, Národní památník na Vítkově – Čestný dvůr
 X-ACR-ORGANIZER:Ministerstvo obrany
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-c988d7f6e828@mapa-acr-az.vercel.app
+DTSTAMP:20261110T000000Z
+LAST-MODIFIED:20261110T000000Z
+DTSTART;TZID=Europe/Prague:20261111T173000
+SUMMARY:Vystoupení VUS ONDRÁŠ – výběr z koncertu Orchestru lidových
+  nástrojů (Brno)
+DESCRIPTION:Vystoupení VUS ONDRÁŠ v rámci benefičního hokejového utk
+ ání pro válečné veterány.\nPořadatel: Vojenský umělecký soubor O
+ NDRÁŠ\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id=
+ 8400\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8400
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Winning Group Arena
+X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-3f413f1cf67b@mapa-acr-az.vercel.app

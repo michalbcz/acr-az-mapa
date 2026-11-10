@@ -1604,6 +1604,23 @@
   "updated": "2026-11-04"
  },
  {
+  "id": "ev-9284c442bebe",
+  "title": "Den válečných veteránů – ukázky techniky AČR na náměstí Míru (Praha)",
+  "type": "veřejná akce",
+  "start": "2026-11-11T09:00",
+  "end": "2026-11-11T18:00",
+  "all_day": false,
+  "location": "Praha 2, náměstí Míru",
+  "organizer": "Generální štáb AČR",
+  "description": "Statické ukázky současné i historické techniky, výzbroje a výstroje, prezentace projektu POKOS a vystoupení Ústřední hudby AČR; zapojí se pěší rota AZ při KVV Praha – Středočeský kraj.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8399",
+  "channel": "https://www.mo.gov.cz",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ev-8bd4487eeda5",
   "title": "Den válečných veteránů – vzpomínková akce (Ostrava)",
   "type": "veřejná akce",
@@ -1636,6 +1653,23 @@
   "date_precision": "day",
   "first_seen": "2026-11-09",
   "updated": "2026-11-09"
+ },
+ {
+  "id": "ev-c988d7f6e828",
+  "title": "Vystoupení VUS ONDRÁŠ – výběr z koncertu Orchestru lidových nástrojů (Brno)",
+  "type": "veřejná akce",
+  "start": "2026-11-11T17:30",
+  "end": null,
+  "all_day": false,
+  "location": "Brno, Winning Group Arena",
+  "organizer": "Vojenský umělecký soubor ONDRÁŠ",
+  "description": "Vystoupení VUS ONDRÁŠ v rámci benefičního hokejového utkání pro válečné veterány.",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8400",
+  "channel": "https://www.mo.gov.cz",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-10",
+  "updated": "2026-11-10"
  },
  {
   "id": "ev-3f413f1cf67b",
