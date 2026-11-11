@@ -1570,6 +1570,23 @@
   "updated": "2026-11-09"
  },
  {
+  "id": "ev-2aecde4eefdb",
+  "title": "Nábor: Klatovy – Akademie řemesel 2026",
+  "type": "výběrové řízení/nábor",
+  "start": "2026-11-11",
+  "end": "2026-11-11",
+  "all_day": true,
+  "location": "Klatovy",
+  "organizer": "Armáda ČR / Do armády (náborová akce)",
+  "description": "Prezentace armádních rekrutérů na akci Akademie řemesel 2026 (dle přehledu náborových akcí doarmady.mo.gov.cz).",
+  "source_url": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "channel": "https://doarmady.mo.gov.cz/koho-hledame/vojak-v-zaloze/aktivni-zaloha",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
   "id": "ev-7d55793b5b5a",
   "title": "Nábor: Praha – Den válečných veteránů",
   "type": "veřejná akce",

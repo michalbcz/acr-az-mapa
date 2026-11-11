@@ -1834,6 +1834,25 @@ LOCATION:Brno\, kasárna Šumavská
 X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-2aecde4eefdb@mapa-acr-az.vercel.app
+DTSTAMP:20261111T000000Z
+LAST-MODIFIED:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Nábor: Klatovy – Akademie řemesel 2026
+DESCRIPTION:Prezentace armádních rekrutérů na akci Akademie řemesel 20
+ 26 (dle přehledu náborových akcí doarmady.mo.gov.cz).\nPořadatel: Arm
+ áda ČR / Do armády (náborová akce)\nZdroj: https://doarmady.mo.gov.cz
+ /deje-se/naborove-akce\nPřehled: https://mapa-acr-az.vercel.app/#cat-even
+ ts
+URL:https://doarmady.mo.gov.cz/deje-se/naborove-akce
+CATEGORIES:výběrové řízení/nábor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Klatovy
+X-ACR-ORGANIZER:Armáda ČR / Do armády (náborová akce)
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-7d55793b5b5a@mapa-acr-az.vercel.app
 DTSTAMP:20261031T000000Z
 LAST-MODIFIED:20261031T000000Z
