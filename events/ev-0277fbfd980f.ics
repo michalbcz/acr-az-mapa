@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Den otevřených dveří Vojenské lékařské fakulty UO (Hra
+ dec Králové)
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-0277fbfd980f@mapa-acr-az.vercel.app
+DTSTAMP:20261113T000000Z
+LAST-MODIFIED:20261113T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Den otevřených dveří Vojenské lékařské fakulty UO (Hradec K
+ rálové)
+DESCRIPTION:Druhý termín DOD VLF (sobota)\; areál se otevírá v 8:30\, 
+ prezentace v 9:00 a 13:00. V seznamu náborových akcí Do armády.\nPořa
+ datel: Univerzita obrany – Vojenská lékařská fakulta\nZdroj: https:/
+ /unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-otevrenych-d
+ veri-fvz/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-ot
+ evrenych-dveri-fvz/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Hradec Králové\, internát VLF\, Akademika Heyrovského 1213
+X-ACR-ORGANIZER:Univerzita obrany – Vojenská lékařská fakulta
+END:VEVENT
+END:VCALENDAR

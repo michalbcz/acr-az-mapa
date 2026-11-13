@@ -1995,6 +1995,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-0277fbfd980f",
+  "title": "Den otevřených dveří Vojenské lékařské fakulty UO (Hradec Králové)",
+  "type": "veřejná akce",
+  "start": "2027-01-16",
+  "end": "2027-01-16",
+  "all_day": true,
+  "location": "Hradec Králové, internát VLF, Akademika Heyrovského 1213",
+  "organizer": "Univerzita obrany – Vojenská lékařská fakulta",
+  "description": "Druhý termín DOD VLF (sobota); areál se otevírá v 8:30, prezentace v 9:00 a 13:00. V seznamu náborových akcí Do armády.",
+  "source_url": "https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-otevrenych-dveri-fvz/",
+  "channel": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
   "id": "ev-8c36af156873",
   "title": "Den otevřených dveří FVT a FVL Univerzity obrany (Brno)",
   "type": "výběrové řízení/nábor",
