@@ -2056,6 +2056,25 @@ LOCATION:Čáslav\, Dusíkovo divadlo
 X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-5359f2997e69@mapa-acr-az.vercel.app
+DTSTAMP:20261114T000000Z
+LAST-MODIFIED:20261114T000000Z
+DTSTART;TZID=Europe/Prague:20261118T083000
+DTEND;TZID=Europe/Prague:20261118T133000
+SUMMARY:GIS Day 2026 na Univerzitě obrany
+DESCRIPTION:Den geografických informačních systémů pro středoškolák
+ y: přednášky\, workshopy a ukázky (motto „GIS: Powering Purpose and 
+ Innovation“).\nPořadatel: Univerzita obrany\nZdroj: https://www.mo.gov.
+ cz/scripts/modules/diary/action.php?id=8403\nPřehled: https://mapa-acr-az
+ .vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8403
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Brno\, Univerzita obrany
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-2d50631790ba@mapa-acr-az.vercel.app
 DTSTAMP:20261104T000000Z
 LAST-MODIFIED:20261104T000000Z

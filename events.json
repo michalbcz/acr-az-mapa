@@ -1774,6 +1774,23 @@
   "updated": "2026-11-09"
  },
  {
+  "id": "ev-5359f2997e69",
+  "title": "GIS Day 2026 na Univerzitě obrany",
+  "type": "veřejná akce",
+  "start": "2026-11-18T08:30",
+  "end": "2026-11-18T13:30",
+  "all_day": false,
+  "location": "Brno, Univerzita obrany",
+  "organizer": "Univerzita obrany",
+  "description": "Den geografických informačních systémů pro středoškoláky: přednášky, workshopy a ukázky (motto „GIS: Powering Purpose and Innovation“).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8403",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ev-2d50631790ba",
   "title": "Nábor: Karlovy Vary – Veletrh pracovních příležitostí",
   "type": "výběrové řízení/nábor",
