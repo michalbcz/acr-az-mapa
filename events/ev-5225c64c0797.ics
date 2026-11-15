@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mapa-acr-az.vercel.app//AČR AZ mapa – události//CS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Komentované prohlídky ruzyňského popraviště (VHÚ Praha)
+X-WR-TIMEZONE:Europe/Prague
+X-WR-CALDESC:Akce Armády ČR a Aktivní zálohy z oficiálních zdrojů (n
+ ábor\, základní příprava\, cvičení\, veřejné akce). https://mapa-
+ acr-az.vercel.app
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+X-LIC-LOCATION:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ev-5225c64c0797@mapa-acr-az.vercel.app
+DTSTAMP:20261115T000000Z
+LAST-MODIFIED:20261115T000000Z
+DTSTART;TZID=Europe/Prague:20261117T090000
+DTEND;TZID=Europe/Prague:20261117T140000
+SUMMARY:Komentované prohlídky ruzyňského popraviště (VHÚ Praha)
+DESCRIPTION:Připomínka 17. listopadu 1939: komentované prohlídky jízd
+ árny ruzyňských kasáren ve dvou termínech 9:00–10:00 a 13:00–14:0
+ 0. Vstup zdarma\, nutná rezervace e-mailem do 14. 11. a doklad totožnost
+ i.\nPořadatel: Vojenský historický ústav Praha\nZdroj: https://www.vhu
+ .cz/komentovane-prohlidky-ruzynskeho-popraviste-pripomenou-17-listopad-193
+ 9/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.vhu.cz/komentovane-prohlidky-ruzynskeho-popraviste-pripomen
+ ou-17-listopad-1939/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 6\, Kasárna Ruzyně\, Pilotů 217
+X-ACR-ORGANIZER:Vojenský historický ústav Praha
+END:VEVENT
+END:VCALENDAR

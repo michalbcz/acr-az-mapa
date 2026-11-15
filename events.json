@@ -1774,6 +1774,23 @@
   "updated": "2026-11-09"
  },
  {
+  "id": "ev-5225c64c0797",
+  "title": "Komentované prohlídky ruzyňského popraviště (VHÚ Praha)",
+  "type": "veřejná akce",
+  "start": "2026-11-17T09:00",
+  "end": "2026-11-17T14:00",
+  "all_day": false,
+  "location": "Praha 6, Kasárna Ruzyně, Pilotů 217",
+  "organizer": "Vojenský historický ústav Praha",
+  "description": "Připomínka 17. listopadu 1939: komentované prohlídky jízdárny ruzyňských kasáren ve dvou termínech 9:00–10:00 a 13:00–14:00. Vstup zdarma, nutná rezervace e-mailem do 14. 11. a doklad totožnosti.",
+  "source_url": "https://www.vhu.cz/komentovane-prohlidky-ruzynskeho-popraviste-pripomenou-17-listopad-1939/",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
   "id": "ev-5359f2997e69",
   "title": "GIS Day 2026 na Univerzitě obrany",
   "type": "veřejná akce",

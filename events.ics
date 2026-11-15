@@ -2056,6 +2056,27 @@ LOCATION:Čáslav\, Dusíkovo divadlo
 X-ACR-ORGANIZER:Vojenský umělecký soubor ONDRÁŠ
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-5225c64c0797@mapa-acr-az.vercel.app
+DTSTAMP:20261115T000000Z
+LAST-MODIFIED:20261115T000000Z
+DTSTART;TZID=Europe/Prague:20261117T090000
+DTEND;TZID=Europe/Prague:20261117T140000
+SUMMARY:Komentované prohlídky ruzyňského popraviště (VHÚ Praha)
+DESCRIPTION:Připomínka 17. listopadu 1939: komentované prohlídky jízd
+ árny ruzyňských kasáren ve dvou termínech 9:00–10:00 a 13:00–14:0
+ 0. Vstup zdarma\, nutná rezervace e-mailem do 14. 11. a doklad totožnost
+ i.\nPořadatel: Vojenský historický ústav Praha\nZdroj: https://www.vhu
+ .cz/komentovane-prohlidky-ruzynskeho-popraviste-pripomenou-17-listopad-193
+ 9/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.vhu.cz/komentovane-prohlidky-ruzynskeho-popraviste-pripomen
+ ou-17-listopad-1939/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha 6\, Kasárna Ruzyně\, Pilotů 217
+X-ACR-ORGANIZER:Vojenský historický ústav Praha
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-5359f2997e69@mapa-acr-az.vercel.app
 DTSTAMP:20261114T000000Z
 LAST-MODIFIED:20261114T000000Z
