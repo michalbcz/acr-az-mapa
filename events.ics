@@ -2264,6 +2264,28 @@ LOCATION:VeV-VA Vyškov
 X-ACR-ORGANIZER:Velitelství výcviku – Vojenská akademie Vyškov
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-a2570856ff84@mapa-acr-az.vercel.app
+DTSTAMP:20261116T000000Z
+LAST-MODIFIED:20261116T000000Z
+DTSTART;TZID=Europe/Prague:20261211T091500
+SUMMARY:Den otevřených dveří Vojenské chemie UO (Vyškov)
+DESCRIPTION:DOD studijního programu Vojenská chemie\; vstupy do areálu v
+  9:15 a 11:15\, nutný občanský průkaz. V seznamu náborových akcí Do
+  armády.\nPořadatel: Univerzita obrany – Ústav ochrany proti zbraním
+  hromadného ničení\nZdroj: https://unob.cz/univerzita/co-muzu-studovat/
+ dny-otevrenych-dveri/dny-otevrenych-dveri-vojenske-chemie/\nPřehled: http
+ s://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-ot
+ evrenych-dveri-vojenske-chemie/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vyškov\, Sídliště Víta Nejedlého (ÚOPZHN UO)\, vstup od hla
+ vního vchodu Víta Nejedlého 1
+X-ACR-ORGANIZER:Univerzita obrany – Ústav ochrany proti zbraním hromadn
+ ého ničení
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-512090ff03b6@mapa-acr-az.vercel.app
 DTSTAMP:20261006T000000Z
 LAST-MODIFIED:20261006T000000Z
@@ -2337,6 +2359,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Moravská Třebová\, sál Na Písku
 X-ACR-ORGANIZER:VSŠ a VOŠ MO Moravská Třebová
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-38d342547f9f@mapa-acr-az.vercel.app
+DTSTAMP:20261116T000000Z
+LAST-MODIFIED:20261116T000000Z
+DTSTART;TZID=Europe/Prague:20270115T091500
+SUMMARY:Den otevřených dveří Vojenské chemie UO (Vyškov)
+DESCRIPTION:Druhý termín DOD studijního programu Vojenská chemie\; vstu
+ py v 9:15 a 11:15\, nutný občanský průkaz (záložní termín 5. 2. 20
+ 27).\nPořadatel: Univerzita obrany – Ústav ochrany proti zbraním hrom
+ adného ničení\nZdroj: https://unob.cz/univerzita/co-muzu-studovat/dny-o
+ tevrenych-dveri/dny-otevrenych-dveri-vojenske-chemie/\nPřehled: https://m
+ apa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-ot
+ evrenych-dveri-vojenske-chemie/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vyškov\, Sídliště Víta Nejedlého (ÚOPZHN UO)\, vstup od hla
+ vního vchodu Víta Nejedlého 1
+X-ACR-ORGANIZER:Univerzita obrany – Ústav ochrany proti zbraním hromadn
+ ého ničení
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-0277fbfd980f@mapa-acr-az.vercel.app

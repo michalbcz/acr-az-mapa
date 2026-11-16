@@ -1961,6 +1961,23 @@
   "updated": "2026-09-25"
  },
  {
+  "id": "ev-a2570856ff84",
+  "title": "Den otevřených dveří Vojenské chemie UO (Vyškov)",
+  "type": "veřejná akce",
+  "start": "2026-12-11T09:15",
+  "end": null,
+  "all_day": false,
+  "location": "Vyškov, Sídliště Víta Nejedlého (ÚOPZHN UO), vstup od hlavního vchodu Víta Nejedlého 1",
+  "organizer": "Univerzita obrany – Ústav ochrany proti zbraním hromadného ničení",
+  "description": "DOD studijního programu Vojenská chemie; vstupy do areálu v 9:15 a 11:15, nutný občanský průkaz. V seznamu náborových akcí Do armády.",
+  "source_url": "https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-otevrenych-dveri-vojenske-chemie/",
+  "channel": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
   "id": "ev-512090ff03b6",
   "title": "Kurz základní přípravy pro AZ a DVC (celý kurz, Vyškov)",
   "type": "přijímač/základní příprava",
@@ -2027,6 +2044,23 @@
   "date_precision": "day",
   "first_seen": "2026-09-25",
   "updated": "2026-09-25"
+ },
+ {
+  "id": "ev-38d342547f9f",
+  "title": "Den otevřených dveří Vojenské chemie UO (Vyškov)",
+  "type": "veřejná akce",
+  "start": "2027-01-15T09:15",
+  "end": null,
+  "all_day": false,
+  "location": "Vyškov, Sídliště Víta Nejedlého (ÚOPZHN UO), vstup od hlavního vchodu Víta Nejedlého 1",
+  "organizer": "Univerzita obrany – Ústav ochrany proti zbraním hromadného ničení",
+  "description": "Druhý termín DOD studijního programu Vojenská chemie; vstupy v 9:15 a 11:15, nutný občanský průkaz (záložní termín 5. 2. 2027).",
+  "source_url": "https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-otevrenych-dveri-vojenske-chemie/",
+  "channel": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-16",
+  "updated": "2026-11-16"
  },
  {
   "id": "ev-0277fbfd980f",
