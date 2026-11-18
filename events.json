@@ -2097,6 +2097,23 @@
   "updated": "2026-10-23"
  },
  {
+  "id": "ev-e143326c655c",
+  "title": "Univerzita obrany na veletrhu Gaudeamus Praha 2027",
+  "type": "veřejná akce",
+  "start": "2027-01-19",
+  "end": "2027-01-21",
+  "all_day": true,
+  "location": "Praha",
+  "organizer": "Univerzita obrany",
+  "description": "Univerzita obrany se prezentuje na Veletrhu vzdělávání Gaudeamus Praha 2027 (uvedeno v připravovaných akcích UO, čas neuveden).",
+  "source_url": "https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/",
+  "channel": null,
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-18",
+  "updated": "2026-11-18"
+ },
+ {
   "id": "ev-1ef15c5714dc",
   "title": "Den otevřených dveří FVT a FVL Univerzity obrany (Brno)",
   "type": "výběrové řízení/nábor",

@@ -2425,6 +2425,25 @@ LOCATION:Brno\, Kasárna Šumavská
 X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-e143326c655c@mapa-acr-az.vercel.app
+DTSTAMP:20261118T000000Z
+LAST-MODIFIED:20261118T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+SUMMARY:Univerzita obrany na veletrhu Gaudeamus Praha 2027
+DESCRIPTION:Univerzita obrany se prezentuje na Veletrhu vzdělávání Gaud
+ eamus Praha 2027 (uvedeno v připravovaných akcích UO\, čas neuveden).\
+ nPořadatel: Univerzita obrany\nZdroj: https://unob.cz/univerzita/media-a-
+ verejnost/akce-univerzity-obrany/\nPřehled: https://mapa-acr-az.vercel.ap
+ p/#cat-events
+URL:https://unob.cz/univerzita/media-a-verejnost/akce-univerzity-obrany/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha
+X-ACR-ORGANIZER:Univerzita obrany
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-1ef15c5714dc@mapa-acr-az.vercel.app
 DTSTAMP:20261023T000000Z
 LAST-MODIFIED:20261023T000000Z
