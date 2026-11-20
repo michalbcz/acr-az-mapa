@@ -2207,6 +2207,26 @@ LOCATION:Sokolov
 X-ACR-ORGANIZER:Armáda ČR / Do armády
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-371166c9cac3@mapa-acr-az.vercel.app
+DTSTAMP:20261120T000000Z
+LAST-MODIFIED:20261120T000000Z
+DTSTART;TZID=Europe/Prague:20261203T173000
+SUMMARY:18. adventní koncert AČR pro Dětský domov Pardubice
+DESCRIPTION:Předvánoční koncert Vojenské hudby Olomouc (klasika\, muzi
+ kály\, filmová hudba\, koledy) s doprovodnými aktivitami POKOS pro dět
+ i\; vstupné dobrovolné\, výtěžek pro Dětský domov Pardubice.\nPořa
+ datel: Krajské vojenské velitelství Pardubice\nZdroj: https://kvv-pardu
+ bice.mo.gov.cz/aktuality/adventni-koncert-acr-pro-detsky-domov-pardubice\n
+ Přehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://kvv-pardubice.mo.gov.cz/aktuality/adventni-koncert-acr-pro-dets
+ ky-domov-pardubice
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Sukova síň\, Dům hudby\, Pardubice
+X-ACR-ORGANIZER:Krajské vojenské velitelství Pardubice
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-cdc5c3886ab3@mapa-acr-az.vercel.app
 DTSTAMP:20260925T000000Z
 LAST-MODIFIED:20260925T000000Z

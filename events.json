@@ -1910,6 +1910,23 @@
   "updated": "2026-11-05"
  },
  {
+  "id": "ev-371166c9cac3",
+  "title": "18. adventní koncert AČR pro Dětský domov Pardubice",
+  "type": "veřejná akce",
+  "start": "2026-12-03T17:30",
+  "end": null,
+  "all_day": false,
+  "location": "Sukova síň, Dům hudby, Pardubice",
+  "organizer": "Krajské vojenské velitelství Pardubice",
+  "description": "Předvánoční koncert Vojenské hudby Olomouc (klasika, muzikály, filmová hudba, koledy) s doprovodnými aktivitami POKOS pro děti; vstupné dobrovolné, výtěžek pro Dětský domov Pardubice.",
+  "source_url": "https://kvv-pardubice.mo.gov.cz/aktuality/adventni-koncert-acr-pro-detsky-domov-pardubice",
+  "channel": "https://kvv-pardubice.mo.gov.cz/naborkariera/aktivni-zaloha/201-prapor-uzemni-obrany",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
   "id": "ev-cdc5c3886ab3",
   "title": "Den otevřených dveří VSŠ a VOŠ MO (Moravská Třebová)",
   "type": "výběrové řízení/nábor",
