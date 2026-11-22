@@ -2171,6 +2171,24 @@ LOCATION:Vsetín
 X-ACR-ORGANIZER:Agentura personalistiky AČR (Do armády)
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-bd9c2a6d521d@mapa-acr-az.vercel.app
+DTSTAMP:20261122T000000Z
+LAST-MODIFIED:20261122T000000Z
+DTSTART;TZID=Europe/Prague:20261124T090000
+SUMMARY:Velitelské shromáždění náčelníka Generálního štábu AČR
+DESCRIPTION:Slavnostní zahájení za účasti prezidenta Petra Pavla\, min
+ istra obrany Jaromíra Zůny a NGŠ arm. gen. Miroslava Hlaváče. Pro mé
+ dia jen s akreditací (do 23. 11. 12:00).\nPořadatel: Generální štáb 
+ AČR\nZdroj: https://www.mo.gov.cz/scripts/modules/diary/action.php?id=840
+ 4\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8404
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Praha\, Ministerstvo obrany – Hlavní sál
+X-ACR-ORGANIZER:Generální štáb AČR
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-d68bfec3a854@mapa-acr-az.vercel.app
 DTSTAMP:20261105T000000Z
 LAST-MODIFIED:20261105T000000Z
@@ -2205,6 +2223,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 LOCATION:Sokolov
 X-ACR-ORGANIZER:Armáda ČR / Do armády
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-911ff1446306@mapa-acr-az.vercel.app
+DTSTAMP:20261122T000000Z
+LAST-MODIFIED:20261122T000000Z
+DTSTART;TZID=Europe/Prague:20261127T100000
+SUMMARY:Předání funkce velitele 53. pluku průzkumu a elektronického bo
+ je (Opava)
+DESCRIPTION:Slavnostní nástup jednotek\, plk. Ivan Mahr předá bojový p
+ rapor pluku svému nástupci. Pro média jen s akreditací (do 25. 11. 14:
+ 00).\nPořadatel: 53. pluk průzkumu a elektronického boje\nZdroj: https:
+ //www.mo.gov.cz/scripts/modules/diary/action.php?id=8405\nPřehled: https:
+ //mapa-acr-az.vercel.app/#cat-events
+URL:https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8405
+CATEGORIES:jiné
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Opava\, Jaselská kasárna
+X-ACR-ORGANIZER:53. pluk průzkumu a elektronického boje
 END:VEVENT
 BEGIN:VEVENT
 UID:ev-371166c9cac3@mapa-acr-az.vercel.app

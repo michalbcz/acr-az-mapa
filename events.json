@@ -1876,6 +1876,23 @@
   "updated": "2026-11-09"
  },
  {
+  "id": "ev-bd9c2a6d521d",
+  "title": "Velitelské shromáždění náčelníka Generálního štábu AČR",
+  "type": "jiné",
+  "start": "2026-11-24T09:00",
+  "end": null,
+  "all_day": false,
+  "location": "Praha, Ministerstvo obrany – Hlavní sál",
+  "organizer": "Generální štáb AČR",
+  "description": "Slavnostní zahájení za účasti prezidenta Petra Pavla, ministra obrany Jaromíra Zůny a NGŠ arm. gen. Miroslava Hlaváče. Pro média jen s akreditací (do 23. 11. 12:00).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8404",
+  "channel": "https://www.mo.gov.cz",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "ev-d68bfec3a854",
   "title": "Nábor: Olomouc – Scholaris",
   "type": "výběrové řízení/nábor",
@@ -1908,6 +1925,23 @@
   "date_precision": "day",
   "first_seen": "2026-11-05",
   "updated": "2026-11-05"
+ },
+ {
+  "id": "ev-911ff1446306",
+  "title": "Předání funkce velitele 53. pluku průzkumu a elektronického boje (Opava)",
+  "type": "jiné",
+  "start": "2026-11-27T10:00",
+  "end": null,
+  "all_day": false,
+  "location": "Opava, Jaselská kasárna",
+  "organizer": "53. pluk průzkumu a elektronického boje",
+  "description": "Slavnostní nástup jednotek, plk. Ivan Mahr předá bojový prapor pluku svému nástupci. Pro média jen s akreditací (do 25. 11. 14:00).",
+  "source_url": "https://www.mo.gov.cz/scripts/modules/diary/action.php?id=8405",
+  "channel": "https://www.mo.gov.cz",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-22",
+  "updated": "2026-11-22"
  },
  {
   "id": "ev-371166c9cac3",
