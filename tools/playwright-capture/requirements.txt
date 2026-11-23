@@ -1,0 +1,4 @@
+playwright>=1.49
+pillow>=10.0
+# dev / tests
+pytest>=8
