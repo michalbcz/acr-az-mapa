@@ -2522,6 +2522,29 @@ LOCATION:Brno\, Kasárna Šumavská
 X-ACR-ORGANIZER:Univerzita obrany
 END:VEVENT
 BEGIN:VEVENT
+UID:ev-ba817898eee4@mapa-acr-az.vercel.app
+DTSTAMP:20261126T000000Z
+LAST-MODIFIED:20261126T000000Z
+DTSTART;TZID=Europe/Prague:20270205T091500
+SUMMARY:Den otevřených dveří Vojenské chemie UO (Vyškov) – záložn
+ í termín
+DESCRIPTION:Třetí (záložní) termín DOD studijního programu Vojenská
+  chemie\; vstupy v 9:15 a 11:15\, nutný občanský průkaz. Nově uveden 
+ i v seznamu náborových akcí Do armády.\nPořadatel: Univerzita obrany 
+ – Ústav ochrany proti zbraním hromadného ničení\nZdroj: https://uno
+ b.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-otevrenych-dveri
+ -vojenske-chemie/\nPřehled: https://mapa-acr-az.vercel.app/#cat-events
+URL:https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-ot
+ evrenych-dveri-vojenske-chemie/
+CATEGORIES:veřejná akce
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+LOCATION:Vyškov\, Sídliště Víta Nejedlého (ÚOPZHN UO)\, vstup od hla
+ vního vchodu Víta Nejedlého 1
+X-ACR-ORGANIZER:Univerzita obrany – Ústav ochrany proti zbraním hromadn
+ ého ničení
+END:VEVENT
+BEGIN:VEVENT
 UID:ev-e3d5e0afafeb@mapa-acr-az.vercel.app
 DTSTAMP:20261006T000000Z
 LAST-MODIFIED:20261006T000000Z

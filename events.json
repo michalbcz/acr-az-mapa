@@ -2182,6 +2182,23 @@
   "updated": "2026-10-23"
  },
  {
+  "id": "ev-ba817898eee4",
+  "title": "Den otevřených dveří Vojenské chemie UO (Vyškov) – záložní termín",
+  "type": "veřejná akce",
+  "start": "2027-02-05T09:15",
+  "end": null,
+  "all_day": false,
+  "location": "Vyškov, Sídliště Víta Nejedlého (ÚOPZHN UO), vstup od hlavního vchodu Víta Nejedlého 1",
+  "organizer": "Univerzita obrany – Ústav ochrany proti zbraním hromadného ničení",
+  "description": "Třetí (záložní) termín DOD studijního programu Vojenská chemie; vstupy v 9:15 a 11:15, nutný občanský průkaz. Nově uveden i v seznamu náborových akcí Do armády.",
+  "source_url": "https://unob.cz/univerzita/co-muzu-studovat/dny-otevrenych-dveri/dny-otevrenych-dveri-vojenske-chemie/",
+  "channel": "https://doarmady.mo.gov.cz/deje-se/naborove-akce",
+  "confidence": "potvrzeno",
+  "date_precision": "day",
+  "first_seen": "2026-11-26",
+  "updated": "2026-11-26"
+ },
+ {
   "id": "ev-e3d5e0afafeb",
   "title": "Slavnostní vojenská přísaha absolventů KZP (Vyškov)",
   "type": "přijímač/základní příprava",
